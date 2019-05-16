@@ -1,6 +1,5 @@
 ## Tipos de documento do Brasil ##
-import os
-import sys
+import os, sys
 from config import messages
 
 ## Mensagem inicial ##
@@ -16,7 +15,7 @@ print()
 print('Qual País você deseja acessar?')
 opt = input('Digite a letra correspondente ao País: ')
 opt = opt.lower()
-while opt not in ('a', 'b'): # Loop até a seleção de algum País disponível
+while opt not in ('a', 'b', 'c'): # Loop até a seleção de algum País disponível
     print()
     print('\033[91mHmm... A opção digitada não existe')
     opt = input('\033[0mTente novamente: ')
@@ -41,7 +40,7 @@ while recomecar not in ('n', 's'):
 ## Reiniciar o processo ##
 if recomecar in ("s", "sim", "yes"):
     os.startfile(sys.argv[0])
-    sys.exit
+    sys.exit("Reiniciando processo, aguarde...")
 ## Encerrar o processo ##
 if recomecar in ("n", "nao", "não", "no"):
-    sys.exit
+    sys.exit("Encerrando...")
