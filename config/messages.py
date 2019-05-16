@@ -22,7 +22,7 @@ def limpar_tela():
 
 def mensageminicial():
     print()
-    print("\033[1;30;47m        Criador de IDOC v0.2.191 (beta)        ")
+    print("\033[1;30;47m        Criador de IDOC v0.3.0 (beta)        ")
     print()
     print('\33[1;37;40mEstá faltando alguma empresa ou tipo de documento?')
     print('\33[1;37;40mMe avise: adriano.valumin@sovos.com')
