@@ -1,7 +1,5 @@
 ## Mensagem de todas as telas ##
-import os
-import sys
-import shutil
+import os, sys, shutil
 
 def atencao():
     print('\033[91mAtenção: Todas as empresas devem estar configuradas como SAPKFQ! \033[0m')
@@ -17,7 +15,7 @@ def atencao():
     if continuar == "s":
         print()
     if continuar == "n":
-        sys.exit
+        sys.exit("Encerrando...")
 
 def limpar_tela():
     os.system('cls' if os.name == 'nt' else 'clear')
