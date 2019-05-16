@@ -90,6 +90,21 @@ def empresas_ury():
     print('\033[0m')
     print('Certo, e qual das empresas acima deseja utilizar no IDOC?')
 
+def empresas_mex():
+    print()
+    print('Lista de empresas cadastradas:')
+    print()
+    print('\033[1;30;47m A \033[0m - \033[4mSovos Mexico Inbound (CHEP)     - CME940118F7A\033[0m')
+    print('\033[1;30;47m B \033[0m - \033[4mWeWork - MX - QA                - ALA151026V8A\033[0m')
+    print('\033[1;30;47m C \033[0m - \033[4mWeWork - MX - QA                - AMA1602043C6\033[0m')
+    print('\033[1;30;47m D \033[0m - \033[4mWeWork - MX - QA                - VTS160204M62\033[0m')    
+    print('\033[1;30;47m E \033[0m - \033[4mINVOICEWARE - MX                - BTM060817960\033[0m')
+    print('\033[1;30;47m F \033[0m - \033[4mMexico CANCELLATION - CFDI      - LAN8507268IA\033[0m')
+    print('\033[1;30;47m G \033[0m - \033[4mMexico CANCELLATION - CFDI      - MAG041126GT8\033[0m')
+    print('\033[0m')
+    print('Certo, e qual das empresas acima deseja utilizar no IDOC?')
+
+
 def tryagain():
     print('Certo, vamos enviar o IDOC para a VM')
     vmdestino = input ('Digite para qual VM você deseja enviar o IDOC: ')

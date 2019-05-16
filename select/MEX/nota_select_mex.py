@@ -25,7 +25,7 @@ serie = '{message:{fill}{align}{width}}'.format(
 ## Input do folio ##
 folio = input('Digite o FOLIO do documento: ')
 folio = folio.upper()
-while len(folio) >= 16:
+while len(folio) >= 13:
     print()
     print ('\033[91mOops! O número do documento deve conter no maximo 15 dígitos!')
     folio = input('\033[0mDigite novamente o FOLIO do documento com o maximo de 15 DÍGITOS: ')
@@ -34,5 +34,5 @@ folio = '{message:{fill}{align}{width}}'.format(
    message = (folio) ,
    fill='0',
    align='>',
-   width=15,
+   width=12,
 )
