@@ -1,10 +1,12 @@
 ## Mensagem de todas as telas ##
-import os, sys, shutil
+import os
+import sys
+import shutil
 
 def atencao():
-    print('\033[91m Atenção: Todas as empresas devem estar configuradas como SAPKFQ!')
+    print('\033[91mAtenção: Todas as empresas devem estar configuradas como SAPKFQ! \033[0m')
     print()
-    print('\033[91m Caso contrário, o programa não irá funcionar!')
+    print('\033[91m Caso contrário, o programa não irá funcionar! \033[0m')
     print()
     print()
     continuar = input('\033[1m Digite S para continuar ou N para encerrar o programa:\033[0m ')
@@ -13,9 +15,10 @@ def atencao():
         print(' Não entendi sua resposta.')
         atencao()
     if continuar == "s":
-            print()
+        print()
     if continuar == "n":
         sys.exit
+
 def limpar_tela():
     os.system('cls' if os.name == 'nt' else 'clear')
 
@@ -32,9 +35,9 @@ def mensageminicial():
 def paises_disponiveis():
     print('\033[1mPaíses Disponíveis para criação de IDOC\033[0m')
     print()
-    print('\033[1;30;47m A \033[0m - \033[4mA -  Brasil     \033[0m')
-    print('\033[1;30;47m B \033[0m - \033[4mA -  México     \033[0m')
-    print('\033[1;30;47m C \033[0m - \033[4mB -  Uruguay    \033[0m')
+    print('\033[1;30;47m A \033[0m - \033[4mBrasil     \033[0m')
+    print('\033[1;30;47m B \033[0m - \033[4mMéxico     \033[0m')
+    print('\033[1;30;47m C \033[0m - \033[4mUruguay    \033[0m')
 
 def empresas_nfse():
     print()

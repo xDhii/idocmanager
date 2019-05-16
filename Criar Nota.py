@@ -1,5 +1,6 @@
 ## Tipos de documento do Brasil ##
-import os, sys
+import os
+import sys
 from config import messages
 
 ## Mensagem inicial ##
