@@ -1,8 +1,7 @@
 # idocmanager
 
 Esta é uma ferramenta para geração de envio do IDOC automaticamente.
-#
-Para rodar sem problemas, você deve ter algumas extensões/plugins do python instalados.
-#
-#
-#
+
+Caso queira me ajudar com o código ou tenha sugestões, me mande um email.
+
+adriano.valumin@sovos.com
