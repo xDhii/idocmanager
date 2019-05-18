@@ -19,11 +19,14 @@ while opt not in ('a', 'b', 'c'): # Loop até a seleção de algum País dispon�
     print()
     print('\033[91mHmm... A opção digitada não existe')
     opt = input('\033[0mTente novamente: ')
+
 if opt == "a":
-    from country import Brasil
+    from country import Argentina
 if opt == "b":
-    from country import Mexico
+    from country import Brasil
 if opt == "c":
+    from country import Mexico
+if opt == "d":
     from country import Uruguay
 
 sys.path.insert(0, './process')

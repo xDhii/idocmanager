@@ -7,6 +7,9 @@ horacomex = time.hour - 5
 horas = time.hour
 minutos = time.minute
 segundos = time.second
+ano = date.year
+mes = date.month
+dia = date.day
 
 horacomex = '{message:{fill}{align}{width}}'.format(
    message = (horacomex) ,
@@ -33,6 +36,8 @@ segundos = '{message:{fill}{align}{width}}'.format(
    width=2,
 )
 
+datacompleta = str(ano)+str(mes)+str(dia)
+datacompletaseparada = str(ano)+'-'+str(mes)+'-'+str(day)
 horacompleta = str(horas)+':'+str(minutos)+':'+str(segundos)
 horacompletacomex = str(horacomex)+':'+str(minutos)+':'+str(segundos)
 # print (str(horacompleta))
