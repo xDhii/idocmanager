@@ -1,8 +1,12 @@
 ## URY - 101 Ticket ##
+## Navegar ate a pasta de selecao da data e importar o arquivo ##
 import os, sys
+sys.path.insert(0, './config')
+import datareal
 sys.path.insert(0, './select')
-from URY import empresas_ury, nota_select_ury
 import data_select
+## Navegar ate a pasta de selecao e importar os arquivos ##
+from URY import empresas_ury, nota_select_ury
 
 f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
 print('EDI_DC40  1000000000165350544731 3012  /KFBCLA/DTE                                                 /KFBCLA/DTE                                UY    SAPKFQ    LS  SR1CLNT100                                                                                           KFBCTF0001LS  TFCLIENT                                                                                             '+ str(data_select.ano) + str(data_select.mes) + str(data_select.dia) +'061158                                                                                                                '+ str(data_select.ano) + str(data_select.mes) + str(data_select.dia) +'061158      ', file=f)

@@ -3,9 +3,10 @@ import os, sys
 sys.path.insert(0, './config')
 import datareal
 sys.path.insert(0, './select')
-import data_select, datetime
+import data_select
 ## Navegar ate a pasta de selecao e importar os arquivos ##
 from MEX import empresas_mex, nota_select_mex
+
 f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
 print('EDI_DC40  1000000000440338388740 3012  ZKFBC_MX_INVOICE                                            ZKFBC_MX_OUT                                     SAPKFQ    LS  CT1CLNT100                                                                                           KFBCTF001 LS  TFCLIENT                                                                                             '+ str(data_select.ano) + str(data_select.mes) + str(data_select.dia) +'134629                                                                                                                '+ str(data_select.ano) + str(data_select.mes) + str(data_select.dia) +'122553      ', file=f)
 print('ZKFBC_MEX_HEADER000           100000000044033838800000100000001'+ str(nota_select_mex.folio) + str(data_select.ano) +'-'+ str(data_select.mes) +'-'+ str(data_select.dia) +'T'+ str(datareal.horacompletacomex) +'99                                                              30 DÍAS FECHA FACTURA                                           1641365.34       5533.17                           MXN1897565.32       I       PPD                                                             SDMX000200042373                                                                                                                            03940                                                                                                                                                                                                                                                                                                           3.3  FAC                                                                                                                                                                                                                                                      ', file=f)

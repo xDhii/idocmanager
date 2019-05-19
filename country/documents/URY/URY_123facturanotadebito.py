@@ -1,7 +1,11 @@
 ## URY - 123 Factura Nota Debito ##
+## Navegar ate a pasta de selecao da data e importar o arquivo ##
 import os, sys
+sys.path.insert(0, './config')
+import datareal
 sys.path.insert(0, './select')
-from URY import empresas_ury, nota_select_ury
+import data_select
+## Navegar ate a pasta de selecao e importar os arquivos ##
 import data_select
 
 f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')

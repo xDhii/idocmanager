@@ -1,8 +1,12 @@
 ## URY - 211 ErrorCE ##
+## Navegar ate a pasta de selecao da data e importar o arquivo ##
 import os, sys
+sys.path.insert(0, './config')
+import datareal
 sys.path.insert(0, './select')
-from URY import empresas_ury, nota_select_ury
 import data_select
+## Navegar ate a pasta de selecao e importar os arquivos ##
+from URY import empresas_ury, nota_select_ury
 
 f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
 print('EDI_DC40  2000000000166965789750 3012  /KFBCLA/DTE                                                 /KFBCLA/DTE                                UY    SAPKFQ    LS  EP1CLNT200                                                                                           KFCBTF0001LS  TFCLIENT                                                                                             '+ str(data_select.ano) + str(data_select.mes) + str(data_select.dia) +'121146                                                                                                                '+ str(data_select.ano) + str(data_select.mes) + str(data_select.dia) +'121146      ', file=f)

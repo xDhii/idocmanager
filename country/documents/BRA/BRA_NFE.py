@@ -1,7 +1,8 @@
 ## BRA - NFe ##
-
 ## Navegar ate a pasta de selecao da data e importar o arquivo ##
 import os, sys
+sys.path.insert(0, './config')
+import datareal
 sys.path.insert(0, './select')
 import data_select
 ## Navegar ate a pasta de selecao e importar os arquivos ##

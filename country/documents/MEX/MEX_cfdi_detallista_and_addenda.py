@@ -1,12 +1,12 @@
-﻿
-## Navegar ate a pasta de selecao da data e importar o arquivo ##
+﻿## Navegar ate a pasta de selecao da data e importar o arquivo ##
 import os, sys
-# sys.path.insert(0, './config')
-from ..config import datareal
+sys.path.insert(0, './config')
+import datareal
 sys.path.insert(0, './select')
-import data_select, datetime
+import data_select
 ## Navegar ate a pasta de selecao e importar os arquivos ##
 from MEX import empresas_mex, nota_select_mex
+
 f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
 print('EDI_DC40  1150000000026510374731 3012  ZKFBC_MX_INVOICE                                            ZKFBC_MX_OUT                                     SAPKFQ    LS  ZECS115                                                                                              ZKFBC00001LS  TFCLIENT                                                                                             '+ str(data_select.ano) + str(data_select.mes) + str(data_select.dia) +'184127                                                                                                                '+ str(data_select.ano) + str(data_select.mes) + str(data_select.dia) +'184127      ', file=f)
 print('ZKFBC_MEX_HEADER000           115000000002651037400000100000001'+ str(nota_select_mex.folio) + str(data_select.ano) +'-'+ str(data_select.mes) +'-'+ str(data_select.dia) +'T'+ str(datareal.horacompletacomex) +'03                                                              Net 15 Days                                                     50000.00                                           MXN50000.00         I       PUE                                                             SD35003905005033                                                                                                                            44630                                                                                                                   0000                                                                                                                                                                                    3.3                                                                                                                                                                                                                                                           ', file=f)

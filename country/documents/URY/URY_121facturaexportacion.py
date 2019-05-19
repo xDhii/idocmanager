@@ -1,8 +1,12 @@
 ## URY - 121 Factura Exportacion ##
+## Navegar ate a pasta de selecao da data e importar o arquivo ##
 import os, sys
+sys.path.insert(0, './config')
+import datareal
 sys.path.insert(0, './select')
-from URY import empresas_ury, nota_select_ury
 import data_select
+## Navegar ate a pasta de selecao e importar os arquivos ##
+from URY import empresas_ury, nota_select_ury
 
 f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
 print('EDI_DC40  0100000000020027431702 3012  /KFBCLA/DTE                                                 /KFBCLA/DTE                                UY    SAPKFQ    LS  P48_010                                                                                              KFBCTF0001LS  TFCLIENT                                                                                             20190227062929                                                                                                                20190227062928      ', file=f)

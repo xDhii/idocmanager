@@ -1,8 +1,12 @@
 ## URY - 122 Factura Nota Credito ##
+## Navegar ate a pasta de selecao da data e importar o arquivo ##
 import os, sys
+sys.path.insert(0, './config')
+import datareal
 sys.path.insert(0, './select')
-from URY import empresas_ury, nota_select_ury
 import data_select
+## Navegar ate a pasta de selecao e importar os arquivos ##
+from URY import empresas_ury, nota_select_ury
 
 f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
 print('EDI_DC40  0100000000017379139702 3012  /KFBCLA/DTE                                                 /KFBCLA/DTE                                UY    SAPKFQ    LS  C48_010                                                                                              KFBCTF0001LS  TFCLIENT                                                                                             20190227064330                                                                                                                '+ str(data_select.ano) + str(data_select.mes) + str(data_select.dia) +'064119      ', file=f)
