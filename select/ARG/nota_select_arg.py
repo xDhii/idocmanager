@@ -7,25 +7,10 @@ import messages
 messages.limpar_tela()
 messages.mensageminicial()
 
-## Input da série do documento ##
-# serie = input('Digite a SÉRIE do documento: ')
-# serie = serie.upper()
-# while len(serie) >= 4:
-#     print()
-#     print ('\033[91mOpa! a Série do documento deve ter no maximo 3 dígitos!')
-#     serie = input('\033[0mDigite novamente a SÉRIE do documento com o maximo de 3 DÍGITOS: ')
-#     print()
-# serie = '{message:{fill}{align}{width}}'.format(
-#    message = (serie) ,
-#    fill=' ',
-#    align='<',
-#    width=3,
-# )
-
 ## Input do folio ##
 folio = input('Digite o FOLIO do documento: ')
 folio = folio.upper()
-while len(folio) >= 13:
+while len(folio) >= 16:
     print()
     print ('\033[91mOops! O número do documento deve conter no maximo 15 dígitos!')
     folio = input('\033[0mDigite novamente o FOLIO do documento com o maximo de 15 DÍGITOS: ')
@@ -34,5 +19,5 @@ folio = '{message:{fill}{align}{width}}'.format(
    message = (folio) ,
    fill='0',
    align='>',
-   width=12,
+   width=15,
 )
