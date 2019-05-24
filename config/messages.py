@@ -33,9 +33,10 @@ def mensageminicial():
 def paises_disponiveis():
     print('\033[1mPaíses Disponíveis para criação de IDOC\033[0m')
     print()
-    print('\033[1;30;47m A \033[0m - \033[4mBrasil     \033[0m')
-    print('\033[1;30;47m B \033[0m - \033[4mMéxico     \033[0m')
-    print('\033[1;30;47m C \033[0m - \033[4mUruguay    \033[0m')
+    print('\033[1;30;47m A \033[0m - \033[4mBrasil      \033[0m')
+    print('\033[1;30;47m B \033[0m - \033[4mMéxico      \033[0m')
+    print('\033[1;30;47m C \033[0m - \033[4mUruguay     \033[0m')
+    print('\033[1;30;47m D \033[0m - \033[4mArgentina   \033[0m')
 
 def empresas_nfse():
     print()
