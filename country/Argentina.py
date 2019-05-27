@@ -11,8 +11,12 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/
 ## Opçoes de documentos disponiveis ##
 print('Documentos disponíveis: ')
 print()
-print('\033[1;30;47m A \033[0m - \033[4mBRA - NFe   \033[0m')
-print('\033[1;30;47m B \033[0m - \033[4mBRA - NFSe  \033[0m')
+print('\033[1;30;47m A \033[0m - \033[4mARG - Exportation Invoice (With CUIT Destino)\033[0m')
+print('\033[1;30;47m B \033[0m - \033[4mARG - Exportation Invoice (Without CUIT Destino)\033[0m')
+print('\033[1;30;47m C \033[0m - \033[4mARG - Local Invoice MTX CAEA\033[0m')
+print('\033[1;30;47m D \033[0m - \033[4mARG - Local Invoice MTX\033[0m')
+print('\033[1;30;47m E \033[0m - \033[4mAARG - Local Invoice MTX CAE & CAEA\033[0m')
+print('\033[1;30;47m F \033[0m - \033[4mARG - Local Invoice\033[0m')
 
 print()
 print('Entendido. Qual tipo de documento você deseja criar?')
@@ -24,6 +28,14 @@ while opt not in ('a', 'b'):
     opt = opt.lower()
 
 if opt == "a":
-    import BRA_NFE
+    import ARG_Exportation_Invoice_WithCUITDestino
 if opt == "b":
-    import BRA_NFSE
+    import ARG_Exportation_Invoice_WithoutCUITDestino
+if opt == "c":
+    import ARG_Local_Invoice_MTX_CAEA
+if opt == "d":
+    import ARG_Local_Invoice_MTX
+if opt == "e":
+    import ARG_Local_Invoice_MTXCAECAEA
+if opt == "f":
+    import ARG_Local_Invoice

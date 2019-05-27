@@ -126,7 +126,7 @@ if opt == "o":
 
 ## Checar se a empresa é de SP ##
 ## Caso não seja, tirar a Inscrição municipal do IDOC ##
-if xuf != "SP"
+if xuf != "SP":
     insc_xmun = "   "
 
 ## Ajustar o tamanho da tag xnome para 115 caracteres ##

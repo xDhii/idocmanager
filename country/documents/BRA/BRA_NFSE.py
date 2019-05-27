@@ -6,7 +6,7 @@ import datareal
 sys.path.insert(0, './select')
 import data_select
 ## Navegar ate a pasta de selecao e importar os arquivos ##
-from BRA import empresas_nfe, nota_select_nfe
+from BRA import empresas_nfse, nota_select_nfse
 
 f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
 print('EDI_DC40  6000000000018161852731 3012  ZKFBC_NFSE_COMPNFSE                                         ZKFBC_NFSE                                       SAPKFQ    LS  P60600                                                                                               KFCBTF0002LS  TRUSTFILES                                                                                           '+ str(data_select.ano) + str(data_select.mes) + str(data_select.dia) +'103754                                                                                                                '+ str(data_select.ano) + str(data_select.mes) + str(data_select.dia) +'103754      ', file=f)
