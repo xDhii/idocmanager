@@ -19,6 +19,9 @@ while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g'):
     opt = opt.lower()    
 if opt == "a":
     xnome = "Sovos Mexico Inbound (CHEP)"
+<<<<<<< HEAD
+    rfc = "CME940118F7A"
+=======
     cuit = "CME940118F7A"
 if opt == "b":
     xnome = "WeWork - MX - QA"
@@ -39,6 +42,7 @@ if opt == "g":
     xnome = "Mexico CANCELLATION - CFDI"
     cuit = "MAG041126GT8"
 
+>>>>>>> 86aef1b628941cc5a1849c35dd1d6944335218d5
 
 ## Ajustar o tamanho da tag xnome para 255 caracteres ##
 xnome = '{message:{fill}{align}{width}}'.format(
