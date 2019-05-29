@@ -3,6 +3,7 @@ import os, sys
 from config import messages
 
 ## Mensagem inicial ##
+messages.limpar_tela()
 messages.atencao()
 messages.limpar_tela()
 messages.mensageminicial()
@@ -46,4 +47,4 @@ if recomecar in ("s", "sim", "yes"):
     sys.exit("Reiniciando processo, aguarde...")
 ## Encerrar o processo ##
 if recomecar in ("n", "nao", "não", "no"):
-    sys.exit("Encerrando...")
+    sys.exit()
