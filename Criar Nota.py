@@ -46,3 +46,4 @@ if recomecar in ("s", "sim", "yes"):
 ## Encerrar o processo ##
 if recomecar in ("n", "nao", "não", "no"):
     sys.exit()
+    
