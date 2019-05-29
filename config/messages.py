@@ -1,28 +1,29 @@
 ## Mensagem de todas as telas ##
 import os, sys, shutil
 
-def atencao():
-    print('\033[91mAtenção: Todas as empresas devem estar configuradas como SAPKFQ! \033[0m')
-    print()
-    print('\033[91m Caso contrário, o programa não irá funcionar! \033[0m')
-    print()
-    print()
-    continuar = input('\033[1m Digite S para continuar ou N para encerrar o programa:\033[0m ')
-    continuar = continuar.lower()
-    while continuar not in ('s', 'n'):
-        print(' Não entendi sua resposta.')
-        atencao()
-    if continuar == "s":
-        print()
-    if continuar == "n":
-        sys.exit("Encerrando...")
+# def atencao():
+#     print('\033[91mAtenção: Todas as empresas devem estar configuradas como SAPKFQ! \033[0m')
+#     print()
+#     print('\033[91m Caso contrário, o programa não irá funcionar! \033[0m')
+#     print()
+#     print()
+#     continuar = input('\033[1m Digite S para continuar ou N para encerrar o programa:\033[0m ')
+#     continuar = continuar.lower()
+#     while continuar not in ('s', 'n'):
+#         print(' Não entendi sua resposta.')
+#         atencao()
+#     if continuar == "s":
+#         print()
+#     if continuar == "n":
+#         sys.exit("Encerrando...")
 
 def limpar_tela():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def mensageminicial():
+    print('\033[91mAtenção: Todas as empresas devem estar configuradas como SAPKFQ! \033[0m')
     print()
-    print("\033[1;30;47m        Criador de IDOC v0.3.10 (beta)        ")
+    print("\033[1;30;47m        Criador de IDOC v0.3.25 (beta)        ")
     print()
     print('\33[1;37;40mEstá faltando alguma empresa ou tipo de documento?')
     print('\33[1;37;40mMe avise: adriano.valumin@sovos.com')

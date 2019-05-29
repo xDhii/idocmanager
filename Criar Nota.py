@@ -4,8 +4,6 @@ from config import messages
 
 ## Mensagem inicial ##
 messages.limpar_tela()
-messages.atencao()
-messages.limpar_tela()
 messages.mensageminicial()
 
 ##  Opções de países disponíveis
