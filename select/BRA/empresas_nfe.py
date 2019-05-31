@@ -13,7 +13,7 @@ messages.empresas_nfe()
 ## Input e seleção de empresa ##
 opt = input('Digite a letra correspondente a empresa: ')
 opt = opt.lower()
-while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o'):
+while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n'):
     print('\033[91mHmm... Não entendi sua resposta')
     opt = input('\033[0mDigite novamente a letra correspondente a empresa: ')
     opt = opt.lower() 
@@ -23,58 +23,54 @@ if opt == "a":
     cnpj = "24492961000129"
     xuf = "35"
 if opt == "b":
-    xnome = "Invoiceware SP"
-    cnpj = "24493109000176"
-    xuf = "35"
-if opt == "c":
-    xnome = "Invoiceware RS"
+    xnome = "Axalta Coating Systems RS"
     cnpj = "15373395001036"
     xuf = "43"
-if opt == "d":
-    xnome = "Invoiceware SP"
+if opt == "c":
+    xnome = "Paperless SP"
     cnpj = "10726059000115"
     xuf = "35"
-if opt == "e":
+if opt == "d":
     xnome = "Brow Forman SC"
     cnpj = "00305765000210"
     xuf = "42"
-if opt == "f":
-    xnome = "Philips MG"
+if opt == "e":
+    xnome = "Signify Iluminação MG"
     cnpj = "22555787000352"
     xuf = "31"
-if opt == "g":
+if opt == "f":
     xnome = "Infoglobo RJ"
     cnpj = "04067191000755"
     xuf = "33"
-if opt == "h":
+if opt == "g":
     xnome = "EMS GERMED SP"
     cnpj = "57507378000365"
     xuf = "35"
-if opt == "i":
+if opt == "h":
     xnome = "Edwards BR NFM SP"
     cnpj = "05944604000533"
     xuf = "35"
-if opt == "j":
+if opt == "i":
     xnome = "Orica BR PA"
     cnpj = "31056708001917"
     xuf = "15"
-if opt == "k":
+if opt == "j":
     xnome = "Comp. de Dist. MS"
     cnpj = "11517841003455"
     xuf = "50"
-if opt == "l":
+if opt == "k":
     xnome = "Philips Medical SP"
     cnpj = "58295213000178"
     xuf = "35"
-if opt == "m":
+if opt == "l":
     xnome = "Philips Medical MG"
     cnpj = "58295213002111"
     xuf = "31"
-if opt == "n":
+if opt == "m":
     xnome = "Biomerieux RJ"
     cnpj = "33040635000171"
     xuf = "33"
-if opt == "o":
+if opt == "n":
     xnome = "Sabo Autopeças SP"
     cnpj = "60860681001323"
     xuf = "35"

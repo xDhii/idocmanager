@@ -35,9 +35,9 @@ if opt == "b":
 if opt == "c":
     cnpj = "31452113002871"
     inscxmun = "18981"
-    xnome = "Clariant S.A Suzano SP"
-    xuf = "SP"
-    cuf = "35"
+    xnome = "Clariant S.A Suzano rj"
+    xuf = "RJ"
+    cuf = "33"
     xcep = "28890001"
 if opt == "d":
     cnpj = "46323754000183"
