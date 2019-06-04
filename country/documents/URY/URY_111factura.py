@@ -6,7 +6,7 @@ import datareal
 sys.path.insert(0, './select')
 import data_select
 ## Navegar ate a pasta de selecao e importar os arquivos ##
-sfrom URY import empresas_ury, nota_select_ury
+from URY import empresas_ury, nota_select_ury
 
 f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
 print('EDI_DC40  1000000000165357643731 3012  /KFBCLA/DTE                                                 /KFBCLA/DTE                                UY    SAPKFQ    LS  SR1CLNT100                                                                                           KFBCTF0001LS  TFCLIENT                                                                                             '+ str(data_select.ano) + str(data_select.mes) + str(data_select.dia) +'104719                                                                                                                '+ str(data_select.ano) + str(data_select.mes) + str(data_select.dia) +'104718      ', file=f)

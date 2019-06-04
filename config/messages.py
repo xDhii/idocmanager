@@ -129,6 +129,7 @@ def tryagain():
         limpar_tela()
         mensageminicial()
         print('\033[91mOpa! Não foi possível enviar o IDOC para a VM selecionada.')
+        print('\033[91mVocê digitou o número da VM correta?')
         print('\033[0m')
         tentarnovamente = input('Deseja tentar novamente? Digite S ou N: ')
         tentarnovamente = tentarnovamente.lower()
