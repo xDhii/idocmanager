@@ -28,15 +28,14 @@ if opt == "c":
 if opt == "d":
     from country import Argentina
 
-sys.path.insert(0, './process')
-import sendtovm
+from process import sendtovm
 
 ## Opção de reiniciar o processo
 recomecar = input('Deseja criar um novo documento? Digite S ou N: ')
 recomecar = recomecar.lower()
 while recomecar not in ('n', 's'):
     print()
-    print('\033[91m Hmm... Não entendi')
+    print('\033[91m Hmm... Não entendi \033[0m')
     recomecar = input('Deseja criar um novo documento? Digite S ou N: ')
     recomecar = recomecar.lower()
 ## Reiniciar o processo ##
@@ -46,4 +45,3 @@ if recomecar in ("s", "sim", "yes"):
 ## Encerrar o processo ##
 if recomecar in ("n", "nao", "não", "no"):
     sys.exit()
-    
