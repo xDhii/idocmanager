@@ -1,10 +1,7 @@
 ## Script para enviar documento para a VM ## -
 import shutil, sys, os
-
-## Encontrar a pasta inicial ##
 import os, sys
-sys.path.insert(0, './config')
-import messages
+from ..config import messages
 
 ## Mensagem inicial ##
 messages.limpar_tela()
@@ -15,7 +12,7 @@ print('Tudo certo ate aqui.')
 enviaridoc = input('Digite S para enviar ou N para encerrar o processo e salvar o IDOC na pasta: ')
 enviaridoc = enviaridoc.lower()
 while enviaridoc not in ('n', 's'):
-    print('\033[91mHmm... Não entendi sua resposta')
+    print('\033[91mHmm... Não entendi sua resposta \033[0m')
     enviaridoc = input('\033[0mVamos tentar novamente. Digite S ou N: ')
     enviaridoc = enviaridoc.lower()
 

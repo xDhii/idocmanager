@@ -1,22 +1,6 @@
 ## Mensagem de todas as telas ##
 import os, sys, shutil
 
-# def atencao():
-#     print('\033[91mAtenção: Todas as empresas devem estar configuradas como SAPKFQ! \033[0m')
-#     print()
-#     print('\033[91m Caso contrário, o programa não irá funcionar! \033[0m')
-#     print()
-#     print()
-#     continuar = input('\033[1m Digite S para continuar ou N para encerrar o programa:\033[0m ')
-#     continuar = continuar.lower()
-#     while continuar not in ('s', 'n'):
-#         print(' Não entendi sua resposta.')
-#         atencao()
-#     if continuar == "s":
-#         print()
-#     if continuar == "n":
-#         sys.exit("Encerrando...")
-
 def limpar_tela():
     os.system('cls' if os.name == 'nt' else 'clear')
 
@@ -26,8 +10,7 @@ def mensageminicial():
     print("\033[1;30;47m        Criador de IDOC v0.3.25 (beta)        ")
     print()
     print('\33[1;37;40mEstá faltando alguma empresa ou tipo de documento?')
-    print('\33[1;37;40mMe avise: adriano.valumin@sovos.com')
-    print('\033[0m')
+    print('\33[1;37;40mMe avise: adriano.valumin@sovos.com \033[0m')
     print()
     print()
 
@@ -58,7 +41,7 @@ def empresas_nfse():
     print('\033[1;30;47m M \033[0m - \033[4mLanxess         PE - CNPJ:29667227001068  I.M:2602902  \033[0m')
     print('\033[1;30;47m N \033[0m - \033[4mLanxess         RS - CNPJ:29667227001220  I.M:4322004  \033[0m')
     print('\033[1;30;47m O \033[0m - \033[4mCodesp          SP - CNPJ:44837524000107  I.M:575315   \033[0m')
-    print('\033[0m')
+    print()
     print('Certo, e qual das empresas acima deseja utilizar no IDOC?')
 
 def empresas_nfe():
@@ -79,7 +62,7 @@ def empresas_nfe():
     print('\033[1;30;47m L \033[0m - \033[4mPhilips Medical         MG  - 58295213002111\033[0m')
     print('\033[1;30;47m M \033[0m - \033[4mBiomerieux              RJ  - 33040635000171\033[0m')
     print('\033[1;30;47m N \033[0m - \033[4mSabo Autopeças          SP  - 60860681001323\033[0m')
-    print('\033[0m')
+    print()
     print('Certo, e qual das empresas acima deseja utilizar no IDOC?')
 
 def empresas_ury():
@@ -89,7 +72,7 @@ def empresas_ury():
     print('\033[1;30;47m A \033[0m - \033[4mSovos Uruguay (McCain)      - 080003530017\033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mDSM                         - 214580250019\033[0m')
     print('\033[1;30;47m C \033[0m - \033[4mSovos Uruguay (SC Johnson)  - 213408960013\033[0m')
-    print('\033[0m')
+    print()
     print('Certo, e qual das empresas acima deseja utilizar no IDOC?')
 
 def empresas_mex():
@@ -103,7 +86,7 @@ def empresas_mex():
     print('\033[1;30;47m E \033[0m - \033[4mINVOICEWARE - MX                - BTM060817960\033[0m')
     print('\033[1;30;47m F \033[0m - \033[4mMexico CANCELLATION - CFDI      - LAN8507268IA\033[0m')
     print('\033[1;30;47m G \033[0m - \033[4mMexico CANCELLATION - CFDI      - MAG041126GT8\033[0m')
-    print('\033[0m')
+    print()
     print('Certo, e qual das empresas acima deseja utilizar no IDOC?')
 
 
@@ -111,26 +94,26 @@ def tryagain():
     print('Certo, vamos enviar o IDOC para a VM')
     vmdestino = input ('Digite para qual VM você deseja enviar o IDOC: ')
     while len(vmdestino) != 2:
-        print ('\033[91mOpa! Você deve inserir 2 dígitos!')
-        vmdestino = input('\033[0mDigite novamente o número da VM: ')
+        print ('\033[91mOpa! Você deve inserir 2 dígitos! \033[0m')
+        vmdestino = input('Digite novamente o número da VM: ')
     print('\033[93mTentando enviar o IDOC para INVQASRV'+ str(vmdestino))
     print('\033[0m')
     print()
     try:
-        print('\033[93mEste processo pode levar até 30 segundos...')
-        print('\033[0m')        
+        print('\033[93mEste processo pode levar até 30 segundos... \033[0m')
+        print()        
         shutil.move('idoc/outbound.idoc', '//invqasrv'+ str(vmdestino) +'.corp.sovos.local/c$/TF/Queues/IDOCReceiver')  
         limpar_tela()
         mensageminicial()
-        print('\033[92mTudo certo! IDOC Enviado!')
-        print('Acompanhe o processamento do documento no portal.')
-        print('\033[0m')
+        print('\033[92m Tudo certo! IDOC Enviado! \033[0m')
+        print('\033[92m Acompanhe o processamento do documento no portal. \033[0m')
+        print()
     except (shutil.Error, OSError, IOError):
         limpar_tela()
         mensageminicial()
-        print('\033[91mOpa! Não foi possível enviar o IDOC para a VM selecionada.')
-        print('\033[91mVocê digitou o número da VM correta?')
-        print('\033[0m')
+        print('\033[91m Opa! Não foi possível enviar o IDOC para a VM selecionada. \033[0m')
+        print('\033[91m Você digitou o número da VM correta? \033[0m')
+        print()
         tentarnovamente = input('Deseja tentar novamente? Digite S ou N: ')
         tentarnovamente = tentarnovamente.lower()
         while tentarnovamente not in ('n', 's'):
@@ -143,11 +126,11 @@ def tryagain():
                 shutil.move('idoc/outbound.idoc', '//invqasrv'+ str(vmdestino) +'.corp.sovos.local/c$/TF/Queues/IDOCReceiver')
                 limpar_tela()
                 mensageminicial()
-                print('\033[92mTudo certo! IDOC Enviado!')
-                print('Acompanhe o processamento do documento no portal.')
-                print('\033[0m')
+                print('\033[92m Tudo certo! IDOC Enviado! \033[0m')
+                print('\033[92m Acompanhe o processamento do documento no portal. \033[0m')
+                print()
             except (shutil.Error, OSError, IOError):
                 tryagain()
         if tentarnovamente in ("n", "nao", "não", "no", "not"):
             print()
-            print('\033[92mOk! O documento gerado está dentro da pasta IDOC ;)')
+            print('\033[92mOk! O documento gerado está dentro da pasta IDOC ;) \033[0m')

@@ -3,13 +3,13 @@ date_time = datetime.datetime.now()
 
 date = date_time.date()  # Retorna a data
 time = date_time.time()  # Retorna a hora
-horacomex = time.hour - 5
-horas = time.hour
-minutos = time.minute
-segundos = time.second
-ano = date.year
-mes = date.month
-dia = date.day
+horacomex = time.hour - 5# Retorna a horas atrasada
+horas = time.hour        # Retorna a hora
+minutos = time.minute    # Retorna os minutos
+segundos = time.second   # Retorna os segundos
+ano = date.year          # Retorna o ano
+mes = date.month         # Retorna o mes
+dia = date.day           # Retorna o dia
 
 horacomex = '{message:{fill}{align}{width}}'.format(
    message = (horacomex) ,
