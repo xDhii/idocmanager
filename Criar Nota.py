@@ -36,8 +36,8 @@ recomecar = input('Deseja criar um novo documento? Digite S ou N: ')
 recomecar = recomecar.lower()
 while recomecar not in ('n', 's'):
     print()
-    print('\033[91mHmm... Não entendi')
-    recomecar = input('\033[0mDeseja criar um novo documento? Digite S ou N: ')
+    print('\033[91m Hmm... Não entendi')
+    recomecar = input('Deseja criar um novo documento? Digite S ou N: ')
     recomecar = recomecar.lower()
 ## Reiniciar o processo ##
 if recomecar in ("s", "sim", "yes"):
