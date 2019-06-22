@@ -1,8 +1,8 @@
 ## Tipos de documento do Brasil ##
 import os, sys
+sys.path.append('../idocmanager')
 from subprocess import Popen
-from config import criar_pasta
-from config import messages
+from config import criar_pasta, messages
 
 ## Mensagem inicial ##
 messages.limpar_tela()
@@ -45,14 +45,14 @@ if recomecar in ("s", "sim", "yes"):
     ## Reiniciar processo no Windows ##
     if os.name == 'nt':
         os.startfile(sys.argv[0])
-    ## Reiniciar processo no Linux ##    
+    ## Reiniciar processo no Linux ##
     if os.name == 'posix':
         filename = sys.argv[0]
         print("Reiniciando ")
         p = Popen("python " + filename, shell=True)
         p.wait()
     if os.name == 'java':
-        print('Foi mal, ainda nao implementei para sistemas Java')    
+        print('Foi mal, ainda nao implementei para sistemas Java')
     sys.exit("Reiniciando processo, aguarde...")
 ## Encerrar o processo ##
 if recomecar in ("n", "nao", "não", "no"):
