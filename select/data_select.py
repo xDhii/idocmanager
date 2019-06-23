@@ -48,7 +48,8 @@ messages.mensageminicial()
 # if datamanual == 'n':
 ano = str(datareal.ano)
 mes = str(datareal.mes)
-dia = str(datareal.dia)    
+dia = str(datareal.dia)
+
 
 ## Ajuste de caracteres para 2 ##
 mes = '{message:{fill}{align}{width}}'.format(
