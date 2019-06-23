@@ -2,8 +2,6 @@
 import os, sys
 sys.path.insert(0, './config')
 import datareal
-sys.path.insert(0, './select')
-import data_select
 ## Navegar ate a pasta de selecao e importar os arquivos ##
 from MEX import empresas_mex, nota_select_mex
 

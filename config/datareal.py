@@ -38,6 +38,7 @@ segundos = '{message:{fill}{align}{width}}'.format(
 
 datacompleta = str(ano)+str(mes)+str(dia)
 datacompletaseparada = str(ano)+'-'+str(mes)+'-'+str(dia)
+datacompletabarra = str(ano)+'/'+str(mes)+'/'+str(dia)
 horacompleta = str(horas)+':'+str(minutos)+':'+str(segundos)
 horacompletacomex = str(horacomex)+':'+str(minutos)+':'+str(segundos)
 # print (str(horacompleta))
