@@ -19,10 +19,9 @@ print('Entendido. Qual tipo de documento você deseja criar?')
 opt = input('Digite a letra correspondente ao tipo de documento: ')
 opt = opt.lower()
 while opt not in ('a', 'b'):
-    print('\033[91mHmm... Não entendi qual o documento voce quer gerar')
-    opt = input('\033[0mVamos tentar novamente. Digite a letra correspondente ao tipo de documento: ')
+    print('\033[91m Hmm... Não entendi qual o documento voce quer gerar \033[0m')
+    opt = input('Vamos tentar novamente. Digite a letra correspondente ao tipo de documento: ')
     opt = opt.lower()
-
 
 if opt == "a":
     import BRA_NFE

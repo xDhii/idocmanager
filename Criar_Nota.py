@@ -18,8 +18,8 @@ opt = input('Digite a letra correspondente ao País: ')
 opt = opt.lower()
 while opt not in ('a', 'b', 'c'): # Loop até a seleção de algum País disponível
     print()
-    print('\033[91mHmm... A opção digitada não existe')
-    opt = input('\033[0mTente novamente: ')
+    print('\033[91m Hmm... A opção digitada não existe \033[0m')
+    opt = input('Tente novamente: ')
 
 if opt == "a":
     from country import Brasil
