@@ -5,7 +5,8 @@ sys.path.insert(0, './config')
 import datareal
 
 ## Navegar ate a pasta de selecao e importar os arquivos ##
-from URY import empresas_ury, nota_select_ury
+sys.path.insert(0, './select/URY')
+import empresas_ury, nota_select_ury
 
 f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
 print('EDI_DC40  0100000000013441077702 3012  /KFBCLA/DTE                                                 /KFBCLA/DTE                                UY    SAPKFQ    LS  I48_010                                                                                              KFBCTF0001LS  TFCLIENT                                                                                             '+ str(datareal.datacompleta) +'124715                                                                                                                '+ str(datareal.datacompleta) +'124715      ', file=f)

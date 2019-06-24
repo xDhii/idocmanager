@@ -3,7 +3,8 @@ import os, sys
 sys.path.insert(0, './config')
 import datareal
 ## Navegar ate a pasta de selecao e importar os arquivos ##
-from ARG import empresas_arg, nota_select_arg
+sys.path.insert(0, './select/ARG')
+import empresas_arg, nota_select_arg
 
 f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
 print('EDI_DC40  8000000000003262818740 3012  /KFBCLA/AR_FE                                               /KFBCLA/AR_FE                                    SAPKFQ    LS  KFQCLNT800                                                                                           TFC04     LS  TFC04                                                                                                '+ str(datareal.datacompleta) +'163959                                                                                                                '+ str(datareal.datacompleta) +'163958      ', file=f)

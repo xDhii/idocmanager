@@ -4,7 +4,8 @@ import os, sys
 sys.path.insert(0, './config')
 import datareal
 ## Navegar ate a pasta de selecao e importar os arquivos ##
-from BRA import empresas_nfe, nota_select_nfe
+sys.path.insert(0, './select/BRA')
+import empresas_nfe, nota_select_nfe
 
 f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
 print('EDI_DC40  8000000000003261888740 3012  ZKFBC_NFE_200                                               ZKFBC_NFE_OUT_200                                SAPKFQ    LS  KFQCLNT800                                                                                           TFC01     LS  TFC01                                                                                                '+ str(datareal.datacompleta) +'172849                                                                                                                '+ str(datareal.datacompleta) +'172849     ', file=f)

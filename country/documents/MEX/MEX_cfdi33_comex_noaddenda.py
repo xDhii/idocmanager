@@ -3,7 +3,8 @@ import os, sys
 sys.path.insert(0, './config')
 import datareal
 ## Navegar ate a pasta de selecao e importar os arquivos ##
-from MEX import empresas_mex, nota_select_mex
+sys.path.insert(0, './select/MEX')
+import empresas_mex, nota_select_mex
 
 f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
 print('EDI_DC40  1000000000139003359700 3012  ZKFBC_MX_INVOICE                                            ZKFBC_MX_OUT                                     SAPKFQ    LS  TST100                                                                                               KFBCTF0001LS  TFCLIENT                                                                                             '+ str(datareal.datacompleta) +'235544                                                                                                                '+ str(datareal.datacompleta) +'235541      ', file=f)

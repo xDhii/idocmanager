@@ -23,6 +23,7 @@ while opt not in ('a', 'b'):
     opt = input('\033[0mVamos tentar novamente. Digite a letra correspondente ao tipo de documento: ')
     opt = opt.lower()
 
+
 if opt == "a":
     import BRA_NFE
 if opt == "b":
