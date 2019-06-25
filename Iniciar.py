@@ -50,7 +50,6 @@ if recomecar in ("s", "sim", "yes"):
         filename = sys.argv[0]
         print("Reiniciando ")
         p = Popen("python " + filename, shell=True)
-        p.wait()
     if os.name == 'java':
         print('Foi mal, ainda nao implementei para sistemas Java')
     sys.exit("Reiniciando processo, aguarde...")
