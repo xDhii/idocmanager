@@ -7,7 +7,7 @@ def limpar_tela():
 def mensageminicial():
     print('\033[91m Atenção: Todas as empresas devem estar configuradas como SAPKFQ! \033[0m')
     print()
-    print("\033[1;30;47m        Criador de IDOC v0.3.56 (beta)              \033[0m")
+    print("\033[1;30;47m        Criador de IDOC v0.3.72 (beta)              \033[0m")
     print()
     print('\33[1;37;40m Está faltando alguma empresa ou tipo de documento?  \033[0m')
     print('\33[1;37;40m Me avise: adriano.valumin@sovos.com                 \033[0m')
