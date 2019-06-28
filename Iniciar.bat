@@ -1,1 +1,1 @@
-python Criar_Nota.py
+python idocmanager.py
