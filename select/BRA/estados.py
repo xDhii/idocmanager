@@ -1,81 +1,81 @@
-if xuf=="RO" 
+if xuf=="RO":
     nomeUF="RONDÔNIA"
-    cUF="11" 
-if xuf=="AC"
+    cuf="11"
+if xuf=="AC":
     nomeUF="ACRE"
-    cUF="12" 
-if xuf=="AM" 
+    cuf="12"
+if xuf=="AM":
     nomeUF="AMAZONAS"
-    cUF="13" 
-if xuf=="RR" 
+    cuf="13"
+if xuf=="RR":
     nomeUF="RORAIMA"
-    cUF="14" 
-if xuf=="PA" 
+    cuf="14"
+if xuf=="PA":
     nomeUF="PARÁ"
-    cUF="15" 
-if xuf=="AP" 
+    cuf="15"
+if xuf=="AP":
     nomeUF="AMAPÁ"
-    cUF="16" 
-if xuf=="TO" 
+    cuf="16"
+if xuf=="TO":
     nomeUF="TOCANTINS"
-    cUF="17" 
-if xuf=="MA" 
+    cuf="17"
+if xuf=="MA":
     nomeUF="MARANHÃO"
-    cUF="21" 
-if xuf=="PI" 
+    cuf="21"
+if xuf=="PI":
     nomeUF="PIAUÍ"
-    cUF="22" 
-if xuf=="CE" 
+    cuf="22"
+if xuf=="CE":
     nomeUF="CEARÁ"
-    cUF="23" 
-if xuf=="RN" 
+    cuf="23"
+if xuf=="RN":
     nomeUF="RIO GRANDE DO NORTE"
-    cUF="24" 
-if xuf=="PB" 
+    cuf="24"
+if xuf=="PB":
     nomeUF="PARAÍBA"
-    cUF="25" 
-if xuf=="PE" 
+    cuf="25"
+if xuf=="PE":
     nomeUF="PERNAMBUCO"
-    cUF="26" 
-if xuf=="AL" 
+    cuf="26"
+if xuf=="AL":
     nomeUF="ALAGOAS"
-    cUF="27" 
-if xuf=="SE" 
+    cuf="27"
+if xuf=="SE":
     nomeUF="SERGIPE"
-    cUF="28" 
-if xuf=="BA" 
+    cuf="28"
+if xuf=="BA":
     nomeUF="BAHIA"
-    cUF="29" 
-if xuf=="MG" 
+    cuf="29"
+if xuf=="MG":
     nomeUF="MINAS GERAIS"
-    cUF="31" 
-if xuf=="ES" 
+    cuf="31"
+if xuf=="ES":
     nomeUF="ESPIRITO SANTO"
-    cUF="32" 
-if xuf=="RJ" 
+    cuf="32"
+if xuf=="RJ":
     nomeUF="RIO DE JANEIRO"
-    cUF="33" 
-if xuf=="SP" 
+    cuf="33"
+if xuf=="SP":
     nomeUF="SÃO PAULO"
-    cUF="35" 
-if xuf=="PR" 
+    cuf="35"
+if xuf=="PR":
     nomeUF="PARANÁ"
-    cUF="41" 
-if xuf=="SC" 
+    cuf="41"
+if xuf=="SC":
     nomeUF="SANTA CATARINA"
-    cUF="42" 
-if xuf=="RS" 
+    cuf="42"
+if xuf=="RS":
     nomeUF="RIO GRANDE DO SUL"
-    cUF="43" 
-if xuf=="MS" 
+    cuf="43"
+if xuf=="MS":
     nomeUF="MATO GROSSO DO SUL"
-    cUF="50" 
-if xuf=="MT" 
+    cuf="50"
+if xuf=="MT":
     nomeUF="MATO GROSSO"
-    cUF="51" 
-if xuf=="GO" 
+    cuf="51"
+if xuf=="GO":
     nomeUF="GOIÁS"
-    cUF="52" 
-if xuf=="DF" 
+    cuf="52"
+if xuf=="DF":
     nomeUF="DISTRITO FEDERAL"
-    cUF="53" 
+    cuf="53"
