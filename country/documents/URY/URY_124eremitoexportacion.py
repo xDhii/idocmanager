@@ -3,7 +3,6 @@
 import os, sys
 sys.path.insert(0, './config')
 import datareal
-
 ## Navegar ate a pasta de selecao e importar os arquivos ##
 sys.path.insert(0, './select/URY')
 import empresas_ury, nota_select_ury

@@ -1,6 +1,6 @@
 ## Input da Serie, Folio e RPS para NFSe## -
 import os, sys
-sys.path.insert(0, './config')
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/config")
 import messages
 
 ## Mensagem inicial ##

@@ -1,6 +1,6 @@
 ## Selecao da Empresa NFe ##
 import os, sys
-sys.path.insert(0, './config')
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/config")
 import messages
 
 ## Mensagem inicial ##
@@ -16,8 +16,7 @@ opt = opt.lower()
 while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n'):
     print('\033[91mHmm... Não entendi sua resposta')
     opt = input('\033[0mDigite novamente a letra correspondente a empresa: ')
-    opt = opt.lower() 
-   
+    opt = opt.lower()
 if opt == "a":
     xnome = "Invoiceware SP"
     cnpj = "24492961000129"
