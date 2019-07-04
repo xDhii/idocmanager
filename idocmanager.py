@@ -5,7 +5,7 @@ from subprocess import Popen
 from config import criar_pasta, messages
 
 ## Mensagem inicial ##
-messages.limpar_tela()
+messages.limpar_tela() 
 messages.mensageminicial()
 
 ##  Opções de países disponíveis
