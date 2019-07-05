@@ -22,13 +22,13 @@ while opt not in ('a', 'b', 'c', 'd', 'z'): # Loop até a seleção de algum Pa�
     opt = input('Tente novamente: ')
 
 if opt == "a":
-    from country import Brasil
-if opt == "b":
-    from country import Mexico
-if opt == "c":
-    from country import Uruguay
-if opt == "d":
     from country import Argentina
+if opt == "b":
+    from country import Brasil
+if opt == "c":
+    from country import Mexico
+if opt == "d":
+    from country import Uruguay
 if opt == "z":
     import resetfolio
 
