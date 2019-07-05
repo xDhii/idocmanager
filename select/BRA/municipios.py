@@ -1,16717 +1,16712 @@
-if cMun=="1200013":
-  xMun="ACRELANDIA"
+if xMun="ACRELANDIA":
+  cMun=="1200013"
   cMunSIAFI="0643"
-if cMun=="1200054":
-  xMun="ASSIS BRASIL"
+if xMun="ASSIS BRASIL":
+  cMun=="1200054"
   cMunSIAFI="0157"
-if cMun=="1200104":
-  xMun="BRASILEIA"
+if xMun="BRASILEIA":
+  cMun=="1200104"
   cMunSIAFI="0105"
-if cMun=="1200138":
-  xMun="BUJARI"
+if xMun="BUJARI":
+  cMun=="1200138"
   cMunSIAFI="0645"
-if cMun=="1200179":
-  xMun="CAPIXABA"
+if xMun="CAPIXABA":
+  cMun=="1200179"
   cMunSIAFI="0647"
-if cMun=="1200203":
-  xMun="CRUZEIRO DO SUL"
+if xMun="CRUZEIRO DO SUL":
+  cMun=="1200203"
   cMunSIAFI="0107"
-if cMun=="1200252":
-  xMun="EPITACIOLANDIA"
+if xMun="EPITACIOLANDIA":
+  cMun=="1200252"
   cMunSIAFI="0651"
-if cMun=="1200302":
-  xMun="FEIJO"
+if xMun="FEIJO":
+  cMun=="1200302"
   cMunSIAFI="0113"
-if cMun=="1200328":
-  xMun="JORDAO"
+if xMun="JORDAO":
+  cMun=="1200328"
   cMunSIAFI="0653"
-if cMun=="1200336":
-  xMun="MANCIO LIMA"
+if xMun="MANCIO LIMA":
+  cMun=="1200336"
   cMunSIAFI="0109"
-if cMun=="1200344":
-  xMun="MANOEL URBANO"
+if xMun="MANOEL URBANO":
+  cMun=="1200344"
   cMunSIAFI="0155"
-if cMun=="1200351":
-  xMun="MARECHAL THAUMATURGO"
+if xMun="MARECHAL THAUMATURGO":
+  cMun=="1200351"
   cMunSIAFI="0655"
-if cMun=="1200385":
-  xMun="PLACIDO DE CASTRO"
+if xMun="PLACIDO DE CASTRO":
+  cMun=="1200385"
   cMunSIAFI="0151"
-if cMun=="1200807":
-  xMun="PORTO ACRE"
+if xMun="PORTO ACRE":
+  cMun=="1200807"
   cMunSIAFI="0649"
-if cMun=="1200393":
-  xMun="PORTO WALTER"
+if xMun="PORTO WALTER":
+  cMun=="1200393"
   cMunSIAFI="0657"
-if cMun=="1200401":
-  xMun="RIO BRANCO"
+if xMun="RIO BRANCO":
+  cMun=="1200401"
   cMunSIAFI="0139"
-if cMun=="1200427":
-  xMun="RODRIGUES ALVES"
+if xMun="RODRIGUES ALVES":
+  cMun=="1200427"
   cMunSIAFI="0659"
-if cMun=="1200435":
-  xMun="SANTA ROSA DO PURUS"
+if xMun="SANTA ROSA DO PURUS":
+  cMun=="1200435"
   cMunSIAFI="0661"
-if cMun=="1200500":
-  xMun="SENA MADUREIRA"
+if xMun="SENA MADUREIRA":
+  cMun=="1200500"
   cMunSIAFI="0145"
-if cMun=="1200450":
-  xMun="SENADOR GUIOMARD"
+if xMun="SENADOR GUIOMARD":
+  cMun=="1200450"
   cMunSIAFI="0153"
-if cMun=="1200609":
-  xMun="TARAUACA"
+if xMun="TARAUACA":
+  cMun=="1200609"
   cMunSIAFI="0147"
-if cMun=="1200708":
-  xMun="XAPURI"
+if xMun="XAPURI":
+  cMun=="1200708"
   cMunSIAFI="0149"
-if cMun=="2700102":
-  xMun="AGUA BRANCA"
+if xMun="AGUA BRANCA":
+  cMun=="2700102"
   cMunSIAFI="2701"
-if cMun=="2700201":
-  xMun="ANADIA"
+if xMun="ANADIA":
+  cMun=="2700201"
   cMunSIAFI="2703"
-if cMun=="2700300":
-  xMun="ARAPIRACA"
+if xMun="ARAPIRACA":
+  cMun=="2700300"
   cMunSIAFI="2705"
-if cMun=="2700409":
-  xMun="ATALAIA"
+if xMun="ATALAIA":
+  cMun=="2700409"
   cMunSIAFI="2707"
-if cMun=="2700508":
-  xMun="BARRA DE SANTO ANTONIO"
+if xMun="BARRA DE SANTO ANTONIO":
+  cMun=="2700508"
   cMunSIAFI="2709"
-if cMun=="2700607":
-  xMun="BARRA DE SAO MIGUEL"
+if xMun="BARRA DE SAO MIGUEL":
+  cMun=="2700607"
   cMunSIAFI="2711"
-if cMun=="2700706":
-  xMun="BATALHA"
+if xMun="BATALHA":
+  cMun=="2700706"
   cMunSIAFI="2713"
-if cMun=="2700805":
-  xMun="BELEM"
+if xMun="BELEM":
+  cMun=="2700805"
   cMunSIAFI="2715"
-if cMun=="2700904":
-  xMun="BELO MONTE"
+if xMun="BELO MONTE":
+  cMun=="2700904"
   cMunSIAFI="2717"
-if cMun=="2701001":
-  xMun="BOCA DA MATA"
+if xMun="BOCA DA MATA":
+  cMun=="2701001"
   cMunSIAFI="2719"
-if cMun=="2701100":
-  xMun="BRANQUINHA"
+if xMun="BRANQUINHA":
+  cMun=="2701100"
   cMunSIAFI="2721"
-if cMun=="2701209":
-  xMun="CACIMBINHAS"
+if xMun="CACIMBINHAS":
+  cMun=="2701209"
   cMunSIAFI="2723"
-if cMun=="2701308":
-  xMun="CAJUEIRO"
+if xMun="CAJUEIRO":
+  cMun=="2701308"
   cMunSIAFI="2725"
-if cMun=="2701357":
-  xMun="CAMPESTRE"
+if xMun="CAMPESTRE":
+  cMun=="2701357"
   cMunSIAFI="0560"
-if cMun=="2701407":
-  xMun="CAMPO ALEGRE"
+if xMun="CAMPO ALEGRE":
+  cMun=="2701407"
   cMunSIAFI="2727"
-if cMun=="2701506":
-  xMun="CAMPO GRANDE"
+if xMun="CAMPO GRANDE":
+  cMun=="2701506"
   cMunSIAFI="2729"
-if cMun=="2701605":
-  xMun="CANAPI"
+if xMun="CANAPI":
+  cMun=="2701605"
   cMunSIAFI="2731"
-if cMun=="2701704":
-  xMun="CAPELA"
+if xMun="CAPELA":
+  cMun=="2701704"
   cMunSIAFI="2733"
-if cMun=="2701803":
-  xMun="CARNEIROS"
+if xMun="CARNEIROS":
+  cMun=="2701803"
   cMunSIAFI="2735"
-if cMun=="2701902":
-  xMun="CHA PRETA"
+if xMun="CHA PRETA":
+  cMun=="2701902"
   cMunSIAFI="2737"
-if cMun=="2702009":
-  xMun="COITE DO NOIA"
+if xMun="COITE DO NOIA":
+  cMun=="2702009"
   cMunSIAFI="2739"
-if cMun=="2702108":
-  xMun="COLONIA LEOPOLDINA"
+if xMun="COLONIA LEOPOLDINA":
+  cMun=="2702108"
   cMunSIAFI="2741"
-if cMun=="2702207":
-  xMun="COQUEIRO SECO"
+if xMun="COQUEIRO SECO":
+  cMun=="2702207"
   cMunSIAFI="2743"
-if cMun=="2702306":
-  xMun="CORURIPE"
+if xMun="CORURIPE":
+  cMun=="2702306"
   cMunSIAFI="2745"
-if cMun=="2702355":
-  xMun="CRAIBAS"
+if xMun="CRAIBAS":
+  cMun=="2702355"
   cMunSIAFI="2889"
-if cMun=="2702405":
-  xMun="DELMIRO GOUVEIA"
+if xMun="DELMIRO GOUVEIA":
+  cMun=="2702405"
   cMunSIAFI="2747"
-if cMun=="2702504":
-  xMun="DOIS RIACHOS"
+if xMun="DOIS RIACHOS":
+  cMun=="2702504"
   cMunSIAFI="2749"
-if cMun=="2702553":
-  xMun="ESTRELA DE ALAGOAS"
+if xMun="ESTRELA DE ALAGOAS":
+  cMun=="2702553"
   cMunSIAFI="2643"
-if cMun=="2702603":
-  xMun="FEIRA GRANDE"
+if xMun="FEIRA GRANDE":
+  cMun=="2702603"
   cMunSIAFI="2751"
-if cMun=="2702702":
-  xMun="FELIZ DESERTO"
+if xMun="FELIZ DESERTO":
+  cMun=="2702702"
   cMunSIAFI="2753"
-if cMun=="2702801":
-  xMun="FLEXEIRAS"
+if xMun="FLEXEIRAS":
+  cMun=="2702801"
   cMunSIAFI="2755"
-if cMun=="2702900":
-  xMun="GIRAU DO PONCIANO"
+if xMun="GIRAU DO PONCIANO":
+  cMun=="2702900"
   cMunSIAFI="2757"
-if cMun=="2703007":
-  xMun="IBATEGUARA"
+if xMun="IBATEGUARA":
+  cMun=="2703007"
   cMunSIAFI="2759"
-if cMun=="2703106":
-  xMun="IGACI"
+if xMun="IGACI":
+  cMun=="2703106"
   cMunSIAFI="2761"
-if cMun=="2703205":
-  xMun="IGREJA NOVA"
+if xMun="IGREJA NOVA":
+  cMun=="2703205"
   cMunSIAFI="2763"
-if cMun=="2703304":
-  xMun="INHAPI"
+if xMun="INHAPI":
+  cMun=="2703304"
   cMunSIAFI="2765"
-if cMun=="2703403":
-  xMun="JACARE DOS HOMENS"
+if xMun="JACARE DOS HOMENS":
+  cMun=="2703403"
   cMunSIAFI="2767"
-if cMun=="2703502":
-  xMun="JACUIPE"
+if xMun="JACUIPE":
+  cMun=="2703502"
   cMunSIAFI="2769"
-if cMun=="2703601":
-  xMun="JAPARATINGA"
+if xMun="JAPARATINGA":
+  cMun=="2703601"
   cMunSIAFI="2771"
-if cMun=="2703700":
-  xMun="JARAMATAIA"
+if xMun="JARAMATAIA":
+  cMun=="2703700"
   cMunSIAFI="2773"
-if cMun=="2703759":
-  xMun="JEQUIA DA PRAIA"
+if xMun="JEQUIA DA PRAIA":
+  cMun=="2703759"
   cMunSIAFI="0562"
-if cMun=="2703809":
-  xMun="JOAQUIM GOMES"
+if xMun="JOAQUIM GOMES":
+  cMun=="2703809"
   cMunSIAFI="2775"
-if cMun=="2703908":
-  xMun="JUNDIA"
+if xMun="JUNDIA":
+  cMun=="2703908"
   cMunSIAFI="2777"
-if cMun=="2704005":
-  xMun="JUNQUEIRO"
+if xMun="JUNQUEIRO":
+  cMun=="2704005"
   cMunSIAFI="2779"
-if cMun=="2704104":
-  xMun="LAGOA DA CANOA"
+if xMun="LAGOA DA CANOA":
+  cMun=="2704104"
   cMunSIAFI="2781"
-if cMun=="2704203":
-  xMun="LIMOEIRO DE ANADIA"
+if xMun="LIMOEIRO DE ANADIA":
+  cMun=="2704203"
   cMunSIAFI="2783"
-if cMun=="2704302":
-  xMun="MACEIO"
+if xMun="MACEIO":
+  cMun=="2704302"
   cMunSIAFI="2785"
-if cMun=="2704401":
-  xMun="MAJOR ISIDORO"
+if xMun="MAJOR ISIDORO":
+  cMun=="2704401"
   cMunSIAFI="2787"
-if cMun=="2704906":
-  xMun="MAR VERMELHO"
+if xMun="MAR VERMELHO":
+  cMun=="2704906"
   cMunSIAFI="2797"
-if cMun=="2704500":
-  xMun="MARAGOGI"
+if xMun="MARAGOGI":
+  cMun=="2704500"
   cMunSIAFI="2789"
-if cMun=="2704609":
-  xMun="MARAVILHA"
+if xMun="MARAVILHA":
+  cMun=="2704609"
   cMunSIAFI="2791"
-if cMun=="2704708":
-  xMun="MARECHAL DEODORO"
+if xMun="MARECHAL DEODORO":
+  cMun=="2704708"
   cMunSIAFI="2793"
-if cMun=="2704807":
-  xMun="MARIBONDO"
+if xMun="MARIBONDO":
+  cMun=="2704807"
   cMunSIAFI="2795"
-if cMun=="2705002":
-  xMun="MATA GRANDE"
+if xMun="MATA GRANDE":
+  cMun=="2705002"
   cMunSIAFI="2799"
-if cMun=="2705101":
-  xMun="MATRIZ DE CAMARAGIBE"
+if xMun="MATRIZ DE CAMARAGIBE":
+  cMun=="2705101"
   cMunSIAFI="2801"
-if cMun=="2705200":
-  xMun="MESSIAS"
+if xMun="MESSIAS":
+  cMun=="2705200"
   cMunSIAFI="2803"
-if cMun=="2705309":
-  xMun="MINADOR DO NEGRAO"
+if xMun="MINADOR DO NEGRAO":
+  cMun=="2705309"
   cMunSIAFI="2805"
-if cMun=="2705408":
-  xMun="MONTEIROPOLIS"
+if xMun="MONTEIROPOLIS":
+  cMun=="2705408"
   cMunSIAFI="2807"
-if cMun=="2705507":
-  xMun="MURICI"
+if xMun="MURICI":
+  cMun=="2705507"
   cMunSIAFI="2809"
-if cMun=="2705606":
-  xMun="NOVO LINO"
+if xMun="NOVO LINO":
+  cMun=="2705606"
   cMunSIAFI="2811"
-if cMun=="2705705":
-  xMun="OLHO D AGUA DAS FLORES"
+if xMun="OLHO D AGUA DAS FLORES":
+  cMun=="2705705"
   cMunSIAFI="2813"
-if cMun=="2705804":
-  xMun="OLHO D AGUA DO CASADO"
+if xMun="OLHO D AGUA DO CASADO":
+  cMun=="2705804"
   cMunSIAFI="2815"
-if cMun=="2705903":
-  xMun="OLHO D AGUA GRANDE"
+if xMun="OLHO D AGUA GRANDE":
+  cMun=="2705903"
   cMunSIAFI="2817"
-if cMun=="2706000":
-  xMun="OLIVENCA"
+if xMun="OLIVENCA":
+  cMun=="2706000"
   cMunSIAFI="2819"
-if cMun=="2706109":
-  xMun="OURO BRANCO"
+if xMun="OURO BRANCO":
+  cMun=="2706109"
   cMunSIAFI="2821"
-if cMun=="2706208":
-  xMun="PALESTINA"
+if xMun="PALESTINA":
+  cMun=="2706208"
   cMunSIAFI="2823"
-if cMun=="2706307":
-  xMun="PALMEIRA DOS INDIOS"
+if xMun="PALMEIRA DOS INDIOS":
+  cMun=="2706307"
   cMunSIAFI="2825"
-if cMun=="2706406":
-  xMun="PAO DE ACUCAR"
+if xMun="PAO DE ACUCAR":
+  cMun=="2706406"
   cMunSIAFI="2827"
-if cMun=="2706422":
-  xMun="PARICONHA"
+if xMun="PARICONHA":
+  cMun=="2706422"
   cMunSIAFI="2645"
-if cMun=="2706448":
-  xMun="PARIPUEIRA"
+if xMun="PARIPUEIRA":
+  cMun=="2706448"
   cMunSIAFI="2641"
-if cMun=="2706505":
-  xMun="PASSO DE CAMARAGIBE"
+if xMun="PASSO DE CAMARAGIBE":
+  cMun=="2706505"
   cMunSIAFI="2829"
-if cMun=="2706604":
-  xMun="PAULO JACINTO"
+if xMun="PAULO JACINTO":
+  cMun=="2706604"
   cMunSIAFI="2831"
-if cMun=="2706703":
-  xMun="PENEDO"
+if xMun="PENEDO":
+  cMun=="2706703"
   cMunSIAFI="2833"
-if cMun=="2706802":
-  xMun="PIACABUCU"
+if xMun="PIACABUCU":
+  cMun=="2706802"
   cMunSIAFI="2835"
-if cMun=="2706901":
-  xMun="PILAR"
+if xMun="PILAR":
+  cMun=="2706901"
   cMunSIAFI="2837"
-if cMun=="2707008":
-  xMun="PINDOBA"
+if xMun="PINDOBA":
+  cMun=="2707008"
   cMunSIAFI="2839"
-if cMun=="2707107":
-  xMun="PIRANHAS"
+if xMun="PIRANHAS":
+  cMun=="2707107"
   cMunSIAFI="2841"
-if cMun=="2707206":
-  xMun="POCO DAS TRINCHEIRAS"
+if xMun="POCO DAS TRINCHEIRAS":
+  cMun=="2707206"
   cMunSIAFI="2843"
-if cMun=="2707305":
-  xMun="PORTO CALVO"
+if xMun="PORTO CALVO":
+  cMun=="2707305"
   cMunSIAFI="2845"
-if cMun=="2707404":
-  xMun="PORTO DE PEDRAS"
+if xMun="PORTO DE PEDRAS":
+  cMun=="2707404"
   cMunSIAFI="2847"
-if cMun=="2707503":
-  xMun="PORTO REAL DO COLEGIO"
+if xMun="PORTO REAL DO COLEGIO":
+  cMun=="2707503"
   cMunSIAFI="2849"
-if cMun=="2707602":
-  xMun="QUEBRANGULO"
+if xMun="QUEBRANGULO":
+  cMun=="2707602"
   cMunSIAFI="2851"
-if cMun=="2707701":
-  xMun="RIO LARGO"
+if xMun="RIO LARGO":
+  cMun=="2707701"
   cMunSIAFI="2853"
-if cMun=="2707800":
-  xMun="ROTEIRO"
+if xMun="ROTEIRO":
+  cMun=="2707800"
   cMunSIAFI="2855"
-if cMun=="2707909":
-  xMun="SANTA LUZIA DO NORTE"
+if xMun="SANTA LUZIA DO NORTE":
+  cMun=="2707909"
   cMunSIAFI="2857"
-if cMun=="2708006":
-  xMun="SANTANA DO IPANEMA"
+if xMun="SANTANA DO IPANEMA":
+  cMun=="2708006"
   cMunSIAFI="2859"
-if cMun=="2708105":
-  xMun="SANTANA DO MUNDAU"
+if xMun="SANTANA DO MUNDAU":
+  cMun=="2708105"
   cMunSIAFI="2861"
-if cMun=="2708204":
-  xMun="SAO BRAS"
+if xMun="SAO BRAS":
+  cMun=="2708204"
   cMunSIAFI="2863"
-if cMun=="2708303":
-  xMun="SAO JOSE DA LAJE"
+if xMun="SAO JOSE DA LAJE":
+  cMun=="2708303"
   cMunSIAFI="2865"
-if cMun=="2708402":
-  xMun="SAO JOSE DA TAPERA"
+if xMun="SAO JOSE DA TAPERA":
+  cMun=="2708402"
   cMunSIAFI="2867"
-if cMun=="2708501":
-  xMun="SAO LUIS DO QUITUNDE"
+if xMun="SAO LUIS DO QUITUNDE":
+  cMun=="2708501"
   cMunSIAFI="2869"
-if cMun=="2708600":
-  xMun="SAO MIGUEL DOS CAMPOS"
+if xMun="SAO MIGUEL DOS CAMPOS":
+  cMun=="2708600"
   cMunSIAFI="2871"
-if cMun=="2708709":
-  xMun="SAO MIGUEL DOS MILAGRES"
+if xMun="SAO MIGUEL DOS MILAGRES":
+  cMun=="2708709"
   cMunSIAFI="2873"
-if cMun=="2708808":
-  xMun="SAO SEBASTIAO"
+if xMun="SAO SEBASTIAO":
+  cMun=="2708808"
   cMunSIAFI="2875"
-if cMun=="2708907":
-  xMun="SATUBA"
+if xMun="SATUBA":
+  cMun=="2708907"
   cMunSIAFI="2877"
-if cMun=="2708956":
-  xMun="SENADOR RUI PALMEIRA"
+if xMun="SENADOR RUI PALMEIRA":
+  cMun=="2708956"
   cMunSIAFI="2891"
-if cMun=="2709004":
-  xMun="TANQUE D ARCA"
+if xMun="TANQUE D ARCA":
+  cMun=="2709004"
   cMunSIAFI="2879"
-if cMun=="2709103":
-  xMun="TAQUARANA"
+if xMun="TAQUARANA":
+  cMun=="2709103"
   cMunSIAFI="2881"
-if cMun=="2709152":
-  xMun="TEOTONIO VILELA"
+if xMun="TEOTONIO VILELA":
+  cMun=="2709152"
   cMunSIAFI="0971"
-if cMun=="2709202":
-  xMun="TRAIPU"
+if xMun="TRAIPU":
+  cMun=="2709202"
   cMunSIAFI="2883"
-if cMun=="2709301":
-  xMun="UNIAO DOS PALMARES"
+if xMun="UNIAO DOS PALMARES":
+  cMun=="2709301"
   cMunSIAFI="2885"
-if cMun=="2709400":
-  xMun="VICOSA"
+if xMun="VICOSA":
+  cMun=="2709400"
   cMunSIAFI="2887"
-if cMun=="1300029":
-  xMun="ALVARAES"
+if xMun="ALVARAES":
+  cMun=="1300029"
   cMunSIAFI="0289"
-if cMun=="1300060":
-  xMun="AMATURA"
+if xMun="AMATURA":
+  cMun=="1300060"
   cMunSIAFI="0291"
-if cMun=="1300086":
-  xMun="ANAMA"
+if xMun="ANAMA":
+  cMun=="1300086"
   cMunSIAFI="0293"
-if cMun=="1300102":
-  xMun="ANORI"
+if xMun="ANORI":
+  cMun=="1300102"
   cMunSIAFI="0203"
-if cMun=="1300144":
-  xMun="APUI"
+if xMun="APUI":
+  cMun=="1300144"
   cMunSIAFI="0969"
-if cMun=="1300201":
-  xMun="ATALAIA DO NORTE"
+if xMun="ATALAIA DO NORTE":
+  cMun=="1300201"
   cMunSIAFI="0205"
-if cMun=="1300300":
-  xMun="AUTAZES"
+if xMun="AUTAZES":
+  cMun=="1300300"
   cMunSIAFI="0207"
-if cMun=="1300409":
-  xMun="BARCELOS"
+if xMun="BARCELOS":
+  cMun=="1300409"
   cMunSIAFI="0209"
-if cMun=="1300508":
-  xMun="BARREIRINHA"
+if xMun="BARREIRINHA":
+  cMun=="1300508"
   cMunSIAFI="0211"
-if cMun=="1300607":
-  xMun="BENJAMIN CONSTANT"
+if xMun="BENJAMIN CONSTANT":
+  cMun=="1300607"
   cMunSIAFI="0213"
-if cMun=="1300631":
-  xMun="BERURI"
+if xMun="BERURI":
+  cMun=="1300631"
   cMunSIAFI="0295"
-if cMun=="1300680":
-  xMun="BOA VISTA DO RAMOS"
+if xMun="BOA VISTA DO RAMOS":
+  cMun=="1300680"
   cMunSIAFI="0297"
-if cMun=="1300706":
-  xMun="BOCA DO ACRE"
+if xMun="BOCA DO ACRE":
+  cMun=="1300706"
   cMunSIAFI="0215"
-if cMun=="1300805":
-  xMun="BORBA"
+if xMun="BORBA":
+  cMun=="1300805"
   cMunSIAFI="0217"
-if cMun=="1300839":
-  xMun="CAAPIRANGA"
+if xMun="CAAPIRANGA":
+  cMun=="1300839"
   cMunSIAFI="0299"
-if cMun=="1300904":
-  xMun="CANUTAMA"
+if xMun="CANUTAMA":
+  cMun=="1300904"
   cMunSIAFI="0219"
-if cMun=="1301001":
-  xMun="CARAUARI"
+if xMun="CARAUARI":
+  cMun=="1301001"
   cMunSIAFI="0221"
-if cMun=="1301100":
-  xMun="CAREIRO"
+if xMun="CAREIRO":
+  cMun=="1301100"
   cMunSIAFI="0223"
-if cMun=="1301159":
-  xMun="CAREIRO DA VARZEA"
+if xMun="CAREIRO DA VARZEA":
+  cMun=="1301159"
   cMunSIAFI="0965"
-if cMun=="1301209":
-  xMun="COARI"
+if xMun="COARI":
+  cMun=="1301209"
   cMunSIAFI="0225"
-if cMun=="1301308":
-  xMun="CODAJAS"
+if xMun="CODAJAS":
+  cMun=="1301308"
   cMunSIAFI="0227"
-if cMun=="1301407":
-  xMun="EIRUNEPE"
+if xMun="EIRUNEPE":
+  cMun=="1301407"
   cMunSIAFI="0229"
-if cMun=="1301506":
-  xMun="ENVIRA"
+if xMun="ENVIRA":
+  cMun=="1301506"
   cMunSIAFI="0231"
-if cMun=="1301605":
-  xMun="FONTE BOA"
+if xMun="FONTE BOA":
+  cMun=="1301605"
   cMunSIAFI="0233"
-if cMun=="1301654":
-  xMun="GUAJARA"
+if xMun="GUAJARA":
+  cMun=="1301654"
   cMunSIAFI="0967"
-if cMun=="1301704":
-  xMun="HUMAITA"
+if xMun="HUMAITA":
+  cMun=="1301704"
   cMunSIAFI="0235"
-if cMun=="1301803":
-  xMun="IPIXUNA"
+if xMun="IPIXUNA":
+  cMun=="1301803"
   cMunSIAFI="0239"
-if cMun=="1301852":
-  xMun="IRANDUBA"
+if xMun="IRANDUBA":
+  cMun=="1301852"
   cMunSIAFI="9835"
-if cMun=="1301902":
-  xMun="ITACOATIARA"
+if xMun="ITACOATIARA":
+  cMun=="1301902"
   cMunSIAFI="0241"
-if cMun=="1301951":
-  xMun="ITAMARATI"
+if xMun="ITAMARATI":
+  cMun=="1301951"
   cMunSIAFI="9837"
-if cMun=="1302009":
-  xMun="ITAPIRANGA"
+if xMun="ITAPIRANGA":
+  cMun=="1302009"
   cMunSIAFI="0243"
-if cMun=="1302108":
-  xMun="JAPURA"
+if xMun="JAPURA":
+  cMun=="1302108"
   cMunSIAFI="0245"
-if cMun=="1302207":
-  xMun="JURUA"
+if xMun="JURUA":
+  cMun=="1302207"
   cMunSIAFI="0247"
-if cMun=="1302306":
-  xMun="JUTAI"
+if xMun="JUTAI":
+  cMun=="1302306"
   cMunSIAFI="0249"
-if cMun=="1302405":
-  xMun="LABREA"
+if xMun="LABREA":
+  cMun=="1302405"
   cMunSIAFI="0251"
-if cMun=="1302504":
-  xMun="MANACAPURU"
+if xMun="MANACAPURU":
+  cMun=="1302504"
   cMunSIAFI="0253"
-if cMun=="1302553":
-  xMun="MANAQUIRI"
+if xMun="MANAQUIRI":
+  cMun=="1302553"
   cMunSIAFI="9839"
-if cMun=="1302603":
-  xMun="MANAUS"
+if xMun="MANAUS":
+  cMun=="1302603"
   cMunSIAFI="0255"
-if cMun=="1302702":
-  xMun="MANICORE"
+if xMun="MANICORE":
+  cMun=="1302702"
   cMunSIAFI="0257"
-if cMun=="1302801":
-  xMun="MARAA"
+if xMun="MARAA":
+  cMun=="1302801"
   cMunSIAFI="0259"
-if cMun=="1302900":
-  xMun="MAUES"
+if xMun="MAUES":
+  cMun=="1302900"
   cMunSIAFI="0261"
-if cMun=="1303007":
-  xMun="NHAMUNDA"
+if xMun="NHAMUNDA":
+  cMun=="1303007"
   cMunSIAFI="0263"
-if cMun=="1303106":
-  xMun="NOVA OLINDA DO NORTE"
+if xMun="NOVA OLINDA DO NORTE":
+  cMun=="1303106"
   cMunSIAFI="0265"
-if cMun=="1303205":
-  xMun="NOVO AIRAO"
+if xMun="NOVO AIRAO":
+  cMun=="1303205"
   cMunSIAFI="0201"
-if cMun=="1303304":
-  xMun="NOVO ARIPUANA"
+if xMun="NOVO ARIPUANA":
+  cMun=="1303304"
   cMunSIAFI="0267"
-if cMun=="1303403":
-  xMun="PARINTINS"
+if xMun="PARINTINS":
+  cMun=="1303403"
   cMunSIAFI="0269"
-if cMun=="1303502":
-  xMun="PAUINI"
+if xMun="PAUINI":
+  cMun=="1303502"
   cMunSIAFI="0271"
-if cMun=="1303536":
-  xMun="PRESIDENTE FIGUEIREDO"
+if xMun="PRESIDENTE FIGUEIREDO":
+  cMun=="1303536"
   cMunSIAFI="9841"
-if cMun=="1303569":
-  xMun="RIO PRETO DA EVA"
+if xMun="RIO PRETO DA EVA":
+  cMun=="1303569"
   cMunSIAFI="9843"
-if cMun=="1303601":
-  xMun="SANTA ISABEL DO RIO NEGRO"
+if xMun="SANTA ISABEL DO RIO NEGRO":
+  cMun=="1303601"
   cMunSIAFI="0237"
-if cMun=="1303700":
-  xMun="SANTO ANTONIO DO ICA"
+if xMun="SANTO ANTONIO DO ICA":
+  cMun=="1303700"
   cMunSIAFI="0273"
-if cMun=="1303809":
-  xMun="SAO GABRIEL DA CACHOEIRA"
+if xMun="SAO GABRIEL DA CACHOEIRA":
+  cMun=="1303809"
   cMunSIAFI="0283"
-if cMun=="1303908":
-  xMun="SAO PAULO DE OLIVENCA"
+if xMun="SAO PAULO DE OLIVENCA":
+  cMun=="1303908"
   cMunSIAFI="0275"
-if cMun=="1303957":
-  xMun="SAO SEBASTIAO DO UATUMA"
+if xMun="SAO SEBASTIAO DO UATUMA":
+  cMun=="1303957"
   cMunSIAFI="9845"
-if cMun=="1304005":
-  xMun="SILVES"
+if xMun="SILVES":
+  cMun=="1304005"
   cMunSIAFI="0277"
-if cMun=="1304062":
-  xMun="TABATINGA"
+if xMun="TABATINGA":
+  cMun=="1304062"
   cMunSIAFI="9847"
-if cMun=="1304104":
-  xMun="TAPAUA"
+if xMun="TAPAUA":
+  cMun=="1304104"
   cMunSIAFI="0279"
-if cMun=="1304203":
-  xMun="TEFE"
+if xMun="TEFE":
+  cMun=="1304203"
   cMunSIAFI="0281"
-if cMun=="1304237":
-  xMun="TONANTINS"
+if xMun="TONANTINS":
+  cMun=="1304237"
   cMunSIAFI="9851"
-if cMun=="1304260":
-  xMun="UARINI"
+if xMun="UARINI":
+  cMun=="1304260"
   cMunSIAFI="9849"
-if cMun=="1304302":
-  xMun="URUCARA"
+if xMun="URUCARA":
+  cMun=="1304302"
   cMunSIAFI="0285"
-if cMun=="1304401":
-  xMun="URUCURITUBA"
+if xMun="URUCURITUBA":
+  cMun=="1304401"
   cMunSIAFI="0287"
-if cMun=="1600105":
-  xMun="AMAPA"
+if xMun="AMAPA":
+  cMun=="1600105"
   cMunSIAFI="0601"
-if cMun=="1600204":
-  xMun="CALCOENE"
+if xMun="CALCOENE":
+  cMun=="1600204"
   cMunSIAFI="0603"
-if cMun=="1600212":
-  xMun="CUTIAS"
+if xMun="CUTIAS":
+  cMun=="1600212"
   cMunSIAFI="0667"
-if cMun=="1600238":
-  xMun="FERREIRA GOMES"
+if xMun="FERREIRA GOMES":
+  cMun=="1600238"
   cMunSIAFI="0611"
-if cMun=="1600253":
-  xMun="ITAUBAL"
+if xMun="ITAUBAL":
+  cMun=="1600253"
   cMunSIAFI="0669"
-if cMun=="1600279":
-  xMun="LARANJAL DO JARI"
+if xMun="LARANJAL DO JARI":
+  cMun=="1600279"
   cMunSIAFI="0613"
-if cMun=="1600303":
-  xMun="MACAPA"
+if xMun="MACAPA":
+  cMun=="1600303"
   cMunSIAFI="0605"
-if cMun=="1600402":
-  xMun="MAZAGAO"
+if xMun="MAZAGAO":
+  cMun=="1600402"
   cMunSIAFI="0607"
-if cMun=="1600501":
-  xMun="OIAPOQUE"
+if xMun="OIAPOQUE":
+  cMun=="1600501"
   cMunSIAFI="0609"
-if cMun=="1600154":
-  xMun="PEDRA BRANCA DO AMAPARI"
+if xMun="PEDRA BRANCA DO AMAPARI":
+  cMun=="1600154"
   cMunSIAFI="0663"
-if cMun=="1600535":
-  xMun="PORTO GRANDE"
+if xMun="PORTO GRANDE":
+  cMun=="1600535"
   cMunSIAFI="0671"
-if cMun=="1600550":
-  xMun="PRACUUBA"
+if xMun="PRACUUBA":
+  cMun=="1600550"
   cMunSIAFI="0673"
-if cMun=="1600600":
-  xMun="SANTANA"
+if xMun="SANTANA":
+  cMun=="1600600"
   cMunSIAFI="0615"
-if cMun=="1600055":
-  xMun="SERRA DO NAVIO"
+if xMun="SERRA DO NAVIO":
+  cMun=="1600055"
   cMunSIAFI="0665"
-if cMun=="1600709":
-  xMun="TARTARUGALZINHO"
+if xMun="TARTARUGALZINHO":
+  cMun=="1600709"
   cMunSIAFI="0617"
-if cMun=="1600808":
-  xMun="VITORIA DO JARI"
+if xMun="VITORIA DO JARI":
+  cMun=="1600808"
   cMunSIAFI="0070"
-if cMun=="2900108":
-  xMun="ABAIRA"
+if xMun="ABAIRA":
+  cMun=="2900108"
   cMunSIAFI="3301"
-if cMun=="2900207":
-  xMun="ABARE"
+if xMun="ABARE":
+  cMun=="2900207"
   cMunSIAFI="3303"
-if cMun=="2900306":
-  xMun="ACAJUTIBA"
+if xMun="ACAJUTIBA":
+  cMun=="2900306"
   cMunSIAFI="3305"
-if cMun=="2900355":
-  xMun="ADUSTINA"
+if xMun="ADUSTINA":
+  cMun=="2900355"
   cMunSIAFI="3253"
-if cMun=="2900405":
-  xMun="AGUA FRIA"
+if xMun="AGUA FRIA":
+  cMun=="2900405"
   cMunSIAFI="3307"
-if cMun=="2900603":
-  xMun="AIQUARA"
+if xMun="AIQUARA":
+  cMun=="2900603"
   cMunSIAFI="3311"
-if cMun=="2900702":
-  xMun="ALAGOINHAS"
+if xMun="ALAGOINHAS":
+  cMun=="2900702"
   cMunSIAFI="3313"
-if cMun=="2900801":
-  xMun="ALCOBACA"
+if xMun="ALCOBACA":
+  cMun=="2900801"
   cMunSIAFI="3315"
-if cMun=="2900900":
-  xMun="ALMADINA"
+if xMun="ALMADINA":
+  cMun=="2900900"
   cMunSIAFI="3317"
-if cMun=="2901007":
-  xMun="AMARGOSA"
+if xMun="AMARGOSA":
+  cMun=="2901007"
   cMunSIAFI="3319"
-if cMun=="2901106":
-  xMun="AMELIA RODRIGUES"
+if xMun="AMELIA RODRIGUES":
+  cMun=="2901106"
   cMunSIAFI="3321"
-if cMun=="2901155":
-  xMun="AMERICA DOURADA"
+if xMun="AMERICA DOURADA":
+  cMun=="2901155"
   cMunSIAFI="3071"
-if cMun=="2901205":
-  xMun="ANAGE"
+if xMun="ANAGE":
+  cMun=="2901205"
   cMunSIAFI="3323"
-if cMun=="2901304":
-  xMun="ANDARAI"
+if xMun="ANDARAI":
+  cMun=="2901304"
   cMunSIAFI="3325"
-if cMun=="2901353":
-  xMun="ANDORINHA"
+if xMun="ANDORINHA":
+  cMun=="2901353"
   cMunSIAFI="3255"
-if cMun=="2901403":
-  xMun="ANGICAL"
+if xMun="ANGICAL":
+  cMun=="2901403"
   cMunSIAFI="3327"
-if cMun=="2901502":
-  xMun="ANGUERA"
+if xMun="ANGUERA":
+  cMun=="2901502"
   cMunSIAFI="3329"
-if cMun=="2901601":
-  xMun="ANTAS"
+if xMun="ANTAS":
+  cMun=="2901601"
   cMunSIAFI="3331"
-if cMun=="2901700":
-  xMun="ANTONIO CARDOSO"
+if xMun="ANTONIO CARDOSO":
+  cMun=="2901700"
   cMunSIAFI="3333"
-if cMun=="2901809":
-  xMun="ANTONIO GONCALVES"
+if xMun="ANTONIO GONCALVES":
+  cMun=="2901809"
   cMunSIAFI="3335"
-if cMun=="2901908":
-  xMun="APORA"
+if xMun="APORA":
+  cMun=="2901908"
   cMunSIAFI="3337"
-if cMun=="2901957":
-  xMun="APUAREMA"
+if xMun="APUAREMA":
+  cMun=="2901957"
   cMunSIAFI="3257"
-if cMun=="2902054":
-  xMun="ARACAS"
+if xMun="ARACAS":
+  cMun=="2902054"
   cMunSIAFI="3259"
-if cMun=="2902005":
-  xMun="ARACATU"
+if xMun="ARACATU":
+  cMun=="2902005"
   cMunSIAFI="3339"
-if cMun=="2902104":
-  xMun="ARACI"
+if xMun="ARACI":
+  cMun=="2902104"
   cMunSIAFI="3341"
-if cMun=="2902203":
-  xMun="ARAMARI"
+if xMun="ARAMARI":
+  cMun=="2902203"
   cMunSIAFI="3343"
-if cMun=="2902252":
-  xMun="ARATACA"
+if xMun="ARATACA":
+  cMun=="2902252"
   cMunSIAFI="3073"
-if cMun=="2902302":
-  xMun="ARATUIPE"
+if xMun="ARATUIPE":
+  cMun=="2902302"
   cMunSIAFI="3345"
-if cMun=="2902401":
-  xMun="AURELINO LEAL"
+if xMun="AURELINO LEAL":
+  cMun=="2902401"
   cMunSIAFI="3347"
-if cMun=="2902500":
-  xMun="BAIANOPOLIS"
+if xMun="BAIANOPOLIS":
+  cMun=="2902500"
   cMunSIAFI="3349"
-if cMun=="2902609":
-  xMun="BAIXA GRANDE"
+if xMun="BAIXA GRANDE":
+  cMun=="2902609"
   cMunSIAFI="3351"
-if cMun=="2902658":
-  xMun="BANZAÃŠ"
+if xMun="BANZAÃŠ":
+  cMun=="2902658"
   cMunSIAFI="3261"
-if cMun=="2902708":
-  xMun="BARRA"
+if xMun="BARRA":
+  cMun=="2902708"
   cMunSIAFI="3353"
-if cMun=="2902807":
-  xMun="BARRA DA ESTIVA"
+if xMun="BARRA DA ESTIVA":
+  cMun=="2902807"
   cMunSIAFI="3355"
-if cMun=="2902906":
-  xMun="BARRA DO CHOCA"
+if xMun="BARRA DO CHOCA":
+  cMun=="2902906"
   cMunSIAFI="3357"
-if cMun=="2903003":
-  xMun="BARRA DO MENDES"
+if xMun="BARRA DO MENDES":
+  cMun=="2903003"
   cMunSIAFI="3359"
-if cMun=="2903102":
-  xMun="BARRA DO ROCHA"
+if xMun="BARRA DO ROCHA":
+  cMun=="2903102"
   cMunSIAFI="3361"
-if cMun=="2903201":
-  xMun="BARREIRAS"
+if xMun="BARREIRAS":
+  cMun=="2903201"
   cMunSIAFI="3363"
-if cMun=="2903235":
-  xMun="BARRO ALTO"
+if xMun="BARRO ALTO":
+  cMun=="2903235"
   cMunSIAFI="3075"
-if cMun=="2903300":
-  xMun="BARRO PRETO"
+if xMun="BARRO PRETO":
+  cMun=="2903300"
   cMunSIAFI="3365"
-if cMun=="2903276":
-  xMun="BARROCAS"
+if xMun="BARROCAS":
+  cMun=="2903276"
   cMunSIAFI="1110"
-if cMun=="2903409":
-  xMun="BELMONTE"
+if xMun="BELMONTE":
+  cMun=="2903409"
   cMunSIAFI="3367"
-if cMun=="2903508":
-  xMun="BELO CAMPO"
+if xMun="BELO CAMPO":
+  cMun=="2903508"
   cMunSIAFI="3369"
-if cMun=="2903607":
-  xMun="BIRITINGA"
+if xMun="BIRITINGA":
+  cMun=="2903607"
   cMunSIAFI="3371"
-if cMun=="2903706":
-  xMun="BOA NOVA"
+if xMun="BOA NOVA":
+  cMun=="2903706"
   cMunSIAFI="3373"
-if cMun=="2903805":
-  xMun="BOA VISTA DO TUPIM"
+if xMun="BOA VISTA DO TUPIM":
+  cMun=="2903805"
   cMunSIAFI="3375"
-if cMun=="2903904":
-  xMun="BOM JESUS DA LAPA"
+if xMun="BOM JESUS DA LAPA":
+  cMun=="2903904"
   cMunSIAFI="3377"
-if cMun=="2903953":
-  xMun="BOM JESUS DA SERRA"
+if xMun="BOM JESUS DA SERRA":
+  cMun=="2903953"
   cMunSIAFI="3263"
-if cMun=="2904001":
-  xMun="BONINAL"
+if xMun="BONINAL":
+  cMun=="2904001"
   cMunSIAFI="3379"
-if cMun=="2904050":
-  xMun="BONITO"
+if xMun="BONITO":
+  cMun=="2904050"
   cMunSIAFI="3265"
-if cMun=="2904100":
-  xMun="BOQUIRA"
+if xMun="BOQUIRA":
+  cMun=="2904100"
   cMunSIAFI="3381"
-if cMun=="2904209":
-  xMun="BOTUPORA"
+if xMun="BOTUPORA":
+  cMun=="2904209"
   cMunSIAFI="3383"
-if cMun=="2904308":
-  xMun="BREJÃ•ES"
+if xMun="BREJÃ•ES":
+  cMun=="2904308"
   cMunSIAFI="3385"
-if cMun=="2904407":
-  xMun="BREJOLANDIA"
+if xMun="BREJOLANDIA":
+  cMun=="2904407"
   cMunSIAFI="3387"
-if cMun=="2904506":
-  xMun="BROTAS DE MACAUBAS"
+if xMun="BROTAS DE MACAUBAS":
+  cMun=="2904506"
   cMunSIAFI="3389"
-if cMun=="2904605":
-  xMun="BRUMADO"
+if xMun="BRUMADO":
+  cMun=="2904605"
   cMunSIAFI="3391"
-if cMun=="2904704":
-  xMun="BUERAREMA"
+if xMun="BUERAREMA":
+  cMun=="2904704"
   cMunSIAFI="3393"
-if cMun=="2904753":
-  xMun="BURITIRAMA"
+if xMun="BURITIRAMA":
+  cMun=="2904753"
   cMunSIAFI="3079"
-if cMun=="2904803":
-  xMun="CAATIBA"
+if xMun="CAATIBA":
+  cMun=="2904803"
   cMunSIAFI="3395"
-if cMun=="2904852":
-  xMun="CABACEIRAS DO PARAGUACU"
+if xMun="CABACEIRAS DO PARAGUACU":
+  cMun=="2904852"
   cMunSIAFI="3267"
-if cMun=="2904902":
-  xMun="CACHOEIRA"
+if xMun="CACHOEIRA":
+  cMun=="2904902"
   cMunSIAFI="3397"
-if cMun=="2905008":
-  xMun="CACULE"
+if xMun="CACULE":
+  cMun=="2905008"
   cMunSIAFI="3399"
-if cMun=="2905107":
-  xMun="CAEM"
+if xMun="CAEM":
+  cMun=="2905107"
   cMunSIAFI="3401"
-if cMun=="2905156":
-  xMun="CAETANOS"
+if xMun="CAETANOS":
+  cMun=="2905156"
   cMunSIAFI="3269"
-if cMun=="2905206":
-  xMun="CAETITE"
+if xMun="CAETITE":
+  cMun=="2905206"
   cMunSIAFI="3403"
-if cMun=="2905305":
-  xMun="CAFARNAUM"
+if xMun="CAFARNAUM":
+  cMun=="2905305"
   cMunSIAFI="3405"
-if cMun=="2905404":
-  xMun="CAIRU"
+if xMun="CAIRU":
+  cMun=="2905404"
   cMunSIAFI="3407"
-if cMun=="2905503":
-  xMun="CALDEIRAO GRANDE"
+if xMun="CALDEIRAO GRANDE":
+  cMun=="2905503"
   cMunSIAFI="3409"
-if cMun=="2905602":
-  xMun="CAMACAN"
+if xMun="CAMACAN":
+  cMun=="2905602"
   cMunSIAFI="3411"
-if cMun=="2905701":
-  xMun="CAMACARI"
+if xMun="CAMACARI":
+  cMun=="2905701"
   cMunSIAFI="3413"
-if cMun=="2905800":
-  xMun="CAMAMU"
+if xMun="CAMAMU":
+  cMun=="2905800"
   cMunSIAFI="3415"
-if cMun=="2905909":
-  xMun="CAMPO ALEGRE DE LOURDES"
+if xMun="CAMPO ALEGRE DE LOURDES":
+  cMun=="2905909"
   cMunSIAFI="3417"
-if cMun=="2906006":
-  xMun="CAMPO FORMOSO"
+if xMun="CAMPO FORMOSO":
+  cMun=="2906006"
   cMunSIAFI="3419"
-if cMun=="2906105":
-  xMun="CANAPOLIS"
+if xMun="CANAPOLIS":
+  cMun=="2906105"
   cMunSIAFI="3421"
-if cMun=="2906204":
-  xMun="CANARANA"
+if xMun="CANARANA":
+  cMun=="2906204"
   cMunSIAFI="3423"
-if cMun=="2906303":
-  xMun="CANAVIEIRAS"
+if xMun="CANAVIEIRAS":
+  cMun=="2906303"
   cMunSIAFI="3425"
-if cMun=="2906402":
-  xMun="CANDEAL"
+if xMun="CANDEAL":
+  cMun=="2906402"
   cMunSIAFI="3427"
-if cMun=="2906501":
-  xMun="CANDEIAS"
+if xMun="CANDEIAS":
+  cMun=="2906501"
   cMunSIAFI="3429"
-if cMun=="2906600":
-  xMun="CANDIBA"
+if xMun="CANDIBA":
+  cMun=="2906600"
   cMunSIAFI="3431"
-if cMun=="2906709":
-  xMun="CANDIDO SALES"
+if xMun="CANDIDO SALES":
+  cMun=="2906709"
   cMunSIAFI="3433"
-if cMun=="2906808":
-  xMun="CANSANCAO"
+if xMun="CANSANCAO":
+  cMun=="2906808"
   cMunSIAFI="3435"
-if cMun=="2906824":
-  xMun="CANUDOS"
+if xMun="CANUDOS":
+  cMun=="2906824"
   cMunSIAFI="3085"
-if cMun=="2906857":
-  xMun="CAPELA DO ALTO ALEGRE"
+if xMun="CAPELA DO ALTO ALEGRE":
+  cMun=="2906857"
   cMunSIAFI="3081"
-if cMun=="2906873":
-  xMun="CAPIM GROSSO"
+if xMun="CAPIM GROSSO":
+  cMun=="2906873"
   cMunSIAFI="3083"
-if cMun=="2906899":
-  xMun="CARAIBAS"
+if xMun="CARAIBAS":
+  cMun=="2906899"
   cMunSIAFI="3271"
-if cMun=="2906907":
-  xMun="CARAVELAS"
+if xMun="CARAVELAS":
+  cMun=="2906907"
   cMunSIAFI="3437"
-if cMun=="2907004":
-  xMun="CARDEAL DA SILVA"
+if xMun="CARDEAL DA SILVA":
+  cMun=="2907004"
   cMunSIAFI="3439"
-if cMun=="2907103":
-  xMun="CARINHANHA"
+if xMun="CARINHANHA":
+  cMun=="2907103"
   cMunSIAFI="3441"
-if cMun=="2907202":
-  xMun="CASA NOVA"
+if xMun="CASA NOVA":
+  cMun=="2907202"
   cMunSIAFI="3443"
-if cMun=="2907301":
-  xMun="CASTRO ALVES"
+if xMun="CASTRO ALVES":
+  cMun=="2907301"
   cMunSIAFI="3445"
-if cMun=="2907400":
-  xMun="CATOLANDIA"
+if xMun="CATOLANDIA":
+  cMun=="2907400"
   cMunSIAFI="3447"
-if cMun=="2907509":
-  xMun="CATU"
+if xMun="CATU":
+  cMun=="2907509"
   cMunSIAFI="3449"
-if cMun=="2907558":
-  xMun="CATURAMA"
+if xMun="CATURAMA":
+  cMun=="2907558"
   cMunSIAFI="3273"
-if cMun=="2907608":
-  xMun="CENTRAL"
+if xMun="CENTRAL":
+  cMun=="2907608"
   cMunSIAFI="3451"
-if cMun=="2907707":
-  xMun="CHORROCHO"
+if xMun="CHORROCHO":
+  cMun=="2907707"
   cMunSIAFI="3453"
-if cMun=="2907806":
-  xMun="CICERO DANTAS"
+if xMun="CICERO DANTAS":
+  cMun=="2907806"
   cMunSIAFI="3455"
-if cMun=="2907905":
-  xMun="CIPO"
+if xMun="CIPO":
+  cMun=="2907905"
   cMunSIAFI="3457"
-if cMun=="2908002":
-  xMun="COARACI"
+if xMun="COARACI":
+  cMun=="2908002"
   cMunSIAFI="3459"
-if cMun=="2908101":
-  xMun="COCOS"
+if xMun="COCOS":
+  cMun=="2908101"
   cMunSIAFI="3461"
-if cMun=="2908200":
-  xMun="CONCEICAO DA FEIRA"
+if xMun="CONCEICAO DA FEIRA":
+  cMun=="2908200"
   cMunSIAFI="3463"
-if cMun=="2908309":
-  xMun="CONCEICAO DO ALMEIDA"
+if xMun="CONCEICAO DO ALMEIDA":
+  cMun=="2908309"
   cMunSIAFI="3465"
-if cMun=="2908408":
-  xMun="CONCEICAO DO COITE"
+if xMun="CONCEICAO DO COITE":
+  cMun=="2908408"
   cMunSIAFI="3467"
-if cMun=="2908507":
-  xMun="CONCEICAO DO JACUIPE"
+if xMun="CONCEICAO DO JACUIPE":
+  cMun=="2908507"
   cMunSIAFI="3469"
-if cMun=="2908606":
-  xMun="CONDE"
+if xMun="CONDE":
+  cMun=="2908606"
   cMunSIAFI="3471"
-if cMun=="2908705":
-  xMun="CONDEUBA"
+if xMun="CONDEUBA":
+  cMun=="2908705"
   cMunSIAFI="3473"
-if cMun=="2908804":
-  xMun="CONTENDAS DO SINCORA"
+if xMun="CONTENDAS DO SINCORA":
+  cMun=="2908804"
   cMunSIAFI="3475"
-if cMun=="2908903":
-  xMun="CORACAO DE MARIA"
+if xMun="CORACAO DE MARIA":
+  cMun=="2908903"
   cMunSIAFI="3477"
-if cMun=="2909000":
-  xMun="CORDEIROS"
+if xMun="CORDEIROS":
+  cMun=="2909000"
   cMunSIAFI="3479"
-if cMun=="2909109":
-  xMun="CORIBE"
+if xMun="CORIBE":
+  cMun=="2909109"
   cMunSIAFI="3481"
-if cMun=="2909208":
-  xMun="CORONEL JOAO SA"
+if xMun="CORONEL JOAO SA":
+  cMun=="2909208"
   cMunSIAFI="3483"
-if cMun=="2909307":
-  xMun="CORRENTINA"
+if xMun="CORRENTINA":
+  cMun=="2909307"
   cMunSIAFI="3485"
-if cMun=="2909406":
-  xMun="COTEGIPE"
+if xMun="COTEGIPE":
+  cMun=="2909406"
   cMunSIAFI="3487"
-if cMun=="2909505":
-  xMun="CRAVOLANDIA"
+if xMun="CRAVOLANDIA":
+  cMun=="2909505"
   cMunSIAFI="3489"
-if cMun=="2909604":
-  xMun="CRISOPOLIS"
+if xMun="CRISOPOLIS":
+  cMun=="2909604"
   cMunSIAFI="3491"
-if cMun=="2909703":
-  xMun="CRISTOPOLIS"
+if xMun="CRISTOPOLIS":
+  cMun=="2909703"
   cMunSIAFI="3493"
-if cMun=="2909802":
-  xMun="CRUZ DAS ALMAS"
+if xMun="CRUZ DAS ALMAS":
+  cMun=="2909802"
   cMunSIAFI="3495"
-if cMun=="2909901":
-  xMun="CURACA"
+if xMun="CURACA":
+  cMun=="2909901"
   cMunSIAFI="3497"
-if cMun=="2910008":
-  xMun="DARIO MEIRA"
+if xMun="DARIO MEIRA":
+  cMun=="2910008"
   cMunSIAFI="3499"
-if cMun=="2910057":
-  xMun="DIAS D AVILA"
+if xMun="DIAS D AVILA":
+  cMun=="2910057"
   cMunSIAFI="3087"
-if cMun=="2910107":
-  xMun="DOM BASILIO"
+if xMun="DOM BASILIO":
+  cMun=="2910107"
   cMunSIAFI="3501"
-if cMun=="2910206":
-  xMun="DOM MACEDO COSTA"
+if xMun="DOM MACEDO COSTA":
+  cMun=="2910206"
   cMunSIAFI="3503"
-if cMun=="2910305":
-  xMun="ELISIO MEDRADO"
+if xMun="ELISIO MEDRADO":
+  cMun=="2910305"
   cMunSIAFI="3505"
-if cMun=="2910404":
-  xMun="ENCRUZILHADA"
+if xMun="ENCRUZILHADA":
+  cMun=="2910404"
   cMunSIAFI="3507"
-if cMun=="2910503":
-  xMun="ENTRE RIOS"
+if xMun="ENTRE RIOS":
+  cMun=="2910503"
   cMunSIAFI="3509"
-if cMun=="2900504":
-  xMun="ERICO CARDOSO"
+if xMun="ERICO CARDOSO":
+  cMun=="2900504"
   cMunSIAFI="3309"
-if cMun=="2910602":
-  xMun="ESPLANADA"
+if xMun="ESPLANADA":
+  cMun=="2910602"
   cMunSIAFI="3511"
-if cMun=="2910701":
-  xMun="EUCLIDES DA CUNHA"
+if xMun="EUCLIDES DA CUNHA":
+  cMun=="2910701"
   cMunSIAFI="3513"
-if cMun=="2910727":
-  xMun="EUNAPOLIS"
+if xMun="EUNAPOLIS":
+  cMun=="2910727"
   cMunSIAFI="3117"
-if cMun=="2910750":
-  xMun="FATIMA"
+if xMun="FATIMA":
+  cMun=="2910750"
   cMunSIAFI="3089"
-if cMun=="2910776":
-  xMun="FEIRA DA MATA"
+if xMun="FEIRA DA MATA":
+  cMun=="2910776"
   cMunSIAFI="3275"
-if cMun=="2910800":
-  xMun="FEIRA DE SANTANA"
+if xMun="FEIRA DE SANTANA":
+  cMun=="2910800"
   cMunSIAFI="3515"
-if cMun=="2910859":
-  xMun="FILADELFIA"
+if xMun="FILADELFIA":
+  cMun=="2910859"
   cMunSIAFI="3091"
-if cMun=="2910909":
-  xMun="FIRMINO ALVES"
+if xMun="FIRMINO ALVES":
+  cMun=="2910909"
   cMunSIAFI="3517"
-if cMun=="2911006":
-  xMun="FLORESTA AZUL"
+if xMun="FLORESTA AZUL":
+  cMun=="2911006"
   cMunSIAFI="3519"
-if cMun=="2911105":
-  xMun="FORMOSA DO RIO PRETO"
+if xMun="FORMOSA DO RIO PRETO":
+  cMun=="2911105"
   cMunSIAFI="3521"
-if cMun=="2911204":
-  xMun="GANDU"
+if xMun="GANDU":
+  cMun=="2911204"
   cMunSIAFI="3523"
-if cMun=="2911253":
-  xMun="GAVIAO"
+if xMun="GAVIAO":
+  cMun=="2911253"
   cMunSIAFI="3093"
-if cMun=="2911303":
-  xMun="GENTIO DO OURO"
+if xMun="GENTIO DO OURO":
+  cMun=="2911303"
   cMunSIAFI="3525"
-if cMun=="2911402":
-  xMun="GLORIA"
+if xMun="GLORIA":
+  cMun=="2911402"
   cMunSIAFI="3527"
-if cMun=="2911501":
-  xMun="GONGOGI"
+if xMun="GONGOGI":
+  cMun=="2911501"
   cMunSIAFI="3529"
-if cMun=="2911600":
-  xMun="GOVERNADOR MANGABEIRA"
+if xMun="GOVERNADOR MANGABEIRA":
+  cMun=="2911600"
   cMunSIAFI="3531"
-if cMun=="2911659":
-  xMun="GUAJERU"
+if xMun="GUAJERU":
+  cMun=="2911659"
   cMunSIAFI="3095"
-if cMun=="2911709":
-  xMun="GUANAMBI"
+if xMun="GUANAMBI":
+  cMun=="2911709"
   cMunSIAFI="3533"
-if cMun=="2911808":
-  xMun="GUARATINGA"
+if xMun="GUARATINGA":
+  cMun=="2911808"
   cMunSIAFI="3535"
-if cMun=="2911857":
-  xMun="HELIOPOLIS"
+if xMun="HELIOPOLIS":
+  cMun=="2911857"
   cMunSIAFI="3097"
-if cMun=="2911907":
-  xMun="IACU"
+if xMun="IACU":
+  cMun=="2911907"
   cMunSIAFI="3537"
-if cMun=="2912004":
-  xMun="IBIASSUCÃŠ"
+if xMun="IBIASSUCÃŠ":
+  cMun=="2912004"
   cMunSIAFI="3539"
-if cMun=="2912103":
-  xMun="IBICARAI"
+if xMun="IBICARAI":
+  cMun=="2912103"
   cMunSIAFI="3541"
-if cMun=="2912202":
-  xMun="IBICOARA"
+if xMun="IBICOARA":
+  cMun=="2912202"
   cMunSIAFI="3543"
-if cMun=="2912301":
-  xMun="IBICUI"
+if xMun="IBICUI":
+  cMun=="2912301"
   cMunSIAFI="3545"
-if cMun=="2912400":
-  xMun="IBIPEBA"
+if xMun="IBIPEBA":
+  cMun=="2912400"
   cMunSIAFI="3547"
-if cMun=="2912509":
-  xMun="IBIPITANGA"
+if xMun="IBIPITANGA":
+  cMun=="2912509"
   cMunSIAFI="3551"
-if cMun=="2912608":
-  xMun="IBIQUERA"
+if xMun="IBIQUERA":
+  cMun=="2912608"
   cMunSIAFI="3553"
-if cMun=="2912707":
-  xMun="IBIRAPITANGA"
+if xMun="IBIRAPITANGA":
+  cMun=="2912707"
   cMunSIAFI="3555"
-if cMun=="2912806":
-  xMun="IBIRAPUA"
+if xMun="IBIRAPUA":
+  cMun=="2912806"
   cMunSIAFI="3557"
-if cMun=="2912905":
-  xMun="IBIRATAIA"
+if xMun="IBIRATAIA":
+  cMun=="2912905"
   cMunSIAFI="3559"
-if cMun=="2913002":
-  xMun="IBITIARA"
+if xMun="IBITIARA":
+  cMun=="2913002"
   cMunSIAFI="3561"
-if cMun=="2913101":
-  xMun="IBITITA"
+if xMun="IBITITA":
+  cMun=="2913101"
   cMunSIAFI="3563"
-if cMun=="2913200":
-  xMun="IBOTIRAMA"
+if xMun="IBOTIRAMA":
+  cMun=="2913200"
   cMunSIAFI="3565"
-if cMun=="2913309":
-  xMun="ICHU"
+if xMun="ICHU":
+  cMun=="2913309"
   cMunSIAFI="3567"
-if cMun=="2913408":
-  xMun="IGAPORA"
+if xMun="IGAPORA":
+  cMun=="2913408"
   cMunSIAFI="3569"
-if cMun=="2913457":
-  xMun="IGRAPIUNA"
+if xMun="IGRAPIUNA":
+  cMun=="2913457"
   cMunSIAFI="3277"
-if cMun=="2913507":
-  xMun="IGUAI"
+if xMun="IGUAI":
+  cMun=="2913507"
   cMunSIAFI="3571"
-if cMun=="2913606":
-  xMun="ILHEUS"
+if xMun="ILHEUS":
+  cMun=="2913606"
   cMunSIAFI="3573"
-if cMun=="2913705":
-  xMun="INHAMBUPE"
+if xMun="INHAMBUPE":
+  cMun=="2913705"
   cMunSIAFI="3575"
-if cMun=="2913804":
-  xMun="IPECAETA"
+if xMun="IPECAETA":
+  cMun=="2913804"
   cMunSIAFI="3577"
-if cMun=="2913903":
-  xMun="IPIAU"
+if xMun="IPIAU":
+  cMun=="2913903"
   cMunSIAFI="3579"
-if cMun=="2914000":
-  xMun="IPIRA"
+if xMun="IPIRA":
+  cMun=="2914000"
   cMunSIAFI="3581"
-if cMun=="2914109":
-  xMun="IPUPIARA"
+if xMun="IPUPIARA":
+  cMun=="2914109"
   cMunSIAFI="3583"
-if cMun=="2914208":
-  xMun="IRAJUBA"
+if xMun="IRAJUBA":
+  cMun=="2914208"
   cMunSIAFI="3585"
-if cMun=="2914307":
-  xMun="IRAMAIA"
+if xMun="IRAMAIA":
+  cMun=="2914307"
   cMunSIAFI="3587"
-if cMun=="2914406":
-  xMun="IRAQUARA"
+if xMun="IRAQUARA":
+  cMun=="2914406"
   cMunSIAFI="3589"
-if cMun=="2914505":
-  xMun="IRARA"
+if xMun="IRARA":
+  cMun=="2914505"
   cMunSIAFI="3591"
-if cMun=="2914604":
-  xMun="IRECÃŠ"
+if xMun="IRECÃŠ":
+  cMun=="2914604"
   cMunSIAFI="3593"
-if cMun=="2914653":
-  xMun="ITABELA"
+if xMun="ITABELA":
+  cMun=="2914653"
   cMunSIAFI="3279"
-if cMun=="2914703":
-  xMun="ITABERABA"
+if xMun="ITABERABA":
+  cMun=="2914703"
   cMunSIAFI="3595"
-if cMun=="2914802":
-  xMun="ITABUNA"
+if xMun="ITABUNA":
+  cMun=="2914802"
   cMunSIAFI="3597"
-if cMun=="2914901":
-  xMun="ITACARE"
+if xMun="ITACARE":
+  cMun=="2914901"
   cMunSIAFI="3599"
-if cMun=="2915007":
-  xMun="ITAETE"
+if xMun="ITAETE":
+  cMun=="2915007"
   cMunSIAFI="3601"
-if cMun=="2915106":
-  xMun="ITAGI"
+if xMun="ITAGI":
+  cMun=="2915106"
   cMunSIAFI="3603"
-if cMun=="2915205":
-  xMun="ITAGIBA"
+if xMun="ITAGIBA":
+  cMun=="2915205"
   cMunSIAFI="3605"
-if cMun=="2915304":
-  xMun="ITAGIMIRIM"
+if xMun="ITAGIMIRIM":
+  cMun=="2915304"
   cMunSIAFI="3607"
-if cMun=="2915353":
-  xMun="ITAGUACU DA BAHIA"
+if xMun="ITAGUACU DA BAHIA":
+  cMun=="2915353"
   cMunSIAFI="3281"
-if cMun=="2915403":
-  xMun="ITAJU DO COLONIA"
+if xMun="ITAJU DO COLONIA":
+  cMun=="2915403"
   cMunSIAFI="3609"
-if cMun=="2915502":
-  xMun="ITAJUIPE"
+if xMun="ITAJUIPE":
+  cMun=="2915502"
   cMunSIAFI="3611"
-if cMun=="2915601":
-  xMun="ITAMARAJU"
+if xMun="ITAMARAJU":
+  cMun=="2915601"
   cMunSIAFI="3613"
-if cMun=="2915700":
-  xMun="ITAMARI"
+if xMun="ITAMARI":
+  cMun=="2915700"
   cMunSIAFI="3615"
-if cMun=="2915809":
-  xMun="ITAMBE"
+if xMun="ITAMBE":
+  cMun=="2915809"
   cMunSIAFI="3617"
-if cMun=="2915908":
-  xMun="ITANAGRA"
+if xMun="ITANAGRA":
+  cMun=="2915908"
   cMunSIAFI="3619"
-if cMun=="2916005":
-  xMun="ITANHEM"
+if xMun="ITANHEM":
+  cMun=="2916005"
   cMunSIAFI="3621"
-if cMun=="2916104":
-  xMun="ITAPARICA"
+if xMun="ITAPARICA":
+  cMun=="2916104"
   cMunSIAFI="3623"
-if cMun=="2916203":
-  xMun="ITAPE"
+if xMun="ITAPE":
+  cMun=="2916203"
   cMunSIAFI="3625"
-if cMun=="2916302":
-  xMun="ITAPEBI"
+if xMun="ITAPEBI":
+  cMun=="2916302"
   cMunSIAFI="3627"
-if cMun=="2916401":
-  xMun="ITAPETINGA"
+if xMun="ITAPETINGA":
+  cMun=="2916401"
   cMunSIAFI="3629"
-if cMun=="2916500":
-  xMun="ITAPICURU"
+if xMun="ITAPICURU":
+  cMun=="2916500"
   cMunSIAFI="3631"
-if cMun=="2916609":
-  xMun="ITAPITANGA"
+if xMun="ITAPITANGA":
+  cMun=="2916609"
   cMunSIAFI="3633"
-if cMun=="2916708":
-  xMun="ITAQUARA"
+if xMun="ITAQUARA":
+  cMun=="2916708"
   cMunSIAFI="3635"
-if cMun=="2916807":
-  xMun="ITARANTIM"
+if xMun="ITARANTIM":
+  cMun=="2916807"
   cMunSIAFI="3637"
-if cMun=="2916856":
-  xMun="ITATIM"
+if xMun="ITATIM":
+  cMun=="2916856"
   cMunSIAFI="3283"
-if cMun=="2916906":
-  xMun="ITIRUCU"
+if xMun="ITIRUCU":
+  cMun=="2916906"
   cMunSIAFI="3639"
-if cMun=="2917003":
-  xMun="ITIUBA"
+if xMun="ITIUBA":
+  cMun=="2917003"
   cMunSIAFI="3641"
-if cMun=="2917102":
-  xMun="ITORORO"
+if xMun="ITORORO":
+  cMun=="2917102"
   cMunSIAFI="3643"
-if cMun=="2917201":
-  xMun="ITUACU"
+if xMun="ITUACU":
+  cMun=="2917201"
   cMunSIAFI="3645"
-if cMun=="2917300":
-  xMun="ITUBERA"
+if xMun="ITUBERA":
+  cMun=="2917300"
   cMunSIAFI="3647"
-if cMun=="2917334":
-  xMun="IUIU"
+if xMun="IUIU":
+  cMun=="2917334"
   cMunSIAFI="3285"
-if cMun=="2917359":
-  xMun="JABORANDI"
+if xMun="JABORANDI":
+  cMun=="2917359"
   cMunSIAFI="9859"
-if cMun=="2917409":
-  xMun="JACARACI"
+if xMun="JACARACI":
+  cMun=="2917409"
   cMunSIAFI="3649"
-if cMun=="2917508":
-  xMun="JACOBINA"
+if xMun="JACOBINA":
+  cMun=="2917508"
   cMunSIAFI="3651"
-if cMun=="2917607":
-  xMun="JAGUAQUARA"
+if xMun="JAGUAQUARA":
+  cMun=="2917607"
   cMunSIAFI="3653"
-if cMun=="2917706":
-  xMun="JAGUARARI"
+if xMun="JAGUARARI":
+  cMun=="2917706"
   cMunSIAFI="3655"
-if cMun=="2917805":
-  xMun="JAGUARIPE"
+if xMun="JAGUARIPE":
+  cMun=="2917805"
   cMunSIAFI="3657"
-if cMun=="2917904":
-  xMun="JANDAIRA"
+if xMun="JANDAIRA":
+  cMun=="2917904"
   cMunSIAFI="3659"
-if cMun=="2918001":
-  xMun="JEQUIE"
+if xMun="JEQUIE":
+  cMun=="2918001"
   cMunSIAFI="3661"
-if cMun=="2918100":
-  xMun="JEREMOABO"
+if xMun="JEREMOABO":
+  cMun=="2918100"
   cMunSIAFI="3663"
-if cMun=="2918209":
-  xMun="JIQUIRICA"
+if xMun="JIQUIRICA":
+  cMun=="2918209"
   cMunSIAFI="3665"
-if cMun=="2918308":
-  xMun="JITAUNA"
+if xMun="JITAUNA":
+  cMun=="2918308"
   cMunSIAFI="3667"
-if cMun=="2918357":
-  xMun="JOAO DOURADO"
+if xMun="JOAO DOURADO":
+  cMun=="2918357"
   cMunSIAFI="3099"
-if cMun=="2918407":
-  xMun="JUAZEIRO"
+if xMun="JUAZEIRO":
+  cMun=="2918407"
   cMunSIAFI="3669"
-if cMun=="2918456":
-  xMun="JUCURUCU"
+if xMun="JUCURUCU":
+  cMun=="2918456"
   cMunSIAFI="3287"
-if cMun=="2918506":
-  xMun="JUSSARA"
+if xMun="JUSSARA":
+  cMun=="2918506"
   cMunSIAFI="3671"
-if cMun=="2918555":
-  xMun="JUSSARI"
+if xMun="JUSSARI":
+  cMun=="2918555"
   cMunSIAFI="3069"
-if cMun=="2918605":
-  xMun="JUSSIAPE"
+if xMun="JUSSIAPE":
+  cMun=="2918605"
   cMunSIAFI="3673"
-if cMun=="2918704":
-  xMun="LAFAIETE COUTINHO"
+if xMun="LAFAIETE COUTINHO":
+  cMun=="2918704"
   cMunSIAFI="3675"
-if cMun=="2918753":
-  xMun="LAGOA REAL"
+if xMun="LAGOA REAL":
+  cMun=="2918753"
   cMunSIAFI="3289"
-if cMun=="2918803":
-  xMun="LAJE"
+if xMun="LAJE":
+  cMun=="2918803"
   cMunSIAFI="3677"
-if cMun=="2918902":
-  xMun="LAJEDAO"
+if xMun="LAJEDAO":
+  cMun=="2918902"
   cMunSIAFI="3679"
-if cMun=="2919009":
-  xMun="LAJEDINHO"
+if xMun="LAJEDINHO":
+  cMun=="2919009"
   cMunSIAFI="3681"
-if cMun=="2919058":
-  xMun="LAJEDO DO TABOCAL"
+if xMun="LAJEDO DO TABOCAL":
+  cMun=="2919058"
   cMunSIAFI="3291"
-if cMun=="2919108":
-  xMun="LAMARAO"
+if xMun="LAMARAO":
+  cMun=="2919108"
   cMunSIAFI="3683"
-if cMun=="2919157":
-  xMun="LAPAO"
+if xMun="LAPAO":
+  cMun=="2919157"
   cMunSIAFI="3973"
-if cMun=="2919207":
-  xMun="LAURO DE FREITAS"
+if xMun="LAURO DE FREITAS":
+  cMun=="2919207"
   cMunSIAFI="3685"
-if cMun=="2919306":
-  xMun="LENCOIS"
+if xMun="LENCOIS":
+  cMun=="2919306"
   cMunSIAFI="3687"
-if cMun=="2919405":
-  xMun="LICINIO DE ALMEIDA"
+if xMun="LICINIO DE ALMEIDA":
+  cMun=="2919405"
   cMunSIAFI="3689"
-if cMun=="2919504":
-  xMun="LIVRAMENTO DE NOSSA SENHORA"
+if xMun="LIVRAMENTO DE NOSSA SENHORA":
+  cMun=="2919504"
   cMunSIAFI="3691"
-if cMun=="2919553":
-  xMun="LUIS EDUARDO MAGALHAES"
+if xMun="LUIS EDUARDO MAGALHAES":
+  cMun=="2919553"
   cMunSIAFI="1112"
-if cMun=="2919603":
-  xMun="MACAJUBA"
+if xMun="MACAJUBA":
+  cMun=="2919603"
   cMunSIAFI="3693"
-if cMun=="2919702":
-  xMun="MACARANI"
+if xMun="MACARANI":
+  cMun=="2919702"
   cMunSIAFI="3695"
-if cMun=="2919801":
-  xMun="MACAUBAS"
+if xMun="MACAUBAS":
+  cMun=="2919801"
   cMunSIAFI="3697"
-if cMun=="2919900":
-  xMun="MACURURE"
+if xMun="MACURURE":
+  cMun=="2919900"
   cMunSIAFI="3699"
-if cMun=="2919926":
-  xMun="MADRE DE DEUS"
+if xMun="MADRE DE DEUS":
+  cMun=="2919926"
   cMunSIAFI="3293"
-if cMun=="2919959":
-  xMun="MAETINGA"
+if xMun="MAETINGA":
+  cMun=="2919959"
   cMunSIAFI="3975"
-if cMun=="2920007":
-  xMun="MAIQUINIQUE"
+if xMun="MAIQUINIQUE":
+  cMun=="2920007"
   cMunSIAFI="3701"
-if cMun=="2920106":
-  xMun="MAIRI"
+if xMun="MAIRI":
+  cMun=="2920106"
   cMunSIAFI="3703"
-if cMun=="2920205":
-  xMun="MALHADA"
+if xMun="MALHADA":
+  cMun=="2920205"
   cMunSIAFI="3705"
-if cMun=="2920304":
-  xMun="MALHADA DE PEDRAS"
+if xMun="MALHADA DE PEDRAS":
+  cMun=="2920304"
   cMunSIAFI="3707"
-if cMun=="2920403":
-  xMun="MANOEL VITORINO"
+if xMun="MANOEL VITORINO":
+  cMun=="2920403"
   cMunSIAFI="3709"
-if cMun=="2920452":
-  xMun="MANSIDAO"
+if xMun="MANSIDAO":
+  cMun=="2920452"
   cMunSIAFI="3977"
-if cMun=="2920502":
-  xMun="MARACAS"
+if xMun="MARACAS":
+  cMun=="2920502"
   cMunSIAFI="3711"
-if cMun=="2920601":
-  xMun="MARAGOGIPE"
+if xMun="MARAGOGIPE":
+  cMun=="2920601"
   cMunSIAFI="3713"
-if cMun=="2920700":
-  xMun="MARAU"
+if xMun="MARAU":
+  cMun=="2920700"
   cMunSIAFI="3715"
-if cMun=="2920809":
-  xMun="MARCIONILIO SOUZA"
+if xMun="MARCIONILIO SOUZA":
+  cMun=="2920809"
   cMunSIAFI="3717"
-if cMun=="2920908":
-  xMun="MASCOTE"
+if xMun="MASCOTE":
+  cMun=="2920908"
   cMunSIAFI="3719"
-if cMun=="2921005":
-  xMun="MATA DE SAO JOAO"
+if xMun="MATA DE SAO JOAO":
+  cMun=="2921005"
   cMunSIAFI="3721"
-if cMun=="2921054":
-  xMun="MATINA"
+if xMun="MATINA":
+  cMun=="2921054"
   cMunSIAFI="3295"
-if cMun=="2921104":
-  xMun="MEDEIROS NETO"
+if xMun="MEDEIROS NETO":
+  cMun=="2921104"
   cMunSIAFI="3723"
-if cMun=="2921203":
-  xMun="MIGUEL CALMON"
+if xMun="MIGUEL CALMON":
+  cMun=="2921203"
   cMunSIAFI="3725"
-if cMun=="2921302":
-  xMun="MILAGRES"
+if xMun="MILAGRES":
+  cMun=="2921302"
   cMunSIAFI="3727"
-if cMun=="2921401":
-  xMun="MIRANGABA"
+if xMun="MIRANGABA":
+  cMun=="2921401"
   cMunSIAFI="3729"
-if cMun=="2921450":
-  xMun="MIRANTE"
+if xMun="MIRANTE":
+  cMun=="2921450"
   cMunSIAFI="3297"
-if cMun=="2921500":
-  xMun="MONTE SANTO"
+if xMun="MONTE SANTO":
+  cMun=="2921500"
   cMunSIAFI="3731"
-if cMun=="2921609":
-  xMun="MORPARA"
+if xMun="MORPARA":
+  cMun=="2921609"
   cMunSIAFI="3733"
-if cMun=="2921708":
-  xMun="MORRO DO CHAPEU"
+if xMun="MORRO DO CHAPEU":
+  cMun=="2921708"
   cMunSIAFI="3735"
-if cMun=="2921807":
-  xMun="MORTUGABA"
+if xMun="MORTUGABA":
+  cMun=="2921807"
   cMunSIAFI="3737"
-if cMun=="2921906":
-  xMun="MUCUGÃŠ"
+if xMun="MUCUGÃŠ":
+  cMun=="2921906"
   cMunSIAFI="3739"
-if cMun=="2922003":
-  xMun="MUCURI"
+if xMun="MUCURI":
+  cMun=="2922003"
   cMunSIAFI="3741"
-if cMun=="2922052":
-  xMun="MULUNGU DO MORRO"
+if xMun="MULUNGU DO MORRO":
+  cMun=="2922052"
   cMunSIAFI="3299"
-if cMun=="2922102":
-  xMun="MUNDO NOVO"
+if xMun="MUNDO NOVO":
+  cMun=="2922102"
   cMunSIAFI="3743"
-if cMun=="2922201":
-  xMun="MUNIZ FERREIRA"
+if xMun="MUNIZ FERREIRA":
+  cMun=="2922201"
   cMunSIAFI="3745"
-if cMun=="2922250":
-  xMun="MUQUEM DE SAO FRANCISCO"
+if xMun="MUQUEM DE SAO FRANCISCO":
+  cMun=="2922250"
   cMunSIAFI="3005"
-if cMun=="2922300":
-  xMun="MURITIBA"
+if xMun="MURITIBA":
+  cMun=="2922300"
   cMunSIAFI="3747"
-if cMun=="2922409":
-  xMun="MUTUIPE"
+if xMun="MUTUIPE":
+  cMun=="2922409"
   cMunSIAFI="3749"
-if cMun=="2922508":
-  xMun="NAZARE"
+if xMun="NAZARE":
+  cMun=="2922508"
   cMunSIAFI="3751"
-if cMun=="2922607":
-  xMun="NILO PECANHA"
+if xMun="NILO PECANHA":
+  cMun=="2922607"
   cMunSIAFI="3753"
-if cMun=="2922656":
-  xMun="NORDESTINA"
+if xMun="NORDESTINA":
+  cMun=="2922656"
   cMunSIAFI="3979"
-if cMun=="2922706":
-  xMun="NOVA CANAA"
+if xMun="NOVA CANAA":
+  cMun=="2922706"
   cMunSIAFI="3755"
-if cMun=="2922730":
-  xMun="NOVA FATIMA"
+if xMun="NOVA FATIMA":
+  cMun=="2922730"
   cMunSIAFI="3007"
-if cMun=="2922755":
-  xMun="NOVA IBIA"
+if xMun="NOVA IBIA":
+  cMun=="2922755"
   cMunSIAFI="3009"
-if cMun=="2922805":
-  xMun="NOVA ITARANA"
+if xMun="NOVA ITARANA":
+  cMun=="2922805"
   cMunSIAFI="3757"
-if cMun=="2922854":
-  xMun="NOVA REDENCAO"
+if xMun="NOVA REDENCAO":
+  cMun=="2922854"
   cMunSIAFI="3011"
-if cMun=="2922904":
-  xMun="NOVA SOURE"
+if xMun="NOVA SOURE":
+  cMun=="2922904"
   cMunSIAFI="3759"
-if cMun=="2923001":
-  xMun="NOVA VICOSA"
+if xMun="NOVA VICOSA":
+  cMun=="2923001"
   cMunSIAFI="3761"
-if cMun=="2923035":
-  xMun="NOVO HORIZONTE"
+if xMun="NOVO HORIZONTE":
+  cMun=="2923035"
   cMunSIAFI="3013"
-if cMun=="2923050":
-  xMun="NOVO TRIUNFO"
+if xMun="NOVO TRIUNFO":
+  cMun=="2923050"
   cMunSIAFI="3015"
-if cMun=="2923100":
-  xMun="OLINDINA"
+if xMun="OLINDINA":
+  cMun=="2923100"
   cMunSIAFI="3763"
-if cMun=="2923209":
-  xMun="OLIVEIRA DOS BREJINHOS"
+if xMun="OLIVEIRA DOS BREJINHOS":
+  cMun=="2923209"
   cMunSIAFI="3765"
-if cMun=="2923308":
-  xMun="OURICANGAS"
+if xMun="OURICANGAS":
+  cMun=="2923308"
   cMunSIAFI="3767"
-if cMun=="2923357":
-  xMun="OUROLANDIA"
+if xMun="OUROLANDIA":
+  cMun=="2923357"
   cMunSIAFI="3017"
-if cMun=="2923407":
-  xMun="PALMAS DE MONTE ALTO"
+if xMun="PALMAS DE MONTE ALTO":
+  cMun=="2923407"
   cMunSIAFI="3769"
-if cMun=="2923506":
-  xMun="PALMEIRAS"
+if xMun="PALMEIRAS":
+  cMun=="2923506"
   cMunSIAFI="3771"
-if cMun=="2923605":
-  xMun="PARAMIRIM"
+if xMun="PARAMIRIM":
+  cMun=="2923605"
   cMunSIAFI="3773"
-if cMun=="2923704":
-  xMun="PARATINGA"
+if xMun="PARATINGA":
+  cMun=="2923704"
   cMunSIAFI="3775"
-if cMun=="2923803":
-  xMun="PARIPIRANGA"
+if xMun="PARIPIRANGA":
+  cMun=="2923803"
   cMunSIAFI="3777"
-if cMun=="2923902":
-  xMun="PAU BRASIL"
+if xMun="PAU BRASIL":
+  cMun=="2923902"
   cMunSIAFI="3779"
-if cMun=="2924009":
-  xMun="PAULO AFONSO"
+if xMun="PAULO AFONSO":
+  cMun=="2924009"
   cMunSIAFI="3781"
-if cMun=="2924058":
-  xMun="PE DE SERRA"
+if xMun="PE DE SERRA":
+  cMun=="2924058"
   cMunSIAFI="3981"
-if cMun=="2924108":
-  xMun="PEDRAO"
+if xMun="PEDRAO":
+  cMun=="2924108"
   cMunSIAFI="3783"
-if cMun=="2924207":
-  xMun="PEDRO ALEXANDRE"
+if xMun="PEDRO ALEXANDRE":
+  cMun=="2924207"
   cMunSIAFI="3785"
-if cMun=="2924306":
-  xMun="PIATA"
+if xMun="PIATA":
+  cMun=="2924306"
   cMunSIAFI="3787"
-if cMun=="2924405":
-  xMun="PILAO ARCADO"
+if xMun="PILAO ARCADO":
+  cMun=="2924405"
   cMunSIAFI="3789"
-if cMun=="2924504":
-  xMun="PINDAI"
+if xMun="PINDAI":
+  cMun=="2924504"
   cMunSIAFI="3791"
-if cMun=="2924603":
-  xMun="PINDOBACU"
+if xMun="PINDOBACU":
+  cMun=="2924603"
   cMunSIAFI="3793"
-if cMun=="2924652":
-  xMun="PINTADAS"
+if xMun="PINTADAS":
+  cMun=="2924652"
   cMunSIAFI="3983"
-if cMun=="2924678":
-  xMun="PIRAI DO NORTE"
+if xMun="PIRAI DO NORTE":
+  cMun=="2924678"
   cMunSIAFI="3019"
-if cMun=="2924702":
-  xMun="PIRIPA"
+if xMun="PIRIPA":
+  cMun=="2924702"
   cMunSIAFI="3795"
-if cMun=="2924801":
-  xMun="PIRITIBA"
+if xMun="PIRITIBA":
+  cMun=="2924801"
   cMunSIAFI="3797"
-if cMun=="2924900":
-  xMun="PLANALTINO"
+if xMun="PLANALTINO":
+  cMun=="2924900"
   cMunSIAFI="3799"
-if cMun=="2925006":
-  xMun="PLANALTO"
+if xMun="PLANALTO":
+  cMun=="2925006"
   cMunSIAFI="3801"
-if cMun=="2925105":
-  xMun="POCÃ•ES"
+if xMun="POCÃ•ES":
+  cMun=="2925105"
   cMunSIAFI="3803"
-if cMun=="2925204":
-  xMun="POJUCA"
+if xMun="POJUCA":
+  cMun=="2925204"
   cMunSIAFI="3805"
-if cMun=="2925253":
-  xMun="PONTO NOVO"
+if xMun="PONTO NOVO":
+  cMun=="2925253"
   cMunSIAFI="3021"
-if cMun=="2925303":
-  xMun="PORTO SEGURO"
+if xMun="PORTO SEGURO":
+  cMun=="2925303"
   cMunSIAFI="3807"
-if cMun=="2925402":
-  xMun="POTIRAGUA"
+if xMun="POTIRAGUA":
+  cMun=="2925402"
   cMunSIAFI="3809"
-if cMun=="2925501":
-  xMun="PRADO"
+if xMun="PRADO":
+  cMun=="2925501"
   cMunSIAFI="3811"
-if cMun=="2925600":
-  xMun="PRESIDENTE DUTRA"
+if xMun="PRESIDENTE DUTRA":
+  cMun=="2925600"
   cMunSIAFI="3813"
-if cMun=="2925709":
-  xMun="PRESIDENTE JANIO QUADROS"
+if xMun="PRESIDENTE JANIO QUADROS":
+  cMun=="2925709"
   cMunSIAFI="3815"
-if cMun=="2925758":
-  xMun="PRESIDENTE TANCREDO NEVES"
+if xMun="PRESIDENTE TANCREDO NEVES":
+  cMun=="2925758"
   cMunSIAFI="3023"
-if cMun=="2925808":
-  xMun="QUEIMADAS"
+if xMun="QUEIMADAS":
+  cMun=="2925808"
   cMunSIAFI="3817"
-if cMun=="2925907":
-  xMun="QUIJINGUE"
+if xMun="QUIJINGUE":
+  cMun=="2925907"
   cMunSIAFI="3819"
-if cMun=="2925931":
-  xMun="QUIXABEIRA"
+if xMun="QUIXABEIRA":
+  cMun=="2925931"
   cMunSIAFI="3025"
-if cMun=="2925956":
-  xMun="RAFAEL JAMBEIRO"
+if xMun="RAFAEL JAMBEIRO":
+  cMun=="2925956"
   cMunSIAFI="3985"
-if cMun=="2926004":
-  xMun="REMANSO"
+if xMun="REMANSO":
+  cMun=="2926004"
   cMunSIAFI="3821"
-if cMun=="2926103":
-  xMun="RETIROLANDIA"
+if xMun="RETIROLANDIA":
+  cMun=="2926103"
   cMunSIAFI="3823"
-if cMun=="2926202":
-  xMun="RIACHAO DAS NEVES"
+if xMun="RIACHAO DAS NEVES":
+  cMun=="2926202"
   cMunSIAFI="3825"
-if cMun=="2926301":
-  xMun="RIACHAO DO JACUIPE"
+if xMun="RIACHAO DO JACUIPE":
+  cMun=="2926301"
   cMunSIAFI="3827"
-if cMun=="2926400":
-  xMun="RIACHO DE SANTANA"
+if xMun="RIACHO DE SANTANA":
+  cMun=="2926400"
   cMunSIAFI="3829"
-if cMun=="2926509":
-  xMun="RIBEIRA DO AMPARO"
+if xMun="RIBEIRA DO AMPARO":
+  cMun=="2926509"
   cMunSIAFI="3831"
-if cMun=="2926608":
-  xMun="RIBEIRA DO POMBAL"
+if xMun="RIBEIRA DO POMBAL":
+  cMun=="2926608"
   cMunSIAFI="3833"
-if cMun=="2926657":
-  xMun="RIBEIRAO DO LARGO"
+if xMun="RIBEIRAO DO LARGO":
+  cMun=="2926657"
   cMunSIAFI="3027"
-if cMun=="2926707":
-  xMun="RIO DE CONTAS"
+if xMun="RIO DE CONTAS":
+  cMun=="2926707"
   cMunSIAFI="3835"
-if cMun=="2926806":
-  xMun="RIO DO ANTONIO"
+if xMun="RIO DO ANTONIO":
+  cMun=="2926806"
   cMunSIAFI="3837"
-if cMun=="2926905":
-  xMun="RIO DO PIRES"
+if xMun="RIO DO PIRES":
+  cMun=="2926905"
   cMunSIAFI="3839"
-if cMun=="2927002":
-  xMun="RIO REAL"
+if xMun="RIO REAL":
+  cMun=="2927002"
   cMunSIAFI="3841"
-if cMun=="2927101":
-  xMun="RODELAS"
+if xMun="RODELAS":
+  cMun=="2927101"
   cMunSIAFI="3843"
-if cMun=="2927200":
-  xMun="RUY BARBOSA"
+if xMun="RUY BARBOSA":
+  cMun=="2927200"
   cMunSIAFI="3845"
-if cMun=="2927309":
-  xMun="SALINAS DA MARGARIDA"
+if xMun="SALINAS DA MARGARIDA":
+  cMun=="2927309"
   cMunSIAFI="3847"
-if cMun=="2927408":
-  xMun="SALVADOR"
+if xMun="SALVADOR":
+  cMun=="2927408"
   cMunSIAFI="3849"
-if cMun=="2927507":
-  xMun="SANTA BARBARA"
+if xMun="SANTA BARBARA":
+  cMun=="2927507"
   cMunSIAFI="3851"
-if cMun=="2927606":
-  xMun="SANTA BRIGIDA"
+if xMun="SANTA BRIGIDA":
+  cMun=="2927606"
   cMunSIAFI="3853"
-if cMun=="2927705":
-  xMun="SANTA CRUZ CABRALIA"
+if xMun="SANTA CRUZ CABRALIA":
+  cMun=="2927705"
   cMunSIAFI="3855"
-if cMun=="2927804":
-  xMun="SANTA CRUZ DA VITORIA"
+if xMun="SANTA CRUZ DA VITORIA":
+  cMun=="2927804"
   cMunSIAFI="3857"
-if cMun=="2927903":
-  xMun="SANTA INÃŠS"
+if xMun="SANTA INÃŠS":
+  cMun=="2927903"
   cMunSIAFI="3859"
-if cMun=="2928059":
-  xMun="SANTA LUZIA"
+if xMun="SANTA LUZIA":
+  cMun=="2928059"
   cMunSIAFI="3987"
-if cMun=="2928109":
-  xMun="SANTA MARIA DA VITORIA"
+if xMun="SANTA MARIA DA VITORIA":
+  cMun=="2928109"
   cMunSIAFI="3863"
-if cMun=="2928406":
-  xMun="SANTA RITA DE CASSIA"
+if xMun="SANTA RITA DE CASSIA":
+  cMun=="2928406"
   cMunSIAFI="3549"
-if cMun=="2928505":
-  xMun="SANTA TERESINHA"
+if xMun="SANTA TERESINHA":
+  cMun=="2928505"
   cMunSIAFI="3869"
-if cMun=="2928000":
-  xMun="SANTALUZ"
+if xMun="SANTALUZ":
+  cMun=="2928000"
   cMunSIAFI="3861"
-if cMun=="2928208":
-  xMun="SANTANA"
+if xMun="SANTANA":
+  cMun=="2928208"
   cMunSIAFI="3865"
-if cMun=="2928307":
-  xMun="SANTANOPOLIS"
+if xMun="SANTANOPOLIS":
+  cMun=="2928307"
   cMunSIAFI="3867"
-if cMun=="2928604":
-  xMun="SANTO AMARO"
+if xMun="SANTO AMARO":
+  cMun=="2928604"
   cMunSIAFI="3871"
-if cMun=="2928703":
-  xMun="SANTO ANTONIO DE JESUS"
+if xMun="SANTO ANTONIO DE JESUS":
+  cMun=="2928703"
   cMunSIAFI="3873"
-if cMun=="2928802":
-  xMun="SANTO ESTÃŠVAO"
+if xMun="SANTO ESTÃŠVAO":
+  cMun=="2928802"
   cMunSIAFI="3875"
-if cMun=="2928901":
-  xMun="SAO DESIDERIO"
+if xMun="SAO DESIDERIO":
+  cMun=="2928901"
   cMunSIAFI="3877"
-if cMun=="2928950":
-  xMun="SAO DOMINGOS"
+if xMun="SAO DOMINGOS":
+  cMun=="2928950"
   cMunSIAFI="3029"
-if cMun=="2929107":
-  xMun="SAO FELIPE"
+if xMun="SAO FELIPE":
+  cMun=="2929107"
   cMunSIAFI="3881"
-if cMun=="2929008":
-  xMun="SAO FELIX"
+if xMun="SAO FELIX":
+  cMun=="2929008"
   cMunSIAFI="3879"
-if cMun=="2929057":
-  xMun="SAO FELIX DO CORIBE"
+if xMun="SAO FELIX DO CORIBE":
+  cMun=="2929057"
   cMunSIAFI="3031"
-if cMun=="2929206":
-  xMun="SAO FRANCISCO DO CONDE"
+if xMun="SAO FRANCISCO DO CONDE":
+  cMun=="2929206"
   cMunSIAFI="3883"
-if cMun=="2929255":
-  xMun="SAO GABRIEL"
+if xMun="SAO GABRIEL":
+  cMun=="2929255"
   cMunSIAFI="3989"
-if cMun=="2929305":
-  xMun="SAO GONCALO DOS CAMPOS"
+if xMun="SAO GONCALO DOS CAMPOS":
+  cMun=="2929305"
   cMunSIAFI="3885"
-if cMun=="2929354":
-  xMun="SAO JOSE DA VITORIA"
+if xMun="SAO JOSE DA VITORIA":
+  cMun=="2929354"
   cMunSIAFI="3035"
-if cMun=="2929370":
-  xMun="SAO JOSE DO JACUIPE"
+if xMun="SAO JOSE DO JACUIPE":
+  cMun=="2929370"
   cMunSIAFI="3033"
-if cMun=="2929404":
-  xMun="SAO MIGUEL DAS MATAS"
+if xMun="SAO MIGUEL DAS MATAS":
+  cMun=="2929404"
   cMunSIAFI="3887"
-if cMun=="2929503":
-  xMun="SAO SEBASTIAO DO PASSE"
+if xMun="SAO SEBASTIAO DO PASSE":
+  cMun=="2929503"
   cMunSIAFI="3889"
-if cMun=="2929602":
-  xMun="SAPEACU"
+if xMun="SAPEACU":
+  cMun=="2929602"
   cMunSIAFI="3891"
-if cMun=="2929701":
-  xMun="SATIRO DIAS"
+if xMun="SATIRO DIAS":
+  cMun=="2929701"
   cMunSIAFI="3893"
-if cMun=="2929750":
-  xMun="SAUBARA"
+if xMun="SAUBARA":
+  cMun=="2929750"
   cMunSIAFI="3037"
-if cMun=="2929800":
-  xMun="SAUDE"
+if xMun="SAUDE":
+  cMun=="2929800"
   cMunSIAFI="3895"
-if cMun=="2929909":
-  xMun="SEABRA"
+if xMun="SEABRA":
+  cMun=="2929909"
   cMunSIAFI="3897"
-if cMun=="2930006":
-  xMun="SEBASTIAO LARANJEIRAS"
+if xMun="SEBASTIAO LARANJEIRAS":
+  cMun=="2930006"
   cMunSIAFI="3899"
-if cMun=="2930105":
-  xMun="SENHOR DO BONFIM"
+if xMun="SENHOR DO BONFIM":
+  cMun=="2930105"
   cMunSIAFI="3901"
-if cMun=="2930204":
-  xMun="SENTO SE"
+if xMun="SENTO SE":
+  cMun=="2930204"
   cMunSIAFI="3903"
-if cMun=="2930154":
-  xMun="SERRA DO RAMALHO"
+if xMun="SERRA DO RAMALHO":
+  cMun=="2930154"
   cMunSIAFI="3039"
-if cMun=="2930303":
-  xMun="SERRA DOURADA"
+if xMun="SERRA DOURADA":
+  cMun=="2930303"
   cMunSIAFI="3905"
-if cMun=="2930402":
-  xMun="SERRA PRETA"
+if xMun="SERRA PRETA":
+  cMun=="2930402"
   cMunSIAFI="3907"
-if cMun=="2930501":
-  xMun="SERRINHA"
+if xMun="SERRINHA":
+  cMun=="2930501"
   cMunSIAFI="3909"
-if cMun=="2930600":
-  xMun="SERROLANDIA"
+if xMun="SERROLANDIA":
+  cMun=="2930600"
   cMunSIAFI="3911"
-if cMun=="2930709":
-  xMun="SIMÃ•ES FILHO"
+if xMun="SIMÃ•ES FILHO":
+  cMun=="2930709"
   cMunSIAFI="3913"
-if cMun=="2930758":
-  xMun="SITIO DO MATO"
+if xMun="SITIO DO MATO":
+  cMun=="2930758"
   cMunSIAFI="3041"
-if cMun=="2930766":
-  xMun="SITIO DO QUINTO"
+if xMun="SITIO DO QUINTO":
+  cMun=="2930766"
   cMunSIAFI="3043"
-if cMun=="2930774":
-  xMun="SOBRADINHO"
+if xMun="SOBRADINHO":
+  cMun=="2930774"
   cMunSIAFI="3045"
-if cMun=="2930808":
-  xMun="SOUTO SOARES"
+if xMun="SOUTO SOARES":
+  cMun=="2930808"
   cMunSIAFI="3915"
-if cMun=="2930907":
-  xMun="TABOCAS DO BREJO VELHO"
+if xMun="TABOCAS DO BREJO VELHO":
+  cMun=="2930907"
   cMunSIAFI="3917"
-if cMun=="2931004":
-  xMun="TANHACU"
+if xMun="TANHACU":
+  cMun=="2931004"
   cMunSIAFI="3919"
-if cMun=="2931053":
-  xMun="TANQUE NOVO"
+if xMun="TANQUE NOVO":
+  cMun=="2931053"
   cMunSIAFI="3991"
-if cMun=="2931103":
-  xMun="TANQUINHO"
+if xMun="TANQUINHO":
+  cMun=="2931103"
   cMunSIAFI="3921"
-if cMun=="2931202":
-  xMun="TAPEROA"
+if xMun="TAPEROA":
+  cMun=="2931202"
   cMunSIAFI="3923"
-if cMun=="2931301":
-  xMun="TAPIRAMUTA"
+if xMun="TAPIRAMUTA":
+  cMun=="2931301"
   cMunSIAFI="3925"
-if cMun=="2931350":
-  xMun="TEIXEIRA DE FREITAS"
+if xMun="TEIXEIRA DE FREITAS":
+  cMun=="2931350"
   cMunSIAFI="3993"
-if cMun=="2931400":
-  xMun="TEODORO SAMPAIO"
+if xMun="TEODORO SAMPAIO":
+  cMun=="2931400"
   cMunSIAFI="3927"
-if cMun=="2931509":
-  xMun="TEOFILANDIA"
+if xMun="TEOFILANDIA":
+  cMun=="2931509"
   cMunSIAFI="3929"
-if cMun=="2931608":
-  xMun="TEOLANDIA"
+if xMun="TEOLANDIA":
+  cMun=="2931608"
   cMunSIAFI="3931"
-if cMun=="2931707":
-  xMun="TERRA NOVA"
+if xMun="TERRA NOVA":
+  cMun=="2931707"
   cMunSIAFI="3933"
-if cMun=="2931806":
-  xMun="TREMEDAL"
+if xMun="TREMEDAL":
+  cMun=="2931806"
   cMunSIAFI="3935"
-if cMun=="2931905":
-  xMun="TUCANO"
+if xMun="TUCANO":
+  cMun=="2931905"
   cMunSIAFI="3937"
-if cMun=="2932002":
-  xMun="UAUA"
+if xMun="UAUA":
+  cMun=="2932002"
   cMunSIAFI="3939"
-if cMun=="2932101":
-  xMun="UBAIRA"
+if xMun="UBAIRA":
+  cMun=="2932101"
   cMunSIAFI="3941"
-if cMun=="2932200":
-  xMun="UBAITABA"
+if xMun="UBAITABA":
+  cMun=="2932200"
   cMunSIAFI="3943"
-if cMun=="2932309":
-  xMun="UBATA"
+if xMun="UBATA":
+  cMun=="2932309"
   cMunSIAFI="3945"
-if cMun=="2932408":
-  xMun="UIBAI"
+if xMun="UIBAI":
+  cMun=="2932408"
   cMunSIAFI="3947"
-if cMun=="2932457":
-  xMun="UMBURANAS"
+if xMun="UMBURANAS":
+  cMun=="2932457"
   cMunSIAFI="3047"
-if cMun=="2932507":
-  xMun="UNA"
+if xMun="UNA":
+  cMun=="2932507"
   cMunSIAFI="3949"
-if cMun=="2932606":
-  xMun="URANDI"
+if xMun="URANDI":
+  cMun=="2932606"
   cMunSIAFI="3951"
-if cMun=="2932705":
-  xMun="URUCUCA"
+if xMun="URUCUCA":
+  cMun=="2932705"
   cMunSIAFI="3953"
-if cMun=="2932804":
-  xMun="UTINGA"
+if xMun="UTINGA":
+  cMun=="2932804"
   cMunSIAFI="3955"
-if cMun=="2932903":
-  xMun="VALENCA"
+if xMun="VALENCA":
+  cMun=="2932903"
   cMunSIAFI="3957"
-if cMun=="2933000":
-  xMun="VALENTE"
+if xMun="VALENTE":
+  cMun=="2933000"
   cMunSIAFI="3959"
-if cMun=="2933059":
-  xMun="VARZEA DA ROCA"
+if xMun="VARZEA DA ROCA":
+  cMun=="2933059"
   cMunSIAFI="3997"
-if cMun=="2933109":
-  xMun="VARZEA DO POCO"
+if xMun="VARZEA DO POCO":
+  cMun=="2933109"
   cMunSIAFI="3961"
-if cMun=="2933158":
-  xMun="VARZEA NOVA"
+if xMun="VARZEA NOVA":
+  cMun=="2933158"
   cMunSIAFI="3995"
-if cMun=="2933174":
-  xMun="VARZEDO"
+if xMun="VARZEDO":
+  cMun=="2933174"
   cMunSIAFI="3049"
-if cMun=="2933208":
-  xMun="VERA CRUZ"
+if xMun="VERA CRUZ":
+  cMun=="2933208"
   cMunSIAFI="3963"
-if cMun=="2933257":
-  xMun="VEREDA"
+if xMun="VEREDA":
+  cMun=="2933257"
   cMunSIAFI="3051"
-if cMun=="2933307":
-  xMun="VITORIA DA CONQUISTA"
+if xMun="VITORIA DA CONQUISTA":
+  cMun=="2933307"
   cMunSIAFI="3965"
-if cMun=="2933406":
-  xMun="WAGNER"
+if xMun="WAGNER":
+  cMun=="2933406"
   cMunSIAFI="3967"
-if cMun=="2933455":
-  xMun="WANDERLEY"
+if xMun="WANDERLEY":
+  cMun=="2933455"
   cMunSIAFI="3999"
-if cMun=="2933505":
-  xMun="WENCESLAU GUIMARAES"
+if xMun="WENCESLAU GUIMARAES":
+  cMun=="2933505"
   cMunSIAFI="3969"
-if cMun=="2933604":
-  xMun="XIQUE-XIQUE"
+if xMun="XIQUE-XIQUE":
+  cMun=="2933604"
   cMunSIAFI="3971"
-if cMun=="2300101":
-  xMun="ABAIARA"
+if xMun="ABAIARA":
+  cMun=="2300101"
   cMunSIAFI="1301"
-if cMun=="2300150":
-  xMun="ACARAPE"
+if xMun="ACARAPE":
+  cMun=="2300150"
   cMunSIAFI="1231"
-if cMun=="2300200":
-  xMun="ACARAU"
+if xMun="ACARAU":
+  cMun=="2300200"
   cMunSIAFI="1303"
-if cMun=="2300309":
-  xMun="ACOPIARA"
+if xMun="ACOPIARA":
+  cMun=="2300309"
   cMunSIAFI="1305"
-if cMun=="2300408":
-  xMun="AIUABA"
+if xMun="AIUABA":
+  cMun=="2300408"
   cMunSIAFI="1307"
-if cMun=="2300507":
-  xMun="ALCANTARAS"
+if xMun="ALCANTARAS":
+  cMun=="2300507"
   cMunSIAFI="1309"
-if cMun=="2300606":
-  xMun="ALTANEIRA"
+if xMun="ALTANEIRA":
+  cMun=="2300606"
   cMunSIAFI="1311"
-if cMun=="2300705":
-  xMun="ALTO SANTO"
+if xMun="ALTO SANTO":
+  cMun=="2300705"
   cMunSIAFI="1313"
-if cMun=="2300754":
-  xMun="AMONTADA"
+if xMun="AMONTADA":
+  cMun=="2300754"
   cMunSIAFI="1587"
-if cMun=="2300804":
-  xMun="ANTONINA DO NORTE"
+if xMun="ANTONINA DO NORTE":
+  cMun=="2300804"
   cMunSIAFI="1315"
-if cMun=="2300903":
-  xMun="APUIARES"
+if xMun="APUIARES":
+  cMun=="2300903"
   cMunSIAFI="1317"
-if cMun=="2301000":
-  xMun="AQUIRAZ"
+if xMun="AQUIRAZ":
+  cMun=="2301000"
   cMunSIAFI="1319"
-if cMun=="2301109":
-  xMun="ARACATI"
+if xMun="ARACATI":
+  cMun=="2301109"
   cMunSIAFI="1321"
-if cMun=="2301208":
-  xMun="ARACOIABA"
+if xMun="ARACOIABA":
+  cMun=="2301208"
   cMunSIAFI="1323"
-if cMun=="2301257":
-  xMun="ARARENDA"
+if xMun="ARARENDA":
+  cMun=="2301257"
   cMunSIAFI="0989"
-if cMun=="2301307":
-  xMun="ARARIPE"
+if xMun="ARARIPE":
+  cMun=="2301307"
   cMunSIAFI="1325"
-if cMun=="2301406":
-  xMun="ARATUBA"
+if xMun="ARATUBA":
+  cMun=="2301406"
   cMunSIAFI="1327"
-if cMun=="2301505":
-  xMun="ARNEIROZ"
+if xMun="ARNEIROZ":
+  cMun=="2301505"
   cMunSIAFI="1329"
-if cMun=="2301604":
-  xMun="ASSARE"
+if xMun="ASSARE":
+  cMun=="2301604"
   cMunSIAFI="1331"
-if cMun=="2301703":
-  xMun="AURORA"
+if xMun="AURORA":
+  cMun=="2301703"
   cMunSIAFI="1333"
-if cMun=="2301802":
-  xMun="BAIXIO"
+if xMun="BAIXIO":
+  cMun=="2301802"
   cMunSIAFI="1335"
-if cMun=="2301851":
-  xMun="BANABUIU"
+if xMun="BANABUIU":
+  cMun=="2301851"
   cMunSIAFI="1233"
-if cMun=="2301901":
-  xMun="BARBALHA"
+if xMun="BARBALHA":
+  cMun=="2301901"
   cMunSIAFI="1337"
-if cMun=="2301950":
-  xMun="BARREIRA"
+if xMun="BARREIRA":
+  cMun=="2301950"
   cMunSIAFI="1235"
-if cMun=="2302008":
-  xMun="BARRO"
+if xMun="BARRO":
+  cMun=="2302008"
   cMunSIAFI="1339"
-if cMun=="2302057":
-  xMun="BARROQUINHA"
+if xMun="BARROQUINHA":
+  cMun=="2302057"
   cMunSIAFI="1237"
-if cMun=="2302107":
-  xMun="BATURITE"
+if xMun="BATURITE":
+  cMun=="2302107"
   cMunSIAFI="1341"
-if cMun=="2302206":
-  xMun="BEBERIBE"
+if xMun="BEBERIBE":
+  cMun=="2302206"
   cMunSIAFI="1343"
-if cMun=="2302305":
-  xMun="BELA CRUZ"
+if xMun="BELA CRUZ":
+  cMun=="2302305"
   cMunSIAFI="1345"
-if cMun=="2302404":
-  xMun="BOA VIAGEM"
+if xMun="BOA VIAGEM":
+  cMun=="2302404"
   cMunSIAFI="1347"
-if cMun=="2302503":
-  xMun="BREJO SANTO"
+if xMun="BREJO SANTO":
+  cMun=="2302503"
   cMunSIAFI="1349"
-if cMun=="2302602":
-  xMun="CAMOCIM"
+if xMun="CAMOCIM":
+  cMun=="2302602"
   cMunSIAFI="1351"
-if cMun=="2302701":
-  xMun="CAMPOS SALES"
+if xMun="CAMPOS SALES":
+  cMun=="2302701"
   cMunSIAFI="1353"
-if cMun=="2302800":
-  xMun="CANINDE"
+if xMun="CANINDE":
+  cMun=="2302800"
   cMunSIAFI="1355"
-if cMun=="2302909":
-  xMun="CAPISTRANO"
+if xMun="CAPISTRANO":
+  cMun=="2302909"
   cMunSIAFI="1357"
-if cMun=="2303006":
-  xMun="CARIDADE"
+if xMun="CARIDADE":
+  cMun=="2303006"
   cMunSIAFI="1359"
-if cMun=="2303105":
-  xMun="CARIRE"
+if xMun="CARIRE":
+  cMun=="2303105"
   cMunSIAFI="1361"
-if cMun=="2303204":
-  xMun="CARIRIACU"
+if xMun="CARIRIACU":
+  cMun=="2303204"
   cMunSIAFI="1363"
-if cMun=="2303303":
-  xMun="CARIUS"
+if xMun="CARIUS":
+  cMun=="2303303"
   cMunSIAFI="1365"
-if cMun=="2303402":
-  xMun="CARNAUBAL"
+if xMun="CARNAUBAL":
+  cMun=="2303402"
   cMunSIAFI="1367"
-if cMun=="2303501":
-  xMun="CASCAVEL"
+if xMun="CASCAVEL":
+  cMun=="2303501"
   cMunSIAFI="1369"
-if cMun=="2303600":
-  xMun="CATARINA"
+if xMun="CATARINA":
+  cMun=="2303600"
   cMunSIAFI="1371"
-if cMun=="2303659":
-  xMun="CATUNDA"
+if xMun="CATUNDA":
+  cMun=="2303659"
   cMunSIAFI="0983"
-if cMun=="2303709":
-  xMun="CAUCAIA"
+if xMun="CAUCAIA":
+  cMun=="2303709"
   cMunSIAFI="1373"
-if cMun=="2303808":
-  xMun="CEDRO"
+if xMun="CEDRO":
+  cMun=="2303808"
   cMunSIAFI="1375"
-if cMun=="2303907":
-  xMun="CHAVAL"
+if xMun="CHAVAL":
+  cMun=="2303907"
   cMunSIAFI="1377"
-if cMun=="2303931":
-  xMun="CHORO"
+if xMun="CHORO":
+  cMun=="2303931"
   cMunSIAFI="0993"
-if cMun=="2303956":
-  xMun="CHOROZINHO"
+if xMun="CHOROZINHO":
+  cMun=="2303956"
   cMunSIAFI="1239"
-if cMun=="2304004":
-  xMun="COREAU"
+if xMun="COREAU":
+  cMun=="2304004"
   cMunSIAFI="1381"
-if cMun=="2304103":
-  xMun="CRATEUS"
+if xMun="CRATEUS":
+  cMun=="2304103"
   cMunSIAFI="1383"
-if cMun=="2304202":
-  xMun="CRATO"
+if xMun="CRATO":
+  cMun=="2304202"
   cMunSIAFI="1385"
-if cMun=="2304236":
-  xMun="CROATA"
+if xMun="CROATA":
+  cMun=="2304236"
   cMunSIAFI="1241"
-if cMun=="2304251":
-  xMun="CRUZ"
+if xMun="CRUZ":
+  cMun=="2304251"
   cMunSIAFI="1589"
-if cMun=="2304269":
-  xMun="DEPUTADO IRAPUAN PINHEIRO"
+if xMun="DEPUTADO IRAPUAN PINHEIRO":
+  cMun=="2304269"
   cMunSIAFI="1243"
-if cMun=="2304277":
-  xMun="ERERÃŠ"
+if xMun="ERERÃŠ":
+  cMun=="2304277"
   cMunSIAFI="1245"
-if cMun=="2304285":
-  xMun="EUSEBIO"
+if xMun="EUSEBIO":
+  cMun=="2304285"
   cMunSIAFI="1247"
-if cMun=="2304301":
-  xMun="FARIAS BRITO"
+if xMun="FARIAS BRITO":
+  cMun=="2304301"
   cMunSIAFI="1387"
-if cMun=="2304350":
-  xMun="FORQUILHA"
+if xMun="FORQUILHA":
+  cMun=="2304350"
   cMunSIAFI="1591"
-if cMun=="2304400":
-  xMun="FORTALEZA"
+if xMun="FORTALEZA":
+  cMun=="2304400"
   cMunSIAFI="1389"
-if cMun=="2304459":
-  xMun="FORTIM"
+if xMun="FORTIM":
+  cMun=="2304459"
   cMunSIAFI="0987"
-if cMun=="2304509":
-  xMun="FRECHEIRINHA"
+if xMun="FRECHEIRINHA":
+  cMun=="2304509"
   cMunSIAFI="1391"
-if cMun=="2304608":
-  xMun="GENERAL SAMPAIO"
+if xMun="GENERAL SAMPAIO":
+  cMun=="2304608"
   cMunSIAFI="1393"
-if cMun=="2304657":
-  xMun="GRACA"
+if xMun="GRACA":
+  cMun=="2304657"
   cMunSIAFI="1249"
-if cMun=="2304707":
-  xMun="GRANJA"
+if xMun="GRANJA":
+  cMun=="2304707"
   cMunSIAFI="1395"
-if cMun=="2304806":
-  xMun="GRANJEIRO"
+if xMun="GRANJEIRO":
+  cMun=="2304806"
   cMunSIAFI="1397"
-if cMun=="2304905":
-  xMun="GROAIRAS"
+if xMun="GROAIRAS":
+  cMun=="2304905"
   cMunSIAFI="1399"
-if cMun=="2304954":
-  xMun="GUAIUBA"
+if xMun="GUAIUBA":
+  cMun=="2304954"
   cMunSIAFI="1251"
-if cMun=="2305001":
-  xMun="GUARACIABA DO NORTE"
+if xMun="GUARACIABA DO NORTE":
+  cMun=="2305001"
   cMunSIAFI="1401"
-if cMun=="2305100":
-  xMun="GUARAMIRANGA"
+if xMun="GUARAMIRANGA":
+  cMun=="2305100"
   cMunSIAFI="1403"
-if cMun=="2305209":
-  xMun="HIDROLANDIA"
+if xMun="HIDROLANDIA":
+  cMun=="2305209"
   cMunSIAFI="1405"
-if cMun=="2305233":
-  xMun="HORIZONTE"
+if xMun="HORIZONTE":
+  cMun=="2305233"
   cMunSIAFI="1253"
-if cMun=="2305266":
-  xMun="IBARETAMA"
+if xMun="IBARETAMA":
+  cMun=="2305266"
   cMunSIAFI="1255"
-if cMun=="2305308":
-  xMun="IBIAPINA"
+if xMun="IBIAPINA":
+  cMun=="2305308"
   cMunSIAFI="1407"
-if cMun=="2305332":
-  xMun="IBICUITINGA"
+if xMun="IBICUITINGA":
+  cMun=="2305332"
   cMunSIAFI="1257"
-if cMun=="2305357":
-  xMun="ICAPUI"
+if xMun="ICAPUI":
+  cMun=="2305357"
   cMunSIAFI="1593"
-if cMun=="2305407":
-  xMun="ICO"
+if xMun="ICO":
+  cMun=="2305407"
   cMunSIAFI="1409"
-if cMun=="2305506":
-  xMun="IGUATU"
+if xMun="IGUATU":
+  cMun=="2305506"
   cMunSIAFI="1411"
-if cMun=="2305605":
-  xMun="INDEPENDÃŠNCIA"
+if xMun="INDEPENDÃŠNCIA":
+  cMun=="2305605"
   cMunSIAFI="1413"
-if cMun=="2305654":
-  xMun="IPAPORANGA"
+if xMun="IPAPORANGA":
+  cMun=="2305654"
   cMunSIAFI="1259"
-if cMun=="2305704":
-  xMun="IPAUMIRIM"
+if xMun="IPAUMIRIM":
+  cMun=="2305704"
   cMunSIAFI="1415"
-if cMun=="2305803":
-  xMun="IPU"
+if xMun="IPU":
+  cMun=="2305803"
   cMunSIAFI="1417"
-if cMun=="2305902":
-  xMun="IPUEIRAS"
+if xMun="IPUEIRAS":
+  cMun=="2305902"
   cMunSIAFI="1419"
-if cMun=="2306009":
-  xMun="IRACEMA"
+if xMun="IRACEMA":
+  cMun=="2306009"
   cMunSIAFI="1421"
-if cMun=="2306108":
-  xMun="IRAUCUBA"
+if xMun="IRAUCUBA":
+  cMun=="2306108"
   cMunSIAFI="1423"
-if cMun=="2306207":
-  xMun="ITAICABA"
+if xMun="ITAICABA":
+  cMun=="2306207"
   cMunSIAFI="1425"
-if cMun=="2306256":
-  xMun="ITAITINGA"
+if xMun="ITAITINGA":
+  cMun=="2306256"
   cMunSIAFI="0991"
-if cMun=="2306306":
-  xMun="ITAPAGE"
+if xMun="ITAPAGE":
+  cMun=="2306306"
   cMunSIAFI="1427"
-if cMun=="2306405":
-  xMun="ITAPIPOCA"
+if xMun="ITAPIPOCA":
+  cMun=="2306405"
   cMunSIAFI="1429"
-if cMun=="2306504":
-  xMun="ITAPIUNA"
+if xMun="ITAPIUNA":
+  cMun=="2306504"
   cMunSIAFI="1431"
-if cMun=="2306553":
-  xMun="ITAREMA"
+if xMun="ITAREMA":
+  cMun=="2306553"
   cMunSIAFI="1595"
-if cMun=="2306603":
-  xMun="ITATIRA"
+if xMun="ITATIRA":
+  cMun=="2306603"
   cMunSIAFI="1433"
-if cMun=="2306702":
-  xMun="JAGUARETAMA"
+if xMun="JAGUARETAMA":
+  cMun=="2306702"
   cMunSIAFI="1435"
-if cMun=="2306801":
-  xMun="JAGUARIBARA"
+if xMun="JAGUARIBARA":
+  cMun=="2306801"
   cMunSIAFI="1437"
-if cMun=="2306900":
-  xMun="JAGUARIBE"
+if xMun="JAGUARIBE":
+  cMun=="2306900"
   cMunSIAFI="1439"
-if cMun=="2307007":
-  xMun="JAGUARUANA"
+if xMun="JAGUARUANA":
+  cMun=="2307007"
   cMunSIAFI="1441"
-if cMun=="2307106":
-  xMun="JARDIM"
+if xMun="JARDIM":
+  cMun=="2307106"
   cMunSIAFI="1443"
-if cMun=="2307205":
-  xMun="JATI"
+if xMun="JATI":
+  cMun=="2307205"
   cMunSIAFI="1445"
-if cMun=="2307254":
-  xMun="JIJOCA DE JERICOACOARA"
+if xMun="JIJOCA DE JERICOACOARA":
+  cMun=="2307254"
   cMunSIAFI="0985"
-if cMun=="2307304":
-  xMun="JUAZEIRO DO NORTE"
+if xMun="JUAZEIRO DO NORTE":
+  cMun=="2307304"
   cMunSIAFI="1447"
-if cMun=="2307403":
-  xMun="JUCAS"
+if xMun="JUCAS":
+  cMun=="2307403"
   cMunSIAFI="1449"
-if cMun=="2307502":
-  xMun="LAVRAS DA MANGABEIRA"
+if xMun="LAVRAS DA MANGABEIRA":
+  cMun=="2307502"
   cMunSIAFI="1451"
-if cMun=="2307601":
-  xMun="LIMOEIRO DO NORTE"
+if xMun="LIMOEIRO DO NORTE":
+  cMun=="2307601"
   cMunSIAFI="1453"
-if cMun=="2307635":
-  xMun="MADALENA"
+if xMun="MADALENA":
+  cMun=="2307635"
   cMunSIAFI="1261"
-if cMun=="2307650":
-  xMun="MARACANAU"
+if xMun="MARACANAU":
+  cMun=="2307650"
   cMunSIAFI="1585"
-if cMun=="2307700":
-  xMun="MARANGUAPE"
+if xMun="MARANGUAPE":
+  cMun=="2307700"
   cMunSIAFI="1455"
-if cMun=="2307809":
-  xMun="MARCO"
+if xMun="MARCO":
+  cMun=="2307809"
   cMunSIAFI="1457"
-if cMun=="2307908":
-  xMun="MARTINOPOLE"
+if xMun="MARTINOPOLE":
+  cMun=="2307908"
   cMunSIAFI="1459"
-if cMun=="2308005":
-  xMun="MASSAPÃŠ"
+if xMun="MASSAPÃŠ":
+  cMun=="2308005"
   cMunSIAFI="1461"
-if cMun=="2308104":
-  xMun="MAURITI"
+if xMun="MAURITI":
+  cMun=="2308104"
   cMunSIAFI="1463"
-if cMun=="2308203":
-  xMun="MERUOCA"
+if xMun="MERUOCA":
+  cMun=="2308203"
   cMunSIAFI="1465"
-if cMun=="2308302":
-  xMun="MILAGRES"
+if xMun="MILAGRES":
+  cMun=="2308302"
   cMunSIAFI="1467"
-if cMun=="2308351":
-  xMun="MILHA"
+if xMun="MILHA":
+  cMun=="2308351"
   cMunSIAFI="1597"
-if cMun=="2308377":
-  xMun="MIRAIMA"
+if xMun="MIRAIMA":
+  cMun=="2308377"
   cMunSIAFI="1263"
-if cMun=="2308401":
-  xMun="MISSAO VELHA"
+if xMun="MISSAO VELHA":
+  cMun=="2308401"
   cMunSIAFI="1469"
-if cMun=="2308500":
-  xMun="MOMBACA"
+if xMun="MOMBACA":
+  cMun=="2308500"
   cMunSIAFI="1471"
-if cMun=="2308609":
-  xMun="MONSENHOR TABOSA"
+if xMun="MONSENHOR TABOSA":
+  cMun=="2308609"
   cMunSIAFI="1473"
-if cMun=="2308708":
-  xMun="MORADA NOVA"
+if xMun="MORADA NOVA":
+  cMun=="2308708"
   cMunSIAFI="1475"
-if cMun=="2308807":
-  xMun="MORAUJO"
+if xMun="MORAUJO":
+  cMun=="2308807"
   cMunSIAFI="1477"
-if cMun=="2308906":
-  xMun="MORRINHOS"
+if xMun="MORRINHOS":
+  cMun=="2308906"
   cMunSIAFI="1479"
-if cMun=="2309003":
-  xMun="MUCAMBO"
+if xMun="MUCAMBO":
+  cMun=="2309003"
   cMunSIAFI="1481"
-if cMun=="2309102":
-  xMun="MULUNGU"
+if xMun="MULUNGU":
+  cMun=="2309102"
   cMunSIAFI="1483"
-if cMun=="2309201":
-  xMun="NOVA OLINDA"
+if xMun="NOVA OLINDA":
+  cMun=="2309201"
   cMunSIAFI="1485"
-if cMun=="2309300":
-  xMun="NOVA RUSSAS"
+if xMun="NOVA RUSSAS":
+  cMun=="2309300"
   cMunSIAFI="1487"
-if cMun=="2309409":
-  xMun="NOVO ORIENTE"
+if xMun="NOVO ORIENTE":
+  cMun=="2309409"
   cMunSIAFI="1489"
-if cMun=="2309458":
-  xMun="OCARA"
+if xMun="OCARA":
+  cMun=="2309458"
   cMunSIAFI="1265"
-if cMun=="2309508":
-  xMun="OROS"
+if xMun="OROS":
+  cMun=="2309508"
   cMunSIAFI="1491"
-if cMun=="2309607":
-  xMun="PACAJUS"
+if xMun="PACAJUS":
+  cMun=="2309607"
   cMunSIAFI="1493"
-if cMun=="2309706":
-  xMun="PACATUBA"
+if xMun="PACATUBA":
+  cMun=="2309706"
   cMunSIAFI="1495"
-if cMun=="2309805":
-  xMun="PACOTI"
+if xMun="PACOTI":
+  cMun=="2309805"
   cMunSIAFI="1497"
-if cMun=="2309904":
-  xMun="PACUJA"
+if xMun="PACUJA":
+  cMun=="2309904"
   cMunSIAFI="1499"
-if cMun=="2310001":
-  xMun="PALHANO"
+if xMun="PALHANO":
+  cMun=="2310001"
   cMunSIAFI="1501"
-if cMun=="2310100":
-  xMun="PALMACIA"
+if xMun="PALMACIA":
+  cMun=="2310100"
   cMunSIAFI="1503"
-if cMun=="2310209":
-  xMun="PARACURU"
+if xMun="PARACURU":
+  cMun=="2310209"
   cMunSIAFI="1505"
-if cMun=="2310258":
-  xMun="PARAIPABA"
+if xMun="PARAIPABA":
+  cMun=="2310258"
   cMunSIAFI="1599"
-if cMun=="2310308":
-  xMun="PARAMBU"
+if xMun="PARAMBU":
+  cMun=="2310308"
   cMunSIAFI="1507"
-if cMun=="2310407":
-  xMun="PARAMOTI"
+if xMun="PARAMOTI":
+  cMun=="2310407"
   cMunSIAFI="1509"
-if cMun=="2310506":
-  xMun="PEDRA BRANCA"
+if xMun="PEDRA BRANCA":
+  cMun=="2310506"
   cMunSIAFI="1511"
-if cMun=="2310605":
-  xMun="PENAFORTE"
+if xMun="PENAFORTE":
+  cMun=="2310605"
   cMunSIAFI="1513"
-if cMun=="2310704":
-  xMun="PENTECOSTE"
+if xMun="PENTECOSTE":
+  cMun=="2310704"
   cMunSIAFI="1515"
-if cMun=="2310803":
-  xMun="PEREIRO"
+if xMun="PEREIRO":
+  cMun=="2310803"
   cMunSIAFI="1517"
-if cMun=="2310852":
-  xMun="PINDORETAMA"
+if xMun="PINDORETAMA":
+  cMun=="2310852"
   cMunSIAFI="1267"
-if cMun=="2310902":
-  xMun="PIQUET CARNEIRO"
+if xMun="PIQUET CARNEIRO":
+  cMun=="2310902"
   cMunSIAFI="1519"
-if cMun=="2310951":
-  xMun="PIRES FERREIRA"
+if xMun="PIRES FERREIRA":
+  cMun=="2310951"
   cMunSIAFI="1269"
-if cMun=="2311009":
-  xMun="PORANGA"
+if xMun="PORANGA":
+  cMun=="2311009"
   cMunSIAFI="1521"
-if cMun=="2311108":
-  xMun="PORTEIRAS"
+if xMun="PORTEIRAS":
+  cMun=="2311108"
   cMunSIAFI="1523"
-if cMun=="2311207":
-  xMun="POTENGI"
+if xMun="POTENGI":
+  cMun=="2311207"
   cMunSIAFI="1525"
-if cMun=="2311231":
-  xMun="POTIRETAMA"
+if xMun="POTIRETAMA":
+  cMun=="2311231"
   cMunSIAFI="1271"
-if cMun=="2311264":
-  xMun="QUITERIANOPOLIS"
+if xMun="QUITERIANOPOLIS":
+  cMun=="2311264"
   cMunSIAFI="9917"
-if cMun=="2311306":
-  xMun="QUIXADA"
+if xMun="QUIXADA":
+  cMun=="2311306"
   cMunSIAFI="1527"
-if cMun=="2311355":
-  xMun="QUIXELO"
+if xMun="QUIXELO":
+  cMun=="2311355"
   cMunSIAFI="9853"
-if cMun=="2311405":
-  xMun="QUIXERAMOBIM"
+if xMun="QUIXERAMOBIM":
+  cMun=="2311405"
   cMunSIAFI="1529"
-if cMun=="2311504":
-  xMun="QUIXERE"
+if xMun="QUIXERE":
+  cMun=="2311504"
   cMunSIAFI="1531"
-if cMun=="2311603":
-  xMun="REDENCAO"
+if xMun="REDENCAO":
+  cMun=="2311603"
   cMunSIAFI="1533"
-if cMun=="2311702":
-  xMun="RERIUTABA"
+if xMun="RERIUTABA":
+  cMun=="2311702"
   cMunSIAFI="1535"
-if cMun=="2311801":
-  xMun="RUSSAS"
+if xMun="RUSSAS":
+  cMun=="2311801"
   cMunSIAFI="1537"
-if cMun=="2311900":
-  xMun="SABOEIRO"
+if xMun="SABOEIRO":
+  cMun=="2311900"
   cMunSIAFI="1539"
-if cMun=="2311959":
-  xMun="SALITRE"
+if xMun="SALITRE":
+  cMun=="2311959"
   cMunSIAFI="1273"
-if cMun=="2312205":
-  xMun="SANTA QUITERIA"
+if xMun="SANTA QUITERIA":
+  cMun=="2312205"
   cMunSIAFI="1545"
-if cMun=="2312007":
-  xMun="SANTANA DO ACARAU"
+if xMun="SANTANA DO ACARAU":
+  cMun=="2312007"
   cMunSIAFI="1541"
-if cMun=="2312106":
-  xMun="SANTANA DO CARIRI"
+if xMun="SANTANA DO CARIRI":
+  cMun=="2312106"
   cMunSIAFI="1543"
-if cMun=="2312304":
-  xMun="SAO BENEDITO"
+if xMun="SAO BENEDITO":
+  cMun=="2312304"
   cMunSIAFI="1547"
-if cMun=="2312403":
-  xMun="SAO GONCALO DO AMARANTE"
+if xMun="SAO GONCALO DO AMARANTE":
+  cMun=="2312403"
   cMunSIAFI="1549"
-if cMun=="2312502":
-  xMun="SAO JOAO DO JAGUARIBE"
+if xMun="SAO JOAO DO JAGUARIBE":
+  cMun=="2312502"
   cMunSIAFI="1551"
-if cMun=="2312601":
-  xMun="SAO LUIS DO CURU"
+if xMun="SAO LUIS DO CURU":
+  cMun=="2312601"
   cMunSIAFI="1553"
-if cMun=="2312700":
-  xMun="SENADOR POMPEU"
+if xMun="SENADOR POMPEU":
+  cMun=="2312700"
   cMunSIAFI="1555"
-if cMun=="2312809":
-  xMun="SENADOR SA"
+if xMun="SENADOR SA":
+  cMun=="2312809"
   cMunSIAFI="1557"
-if cMun=="2312908":
-  xMun="SOBRAL"
+if xMun="SOBRAL":
+  cMun=="2312908"
   cMunSIAFI="1559"
-if cMun=="2313005":
-  xMun="SOLONOPOLE"
+if xMun="SOLONOPOLE":
+  cMun=="2313005"
   cMunSIAFI="1561"
-if cMun=="2313104":
-  xMun="TABULEIRO DO NORTE"
+if xMun="TABULEIRO DO NORTE":
+  cMun=="2313104"
   cMunSIAFI="1563"
-if cMun=="2313203":
-  xMun="TAMBORIL"
+if xMun="TAMBORIL":
+  cMun=="2313203"
   cMunSIAFI="1565"
-if cMun=="2313252":
-  xMun="TARRAFAS"
+if xMun="TARRAFAS":
+  cMun=="2313252"
   cMunSIAFI="1275"
-if cMun=="2313302":
-  xMun="TAUA"
+if xMun="TAUA":
+  cMun=="2313302"
   cMunSIAFI="1567"
-if cMun=="2313351":
-  xMun="TEJUCUOCA"
+if xMun="TEJUCUOCA":
+  cMun=="2313351"
   cMunSIAFI="1277"
-if cMun=="2313401":
-  xMun="TIANGUA"
+if xMun="TIANGUA":
+  cMun=="2313401"
   cMunSIAFI="1569"
-if cMun=="2313500":
-  xMun="TRAIRI"
+if xMun="TRAIRI":
+  cMun=="2313500"
   cMunSIAFI="1571"
-if cMun=="2313559":
-  xMun="TURURU"
+if xMun="TURURU":
+  cMun=="2313559"
   cMunSIAFI="1279"
-if cMun=="2313609":
-  xMun="UBAJARA"
+if xMun="UBAJARA":
+  cMun=="2313609"
   cMunSIAFI="1573"
-if cMun=="2313708":
-  xMun="UMARI"
+if xMun="UMARI":
+  cMun=="2313708"
   cMunSIAFI="1575"
-if cMun=="2313757":
-  xMun="UMIRIM"
+if xMun="UMIRIM":
+  cMun=="2313757"
   cMunSIAFI="9855"
-if cMun=="2313807":
-  xMun="URUBURETAMA"
+if xMun="URUBURETAMA":
+  cMun=="2313807"
   cMunSIAFI="1577"
-if cMun=="2313906":
-  xMun="URUOCA"
+if xMun="URUOCA":
+  cMun=="2313906"
   cMunSIAFI="1579"
-if cMun=="2313955":
-  xMun="VARJOTA"
+if xMun="VARJOTA":
+  cMun=="2313955"
   cMunSIAFI="9857"
-if cMun=="2314003":
-  xMun="VARZEA ALEGRE"
+if xMun="VARZEA ALEGRE":
+  cMun=="2314003"
   cMunSIAFI="1581"
-if cMun=="2314102":
-  xMun="VICOSA DO CEARA"
+if xMun="VICOSA DO CEARA":
+  cMun=="2314102"
   cMunSIAFI="1583"
-if cMun=="5300108":
-  xMun="BRASILIA"
+if xMun="BRASILIA":
+  cMun=="5300108"
   cMunSIAFI="974001"
-if cMun=="3200102":
-  xMun="AFONSO CLAUDIO"
+if xMun="AFONSO CLAUDIO":
+  cMun=="3200102"
   cMunSIAFI="5601"
-if cMun=="3200169":
-  xMun="AGUA DOCE DO NORTE"
+if xMun="AGUA DOCE DO NORTE":
+  cMun=="3200169"
   cMunSIAFI="5717"
-if cMun=="3200136":
-  xMun="AGUIA BRANCA"
+if xMun="AGUIA BRANCA":
+  cMun=="3200136"
   cMunSIAFI="5733"
-if cMun=="3200201":
-  xMun="ALEGRE"
+if xMun="ALEGRE":
+  cMun=="3200201"
   cMunSIAFI="5603"
-if cMun=="3200300":
-  xMun="ALFREDO CHAVES"
+if xMun="ALFREDO CHAVES":
+  cMun=="3200300"
   cMunSIAFI="5605"
-if cMun=="3200359":
-  xMun="ALTO RIO NOVO"
+if xMun="ALTO RIO NOVO":
+  cMun=="3200359"
   cMunSIAFI="5719"
-if cMun=="3200409":
-  xMun="ANCHIETA"
+if xMun="ANCHIETA":
+  cMun=="3200409"
   cMunSIAFI="5607"
-if cMun=="3200508":
-  xMun="APIACA"
+if xMun="APIACA":
+  cMun=="3200508"
   cMunSIAFI="5609"
-if cMun=="3200607":
-  xMun="ARACRUZ"
+if xMun="ARACRUZ":
+  cMun=="3200607"
   cMunSIAFI="5611"
-if cMun=="3200706":
-  xMun="ATILIO VIVACQUA"
+if xMun="ATILIO VIVACQUA":
+  cMun=="3200706"
   cMunSIAFI="5613"
-if cMun=="3200805":
-  xMun="BAIXO GUANDU"
+if xMun="BAIXO GUANDU":
+  cMun=="3200805"
   cMunSIAFI="5615"
-if cMun=="3200904":
-  xMun="BARRA DE SAO FRANCISCO"
+if xMun="BARRA DE SAO FRANCISCO":
+  cMun=="3200904"
   cMunSIAFI="5617"
-if cMun=="3201001":
-  xMun="BOA ESPERANCA"
+if xMun="BOA ESPERANCA":
+  cMun=="3201001"
   cMunSIAFI="5619"
-if cMun=="3201100":
-  xMun="BOM JESUS DO NORTE"
+if xMun="BOM JESUS DO NORTE":
+  cMun=="3201100"
   cMunSIAFI="5621"
-if cMun=="3201159":
-  xMun="BREJETUBA"
+if xMun="BREJETUBA":
+  cMun=="3201159"
   cMunSIAFI="0758"
-if cMun=="3201209":
-  xMun="CACHOEIRO DE ITAPEMIRIM"
+if xMun="CACHOEIRO DE ITAPEMIRIM":
+  cMun=="3201209"
   cMunSIAFI="5623"
-if cMun=="3201308":
-  xMun="CARIACICA"
+if xMun="CARIACICA":
+  cMun=="3201308"
   cMunSIAFI="5625"
-if cMun=="3201407":
-  xMun="CASTELO"
+if xMun="CASTELO":
+  cMun=="3201407"
   cMunSIAFI="5627"
-if cMun=="3201506":
-  xMun="COLATINA"
+if xMun="COLATINA":
+  cMun=="3201506"
   cMunSIAFI="5629"
-if cMun=="3201605":
-  xMun="CONCEICAO DA BARRA"
+if xMun="CONCEICAO DA BARRA":
+  cMun=="3201605"
   cMunSIAFI="5631"
-if cMun=="3201704":
-  xMun="CONCEICAO DO CASTELO"
+if xMun="CONCEICAO DO CASTELO":
+  cMun=="3201704"
   cMunSIAFI="5633"
-if cMun=="3201803":
-  xMun="DIVINO DE SAO LOURENCO"
+if xMun="DIVINO DE SAO LOURENCO":
+  cMun=="3201803"
   cMunSIAFI="5635"
-if cMun=="3201902":
-  xMun="DOMINGOS MARTINS"
+if xMun="DOMINGOS MARTINS":
+  cMun=="3201902"
   cMunSIAFI="5637"
-if cMun=="3202009":
-  xMun="DORES DO RIO PRETO"
+if xMun="DORES DO RIO PRETO":
+  cMun=="3202009"
   cMunSIAFI="5639"
-if cMun=="3202108":
-  xMun="ECOPORANGA"
+if xMun="ECOPORANGA":
+  cMun=="3202108"
   cMunSIAFI="5641"
-if cMun=="3202207":
-  xMun="FUNDAO"
+if xMun="FUNDAO":
+  cMun=="3202207"
   cMunSIAFI="5643"
-if cMun=="3202256":
-  xMun="GOVERNADOR LINDENBERG"
+if xMun="GOVERNADOR LINDENBERG":
+  cMun=="3202256"
   cMunSIAFI="1114"
-if cMun=="3202306":
-  xMun="GUACUI"
+if xMun="GUACUI":
+  cMun=="3202306"
   cMunSIAFI="5645"
-if cMun=="3202405":
-  xMun="GUARAPARI"
+if xMun="GUARAPARI":
+  cMun=="3202405"
   cMunSIAFI="5647"
-if cMun=="3202454":
-  xMun="IBATIBA"
+if xMun="IBATIBA":
+  cMun=="3202454"
   cMunSIAFI="5709"
-if cMun=="3202504":
-  xMun="IBIRACU"
+if xMun="IBIRACU":
+  cMun=="3202504"
   cMunSIAFI="5649"
-if cMun=="3202553":
-  xMun="IBITIRAMA"
+if xMun="IBITIRAMA":
+  cMun=="3202553"
   cMunSIAFI="6011"
-if cMun=="3202603":
-  xMun="ICONHA"
+if xMun="ICONHA":
+  cMun=="3202603"
   cMunSIAFI="5651"
-if cMun=="3202652":
-  xMun="IRUPI"
+if xMun="IRUPI":
+  cMun=="3202652"
   cMunSIAFI="2931"
-if cMun=="3202702":
-  xMun="ITAGUACU"
+if xMun="ITAGUACU":
+  cMun=="3202702"
   cMunSIAFI="5653"
-if cMun=="3202801":
-  xMun="ITAPEMIRIM"
+if xMun="ITAPEMIRIM":
+  cMun=="3202801"
   cMunSIAFI="5655"
-if cMun=="3202900":
-  xMun="ITARANA"
+if xMun="ITARANA":
+  cMun=="3202900"
   cMunSIAFI="5657"
-if cMun=="3203007":
-  xMun="IUNA"
+if xMun="IUNA":
+  cMun=="3203007"
   cMunSIAFI="5659"
-if cMun=="3203056":
-  xMun="JAGUARE"
+if xMun="JAGUARE":
+  cMun=="3203056"
   cMunSIAFI="5713"
-if cMun=="3203106":
-  xMun="JERONIMO MONTEIRO"
+if xMun="JERONIMO MONTEIRO":
+  cMun=="3203106"
   cMunSIAFI="5661"
-if cMun=="3203130":
-  xMun="JOAO NEIVA"
+if xMun="JOAO NEIVA":
+  cMun=="3203130"
   cMunSIAFI="5721"
-if cMun=="3203163":
-  xMun="LARANJA DA TERRA"
+if xMun="LARANJA DA TERRA":
+  cMun=="3203163"
   cMunSIAFI="5723"
-if cMun=="3203205":
-  xMun="LINHARES"
+if xMun="LINHARES":
+  cMun=="3203205"
   cMunSIAFI="5663"
-if cMun=="3203304":
-  xMun="MANTENOPOLIS"
+if xMun="MANTENOPOLIS":
+  cMun=="3203304"
   cMunSIAFI="5665"
-if cMun=="3203320":
-  xMun="MARATAIZES"
+if xMun="MARATAIZES":
+  cMun=="3203320"
   cMunSIAFI="0760"
-if cMun=="3203346":
-  xMun="MARECHAL FLORIANO"
+if xMun="MARECHAL FLORIANO":
+  cMun=="3203346"
   cMunSIAFI="2929"
-if cMun=="3203353":
-  xMun="MARILANDIA"
+if xMun="MARILANDIA":
+  cMun=="3203353"
   cMunSIAFI="5707"
-if cMun=="3203403":
-  xMun="MIMOSO DO SUL"
+if xMun="MIMOSO DO SUL":
+  cMun=="3203403"
   cMunSIAFI="5667"
-if cMun=="3203502":
-  xMun="MONTANHA"
+if xMun="MONTANHA":
+  cMun=="3203502"
   cMunSIAFI="5669"
-if cMun=="3203601":
-  xMun="MUCURICI"
+if xMun="MUCURICI":
+  cMun=="3203601"
   cMunSIAFI="5671"
-if cMun=="3203700":
-  xMun="MUNIZ FREIRE"
+if xMun="MUNIZ FREIRE":
+  cMun=="3203700"
   cMunSIAFI="5673"
-if cMun=="3203809":
-  xMun="MUQUI"
+if xMun="MUQUI":
+  cMun=="3203809"
   cMunSIAFI="5675"
-if cMun=="3203908":
-  xMun="NOVA VENECIA"
+if xMun="NOVA VENECIA":
+  cMun=="3203908"
   cMunSIAFI="5677"
-if cMun=="3204005":
-  xMun="PANCAS"
+if xMun="PANCAS":
+  cMun=="3204005"
   cMunSIAFI="5679"
-if cMun=="3204054":
-  xMun="PEDRO CANARIO"
+if xMun="PEDRO CANARIO":
+  cMun=="3204054"
   cMunSIAFI="5715"
-if cMun=="3204104":
-  xMun="PINHEIROS"
+if xMun="PINHEIROS":
+  cMun=="3204104"
   cMunSIAFI="5681"
-if cMun=="3204203":
-  xMun="PIUMA"
+if xMun="PIUMA":
+  cMun=="3204203"
   cMunSIAFI="5683"
-if cMun=="3204252":
-  xMun="PONTO BELO"
+if xMun="PONTO BELO":
+  cMun=="3204252"
   cMunSIAFI="0762"
-if cMun=="3204302":
-  xMun="PRESIDENTE KENNEDY"
+if xMun="PRESIDENTE KENNEDY":
+  cMun=="3204302"
   cMunSIAFI="5685"
-if cMun=="3204351":
-  xMun="RIO BANANAL"
+if xMun="RIO BANANAL":
+  cMun=="3204351"
   cMunSIAFI="5711"
-if cMun=="3204401":
-  xMun="RIO NOVO DO SUL"
+if xMun="RIO NOVO DO SUL":
+  cMun=="3204401"
   cMunSIAFI="5687"
-if cMun=="3204500":
-  xMun="SANTA LEOPOLDINA"
+if xMun="SANTA LEOPOLDINA":
+  cMun=="3204500"
   cMunSIAFI="5689"
-if cMun=="3204559":
-  xMun="SANTA MARIA DE JETIBA"
+if xMun="SANTA MARIA DE JETIBA":
+  cMun=="3204559"
   cMunSIAFI="5725"
-if cMun=="3204609":
-  xMun="SANTA TERESA"
+if xMun="SANTA TERESA":
+  cMun=="3204609"
   cMunSIAFI="5691"
-if cMun=="3204658":
-  xMun="SAO DOMINGOS DO NORTE"
+if xMun="SAO DOMINGOS DO NORTE":
+  cMun=="3204658"
   cMunSIAFI="2933"
-if cMun=="3204708":
-  xMun="SAO GABRIEL DA PALHA"
+if xMun="SAO GABRIEL DA PALHA":
+  cMun=="3204708"
   cMunSIAFI="5693"
-if cMun=="3204807":
-  xMun="SAO JOSE DO CALCADO"
+if xMun="SAO JOSE DO CALCADO":
+  cMun=="3204807"
   cMunSIAFI="5695"
-if cMun=="3204906":
-  xMun="SAO MATEUS"
+if xMun="SAO MATEUS":
+  cMun=="3204906"
   cMunSIAFI="5697"
-if cMun=="3204955":
-  xMun="SAO ROQUE DO CANAA"
+if xMun="SAO ROQUE DO CANAA":
+  cMun=="3204955"
   cMunSIAFI="0764"
-if cMun=="3205002":
-  xMun="SERRA"
+if xMun="SERRA":
+  cMun=="3205002"
   cMunSIAFI="5699"
-if cMun=="3205010":
-  xMun="SOORETAMA"
+if xMun="SOORETAMA":
+  cMun=="3205010"
   cMunSIAFI="0766"
-if cMun=="3205036":
-  xMun="VARGEM ALTA"
+if xMun="VARGEM ALTA":
+  cMun=="3205036"
   cMunSIAFI="5727"
-if cMun=="3205069":
-  xMun="VENDA NOVA DO IMIGRANTE"
+if xMun="VENDA NOVA DO IMIGRANTE":
+  cMun=="3205069"
   cMunSIAFI="5729"
-if cMun=="3205101":
-  xMun="VIANA"
+if xMun="VIANA":
+  cMun=="3205101"
   cMunSIAFI="5701"
-if cMun=="3205150":
-  xMun="VILA PAVAO"
+if xMun="VILA PAVAO":
+  cMun=="3205150"
   cMunSIAFI="2935"
-if cMun=="3205176":
-  xMun="VILA VALERIO"
+if xMun="VILA VALERIO":
+  cMun=="3205176"
   cMunSIAFI="0768"
-if cMun=="3205200":
-  xMun="VILA VELHA"
+if xMun="VILA VELHA":
+  cMun=="3205200"
   cMunSIAFI="5703"
-if cMun=="3205309":
-  xMun="VITORIA"
+if xMun="VITORIA":
+  cMun=="3205309"
   cMunSIAFI="5705"
-if cMun=="5200050":
-  xMun="ABADIA DE GOIAS"
+if xMun="ABADIA DE GOIAS":
+  cMun=="5200050"
   cMunSIAFI="1050"
-if cMun=="5200100":
-  xMun="ABADIANIA"
+if xMun="ABADIANIA":
+  cMun=="5200100"
   cMunSIAFI="9201"
-if cMun=="5200134":
-  xMun="ACREUNA"
+if xMun="ACREUNA":
+  cMun=="5200134"
   cMunSIAFI="9645"
-if cMun=="5200159":
-  xMun="ADELANDIA"
+if xMun="ADELANDIA":
+  cMun=="5200159"
   cMunSIAFI="9769"
-if cMun=="5200175":
-  xMun="AGUA FRIA DE GOIAS"
+if xMun="AGUA FRIA DE GOIAS":
+  cMun=="5200175"
   cMunSIAFI="9771"
-if cMun=="5200209":
-  xMun="AGUA LIMPA"
+if xMun="AGUA LIMPA":
+  cMun=="5200209"
   cMunSIAFI="9203"
-if cMun=="5200258":
-  xMun="AGUAS LINDAS DE GOIAS"
+if xMun="AGUAS LINDAS DE GOIAS":
+  cMun=="5200258"
   cMunSIAFI="1052"
-if cMun=="5200308":
-  xMun="ALEXANIA"
+if xMun="ALEXANIA":
+  cMun=="5200308"
   cMunSIAFI="9205"
-if cMun=="5200506":
-  xMun="ALOANDIA"
+if xMun="ALOANDIA":
+  cMun=="5200506"
   cMunSIAFI="9209"
-if cMun=="5200555":
-  xMun="ALTO HORIZONTE"
+if xMun="ALTO HORIZONTE":
+  cMun=="5200555"
   cMunSIAFI="0085"
-if cMun=="5200605":
-  xMun="ALTO PARAISO DE GOIAS"
+if xMun="ALTO PARAISO DE GOIAS":
+  cMun=="5200605"
   cMunSIAFI="9211"
-if cMun=="5200803":
-  xMun="ALVORADA DO NORTE"
+if xMun="ALVORADA DO NORTE":
+  cMun=="5200803"
   cMunSIAFI="9215"
-if cMun=="5200829":
-  xMun="AMARALINA"
+if xMun="AMARALINA":
+  cMun=="5200829"
   cMunSIAFI="1054"
-if cMun=="5200852":
-  xMun="AMERICANO DO BRASIL"
+if xMun="AMERICANO DO BRASIL":
+  cMun=="5200852"
   cMunSIAFI="9661"
-if cMun=="5200902":
-  xMun="AMORINOPOLIS"
+if xMun="AMORINOPOLIS":
+  cMun=="5200902"
   cMunSIAFI="9217"
-if cMun=="5201108":
-  xMun="ANAPOLIS"
+if xMun="ANAPOLIS":
+  cMun=="5201108"
   cMunSIAFI="9221"
-if cMun=="5201207":
-  xMun="ANHANGUERA"
+if xMun="ANHANGUERA":
+  cMun=="5201207"
   cMunSIAFI="9223"
-if cMun=="5201306":
-  xMun="ANICUNS"
+if xMun="ANICUNS":
+  cMun=="5201306"
   cMunSIAFI="9225"
-if cMun=="5201405":
-  xMun="APARECIDA DE GOIANIA"
+if xMun="APARECIDA DE GOIANIA":
+  cMun=="5201405"
   cMunSIAFI="9227"
-if cMun=="5201454":
-  xMun="APARECIDA DO RIO DOCE"
+if xMun="APARECIDA DO RIO DOCE":
+  cMun=="5201454"
   cMunSIAFI="0071"
-if cMun=="5201504":
-  xMun="APORE"
+if xMun="APORE":
+  cMun=="5201504"
   cMunSIAFI="9229"
-if cMun=="5201603":
-  xMun="ARACU"
+if xMun="ARACU":
+  cMun=="5201603"
   cMunSIAFI="9231"
-if cMun=="5201702":
-  xMun="ARAGARCAS"
+if xMun="ARAGARCAS":
+  cMun=="5201702"
   cMunSIAFI="9233"
-if cMun=="5201801":
-  xMun="ARAGOIANIA"
+if xMun="ARAGOIANIA":
+  cMun=="5201801"
   cMunSIAFI="9235"
-if cMun=="5202155":
-  xMun="ARAGUAPAZ"
+if xMun="ARAGUAPAZ":
+  cMun=="5202155"
   cMunSIAFI="9669"
-if cMun=="5202353":
-  xMun="ARENOPOLIS"
+if xMun="ARENOPOLIS":
+  cMun=="5202353"
   cMunSIAFI="9671"
-if cMun=="5202502":
-  xMun="ARUANA"
+if xMun="ARUANA":
+  cMun=="5202502"
   cMunSIAFI="9249"
-if cMun=="5202601":
-  xMun="AURILANDIA"
+if xMun="AURILANDIA":
+  cMun=="5202601"
   cMunSIAFI="9251"
-if cMun=="5202809":
-  xMun="AVELINOPOLIS"
+if xMun="AVELINOPOLIS":
+  cMun=="5202809"
   cMunSIAFI="9255"
-if cMun=="5203104":
-  xMun="BALIZA"
+if xMun="BALIZA":
+  cMun=="5203104"
   cMunSIAFI="9261"
-if cMun=="5203203":
-  xMun="BARRO ALTO"
+if xMun="BARRO ALTO":
+  cMun=="5203203"
   cMunSIAFI="9263"
-if cMun=="5203302":
-  xMun="BELA VISTA DE GOIAS"
+if xMun="BELA VISTA DE GOIAS":
+  cMun=="5203302"
   cMunSIAFI="9265"
-if cMun=="5203401":
-  xMun="BOM JARDIM DE GOIAS"
+if xMun="BOM JARDIM DE GOIAS":
+  cMun=="5203401"
   cMunSIAFI="9267"
-if cMun=="5203500":
-  xMun="BOM JESUS DE GOIAS"
+if xMun="BOM JESUS DE GOIAS":
+  cMun=="5203500"
   cMunSIAFI="9269"
-if cMun=="5203559":
-  xMun="BONFINOPOLIS"
+if xMun="BONFINOPOLIS":
+  cMun=="5203559"
   cMunSIAFI="9775"
-if cMun=="5203575":
-  xMun="BONOPOLIS"
+if xMun="BONOPOLIS":
+  cMun=="5203575"
   cMunSIAFI="1056"
-if cMun=="5203609":
-  xMun="BRAZABRANTES"
+if xMun="BRAZABRANTES":
+  cMun=="5203609"
   cMunSIAFI="9271"
-if cMun=="5203807":
-  xMun="BRITANIA"
+if xMun="BRITANIA":
+  cMun=="5203807"
   cMunSIAFI="9275"
-if cMun=="5203906":
-  xMun="BURITI ALEGRE"
+if xMun="BURITI ALEGRE":
+  cMun=="5203906"
   cMunSIAFI="9277"
-if cMun=="5203939":
-  xMun="BURITI DE GOIAS"
+if xMun="BURITI DE GOIAS":
+  cMun=="5203939"
   cMunSIAFI="0063"
-if cMun=="5203962":
-  xMun="BURITINOPOLIS"
+if xMun="BURITINOPOLIS":
+  cMun=="5203962"
   cMunSIAFI="0061"
-if cMun=="5204003":
-  xMun="CABECEIRAS"
+if xMun="CABECEIRAS":
+  cMun=="5204003"
   cMunSIAFI="9279"
-if cMun=="5204102":
-  xMun="CACHOEIRA ALTA"
+if xMun="CACHOEIRA ALTA":
+  cMun=="5204102"
   cMunSIAFI="9281"
-if cMun=="5204201":
-  xMun="CACHOEIRA DE GOIAS"
+if xMun="CACHOEIRA DE GOIAS":
+  cMun=="5204201"
   cMunSIAFI="9283"
-if cMun=="5204250":
-  xMun="CACHOEIRA DOURADA"
+if xMun="CACHOEIRA DOURADA":
+  cMun=="5204250"
   cMunSIAFI="9673"
-if cMun=="5204300":
-  xMun="CACU"
+if xMun="CACU":
+  cMun=="5204300"
   cMunSIAFI="9285"
-if cMun=="5204409":
-  xMun="CAIAPONIA"
+if xMun="CAIAPONIA":
+  cMun=="5204409"
   cMunSIAFI="9287"
-if cMun=="5204508":
-  xMun="CALDAS NOVAS"
+if xMun="CALDAS NOVAS":
+  cMun=="5204508"
   cMunSIAFI="9289"
-if cMun=="5204557":
-  xMun="CALDAZINHA"
+if xMun="CALDAZINHA":
+  cMun=="5204557"
   cMunSIAFI="0031"
-if cMun=="5204607":
-  xMun="CAMPESTRE DE GOIAS"
+if xMun="CAMPESTRE DE GOIAS":
+  cMun=="5204607"
   cMunSIAFI="9291"
-if cMun=="5204656":
-  xMun="CAMPINACU"
+if xMun="CAMPINACU":
+  cMun=="5204656"
   cMunSIAFI="9687"
-if cMun=="5204706":
-  xMun="CAMPINORTE"
+if xMun="CAMPINORTE":
+  cMun=="5204706"
   cMunSIAFI="9293"
-if cMun=="5204805":
-  xMun="CAMPO ALEGRE DE GOIAS"
+if xMun="CAMPO ALEGRE DE GOIAS":
+  cMun=="5204805"
   cMunSIAFI="9295"
-if cMun=="5204854":
-  xMun="CAMPO LIMPO DE GOIAS"
+if xMun="CAMPO LIMPO DE GOIAS":
+  cMun=="5204854"
   cMunSIAFI="1070"
-if cMun=="5204904":
-  xMun="CAMPOS BELOS"
+if xMun="CAMPOS BELOS":
+  cMun=="5204904"
   cMunSIAFI="9297"
-if cMun=="5204953":
-  xMun="CAMPOS VERDES"
+if xMun="CAMPOS VERDES":
+  cMun=="5204953"
   cMunSIAFI="9781"
-if cMun=="5205000":
-  xMun="CARMO DO RIO VERDE"
+if xMun="CARMO DO RIO VERDE":
+  cMun=="5205000"
   cMunSIAFI="9299"
-if cMun=="5205059":
-  xMun="CASTELANDIA"
+if xMun="CASTELANDIA":
+  cMun=="5205059"
   cMunSIAFI="0081"
-if cMun=="5205109":
-  xMun="CATALAO"
+if xMun="CATALAO":
+  cMun=="5205109"
   cMunSIAFI="9301"
-if cMun=="5205208":
-  xMun="CATURAI"
+if xMun="CATURAI":
+  cMun=="5205208"
   cMunSIAFI="9303"
-if cMun=="5205307":
-  xMun="CAVALCANTE"
+if xMun="CAVALCANTE":
+  cMun=="5205307"
   cMunSIAFI="9305"
-if cMun=="5205406":
-  xMun="CERES"
+if xMun="CERES":
+  cMun=="5205406"
   cMunSIAFI="9307"
-if cMun=="5205455":
-  xMun="CEZARINA"
+if xMun="CEZARINA":
+  cMun=="5205455"
   cMunSIAFI="9785"
-if cMun=="5205471":
-  xMun="CHAPADAO DO CEU"
+if xMun="CHAPADAO DO CEU":
+  cMun=="5205471"
   cMunSIAFI="0073"
-if cMun=="5205497":
-  xMun="CIDADE OCIDENTAL"
+if xMun="CIDADE OCIDENTAL":
+  cMun=="5205497"
   cMunSIAFI="0077"
-if cMun=="5205513":
-  xMun="COCALZINHO DE GOIAS"
+if xMun="COCALZINHO DE GOIAS":
+  cMun=="5205513"
   cMunSIAFI="0055"
-if cMun=="5205521":
-  xMun="COLINAS DO SUL"
+if xMun="COLINAS DO SUL":
+  cMun=="5205521"
   cMunSIAFI="9791"
-if cMun=="5205703":
-  xMun="CORREGO DO OURO"
+if xMun="CORREGO DO OURO":
+  cMun=="5205703"
   cMunSIAFI="9315"
-if cMun=="5205802":
-  xMun="CORUMBA DE GOIAS"
+if xMun="CORUMBA DE GOIAS":
+  cMun=="5205802"
   cMunSIAFI="9317"
-if cMun=="5205901":
-  xMun="CORUMBAIBA"
+if xMun="CORUMBAIBA":
+  cMun=="5205901"
   cMunSIAFI="9319"
-if cMun=="5206206":
-  xMun="CRISTALINA"
+if xMun="CRISTALINA":
+  cMun=="5206206"
   cMunSIAFI="9325"
-if cMun=="5206305":
-  xMun="CRISTIANOPOLIS"
+if xMun="CRISTIANOPOLIS":
+  cMun=="5206305"
   cMunSIAFI="9327"
-if cMun=="5206404":
-  xMun="CRIXAS"
+if xMun="CRIXAS":
+  cMun=="5206404"
   cMunSIAFI="9329"
-if cMun=="5206503":
-  xMun="CROMINIA"
+if xMun="CROMINIA":
+  cMun=="5206503"
   cMunSIAFI="9331"
-if cMun=="5206602":
-  xMun="CUMARI"
+if xMun="CUMARI":
+  cMun=="5206602"
   cMunSIAFI="9333"
-if cMun=="5206701":
-  xMun="DAMIANOPOLIS"
+if xMun="DAMIANOPOLIS":
+  cMun=="5206701"
   cMunSIAFI="9335"
-if cMun=="5206800":
-  xMun="DAMOLANDIA"
+if xMun="DAMOLANDIA":
+  cMun=="5206800"
   cMunSIAFI="9337"
-if cMun=="5206909":
-  xMun="DAVINOPOLIS"
+if xMun="DAVINOPOLIS":
+  cMun=="5206909"
   cMunSIAFI="9339"
-if cMun=="5207105":
-  xMun="DIORAMA"
+if xMun="DIORAMA":
+  cMun=="5207105"
   cMunSIAFI="9343"
-if cMun=="5208301":
-  xMun="DIVINOPOLIS DE GOIAS"
+if xMun="DIVINOPOLIS DE GOIAS":
+  cMun=="5208301"
   cMunSIAFI="9309"
-if cMun=="5207253":
-  xMun="DOVERLANDIA"
+if xMun="DOVERLANDIA":
+  cMun=="5207253"
   cMunSIAFI="9675"
-if cMun=="5207352":
-  xMun="EDEALINA"
+if xMun="EDEALINA":
+  cMun=="5207352"
   cMunSIAFI="9795"
-if cMun=="5207402":
-  xMun="EDEIA"
+if xMun="EDEIA":
+  cMun=="5207402"
   cMunSIAFI="9349"
-if cMun=="5207501":
-  xMun="ESTRELA DO NORTE"
+if xMun="ESTRELA DO NORTE":
+  cMun=="5207501"
   cMunSIAFI="9351"
-if cMun=="5207535":
-  xMun="FAINA"
+if xMun="FAINA":
+  cMun=="5207535"
   cMunSIAFI="9797"
-if cMun=="5207600":
-  xMun="FAZENDA NOVA"
+if xMun="FAZENDA NOVA":
+  cMun=="5207600"
   cMunSIAFI="9353"
-if cMun=="5207808":
-  xMun="FIRMINOPOLIS"
+if xMun="FIRMINOPOLIS":
+  cMun=="5207808"
   cMunSIAFI="9357"
-if cMun=="5207907":
-  xMun="FLORES DE GOIAS"
+if xMun="FLORES DE GOIAS":
+  cMun=="5207907"
   cMunSIAFI="9359"
-if cMun=="5208004":
-  xMun="FORMOSA"
+if xMun="FORMOSA":
+  cMun=="5208004"
   cMunSIAFI="9361"
-if cMun=="5208103":
-  xMun="FORMOSO"
+if xMun="FORMOSO":
+  cMun=="5208103"
   cMunSIAFI="9363"
-if cMun=="5208152":
-  xMun="GAMELEIRA DE GOIAS"
+if xMun="GAMELEIRA DE GOIAS":
+  cMun=="5208152"
   cMunSIAFI="1072"
-if cMun=="5208400":
-  xMun="GOIANAPOLIS"
+if xMun="GOIANAPOLIS":
+  cMun=="5208400"
   cMunSIAFI="9367"
-if cMun=="5208509":
-  xMun="GOIANDIRA"
+if xMun="GOIANDIRA":
+  cMun=="5208509"
   cMunSIAFI="9369"
-if cMun=="5208608":
-  xMun="GOIANESIA"
+if xMun="GOIANESIA":
+  cMun=="5208608"
   cMunSIAFI="9371"
-if cMun=="5208707":
-  xMun="GOIANIA"
+if xMun="GOIANIA":
+  cMun=="5208707"
   cMunSIAFI="9373"
-if cMun=="5208806":
-  xMun="GOIANIRA"
+if xMun="GOIANIRA":
+  cMun=="5208806"
   cMunSIAFI="9375"
-if cMun=="5208905":
-  xMun="GOIAS"
+if xMun="GOIAS":
+  cMun=="5208905"
   cMunSIAFI="9377"
-if cMun=="5209101":
-  xMun="GOIATUBA"
+if xMun="GOIATUBA":
+  cMun=="5209101"
   cMunSIAFI="9379"
-if cMun=="5209150":
-  xMun="GOUVELANDIA"
+if xMun="GOUVELANDIA":
+  cMun=="5209150"
   cMunSIAFI="9799"
-if cMun=="5209200":
-  xMun="GUAPO"
+if xMun="GUAPO":
+  cMun=="5209200"
   cMunSIAFI="9381"
-if cMun=="5209291":
-  xMun="GUARAITA"
+if xMun="GUARAITA":
+  cMun=="5209291"
   cMunSIAFI="0065"
-if cMun=="5209408":
-  xMun="GUARANI DE GOIAS"
+if xMun="GUARANI DE GOIAS":
+  cMun=="5209408"
   cMunSIAFI="9383"
-if cMun=="5209457":
-  xMun="GUARINOS"
+if xMun="GUARINOS":
+  cMun=="5209457"
   cMunSIAFI="9993"
-if cMun=="5209606":
-  xMun="HEITORAI"
+if xMun="HEITORAI":
+  cMun=="5209606"
   cMunSIAFI="9387"
-if cMun=="5209705":
-  xMun="HIDROLANDIA"
+if xMun="HIDROLANDIA":
+  cMun=="5209705"
   cMunSIAFI="9389"
-if cMun=="5209804":
-  xMun="HIDROLINA"
+if xMun="HIDROLINA":
+  cMun=="5209804"
   cMunSIAFI="9391"
-if cMun=="5209903":
-  xMun="IACIARA"
+if xMun="IACIARA":
+  cMun=="5209903"
   cMunSIAFI="9393"
-if cMun=="5209937":
-  xMun="INACIOLANDIA"
+if xMun="INACIOLANDIA":
+  cMun=="5209937"
   cMunSIAFI="0069"
-if cMun=="5209952":
-  xMun="INDIARA"
+if xMun="INDIARA":
+  cMun=="5209952"
   cMunSIAFI="9681"
-if cMun=="5210000":
-  xMun="INHUMAS"
+if xMun="INHUMAS":
+  cMun=="5210000"
   cMunSIAFI="9395"
-if cMun=="5210109":
-  xMun="IPAMERI"
+if xMun="IPAMERI":
+  cMun=="5210109"
   cMunSIAFI="9397"
-if cMun=="5210158":
-  xMun="IPIRANGA DE GOIAS"
+if xMun="IPIRANGA DE GOIAS":
+  cMun=="5210158"
   cMunSIAFI="1074"
-if cMun=="5210208":
-  xMun="IPORA"
+if xMun="IPORA":
+  cMun=="5210208"
   cMunSIAFI="9399"
-if cMun=="5210307":
-  xMun="ISRAELANDIA"
+if xMun="ISRAELANDIA":
+  cMun=="5210307"
   cMunSIAFI="9401"
-if cMun=="5210406":
-  xMun="ITABERAI"
+if xMun="ITABERAI":
+  cMun=="5210406"
   cMunSIAFI="9403"
-if cMun=="5210562":
-  xMun="ITAGUARI"
+if xMun="ITAGUARI":
+  cMun=="5210562"
   cMunSIAFI="9919"
-if cMun=="5210604":
-  xMun="ITAGUARU"
+if xMun="ITAGUARU":
+  cMun=="5210604"
   cMunSIAFI="9407"
-if cMun=="5210802":
-  xMun="ITAJA"
+if xMun="ITAJA":
+  cMun=="5210802"
   cMunSIAFI="9411"
-if cMun=="5210901":
-  xMun="ITAPACI"
+if xMun="ITAPACI":
+  cMun=="5210901"
   cMunSIAFI="9413"
-if cMun=="5211008":
-  xMun="ITAPIRAPUA"
+if xMun="ITAPIRAPUA":
+  cMun=="5211008"
   cMunSIAFI="9415"
-if cMun=="5211206":
-  xMun="ITAPURANGA"
+if xMun="ITAPURANGA":
+  cMun=="5211206"
   cMunSIAFI="9419"
-if cMun=="5211305":
-  xMun="ITARUMA"
+if xMun="ITARUMA":
+  cMun=="5211305"
   cMunSIAFI="9421"
-if cMun=="5211404":
-  xMun="ITAUCU"
+if xMun="ITAUCU":
+  cMun=="5211404"
   cMunSIAFI="9423"
-if cMun=="5211503":
-  xMun="ITUMBIARA"
+if xMun="ITUMBIARA":
+  cMun=="5211503"
   cMunSIAFI="9425"
-if cMun=="5211602":
-  xMun="IVOLANDIA"
+if xMun="IVOLANDIA":
+  cMun=="5211602"
   cMunSIAFI="9427"
-if cMun=="5211701":
-  xMun="JANDAIA"
+if xMun="JANDAIA":
+  cMun=="5211701"
   cMunSIAFI="9429"
-if cMun=="5211800":
-  xMun="JARAGUA"
+if xMun="JARAGUA":
+  cMun=="5211800"
   cMunSIAFI="9431"
-if cMun=="5211909":
-  xMun="JATAI"
+if xMun="JATAI":
+  cMun=="5211909"
   cMunSIAFI="9433"
-if cMun=="5212006":
-  xMun="JAUPACI"
+if xMun="JAUPACI":
+  cMun=="5212006"
   cMunSIAFI="9435"
-if cMun=="5212055":
-  xMun="JESUPOLIS"
+if xMun="JESUPOLIS":
+  cMun=="5212055"
   cMunSIAFI="0049"
-if cMun=="5212105":
-  xMun="JOVIANIA"
+if xMun="JOVIANIA":
+  cMun=="5212105"
   cMunSIAFI="9437"
-if cMun=="5212204":
-  xMun="JUSSARA"
+if xMun="JUSSARA":
+  cMun=="5212204"
   cMunSIAFI="9439"
-if cMun=="5212253":
-  xMun="LAGOA SANTA"
+if xMun="LAGOA SANTA":
+  cMun=="5212253"
   cMunSIAFI="1076"
-if cMun=="5212303":
-  xMun="LEOPOLDO DE BULHÃ•ES"
+if xMun="LEOPOLDO DE BULHÃ•ES":
+  cMun=="5212303"
   cMunSIAFI="9443"
-if cMun=="5212501":
-  xMun="LUZIANIA"
+if xMun="LUZIANIA":
+  cMun=="5212501"
   cMunSIAFI="9445"
-if cMun=="5212600":
-  xMun="MAIRIPOTABA"
+if xMun="MAIRIPOTABA":
+  cMun=="5212600"
   cMunSIAFI="9447"
-if cMun=="5212709":
-  xMun="MAMBAI"
+if xMun="MAMBAI":
+  cMun=="5212709"
   cMunSIAFI="9449"
-if cMun=="5212808":
-  xMun="MARA ROSA"
+if xMun="MARA ROSA":
+  cMun=="5212808"
   cMunSIAFI="9451"
-if cMun=="5212907":
-  xMun="MARZAGAO"
+if xMun="MARZAGAO":
+  cMun=="5212907"
   cMunSIAFI="9453"
-if cMun=="5212956":
-  xMun="MATRINCHA"
+if xMun="MATRINCHA":
+  cMun=="5212956"
   cMunSIAFI="9927"
-if cMun=="5213004":
-  xMun="MAURILANDIA"
+if xMun="MAURILANDIA":
+  cMun=="5213004"
   cMunSIAFI="9457"
-if cMun=="5213053":
-  xMun="MIMOSO DE GOIAS"
+if xMun="MIMOSO DE GOIAS":
+  cMun=="5213053"
   cMunSIAFI="9931"
-if cMun=="5213087":
-  xMun="MINACU"
+if xMun="MINACU":
+  cMun=="5213087"
   cMunSIAFI="9647"
-if cMun=="5213103":
-  xMun="MINEIROS"
+if xMun="MINEIROS":
+  cMun=="5213103"
   cMunSIAFI="9459"
-if cMun=="5213400":
-  xMun="MOIPORA"
+if xMun="MOIPORA":
+  cMun=="5213400"
   cMunSIAFI="9465"
-if cMun=="5213509":
-  xMun="MONTE ALEGRE DE GOIAS"
+if xMun="MONTE ALEGRE DE GOIAS":
+  cMun=="5213509"
   cMunSIAFI="9467"
-if cMun=="5213707":
-  xMun="MONTES CLAROS DE GOIAS"
+if xMun="MONTES CLAROS DE GOIAS":
+  cMun=="5213707"
   cMunSIAFI="9471"
-if cMun=="5213756":
-  xMun="MONTIVIDIU"
+if xMun="MONTIVIDIU":
+  cMun=="5213756"
   cMunSIAFI="9933"
-if cMun=="5213772":
-  xMun="MONTIVIDIU DO NORTE"
+if xMun="MONTIVIDIU DO NORTE":
+  cMun=="5213772"
   cMunSIAFI="0079"
-if cMun=="5213806":
-  xMun="MORRINHOS"
+if xMun="MORRINHOS":
+  cMun=="5213806"
   cMunSIAFI="9473"
-if cMun=="5213855":
-  xMun="MORRO AGUDO DE GOIAS"
+if xMun="MORRO AGUDO DE GOIAS":
+  cMun=="5213855"
   cMunSIAFI="9935"
-if cMun=="5213905":
-  xMun="MOSSAMEDES"
+if xMun="MOSSAMEDES":
+  cMun=="5213905"
   cMunSIAFI="9475"
-if cMun=="5214002":
-  xMun="MOZARLANDIA"
+if xMun="MOZARLANDIA":
+  cMun=="5214002"
   cMunSIAFI="9477"
-if cMun=="5214051":
-  xMun="MUNDO NOVO"
+if xMun="MUNDO NOVO":
+  cMun=="5214051"
   cMunSIAFI="9651"
-if cMun=="5214101":
-  xMun="MUTUNOPOLIS"
+if xMun="MUTUNOPOLIS":
+  cMun=="5214101"
   cMunSIAFI="9479"
-if cMun=="5214408":
-  xMun="NAZARIO"
+if xMun="NAZARIO":
+  cMun=="5214408"
   cMunSIAFI="9485"
-if cMun=="5214507":
-  xMun="NEROPOLIS"
+if xMun="NEROPOLIS":
+  cMun=="5214507"
   cMunSIAFI="9487"
-if cMun=="5214606":
-  xMun="NIQUELANDIA"
+if xMun="NIQUELANDIA":
+  cMun=="5214606"
   cMunSIAFI="9489"
-if cMun=="5214705":
-  xMun="NOVA AMERICA"
+if xMun="NOVA AMERICA":
+  cMun=="5214705"
   cMunSIAFI="9491"
-if cMun=="5214804":
-  xMun="NOVA AURORA"
+if xMun="NOVA AURORA":
+  cMun=="5214804"
   cMunSIAFI="9493"
-if cMun=="5214838":
-  xMun="NOVA CRIXAS"
+if xMun="NOVA CRIXAS":
+  cMun=="5214838"
   cMunSIAFI="9653"
-if cMun=="5214861":
-  xMun="NOVA GLORIA"
+if xMun="NOVA GLORIA":
+  cMun=="5214861"
   cMunSIAFI="9655"
-if cMun=="5214879":
-  xMun="NOVA IGUACU DE GOIAS"
+if xMun="NOVA IGUACU DE GOIAS":
+  cMun=="5214879"
   cMunSIAFI="0087"
-if cMun=="5214903":
-  xMun="NOVA ROMA"
+if xMun="NOVA ROMA":
+  cMun=="5214903"
   cMunSIAFI="9495"
-if cMun=="5215009":
-  xMun="NOVA VENEZA"
+if xMun="NOVA VENEZA":
+  cMun=="5215009"
   cMunSIAFI="9497"
-if cMun=="5215207":
-  xMun="NOVO BRASIL"
+if xMun="NOVO BRASIL":
+  cMun=="5215207"
   cMunSIAFI="9501"
-if cMun=="5215231":
-  xMun="NOVO GAMA"
+if xMun="NOVO GAMA":
+  cMun=="5215231"
   cMunSIAFI="1058"
-if cMun=="5215256":
-  xMun="NOVO PLANALTO"
+if xMun="NOVO PLANALTO":
+  cMun=="5215256"
   cMunSIAFI="9735"
-if cMun=="5215306":
-  xMun="ORIZONA"
+if xMun="ORIZONA":
+  cMun=="5215306"
   cMunSIAFI="9503"
-if cMun=="5215405":
-  xMun="OURO VERDE DE GOIAS"
+if xMun="OURO VERDE DE GOIAS":
+  cMun=="5215405"
   cMunSIAFI="9505"
-if cMun=="5215504":
-  xMun="OUVIDOR"
+if xMun="OUVIDOR":
+  cMun=="5215504"
   cMunSIAFI="9507"
-if cMun=="5215603":
-  xMun="PADRE BERNARDO"
+if xMun="PADRE BERNARDO":
+  cMun=="5215603"
   cMunSIAFI="9509"
-if cMun=="5215652":
-  xMun="PALESTINA DE GOIAS"
+if xMun="PALESTINA DE GOIAS":
+  cMun=="5215652"
   cMunSIAFI="9737"
-if cMun=="5215702":
-  xMun="PALMEIRAS DE GOIAS"
+if xMun="PALMEIRAS DE GOIAS":
+  cMun=="5215702"
   cMunSIAFI="9511"
-if cMun=="5215801":
-  xMun="PALMELO"
+if xMun="PALMELO":
+  cMun=="5215801"
   cMunSIAFI="9513"
-if cMun=="5215900":
-  xMun="PALMINOPOLIS"
+if xMun="PALMINOPOLIS":
+  cMun=="5215900"
   cMunSIAFI="9515"
-if cMun=="5216007":
-  xMun="PANAMA"
+if xMun="PANAMA":
+  cMun=="5216007"
   cMunSIAFI="9517"
-if cMun=="5216304":
-  xMun="PARANAIGUARA"
+if xMun="PARANAIGUARA":
+  cMun=="5216304"
   cMunSIAFI="9455"
-if cMun=="5216403":
-  xMun="PARAUNA"
+if xMun="PARAUNA":
+  cMun=="5216403"
   cMunSIAFI="9523"
-if cMun=="5216452":
-  xMun="PEROLANDIA"
+if xMun="PEROLANDIA":
+  cMun=="5216452"
   cMunSIAFI="0075"
-if cMun=="5216809":
-  xMun="PETROLINA DE GOIAS"
+if xMun="PETROLINA DE GOIAS":
+  cMun=="5216809"
   cMunSIAFI="9531"
-if cMun=="5216908":
-  xMun="PILAR DE GOIAS"
+if xMun="PILAR DE GOIAS":
+  cMun=="5216908"
   cMunSIAFI="9535"
-if cMun=="5217104":
-  xMun="PIRACANJUBA"
+if xMun="PIRACANJUBA":
+  cMun=="5217104"
   cMunSIAFI="9539"
-if cMun=="5217203":
-  xMun="PIRANHAS"
+if xMun="PIRANHAS":
+  cMun=="5217203"
   cMunSIAFI="9541"
-if cMun=="5217302":
-  xMun="PIRENOPOLIS"
+if xMun="PIRENOPOLIS":
+  cMun=="5217302"
   cMunSIAFI="9543"
-if cMun=="5217401":
-  xMun="PIRES DO RIO"
+if xMun="PIRES DO RIO":
+  cMun=="5217401"
   cMunSIAFI="9545"
-if cMun=="5217609":
-  xMun="PLANALTINA"
+if xMun="PLANALTINA":
+  cMun=="5217609"
   cMunSIAFI="9595"
-if cMun=="5217708":
-  xMun="PONTALINA"
+if xMun="PONTALINA":
+  cMun=="5217708"
   cMunSIAFI="9549"
-if cMun=="5218003":
-  xMun="PORANGATU"
+if xMun="PORANGATU":
+  cMun=="5218003"
   cMunSIAFI="9555"
-if cMun=="5218052":
-  xMun="PORTEIRAO"
+if xMun="PORTEIRAO":
+  cMun=="5218052"
   cMunSIAFI="1060"
-if cMun=="5218102":
-  xMun="PORTELANDIA"
+if xMun="PORTELANDIA":
+  cMun=="5218102"
   cMunSIAFI="9557"
-if cMun=="5218300":
-  xMun="POSSE"
+if xMun="POSSE":
+  cMun=="5218300"
   cMunSIAFI="9561"
-if cMun=="5218391":
-  xMun="PROFESSOR JAMIL"
+if xMun="PROFESSOR JAMIL":
+  cMun=="5218391"
   cMunSIAFI="0051"
-if cMun=="5218508":
-  xMun="QUIRINOPOLIS"
+if xMun="QUIRINOPOLIS":
+  cMun=="5218508"
   cMunSIAFI="9563"
-if cMun=="5218607":
-  xMun="RIALMA"
+if xMun="RIALMA":
+  cMun=="5218607"
   cMunSIAFI="9565"
-if cMun=="5218706":
-  xMun="RIANAPOLIS"
+if xMun="RIANAPOLIS":
+  cMun=="5218706"
   cMunSIAFI="9567"
-if cMun=="5218789":
-  xMun="RIO QUENTE"
+if xMun="RIO QUENTE":
+  cMun=="5218789"
   cMunSIAFI="9995"
-if cMun=="5218805":
-  xMun="RIO VERDE"
+if xMun="RIO VERDE":
+  cMun=="5218805"
   cMunSIAFI="9571"
-if cMun=="5218904":
-  xMun="RUBIATABA"
+if xMun="RUBIATABA":
+  cMun=="5218904"
   cMunSIAFI="9573"
-if cMun=="5219001":
-  xMun="SANCLERLANDIA"
+if xMun="SANCLERLANDIA":
+  cMun=="5219001"
   cMunSIAFI="9575"
-if cMun=="5219100":
-  xMun="SANTA BARBARA DE GOIAS"
+if xMun="SANTA BARBARA DE GOIAS":
+  cMun=="5219100"
   cMunSIAFI="9577"
-if cMun=="5219209":
-  xMun="SANTA CRUZ DE GOIAS"
+if xMun="SANTA CRUZ DE GOIAS":
+  cMun=="5219209"
   cMunSIAFI="9579"
-if cMun=="5219258":
-  xMun="SANTA FE DE GOIAS"
+if xMun="SANTA FE DE GOIAS":
+  cMun=="5219258"
   cMunSIAFI="9743"
-if cMun=="5219308":
-  xMun="SANTA HELENA DE GOIAS"
+if xMun="SANTA HELENA DE GOIAS":
+  cMun=="5219308"
   cMunSIAFI="9581"
-if cMun=="5219357":
-  xMun="SANTA ISABEL"
+if xMun="SANTA ISABEL":
+  cMun=="5219357"
   cMunSIAFI="9689"
-if cMun=="5219407":
-  xMun="SANTA RITA DO ARAGUAIA"
+if xMun="SANTA RITA DO ARAGUAIA":
+  cMun=="5219407"
   cMunSIAFI="9583"
-if cMun=="5219456":
-  xMun="SANTA RITA DO NOVO DESTINO"
+if xMun="SANTA RITA DO NOVO DESTINO":
+  cMun=="5219456"
   cMunSIAFI="1062"
-if cMun=="5219506":
-  xMun="SANTA ROSA DE GOIAS"
+if xMun="SANTA ROSA DE GOIAS":
+  cMun=="5219506"
   cMunSIAFI="9585"
-if cMun=="5219605":
-  xMun="SANTA TEREZA DE GOIAS"
+if xMun="SANTA TEREZA DE GOIAS":
+  cMun=="5219605"
   cMunSIAFI="9587"
-if cMun=="5219704":
-  xMun="SANTA TEREZINHA DE GOIAS"
+if xMun="SANTA TEREZINHA DE GOIAS":
+  cMun=="5219704"
   cMunSIAFI="9589"
-if cMun=="5219712":
-  xMun="SANTO ANTONIO DA BARRA"
+if xMun="SANTO ANTONIO DA BARRA":
+  cMun=="5219712"
   cMunSIAFI="0083"
-if cMun=="5219738":
-  xMun="SANTO ANTONIO DE GOIAS"
+if xMun="SANTO ANTONIO DE GOIAS":
+  cMun=="5219738"
   cMunSIAFI="0053"
-if cMun=="5219753":
-  xMun="SANTO ANTONIO DO DESCOBERTO"
+if xMun="SANTO ANTONIO DO DESCOBERTO":
+  cMun=="5219753"
   cMunSIAFI="9677"
-if cMun=="5219803":
-  xMun="SAO DOMINGOS"
+if xMun="SAO DOMINGOS":
+  cMun=="5219803"
   cMunSIAFI="9591"
-if cMun=="5219902":
-  xMun="SAO FRANCISCO DE GOIAS"
+if xMun="SAO FRANCISCO DE GOIAS":
+  cMun=="5219902"
   cMunSIAFI="9593"
-if cMun=="5220058":
-  xMun="SAO JOAO DA PARAUNA"
+if xMun="SAO JOAO DA PARAUNA":
+  cMun=="5220058"
   cMunSIAFI="9747"
-if cMun=="5220009":
-  xMun="SAO JOAO D ALIANCA"
+if xMun="SAO JOAO D ALIANCA":
+  cMun=="5220009"
   cMunSIAFI="9597"
-if cMun=="5220108":
-  xMun="SAO LUIS DE MONTES BELOS"
+if xMun="SAO LUIS DE MONTES BELOS":
+  cMun=="5220108"
   cMunSIAFI="9599"
-if cMun=="5220157":
-  xMun="SAO LUIZ DO NORTE"
+if xMun="SAO LUIZ DO NORTE":
+  cMun=="5220157"
   cMunSIAFI="9749"
-if cMun=="5220207":
-  xMun="SAO MIGUEL DO ARAGUAIA"
+if xMun="SAO MIGUEL DO ARAGUAIA":
+  cMun=="5220207"
   cMunSIAFI="9601"
-if cMun=="5220264":
-  xMun="SAO MIGUEL DO PASSA QUATRO"
+if xMun="SAO MIGUEL DO PASSA QUATRO":
+  cMun=="5220264"
   cMunSIAFI="9751"
-if cMun=="5220280":
-  xMun="SAO PATRICIO"
+if xMun="SAO PATRICIO":
+  cMun=="5220280"
   cMunSIAFI="1064"
-if cMun=="5220405":
-  xMun="SAO SIMAO"
+if xMun="SAO SIMAO":
+  cMun=="5220405"
   cMunSIAFI="9605"
-if cMun=="5220454":
-  xMun="SENADOR CANEDO"
+if xMun="SENADOR CANEDO":
+  cMun=="5220454"
   cMunSIAFI="9753"
-if cMun=="5220504":
-  xMun="SERRANOPOLIS"
+if xMun="SERRANOPOLIS":
+  cMun=="5220504"
   cMunSIAFI="9607"
-if cMun=="5220603":
-  xMun="SILVANIA"
+if xMun="SILVANIA":
+  cMun=="5220603"
   cMunSIAFI="9609"
-if cMun=="5220686":
-  xMun="SIMOLANDIA"
+if xMun="SIMOLANDIA":
+  cMun=="5220686"
   cMunSIAFI="9755"
-if cMun=="5220702":
-  xMun="SITIO D ABADIA"
+if xMun="SITIO D ABADIA":
+  cMun=="5220702"
   cMunSIAFI="9611"
-if cMun=="5221007":
-  xMun="TAQUARAL DE GOIAS"
+if xMun="TAQUARAL DE GOIAS":
+  cMun=="5221007"
   cMunSIAFI="9617"
-if cMun=="5221080":
-  xMun="TERESINA DE GOIAS"
+if xMun="TERESINA DE GOIAS":
+  cMun=="5221080"
   cMunSIAFI="9759"
-if cMun=="5221197":
-  xMun="TEREZOPOLIS DE GOIAS"
+if xMun="TEREZOPOLIS DE GOIAS":
+  cMun=="5221197"
   cMunSIAFI="0057"
-if cMun=="5221304":
-  xMun="TRÃŠS RANCHOS"
+if xMun="TRÃŠS RANCHOS":
+  cMun=="5221304"
   cMunSIAFI="9623"
-if cMun=="5221403":
-  xMun="TRINDADE"
+if xMun="TRINDADE":
+  cMun=="5221403"
   cMunSIAFI="9625"
-if cMun=="5221452":
-  xMun="TROMBAS"
+if xMun="TROMBAS":
+  cMun=="5221452"
   cMunSIAFI="9761"
-if cMun=="5221502":
-  xMun="TURVANIA"
+if xMun="TURVANIA":
+  cMun=="5221502"
   cMunSIAFI="9631"
-if cMun=="5221551":
-  xMun="TURVELANDIA"
+if xMun="TURVELANDIA":
+  cMun=="5221551"
   cMunSIAFI="9765"
-if cMun=="5221577":
-  xMun="UIRAPURU"
+if xMun="UIRAPURU":
+  cMun=="5221577"
   cMunSIAFI="0059"
-if cMun=="5221601":
-  xMun="URUACU"
+if xMun="URUACU":
+  cMun=="5221601"
   cMunSIAFI="9633"
-if cMun=="5221700":
-  xMun="URUANA"
+if xMun="URUANA":
+  cMun=="5221700"
   cMunSIAFI="9635"
-if cMun=="5221809":
-  xMun="URUTAI"
+if xMun="URUTAI":
+  cMun=="5221809"
   cMunSIAFI="9637"
-if cMun=="5221858":
-  xMun="VALPARAISO DE GOIAS"
+if xMun="VALPARAISO DE GOIAS":
+  cMun=="5221858"
   cMunSIAFI="1066"
-if cMun=="5221908":
-  xMun="VARJAO"
+if xMun="VARJAO":
+  cMun=="5221908"
   cMunSIAFI="9639"
-if cMun=="5222005":
-  xMun="VIANOPOLIS"
+if xMun="VIANOPOLIS":
+  cMun=="5222005"
   cMunSIAFI="9641"
-if cMun=="5222054":
-  xMun="VICENTINOPOLIS"
+if xMun="VICENTINOPOLIS":
+  cMun=="5222054"
   cMunSIAFI="9657"
-if cMun=="5222203":
-  xMun="VILA BOA"
+if xMun="VILA BOA":
+  cMun=="5222203"
   cMunSIAFI="0067"
-if cMun=="5222302":
-  xMun="VILA PROPICIO"
+if xMun="VILA PROPICIO":
+  cMun=="5222302"
   cMunSIAFI="1068"
-if cMun=="2100055":
-  xMun="ACAILANDIA"
+if xMun="ACAILANDIA":
+  cMun=="2100055"
   cMunSIAFI="0961"
-if cMun=="2100105":
-  xMun="AFONSO CUNHA"
+if xMun="AFONSO CUNHA":
+  cMun=="2100105"
   cMunSIAFI="0701"
-if cMun=="2100154":
-  xMun="AGUA DOCE DO MARANHAO"
+if xMun="AGUA DOCE DO MARANHAO":
+  cMun=="2100154"
   cMunSIAFI="0104"
-if cMun=="2100204":
-  xMun="ALCANTARA"
+if xMun="ALCANTARA":
+  cMun=="2100204"
   cMunSIAFI="0703"
-if cMun=="2100303":
-  xMun="ALDEIAS ALTAS"
+if xMun="ALDEIAS ALTAS":
+  cMun=="2100303"
   cMunSIAFI="0705"
-if cMun=="2100402":
-  xMun="ALTAMIRA DO MARANHAO"
+if xMun="ALTAMIRA DO MARANHAO":
+  cMun=="2100402"
   cMunSIAFI="0707"
-if cMun=="2100436":
-  xMun="ALTO ALEGRE DO MARANHAO"
+if xMun="ALTO ALEGRE DO MARANHAO":
+  cMun=="2100436"
   cMunSIAFI="0106"
-if cMun=="2100477":
-  xMun="ALTO ALEGRE DO PINDARE"
+if xMun="ALTO ALEGRE DO PINDARE":
+  cMun=="2100477"
   cMunSIAFI="0108"
-if cMun=="2100501":
-  xMun="ALTO PARNAIBA"
+if xMun="ALTO PARNAIBA":
+  cMun=="2100501"
   cMunSIAFI="0709"
-if cMun=="2100550":
-  xMun="AMAPA DO MARANHAO"
+if xMun="AMAPA DO MARANHAO":
+  cMun=="2100550"
   cMunSIAFI="0110"
-if cMun=="2100600":
-  xMun="AMARANTE DO MARANHAO"
+if xMun="AMARANTE DO MARANHAO":
+  cMun=="2100600"
   cMunSIAFI="0711"
-if cMun=="2100709":
-  xMun="ANAJATUBA"
+if xMun="ANAJATUBA":
+  cMun=="2100709"
   cMunSIAFI="0713"
-if cMun=="2100808":
-  xMun="ANAPURUS"
+if xMun="ANAPURUS":
+  cMun=="2100808"
   cMunSIAFI="0715"
-if cMun=="2100832":
-  xMun="APICUM-ACU"
+if xMun="APICUM-ACU":
+  cMun=="2100832"
   cMunSIAFI="0112"
-if cMun=="2100873":
-  xMun="ARAGUANA"
+if xMun="ARAGUANA":
+  cMun=="2100873"
   cMunSIAFI="0114"
-if cMun=="2100907":
-  xMun="ARAIOSES"
+if xMun="ARAIOSES":
+  cMun=="2100907"
   cMunSIAFI="0717"
-if cMun=="2100956":
-  xMun="ARAME"
+if xMun="ARAME":
+  cMun=="2100956"
   cMunSIAFI="1281"
-if cMun=="2101004":
-  xMun="ARARI"
+if xMun="ARARI":
+  cMun=="2101004"
   cMunSIAFI="0719"
-if cMun=="2101103":
-  xMun="AXIXA"
+if xMun="AXIXA":
+  cMun=="2101103"
   cMunSIAFI="0721"
-if cMun=="2101202":
-  xMun="BACABAL"
+if xMun="BACABAL":
+  cMun=="2101202"
   cMunSIAFI="0723"
-if cMun=="2101251":
-  xMun="BACABEIRA"
+if xMun="BACABEIRA":
+  cMun=="2101251"
   cMunSIAFI="0116"
-if cMun=="2101301":
-  xMun="BACURI"
+if xMun="BACURI":
+  cMun=="2101301"
   cMunSIAFI="0725"
-if cMun=="2101350":
-  xMun="BACURITUBA"
+if xMun="BACURITUBA":
+  cMun=="2101350"
   cMunSIAFI="0118"
-if cMun=="2101400":
-  xMun="BALSAS"
+if xMun="BALSAS":
+  cMun=="2101400"
   cMunSIAFI="0727"
-if cMun=="2101509":
-  xMun="BARAO DE GRAJAU"
+if xMun="BARAO DE GRAJAU":
+  cMun=="2101509"
   cMunSIAFI="0729"
-if cMun=="2101608":
-  xMun="BARRA DO CORDA"
+if xMun="BARRA DO CORDA":
+  cMun=="2101608"
   cMunSIAFI="0731"
-if cMun=="2101707":
-  xMun="BARREIRINHAS"
+if xMun="BARREIRINHAS":
+  cMun=="2101707"
   cMunSIAFI="0733"
-if cMun=="2101772":
-  xMun="BELA VISTA DO MARANHAO"
+if xMun="BELA VISTA DO MARANHAO":
+  cMun=="2101772"
   cMunSIAFI="0122"
-if cMun=="2101731":
-  xMun="BELAGUA"
+if xMun="BELAGUA":
+  cMun=="2101731"
   cMunSIAFI="0120"
-if cMun=="2101806":
-  xMun="BENEDITO LEITE"
+if xMun="BENEDITO LEITE":
+  cMun=="2101806"
   cMunSIAFI="0735"
-if cMun=="2101905":
-  xMun="BEQUIMAO"
+if xMun="BEQUIMAO":
+  cMun=="2101905"
   cMunSIAFI="0737"
-if cMun=="2101939":
-  xMun="BERNARDO DO MEARIM"
+if xMun="BERNARDO DO MEARIM":
+  cMun=="2101939"
   cMunSIAFI="0124"
-if cMun=="2101970":
-  xMun="BOA VISTA DO GURUPI"
+if xMun="BOA VISTA DO GURUPI":
+  cMun=="2101970"
   cMunSIAFI="0126"
-if cMun=="2102002":
-  xMun="BOM JARDIM"
+if xMun="BOM JARDIM":
+  cMun=="2102002"
   cMunSIAFI="0955"
-if cMun=="2102036":
-  xMun="BOM JESUS DAS SELVAS"
+if xMun="BOM JESUS DAS SELVAS":
+  cMun=="2102036"
   cMunSIAFI="0128"
-if cMun=="2102077":
-  xMun="BOM LUGAR"
+if xMun="BOM LUGAR":
+  cMun=="2102077"
   cMunSIAFI="0130"
-if cMun=="2102101":
-  xMun="BREJO"
+if xMun="BREJO":
+  cMun=="2102101"
   cMunSIAFI="0739"
-if cMun=="2102150":
-  xMun="BREJO DE AREIA"
+if xMun="BREJO DE AREIA":
+  cMun=="2102150"
   cMunSIAFI="0132"
-if cMun=="2102200":
-  xMun="BURITI"
+if xMun="BURITI":
+  cMun=="2102200"
   cMunSIAFI="0741"
-if cMun=="2102309":
-  xMun="BURITI BRAVO"
+if xMun="BURITI BRAVO":
+  cMun=="2102309"
   cMunSIAFI="0743"
-if cMun=="2102325":
-  xMun="BURITICUPU"
+if xMun="BURITICUPU":
+  cMun=="2102325"
   cMunSIAFI="0134"
-if cMun=="2102358":
-  xMun="BURITIRANA"
+if xMun="BURITIRANA":
+  cMun=="2102358"
   cMunSIAFI="0136"
-if cMun=="2102374":
-  xMun="CACHOEIRA GRANDE"
+if xMun="CACHOEIRA GRANDE":
+  cMun=="2102374"
   cMunSIAFI="0138"
-if cMun=="2102408":
-  xMun="CAJAPIO"
+if xMun="CAJAPIO":
+  cMun=="2102408"
   cMunSIAFI="0745"
-if cMun=="2102507":
-  xMun="CAJARI"
+if xMun="CAJARI":
+  cMun=="2102507"
   cMunSIAFI="0747"
-if cMun=="2102556":
-  xMun="CAMPESTRE DO MARANHAO"
+if xMun="CAMPESTRE DO MARANHAO":
+  cMun=="2102556"
   cMunSIAFI="0140"
-if cMun=="2102606":
-  xMun="CANDIDO MENDES"
+if xMun="CANDIDO MENDES":
+  cMun=="2102606"
   cMunSIAFI="0749"
-if cMun=="2102705":
-  xMun="CANTANHEDE"
+if xMun="CANTANHEDE":
+  cMun=="2102705"
   cMunSIAFI="0751"
-if cMun=="2102754":
-  xMun="CAPINZAL DO NORTE"
+if xMun="CAPINZAL DO NORTE":
+  cMun=="2102754"
   cMunSIAFI="0142"
-if cMun=="2102804":
-  xMun="CAROLINA"
+if xMun="CAROLINA":
+  cMun=="2102804"
   cMunSIAFI="0753"
-if cMun=="2102903":
-  xMun="CARUTAPERA"
+if xMun="CARUTAPERA":
+  cMun=="2102903"
   cMunSIAFI="0755"
-if cMun=="2103000":
-  xMun="CAXIAS"
+if xMun="CAXIAS":
+  cMun=="2103000"
   cMunSIAFI="0757"
-if cMun=="2103109":
-  xMun="CEDRAL"
+if xMun="CEDRAL":
+  cMun=="2103109"
   cMunSIAFI="0759"
-if cMun=="2103125":
-  xMun="CENTRAL DO MARANHAO"
+if xMun="CENTRAL DO MARANHAO":
+  cMun=="2103125"
   cMunSIAFI="0144"
-if cMun=="2103158":
-  xMun="CENTRO DO GUILHERME"
+if xMun="CENTRO DO GUILHERME":
+  cMun=="2103158"
   cMunSIAFI="0146"
-if cMun=="2103174":
-  xMun="CENTRO NOVO DO MARANHAO"
+if xMun="CENTRO NOVO DO MARANHAO":
+  cMun=="2103174"
   cMunSIAFI="0148"
-if cMun=="2103208":
-  xMun="CHAPADINHA"
+if xMun="CHAPADINHA":
+  cMun=="2103208"
   cMunSIAFI="0761"
-if cMun=="2103257":
-  xMun="CIDELANDIA"
+if xMun="CIDELANDIA":
+  cMun=="2103257"
   cMunSIAFI="0150"
-if cMun=="2103307":
-  xMun="CODO"
+if xMun="CODO":
+  cMun=="2103307"
   cMunSIAFI="0763"
-if cMun=="2103406":
-  xMun="COELHO NETO"
+if xMun="COELHO NETO":
+  cMun=="2103406"
   cMunSIAFI="0765"
-if cMun=="2103505":
-  xMun="COLINAS"
+if xMun="COLINAS":
+  cMun=="2103505"
   cMunSIAFI="0767"
-if cMun=="2103554":
-  xMun="CONCEICAO DO LAGO-ACU"
+if xMun="CONCEICAO DO LAGO-ACU":
+  cMun=="2103554"
   cMunSIAFI="0152"
-if cMun=="2103604":
-  xMun="COROATA"
+if xMun="COROATA":
+  cMun=="2103604"
   cMunSIAFI="0769"
-if cMun=="2103703":
-  xMun="CURURUPU"
+if xMun="CURURUPU":
+  cMun=="2103703"
   cMunSIAFI="0771"
-if cMun=="2103752":
-  xMun="DAVINOPOLIS"
+if xMun="DAVINOPOLIS":
+  cMun=="2103752"
   cMunSIAFI="0154"
-if cMun=="2103802":
-  xMun="DOM PEDRO"
+if xMun="DOM PEDRO":
+  cMun=="2103802"
   cMunSIAFI="0773"
-if cMun=="2103901":
-  xMun="DUQUE BACELAR"
+if xMun="DUQUE BACELAR":
+  cMun=="2103901"
   cMunSIAFI="0775"
-if cMun=="2104008":
-  xMun="ESPERANTINOPOLIS"
+if xMun="ESPERANTINOPOLIS":
+  cMun=="2104008"
   cMunSIAFI="0777"
-if cMun=="2104057":
-  xMun="ESTREITO"
+if xMun="ESTREITO":
+  cMun=="2104057"
   cMunSIAFI="0963"
-if cMun=="2104073":
-  xMun="FEIRA NOVA DO MARANHAO"
+if xMun="FEIRA NOVA DO MARANHAO":
+  cMun=="2104073"
   cMunSIAFI="0156"
-if cMun=="2104081":
-  xMun="FERNANDO FALCAO"
+if xMun="FERNANDO FALCAO":
+  cMun=="2104081"
   cMunSIAFI="0158"
-if cMun=="2104099":
-  xMun="FORMOSA DA SERRA NEGRA"
+if xMun="FORMOSA DA SERRA NEGRA":
+  cMun=="2104099"
   cMunSIAFI="0160"
-if cMun=="2104107":
-  xMun="FORTALEZA DOS NOGUEIRAS"
+if xMun="FORTALEZA DOS NOGUEIRAS":
+  cMun=="2104107"
   cMunSIAFI="0779"
-if cMun=="2104206":
-  xMun="FORTUNA"
+if xMun="FORTUNA":
+  cMun=="2104206"
   cMunSIAFI="0781"
-if cMun=="2104305":
-  xMun="GODOFREDO VIANA"
+if xMun="GODOFREDO VIANA":
+  cMun=="2104305"
   cMunSIAFI="0783"
-if cMun=="2104404":
-  xMun="GONCALVES DIAS"
+if xMun="GONCALVES DIAS":
+  cMun=="2104404"
   cMunSIAFI="0785"
-if cMun=="2104503":
-  xMun="GOVERNADOR ARCHER"
+if xMun="GOVERNADOR ARCHER":
+  cMun=="2104503"
   cMunSIAFI="0787"
-if cMun=="2104552":
-  xMun="GOVERNADOR EDISON LOBAO"
+if xMun="GOVERNADOR EDISON LOBAO":
+  cMun=="2104552"
   cMunSIAFI="0162"
-if cMun=="2104602":
-  xMun="GOVERNADOR EUGÃŠNIO BARROS"
+if xMun="GOVERNADOR EUGÃŠNIO BARROS":
+  cMun=="2104602"
   cMunSIAFI="0789"
-if cMun=="2104628":
-  xMun="GOVERNADOR LUIZ ROCHA"
+if xMun="GOVERNADOR LUIZ ROCHA":
+  cMun=="2104628"
   cMunSIAFI="0164"
-if cMun=="2104651":
-  xMun="GOVERNADOR NEWTON BELLO"
+if xMun="GOVERNADOR NEWTON BELLO":
+  cMun=="2104651"
   cMunSIAFI="0166"
-if cMun=="2104677":
-  xMun="GOVERNADOR NUNES FREIRE"
+if xMun="GOVERNADOR NUNES FREIRE":
+  cMun=="2104677"
   cMunSIAFI="0168"
-if cMun=="2104701":
-  xMun="GRACA ARANHA"
+if xMun="GRACA ARANHA":
+  cMun=="2104701"
   cMunSIAFI="0791"
-if cMun=="2104800":
-  xMun="GRAJAU"
+if xMun="GRAJAU":
+  cMun=="2104800"
   cMunSIAFI="0793"
-if cMun=="2104909":
-  xMun="GUIMARAES"
+if xMun="GUIMARAES":
+  cMun=="2104909"
   cMunSIAFI="0795"
-if cMun=="2105005":
-  xMun="HUMBERTO DE CAMPOS"
+if xMun="HUMBERTO DE CAMPOS":
+  cMun=="2105005"
   cMunSIAFI="0797"
-if cMun=="2105104":
-  xMun="ICATU"
+if xMun="ICATU":
+  cMun=="2105104"
   cMunSIAFI="0799"
-if cMun=="2105153":
-  xMun="IGARAPE DO MEIO"
+if xMun="IGARAPE DO MEIO":
+  cMun=="2105153"
   cMunSIAFI="0170"
-if cMun=="2105203":
-  xMun="IGARAPE GRANDE"
+if xMun="IGARAPE GRANDE":
+  cMun=="2105203"
   cMunSIAFI="0801"
-if cMun=="2105302":
-  xMun="IMPERATRIZ"
+if xMun="IMPERATRIZ":
+  cMun=="2105302"
   cMunSIAFI="0803"
-if cMun=="2105351":
-  xMun="ITAIPAVA DO GRAJAU"
+if xMun="ITAIPAVA DO GRAJAU":
+  cMun=="2105351"
   cMunSIAFI="0172"
-if cMun=="2105401":
-  xMun="ITAPECURU MIRIM"
+if xMun="ITAPECURU MIRIM":
+  cMun=="2105401"
   cMunSIAFI="0807"
-if cMun=="2105427":
-  xMun="ITINGA DO MARANHAO"
+if xMun="ITINGA DO MARANHAO":
+  cMun=="2105427"
   cMunSIAFI="0174"
-if cMun=="2105450":
-  xMun="JATOBA"
+if xMun="JATOBA":
+  cMun=="2105450"
   cMunSIAFI="0176"
-if cMun=="2105476":
-  xMun="JENIPAPO DOS VIEIRAS"
+if xMun="JENIPAPO DOS VIEIRAS":
+  cMun=="2105476"
   cMunSIAFI="0178"
-if cMun=="2105500":
-  xMun="JOAO LISBOA"
+if xMun="JOAO LISBOA":
+  cMun=="2105500"
   cMunSIAFI="0809"
-if cMun=="2105609":
-  xMun="JOSELANDIA"
+if xMun="JOSELANDIA":
+  cMun=="2105609"
   cMunSIAFI="0811"
-if cMun=="2105658":
-  xMun="JUNCO DO MARANHAO"
+if xMun="JUNCO DO MARANHAO":
+  cMun=="2105658"
   cMunSIAFI="0180"
-if cMun=="2105708":
-  xMun="LAGO DA PEDRA"
+if xMun="LAGO DA PEDRA":
+  cMun=="2105708"
   cMunSIAFI="0813"
-if cMun=="2105807":
-  xMun="LAGO DO JUNCO"
+if xMun="LAGO DO JUNCO":
+  cMun=="2105807"
   cMunSIAFI="0815"
-if cMun=="2105948":
-  xMun="LAGO DOS RODRIGUES"
+if xMun="LAGO DOS RODRIGUES":
+  cMun=="2105948"
   cMunSIAFI="0184"
-if cMun=="2105906":
-  xMun="LAGO VERDE"
+if xMun="LAGO VERDE":
+  cMun=="2105906"
   cMunSIAFI="0817"
-if cMun=="2105922":
-  xMun="LAGOA DO MATO"
+if xMun="LAGOA DO MATO":
+  cMun=="2105922"
   cMunSIAFI="0182"
-if cMun=="2105963":
-  xMun="LAGOA GRANDE DO MARANHAO"
+if xMun="LAGOA GRANDE DO MARANHAO":
+  cMun=="2105963"
   cMunSIAFI="0186"
-if cMun=="2105989":
-  xMun="LAJEADO NOVO"
+if xMun="LAJEADO NOVO":
+  cMun=="2105989"
   cMunSIAFI="0188"
-if cMun=="2106003":
-  xMun="LIMA CAMPOS"
+if xMun="LIMA CAMPOS":
+  cMun=="2106003"
   cMunSIAFI="0819"
-if cMun=="2106102":
-  xMun="LORETO"
+if xMun="LORETO":
+  cMun=="2106102"
   cMunSIAFI="0821"
-if cMun=="2106201":
-  xMun="LUIS DOMINGUES"
+if xMun="LUIS DOMINGUES":
+  cMun=="2106201"
   cMunSIAFI="0823"
-if cMun=="2106300":
-  xMun="MAGALHAES DE ALMEIDA"
+if xMun="MAGALHAES DE ALMEIDA":
+  cMun=="2106300"
   cMunSIAFI="0825"
-if cMun=="2106326":
-  xMun="MARACACUME"
+if xMun="MARACACUME":
+  cMun=="2106326"
   cMunSIAFI="0190"
-if cMun=="2106359":
-  xMun="MARAJA DO SENA"
+if xMun="MARAJA DO SENA":
+  cMun=="2106359"
   cMunSIAFI="0192"
-if cMun=="2106375":
-  xMun="MARANHAOZINHO"
+if xMun="MARANHAOZINHO":
+  cMun=="2106375"
   cMunSIAFI="0194"
-if cMun=="2106409":
-  xMun="MATA ROMA"
+if xMun="MATA ROMA":
+  cMun=="2106409"
   cMunSIAFI="0827"
-if cMun=="2106508":
-  xMun="MATINHA"
+if xMun="MATINHA":
+  cMun=="2106508"
   cMunSIAFI="0829"
-if cMun=="2106607":
-  xMun="MATÃ•ES"
+if xMun="MATÃ•ES":
+  cMun=="2106607"
   cMunSIAFI="0831"
-if cMun=="2106631":
-  xMun="MATÃ•ES DO NORTE"
+if xMun="MATÃ•ES DO NORTE":
+  cMun=="2106631"
   cMunSIAFI="0196"
-if cMun=="2106672":
-  xMun="MILAGRES DO MARANHAO"
+if xMun="MILAGRES DO MARANHAO":
+  cMun=="2106672"
   cMunSIAFI="0198"
-if cMun=="2106706":
-  xMun="MIRADOR"
+if xMun="MIRADOR":
+  cMun=="2106706"
   cMunSIAFI="0833"
-if cMun=="2106755":
-  xMun="MIRANDA DO NORTE"
+if xMun="MIRANDA DO NORTE":
+  cMun=="2106755"
   cMunSIAFI="1283"
-if cMun=="2106805":
-  xMun="MIRINZAL"
+if xMun="MIRINZAL":
+  cMun=="2106805"
   cMunSIAFI="0835"
-if cMun=="2106904":
-  xMun="MONCAO"
+if xMun="MONCAO":
+  cMun=="2106904"
   cMunSIAFI="0837"
-if cMun=="2107001":
-  xMun="MONTES ALTOS"
+if xMun="MONTES ALTOS":
+  cMun=="2107001"
   cMunSIAFI="0839"
-if cMun=="2107100":
-  xMun="MORROS"
+if xMun="MORROS":
+  cMun=="2107100"
   cMunSIAFI="0841"
-if cMun=="2107209":
-  xMun="NINA RODRIGUES"
+if xMun="NINA RODRIGUES":
+  cMun=="2107209"
   cMunSIAFI="0843"
-if cMun=="2107258":
-  xMun="NOVA COLINAS"
+if xMun="NOVA COLINAS":
+  cMun=="2107258"
   cMunSIAFI="0200"
-if cMun=="2107308":
-  xMun="NOVA IORQUE"
+if xMun="NOVA IORQUE":
+  cMun=="2107308"
   cMunSIAFI="0845"
-if cMun=="2107357":
-  xMun="NOVA OLINDA DO MARANHAO"
+if xMun="NOVA OLINDA DO MARANHAO":
+  cMun=="2107357"
   cMunSIAFI="0202"
-if cMun=="2107407":
-  xMun="OLHO D AGUA DAS CUNHAS"
+if xMun="OLHO D AGUA DAS CUNHAS":
+  cMun=="2107407"
   cMunSIAFI="0847"
-if cMun=="2107456":
-  xMun="OLINDA NOVA DO MARANHAO"
+if xMun="OLINDA NOVA DO MARANHAO":
+  cMun=="2107456"
   cMunSIAFI="0204"
-if cMun=="2107506":
-  xMun="PACO DO LUMIAR"
+if xMun="PACO DO LUMIAR":
+  cMun=="2107506"
   cMunSIAFI="0849"
-if cMun=="2107605":
-  xMun="PALMEIRANDIA"
+if xMun="PALMEIRANDIA":
+  cMun=="2107605"
   cMunSIAFI="0851"
-if cMun=="2107704":
-  xMun="PARAIBANO"
+if xMun="PARAIBANO":
+  cMun=="2107704"
   cMunSIAFI="0853"
-if cMun=="2107803":
-  xMun="PARNARAMA"
+if xMun="PARNARAMA":
+  cMun=="2107803"
   cMunSIAFI="0855"
-if cMun=="2107902":
-  xMun="PASSAGEM FRANCA"
+if xMun="PASSAGEM FRANCA":
+  cMun=="2107902"
   cMunSIAFI="0857"
-if cMun=="2108009":
-  xMun="PASTOS BONS"
+if xMun="PASTOS BONS":
+  cMun=="2108009"
   cMunSIAFI="0859"
-if cMun=="2108058":
-  xMun="PAULINO NEVES"
+if xMun="PAULINO NEVES":
+  cMun=="2108058"
   cMunSIAFI="0206"
-if cMun=="2108108":
-  xMun="PAULO RAMOS"
+if xMun="PAULO RAMOS":
+  cMun=="2108108"
   cMunSIAFI="0959"
-if cMun=="2108207":
-  xMun="PEDREIRAS"
+if xMun="PEDREIRAS":
+  cMun=="2108207"
   cMunSIAFI="0861"
-if cMun=="2108256":
-  xMun="PEDRO DO ROSARIO"
+if xMun="PEDRO DO ROSARIO":
+  cMun=="2108256"
   cMunSIAFI="0208"
-if cMun=="2108306":
-  xMun="PENALVA"
+if xMun="PENALVA":
+  cMun=="2108306"
   cMunSIAFI="0863"
-if cMun=="2108405":
-  xMun="PERI MIRIM"
+if xMun="PERI MIRIM":
+  cMun=="2108405"
   cMunSIAFI="0865"
-if cMun=="2108454":
-  xMun="PERITORO"
+if xMun="PERITORO":
+  cMun=="2108454"
   cMunSIAFI="0210"
-if cMun=="2108504":
-  xMun="PINDARE-MIRIM"
+if xMun="PINDARE-MIRIM":
+  cMun=="2108504"
   cMunSIAFI="0867"
-if cMun=="2108603":
-  xMun="PINHEIRO"
+if xMun="PINHEIRO":
+  cMun=="2108603"
   cMunSIAFI="0869"
-if cMun=="2108702":
-  xMun="PIO XII"
+if xMun="PIO XII":
+  cMun=="2108702"
   cMunSIAFI="0871"
-if cMun=="2108801":
-  xMun="PIRAPEMAS"
+if xMun="PIRAPEMAS":
+  cMun=="2108801"
   cMunSIAFI="0873"
-if cMun=="2108900":
-  xMun="POCAO DE PEDRAS"
+if xMun="POCAO DE PEDRAS":
+  cMun=="2108900"
   cMunSIAFI="0875"
-if cMun=="2109007":
-  xMun="PORTO FRANCO"
+if xMun="PORTO FRANCO":
+  cMun=="2109007"
   cMunSIAFI="0877"
-if cMun=="2109056":
-  xMun="PORTO RICO DO MARANHAO"
+if xMun="PORTO RICO DO MARANHAO":
+  cMun=="2109056"
   cMunSIAFI="0212"
-if cMun=="2109106":
-  xMun="PRESIDENTE DUTRA"
+if xMun="PRESIDENTE DUTRA":
+  cMun=="2109106"
   cMunSIAFI="0879"
-if cMun=="2109205":
-  xMun="PRESIDENTE JUSCELINO"
+if xMun="PRESIDENTE JUSCELINO":
+  cMun=="2109205"
   cMunSIAFI="0881"
-if cMun=="2109239":
-  xMun="PRESIDENTE MEDICI"
+if xMun="PRESIDENTE MEDICI":
+  cMun=="2109239"
   cMunSIAFI="0214"
-if cMun=="2109270":
-  xMun="PRESIDENTE SARNEY"
+if xMun="PRESIDENTE SARNEY":
+  cMun=="2109270"
   cMunSIAFI="0216"
-if cMun=="2109304":
-  xMun="PRESIDENTE VARGAS"
+if xMun="PRESIDENTE VARGAS":
+  cMun=="2109304"
   cMunSIAFI="0883"
-if cMun=="2109403":
-  xMun="PRIMEIRA CRUZ"
+if xMun="PRIMEIRA CRUZ":
+  cMun=="2109403"
   cMunSIAFI="0885"
-if cMun=="2109452":
-  xMun="RAPOSA"
+if xMun="RAPOSA":
+  cMun=="2109452"
   cMunSIAFI="0218"
-if cMun=="2109502":
-  xMun="RIACHAO"
+if xMun="RIACHAO":
+  cMun=="2109502"
   cMunSIAFI="0887"
-if cMun=="2109551":
-  xMun="RIBAMAR FIQUENE"
+if xMun="RIBAMAR FIQUENE":
+  cMun=="2109551"
   cMunSIAFI="0220"
-if cMun=="2109601":
-  xMun="ROSARIO"
+if xMun="ROSARIO":
+  cMun=="2109601"
   cMunSIAFI="0891"
-if cMun=="2109700":
-  xMun="SAMBAIBA"
+if xMun="SAMBAIBA":
+  cMun=="2109700"
   cMunSIAFI="0893"
-if cMun=="2109759":
-  xMun="SANTA FILOMENA DO MARANHAO"
+if xMun="SANTA FILOMENA DO MARANHAO":
+  cMun=="2109759"
   cMunSIAFI="0222"
-if cMun=="2109809":
-  xMun="SANTA HELENA"
+if xMun="SANTA HELENA":
+  cMun=="2109809"
   cMunSIAFI="0895"
-if cMun=="2109908":
-  xMun="SANTA INÃŠS"
+if xMun="SANTA INÃŠS":
+  cMun=="2109908"
   cMunSIAFI="0957"
-if cMun=="2110005":
-  xMun="SANTA LUZIA"
+if xMun="SANTA LUZIA":
+  cMun=="2110005"
   cMunSIAFI="0897"
-if cMun=="2110039":
-  xMun="SANTA LUZIA DO PARUA"
+if xMun="SANTA LUZIA DO PARUA":
+  cMun=="2110039"
   cMunSIAFI="1285"
-if cMun=="2110104":
-  xMun="SANTA QUITERIA DO MARANHAO"
+if xMun="SANTA QUITERIA DO MARANHAO":
+  cMun=="2110104"
   cMunSIAFI="0899"
-if cMun=="2110203":
-  xMun="SANTA RITA"
+if xMun="SANTA RITA":
+  cMun=="2110203"
   cMunSIAFI="0901"
-if cMun=="2110237":
-  xMun="SANTANA DO MARANHAO"
+if xMun="SANTANA DO MARANHAO":
+  cMun=="2110237"
   cMunSIAFI="0224"
-if cMun=="2110278":
-  xMun="SANTO AMARO DO MARANHAO"
+if xMun="SANTO AMARO DO MARANHAO":
+  cMun=="2110278"
   cMunSIAFI="0226"
-if cMun=="2110302":
-  xMun="SANTO ANTONIO DOS LOPES"
+if xMun="SANTO ANTONIO DOS LOPES":
+  cMun=="2110302"
   cMunSIAFI="0903"
-if cMun=="2110401":
-  xMun="SAO BENEDITO DO RIO PRETO"
+if xMun="SAO BENEDITO DO RIO PRETO":
+  cMun=="2110401"
   cMunSIAFI="0905"
-if cMun=="2110500":
-  xMun="SAO BENTO"
+if xMun="SAO BENTO":
+  cMun=="2110500"
   cMunSIAFI="0907"
-if cMun=="2110609":
-  xMun="SAO BERNARDO"
+if xMun="SAO BERNARDO":
+  cMun=="2110609"
   cMunSIAFI="0909"
-if cMun=="2110658":
-  xMun="SAO DOMINGOS DO AZEITAO"
+if xMun="SAO DOMINGOS DO AZEITAO":
+  cMun=="2110658"
   cMunSIAFI="0228"
-if cMun=="2110708":
-  xMun="SAO DOMINGOS DO MARANHAO"
+if xMun="SAO DOMINGOS DO MARANHAO":
+  cMun=="2110708"
   cMunSIAFI="0911"
-if cMun=="2110807":
-  xMun="SAO FELIX DE BALSAS"
+if xMun="SAO FELIX DE BALSAS":
+  cMun=="2110807"
   cMunSIAFI="0913"
-if cMun=="2110856":
-  xMun="SAO FRANCISCO DO BREJAO"
+if xMun="SAO FRANCISCO DO BREJAO":
+  cMun=="2110856"
   cMunSIAFI="0230"
-if cMun=="2110906":
-  xMun="SAO FRANCISCO DO MARANHAO"
+if xMun="SAO FRANCISCO DO MARANHAO":
+  cMun=="2110906"
   cMunSIAFI="0915"
-if cMun=="2111003":
-  xMun="SAO JOAO BATISTA"
+if xMun="SAO JOAO BATISTA":
+  cMun=="2111003"
   cMunSIAFI="0917"
-if cMun=="2111029":
-  xMun="SAO JOAO DO CARU"
+if xMun="SAO JOAO DO CARU":
+  cMun=="2111029"
   cMunSIAFI="0232"
-if cMun=="2111052":
-  xMun="SAO JOAO DO PARAISO"
+if xMun="SAO JOAO DO PARAISO":
+  cMun=="2111052"
   cMunSIAFI="0234"
-if cMun=="2111078":
-  xMun="SAO JOAO DO SOTER"
+if xMun="SAO JOAO DO SOTER":
+  cMun=="2111078"
   cMunSIAFI="0236"
-if cMun=="2111102":
-  xMun="SAO JOAO DOS PATOS"
+if xMun="SAO JOAO DOS PATOS":
+  cMun=="2111102"
   cMunSIAFI="0919"
-if cMun=="2111201":
-  xMun="SAO JOSE DE RIBAMAR"
+if xMun="SAO JOSE DE RIBAMAR":
+  cMun=="2111201"
   cMunSIAFI="0889"
-if cMun=="2111250":
-  xMun="SAO JOSE DOS BASILIOS"
+if xMun="SAO JOSE DOS BASILIOS":
+  cMun=="2111250"
   cMunSIAFI="0238"
-if cMun=="2111300":
-  xMun="SAO LUIS"
+if xMun="SAO LUIS":
+  cMun=="2111300"
   cMunSIAFI="0921"
-if cMun=="2111409":
-  xMun="SAO LUIS GONZAGA DO MARANHAO"
+if xMun="SAO LUIS GONZAGA DO MARANHAO":
+  cMun=="2111409"
   cMunSIAFI="0805"
-if cMun=="2111508":
-  xMun="SAO MATEUS DO MARANHAO"
+if xMun="SAO MATEUS DO MARANHAO":
+  cMun=="2111508"
   cMunSIAFI="0923"
-if cMun=="2111532":
-  xMun="SAO PEDRO DA AGUA BRANCA"
+if xMun="SAO PEDRO DA AGUA BRANCA":
+  cMun=="2111532"
   cMunSIAFI="0240"
-if cMun=="2111573":
-  xMun="SAO PEDRO DOS CRENTES"
+if xMun="SAO PEDRO DOS CRENTES":
+  cMun=="2111573"
   cMunSIAFI="0242"
-if cMun=="2111607":
-  xMun="SAO RAIMUNDO DAS MANGABEIRAS"
+if xMun="SAO RAIMUNDO DAS MANGABEIRAS":
+  cMun=="2111607"
   cMunSIAFI="0925"
-if cMun=="2111631":
-  xMun="SAO RAIMUNDO DO DOCA BEZERRA"
+if xMun="SAO RAIMUNDO DO DOCA BEZERRA":
+  cMun=="2111631"
   cMunSIAFI="0244"
-if cMun=="2111672":
-  xMun="SAO ROBERTO"
+if xMun="SAO ROBERTO":
+  cMun=="2111672"
   cMunSIAFI="0246"
-if cMun=="2111706":
-  xMun="SAO VICENTE FERRER"
+if xMun="SAO VICENTE FERRER":
+  cMun=="2111706"
   cMunSIAFI="0927"
-if cMun=="2111722":
-  xMun="SATUBINHA"
+if xMun="SATUBINHA":
+  cMun=="2111722"
   cMunSIAFI="0248"
-if cMun=="2111748":
-  xMun="SENADOR ALEXANDRE COSTA"
+if xMun="SENADOR ALEXANDRE COSTA":
+  cMun=="2111748"
   cMunSIAFI="0250"
-if cMun=="2111763":
-  xMun="SENADOR LA ROCQUE"
+if xMun="SENADOR LA ROCQUE":
+  cMun=="2111763"
   cMunSIAFI="0252"
-if cMun=="2111789":
-  xMun="SERRANO DO MARANHAO"
+if xMun="SERRANO DO MARANHAO":
+  cMun=="2111789"
   cMunSIAFI="0254"
-if cMun=="2111805":
-  xMun="SITIO NOVO"
+if xMun="SITIO NOVO":
+  cMun=="2111805"
   cMunSIAFI="0929"
-if cMun=="2111904":
-  xMun="SUCUPIRA DO NORTE"
+if xMun="SUCUPIRA DO NORTE":
+  cMun=="2111904"
   cMunSIAFI="0931"
-if cMun=="2111953":
-  xMun="SUCUPIRA DO RIACHAO"
+if xMun="SUCUPIRA DO RIACHAO":
+  cMun=="2111953"
   cMunSIAFI="0256"
-if cMun=="2112001":
-  xMun="TASSO FRAGOSO"
+if xMun="TASSO FRAGOSO":
+  cMun=="2112001"
   cMunSIAFI="0933"
-if cMun=="2112100":
-  xMun="TIMBIRAS"
+if xMun="TIMBIRAS":
+  cMun=="2112100"
   cMunSIAFI="0935"
-if cMun=="2112209":
-  xMun="TIMON"
+if xMun="TIMON":
+  cMun=="2112209"
   cMunSIAFI="0937"
-if cMun=="2112233":
-  xMun="TRIZIDELA DO VALE"
+if xMun="TRIZIDELA DO VALE":
+  cMun=="2112233"
   cMunSIAFI="0258"
-if cMun=="2112274":
-  xMun="TUFILANDIA"
+if xMun="TUFILANDIA":
+  cMun=="2112274"
   cMunSIAFI="0260"
-if cMun=="2112308":
-  xMun="TUNTUM"
+if xMun="TUNTUM":
+  cMun=="2112308"
   cMunSIAFI="0939"
-if cMun=="2112407":
-  xMun="TURIACU"
+if xMun="TURIACU":
+  cMun=="2112407"
   cMunSIAFI="0941"
-if cMun=="2112456":
-  xMun="TURILANDIA"
+if xMun="TURILANDIA":
+  cMun=="2112456"
   cMunSIAFI="0262"
-if cMun=="2112506":
-  xMun="TUTOIA"
+if xMun="TUTOIA":
+  cMun=="2112506"
   cMunSIAFI="0943"
-if cMun=="2112605":
-  xMun="URBANO SANTOS"
+if xMun="URBANO SANTOS":
+  cMun=="2112605"
   cMunSIAFI="0945"
-if cMun=="2112704":
-  xMun="VARGEM GRANDE"
+if xMun="VARGEM GRANDE":
+  cMun=="2112704"
   cMunSIAFI="0947"
-if cMun=="2112803":
-  xMun="VIANA"
+if xMun="VIANA":
+  cMun=="2112803"
   cMunSIAFI="0949"
-if cMun=="2112852":
-  xMun="VILA NOVA DOS MARTIRIOS"
+if xMun="VILA NOVA DOS MARTIRIOS":
+  cMun=="2112852"
   cMunSIAFI="0264"
-if cMun=="2112902":
-  xMun="VITORIA DO MEARIM"
+if xMun="VITORIA DO MEARIM":
+  cMun=="2112902"
   cMunSIAFI="0951"
-if cMun=="2113009":
-  xMun="VITORINO FREIRE"
+if xMun="VITORINO FREIRE":
+  cMun=="2113009"
   cMunSIAFI="0953"
-if cMun=="2114007":
-  xMun="ZE DOCA"
+if xMun="ZE DOCA":
+  cMun=="2114007"
   cMunSIAFI="1287"
-if cMun=="3100104":
-  xMun="ABADIA DOS DOURADOS"
+if xMun="ABADIA DOS DOURADOS":
+  cMun=="3100104"
   cMunSIAFI="4001"
-if cMun=="3100203":
-  xMun="ABAETE"
+if xMun="ABAETE":
+  cMun=="3100203"
   cMunSIAFI="4003"
-if cMun=="3100302":
-  xMun="ABRE CAMPO"
+if xMun="ABRE CAMPO":
+  cMun=="3100302"
   cMunSIAFI="4005"
-if cMun=="3100401":
-  xMun="ACAIACA"
+if xMun="ACAIACA":
+  cMun=="3100401"
   cMunSIAFI="4007"
-if cMun=="3100500":
-  xMun="ACUCENA"
+if xMun="ACUCENA":
+  cMun=="3100500"
   cMunSIAFI="4009"
-if cMun=="3100609":
-  xMun="AGUA BOA"
+if xMun="AGUA BOA":
+  cMun=="3100609"
   cMunSIAFI="4011"
-if cMun=="3100708":
-  xMun="AGUA COMPRIDA"
+if xMun="AGUA COMPRIDA":
+  cMun=="3100708"
   cMunSIAFI="4013"
-if cMun=="3100807":
-  xMun="AGUANIL"
+if xMun="AGUANIL":
+  cMun=="3100807"
   cMunSIAFI="4015"
-if cMun=="3100906":
-  xMun="AGUAS FORMOSAS"
+if xMun="AGUAS FORMOSAS":
+  cMun=="3100906"
   cMunSIAFI="4017"
-if cMun=="3101003":
-  xMun="AGUAS VERMELHAS"
+if xMun="AGUAS VERMELHAS":
+  cMun=="3101003"
   cMunSIAFI="4019"
-if cMun=="3101102":
-  xMun="AIMORES"
+if xMun="AIMORES":
+  cMun=="3101102"
   cMunSIAFI="4021"
-if cMun=="3101201":
-  xMun="AIURUOCA"
+if xMun="AIURUOCA":
+  cMun=="3101201"
   cMunSIAFI="4023"
-if cMun=="3101300":
-  xMun="ALAGOA"
+if xMun="ALAGOA":
+  cMun=="3101300"
   cMunSIAFI="4025"
-if cMun=="3101409":
-  xMun="ALBERTINA"
+if xMun="ALBERTINA":
+  cMun=="3101409"
   cMunSIAFI="4027"
-if cMun=="3101508":
-  xMun="ALEM PARAIBA"
+if xMun="ALEM PARAIBA":
+  cMun=="3101508"
   cMunSIAFI="4029"
-if cMun=="3101607":
-  xMun="ALFENAS"
+if xMun="ALFENAS":
+  cMun=="3101607"
   cMunSIAFI="4031"
-if cMun=="3101631":
-  xMun="ALFREDO VASCONCELOS"
+if xMun="ALFREDO VASCONCELOS":
+  cMun=="3101631"
   cMunSIAFI="2681"
-if cMun=="3101706":
-  xMun="ALMENARA"
+if xMun="ALMENARA":
+  cMun=="3101706"
   cMunSIAFI="4033"
-if cMun=="3101805":
-  xMun="ALPERCATA"
+if xMun="ALPERCATA":
+  cMun=="3101805"
   cMunSIAFI="4035"
-if cMun=="3101904":
-  xMun="ALPINOPOLIS"
+if xMun="ALPINOPOLIS":
+  cMun=="3101904"
   cMunSIAFI="4037"
-if cMun=="3102001":
-  xMun="ALTEROSA"
+if xMun="ALTEROSA":
+  cMun=="3102001"
   cMunSIAFI="4039"
-if cMun=="3102050":
-  xMun="ALTO CAPARAO"
+if xMun="ALTO CAPARAO":
+  cMun=="3102050"
   cMunSIAFI="0564"
-if cMun=="3153509":
-  xMun="ALTO JEQUITIBA"
+if xMun="ALTO JEQUITIBA":
+  cMun=="3153509"
   cMunSIAFI="5069"
-if cMun=="3102100":
-  xMun="ALTO RIO DOCE"
+if xMun="ALTO RIO DOCE":
+  cMun=="3102100"
   cMunSIAFI="4041"
-if cMun=="3102209":
-  xMun="ALVARENGA"
+if xMun="ALVARENGA":
+  cMun=="3102209"
   cMunSIAFI="4043"
-if cMun=="3102308":
-  xMun="ALVINOPOLIS"
+if xMun="ALVINOPOLIS":
+  cMun=="3102308"
   cMunSIAFI="4045"
-if cMun=="3102407":
-  xMun="ALVORADA DE MINAS"
+if xMun="ALVORADA DE MINAS":
+  cMun=="3102407"
   cMunSIAFI="4047"
-if cMun=="3102506":
-  xMun="AMPARO DO SERRA"
+if xMun="AMPARO DO SERRA":
+  cMun=="3102506"
   cMunSIAFI="4049"
-if cMun=="3102605":
-  xMun="ANDRADAS"
+if xMun="ANDRADAS":
+  cMun=="3102605"
   cMunSIAFI="4051"
-if cMun=="3102803":
-  xMun="ANDRELANDIA"
+if xMun="ANDRELANDIA":
+  cMun=="3102803"
   cMunSIAFI="4055"
-if cMun=="3102852":
-  xMun="ANGELANDIA"
+if xMun="ANGELANDIA":
+  cMun=="3102852"
   cMunSIAFI="0566"
-if cMun=="3102902":
-  xMun="ANTONIO CARLOS"
+if xMun="ANTONIO CARLOS":
+  cMun=="3102902"
   cMunSIAFI="4057"
-if cMun=="3103009":
-  xMun="ANTONIO DIAS"
+if xMun="ANTONIO DIAS":
+  cMun=="3103009"
   cMunSIAFI="4059"
-if cMun=="3103108":
-  xMun="ANTONIO PRADO DE MINAS"
+if xMun="ANTONIO PRADO DE MINAS":
+  cMun=="3103108"
   cMunSIAFI="4061"
-if cMun=="3103207":
-  xMun="ARACAI"
+if xMun="ARACAI":
+  cMun=="3103207"
   cMunSIAFI="4063"
-if cMun=="3103306":
-  xMun="ARACITABA"
+if xMun="ARACITABA":
+  cMun=="3103306"
   cMunSIAFI="4065"
-if cMun=="3103405":
-  xMun="ARACUAI"
+if xMun="ARACUAI":
+  cMun=="3103405"
   cMunSIAFI="4067"
-if cMun=="3103504":
-  xMun="ARAGUARI"
+if xMun="ARAGUARI":
+  cMun=="3103504"
   cMunSIAFI="4069"
-if cMun=="3103603":
-  xMun="ARANTINA"
+if xMun="ARANTINA":
+  cMun=="3103603"
   cMunSIAFI="4071"
-if cMun=="3103702":
-  xMun="ARAPONGA"
+if xMun="ARAPONGA":
+  cMun=="3103702"
   cMunSIAFI="4073"
-if cMun=="3103751":
-  xMun="ARAPORA"
+if xMun="ARAPORA":
+  cMun=="3103751"
   cMunSIAFI="2903"
-if cMun=="3103801":
-  xMun="ARAPUA"
+if xMun="ARAPUA":
+  cMun=="3103801"
   cMunSIAFI="4075"
-if cMun=="3103900":
-  xMun="ARAUJOS"
+if xMun="ARAUJOS":
+  cMun=="3103900"
   cMunSIAFI="4077"
-if cMun=="3104007":
-  xMun="ARAXA"
+if xMun="ARAXA":
+  cMun=="3104007"
   cMunSIAFI="4079"
-if cMun=="3104106":
-  xMun="ARCEBURGO"
+if xMun="ARCEBURGO":
+  cMun=="3104106"
   cMunSIAFI="4081"
-if cMun=="3104205":
-  xMun="ARCOS"
+if xMun="ARCOS":
+  cMun=="3104205"
   cMunSIAFI="4083"
-if cMun=="3104304":
-  xMun="AREADO"
+if xMun="AREADO":
+  cMun=="3104304"
   cMunSIAFI="4085"
-if cMun=="3104403":
-  xMun="ARGIRITA"
+if xMun="ARGIRITA":
+  cMun=="3104403"
   cMunSIAFI="4087"
-if cMun=="3104452":
-  xMun="ARICANDUVA"
+if xMun="ARICANDUVA":
+  cMun=="3104452"
   cMunSIAFI="0568"
-if cMun=="3104502":
-  xMun="ARINOS"
+if xMun="ARINOS":
+  cMun=="3104502"
   cMunSIAFI="4089"
-if cMun=="3104601":
-  xMun="ASTOLFO DUTRA"
+if xMun="ASTOLFO DUTRA":
+  cMun=="3104601"
   cMunSIAFI="4091"
-if cMun=="3104700":
-  xMun="ATALEIA"
+if xMun="ATALEIA":
+  cMun=="3104700"
   cMunSIAFI="4093"
-if cMun=="3104809":
-  xMun="AUGUSTO DE LIMA"
+if xMun="AUGUSTO DE LIMA":
+  cMun=="3104809"
   cMunSIAFI="4095"
-if cMun=="3104908":
-  xMun="BAEPENDI"
+if xMun="BAEPENDI":
+  cMun=="3104908"
   cMunSIAFI="4097"
-if cMun=="3105004":
-  xMun="BALDIM"
+if xMun="BALDIM":
+  cMun=="3105004"
   cMunSIAFI="4099"
-if cMun=="3105103":
-  xMun="BAMBUI"
+if xMun="BAMBUI":
+  cMun=="3105103"
   cMunSIAFI="4101"
-if cMun=="3105202":
-  xMun="BANDEIRA"
+if xMun="BANDEIRA":
+  cMun=="3105202"
   cMunSIAFI="4103"
-if cMun=="3105301":
-  xMun="BANDEIRA DO SUL"
+if xMun="BANDEIRA DO SUL":
+  cMun=="3105301"
   cMunSIAFI="4105"
-if cMun=="3105400":
-  xMun="BARAO DE COCAIS"
+if xMun="BARAO DE COCAIS":
+  cMun=="3105400"
   cMunSIAFI="4107"
-if cMun=="3105509":
-  xMun="BARAO DE MONTE ALTO"
+if xMun="BARAO DE MONTE ALTO":
+  cMun=="3105509"
   cMunSIAFI="4109"
-if cMun=="3105608":
-  xMun="BARBACENA"
+if xMun="BARBACENA":
+  cMun=="3105608"
   cMunSIAFI="4111"
-if cMun=="3105707":
-  xMun="BARRA LONGA"
+if xMun="BARRA LONGA":
+  cMun=="3105707"
   cMunSIAFI="4113"
-if cMun=="3105905":
-  xMun="BARROSO"
+if xMun="BARROSO":
+  cMun=="3105905"
   cMunSIAFI="4117"
-if cMun=="3106002":
-  xMun="BELA VISTA DE MINAS"
+if xMun="BELA VISTA DE MINAS":
+  cMun=="3106002"
   cMunSIAFI="4119"
-if cMun=="3106101":
-  xMun="BELMIRO BRAGA"
+if xMun="BELMIRO BRAGA":
+  cMun=="3106101"
   cMunSIAFI="4121"
-if cMun=="3106200":
-  xMun="BELO HORIZONTE"
+if xMun="BELO HORIZONTE":
+  cMun=="3106200"
   cMunSIAFI="4123"
-if cMun=="3106309":
-  xMun="BELO ORIENTE"
+if xMun="BELO ORIENTE":
+  cMun=="3106309"
   cMunSIAFI="4125"
-if cMun=="3106408":
-  xMun="BELO VALE"
+if xMun="BELO VALE":
+  cMun=="3106408"
   cMunSIAFI="4127"
-if cMun=="3106507":
-  xMun="BERILO"
+if xMun="BERILO":
+  cMun=="3106507"
   cMunSIAFI="4129"
-if cMun=="3106655":
-  xMun="BERIZAL"
+if xMun="BERIZAL":
+  cMun=="3106655"
   cMunSIAFI="0570"
-if cMun=="3106606":
-  xMun="BERTOPOLIS"
+if xMun="BERTOPOLIS":
+  cMun=="3106606"
   cMunSIAFI="4131"
-if cMun=="3106705":
-  xMun="BETIM"
+if xMun="BETIM":
+  cMun=="3106705"
   cMunSIAFI="4133"
-if cMun=="3106804":
-  xMun="BIAS FORTES"
+if xMun="BIAS FORTES":
+  cMun=="3106804"
   cMunSIAFI="4135"
-if cMun=="3106903":
-  xMun="BICAS"
+if xMun="BICAS":
+  cMun=="3106903"
   cMunSIAFI="4137"
-if cMun=="3107000":
-  xMun="BIQUINHAS"
+if xMun="BIQUINHAS":
+  cMun=="3107000"
   cMunSIAFI="4139"
-if cMun=="3107109":
-  xMun="BOA ESPERANCA"
+if xMun="BOA ESPERANCA":
+  cMun=="3107109"
   cMunSIAFI="4141"
-if cMun=="3107208":
-  xMun="BOCAINA DE MINAS"
+if xMun="BOCAINA DE MINAS":
+  cMun=="3107208"
   cMunSIAFI="4143"
-if cMun=="3107307":
-  xMun="BOCAIUVA"
+if xMun="BOCAIUVA":
+  cMun=="3107307"
   cMunSIAFI="4145"
-if cMun=="3107406":
-  xMun="BOM DESPACHO"
+if xMun="BOM DESPACHO":
+  cMun=="3107406"
   cMunSIAFI="4147"
-if cMun=="3107505":
-  xMun="BOM JARDIM DE MINAS"
+if xMun="BOM JARDIM DE MINAS":
+  cMun=="3107505"
   cMunSIAFI="4149"
-if cMun=="3107604":
-  xMun="BOM JESUS DA PENHA"
+if xMun="BOM JESUS DA PENHA":
+  cMun=="3107604"
   cMunSIAFI="4151"
-if cMun=="3107703":
-  xMun="BOM JESUS DO AMPARO"
+if xMun="BOM JESUS DO AMPARO":
+  cMun=="3107703"
   cMunSIAFI="4153"
-if cMun=="3107802":
-  xMun="BOM JESUS DO GALHO"
+if xMun="BOM JESUS DO GALHO":
+  cMun=="3107802"
   cMunSIAFI="4155"
-if cMun=="3107901":
-  xMun="BOM REPOUSO"
+if xMun="BOM REPOUSO":
+  cMun=="3107901"
   cMunSIAFI="4157"
-if cMun=="3108008":
-  xMun="BOM SUCESSO"
+if xMun="BOM SUCESSO":
+  cMun=="3108008"
   cMunSIAFI="4159"
-if cMun=="3108107":
-  xMun="BONFIM"
+if xMun="BONFIM":
+  cMun=="3108107"
   cMunSIAFI="4161"
-if cMun=="3108206":
-  xMun="BONFINOPOLIS DE MINAS"
+if xMun="BONFINOPOLIS DE MINAS":
+  cMun=="3108206"
   cMunSIAFI="4163"
-if cMun=="3108255":
-  xMun="BONITO DE MINAS"
+if xMun="BONITO DE MINAS":
+  cMun=="3108255"
   cMunSIAFI="0572"
-if cMun=="3108305":
-  xMun="BORDA DA MATA"
+if xMun="BORDA DA MATA":
+  cMun=="3108305"
   cMunSIAFI="4165"
-if cMun=="3108404":
-  xMun="BOTELHOS"
+if xMun="BOTELHOS":
+  cMun=="3108404"
   cMunSIAFI="4167"
-if cMun=="3108503":
-  xMun="BOTUMIRIM"
+if xMun="BOTUMIRIM":
+  cMun=="3108503"
   cMunSIAFI="4169"
-if cMun=="3108701":
-  xMun="BRAS PIRES"
+if xMun="BRAS PIRES":
+  cMun=="3108701"
   cMunSIAFI="4173"
-if cMun=="3108552":
-  xMun="BRASILANDIA DE MINAS"
+if xMun="BRASILANDIA DE MINAS":
+  cMun=="3108552"
   cMunSIAFI="0574"
-if cMun=="3108602":
-  xMun="BRASILIA DE MINAS"
+if xMun="BRASILIA DE MINAS":
+  cMun=="3108602"
   cMunSIAFI="4171"
-if cMun=="3108909":
-  xMun="BRASOPOLIS"
+if xMun="BRASOPOLIS":
+  cMun=="3108909"
   cMunSIAFI="4177"
-if cMun=="3108800":
-  xMun="BRAUNAS"
+if xMun="BRAUNAS":
+  cMun=="3108800"
   cMunSIAFI="4175"
-if cMun=="3109006":
-  xMun="BRUMADINHO"
+if xMun="BRUMADINHO":
+  cMun=="3109006"
   cMunSIAFI="4179"
-if cMun=="3109105":
-  xMun="BUENO BRANDAO"
+if xMun="BUENO BRANDAO":
+  cMun=="3109105"
   cMunSIAFI="4181"
-if cMun=="3109204":
-  xMun="BUENOPOLIS"
+if xMun="BUENOPOLIS":
+  cMun=="3109204"
   cMunSIAFI="4183"
-if cMun=="3109253":
-  xMun="BUGRE"
+if xMun="BUGRE":
+  cMun=="3109253"
   cMunSIAFI="0576"
-if cMun=="3109303":
-  xMun="BURITIS"
+if xMun="BURITIS":
+  cMun=="3109303"
   cMunSIAFI="4185"
-if cMun=="3109402":
-  xMun="BURITIZEIRO"
+if xMun="BURITIZEIRO":
+  cMun=="3109402"
   cMunSIAFI="4187"
-if cMun=="3109451":
-  xMun="CABECEIRA GRANDE"
+if xMun="CABECEIRA GRANDE":
+  cMun=="3109451"
   cMunSIAFI="0578"
-if cMun=="3109501":
-  xMun="CABO VERDE"
+if xMun="CABO VERDE":
+  cMun=="3109501"
   cMunSIAFI="4189"
-if cMun=="3109600":
-  xMun="CACHOEIRA DA PRATA"
+if xMun="CACHOEIRA DA PRATA":
+  cMun=="3109600"
   cMunSIAFI="4191"
-if cMun=="3109709":
-  xMun="CACHOEIRA DE MINAS"
+if xMun="CACHOEIRA DE MINAS":
+  cMun=="3109709"
   cMunSIAFI="4193"
-if cMun=="3102704":
-  xMun="CACHOEIRA DE PAJEU"
+if xMun="CACHOEIRA DE PAJEU":
+  cMun=="3102704"
   cMunSIAFI="4053"
-if cMun=="3109808":
-  xMun="CACHOEIRA DOURADA"
+if xMun="CACHOEIRA DOURADA":
+  cMun=="3109808"
   cMunSIAFI="4195"
-if cMun=="3109907":
-  xMun="CAETANOPOLIS"
+if xMun="CAETANOPOLIS":
+  cMun=="3109907"
   cMunSIAFI="4197"
-if cMun=="3110004":
-  xMun="CAETE"
+if xMun="CAETE":
+  cMun=="3110004"
   cMunSIAFI="4199"
-if cMun=="3110103":
-  xMun="CAIANA"
+if xMun="CAIANA":
+  cMun=="3110103"
   cMunSIAFI="4201"
-if cMun=="3110202":
-  xMun="CAJURI"
+if xMun="CAJURI":
+  cMun=="3110202"
   cMunSIAFI="4203"
-if cMun=="3110301":
-  xMun="CALDAS"
+if xMun="CALDAS":
+  cMun=="3110301"
   cMunSIAFI="4205"
-if cMun=="3110400":
-  xMun="CAMACHO"
+if xMun="CAMACHO":
+  cMun=="3110400"
   cMunSIAFI="4207"
-if cMun=="3110509":
-  xMun="CAMANDUCAIA"
+if xMun="CAMANDUCAIA":
+  cMun=="3110509"
   cMunSIAFI="4209"
-if cMun=="3110608":
-  xMun="CAMBUI"
+if xMun="CAMBUI":
+  cMun=="3110608"
   cMunSIAFI="4211"
-if cMun=="3110707":
-  xMun="CAMBUQUIRA"
+if xMun="CAMBUQUIRA":
+  cMun=="3110707"
   cMunSIAFI="4213"
-if cMun=="3110806":
-  xMun="CAMPANARIO"
+if xMun="CAMPANARIO":
+  cMun=="3110806"
   cMunSIAFI="4215"
-if cMun=="3110905":
-  xMun="CAMPANHA"
+if xMun="CAMPANHA":
+  cMun=="3110905"
   cMunSIAFI="4217"
-if cMun=="3111002":
-  xMun="CAMPESTRE"
+if xMun="CAMPESTRE":
+  cMun=="3111002"
   cMunSIAFI="4219"
-if cMun=="3111101":
-  xMun="CAMPINA VERDE"
+if xMun="CAMPINA VERDE":
+  cMun=="3111101"
   cMunSIAFI="4221"
-if cMun=="3111150":
-  xMun="CAMPO AZUL"
+if xMun="CAMPO AZUL":
+  cMun=="3111150"
   cMunSIAFI="0580"
-if cMun=="3111200":
-  xMun="CAMPO BELO"
+if xMun="CAMPO BELO":
+  cMun=="3111200"
   cMunSIAFI="4223"
-if cMun=="3111309":
-  xMun="CAMPO DO MEIO"
+if xMun="CAMPO DO MEIO":
+  cMun=="3111309"
   cMunSIAFI="4225"
-if cMun=="3111408":
-  xMun="CAMPO FLORIDO"
+if xMun="CAMPO FLORIDO":
+  cMun=="3111408"
   cMunSIAFI="4227"
-if cMun=="3111507":
-  xMun="CAMPOS ALTOS"
+if xMun="CAMPOS ALTOS":
+  cMun=="3111507"
   cMunSIAFI="4229"
-if cMun=="3111606":
-  xMun="CAMPOS GERAIS"
+if xMun="CAMPOS GERAIS":
+  cMun=="3111606"
   cMunSIAFI="4231"
-if cMun=="3111903":
-  xMun="CANA VERDE"
+if xMun="CANA VERDE":
+  cMun=="3111903"
   cMunSIAFI="4237"
-if cMun=="3111705":
-  xMun="CANAA"
+if xMun="CANAA":
+  cMun=="3111705"
   cMunSIAFI="4233"
-if cMun=="3111804":
-  xMun="CANAPOLIS"
+if xMun="CANAPOLIS":
+  cMun=="3111804"
   cMunSIAFI="4235"
-if cMun=="3112000":
-  xMun="CANDEIAS"
+if xMun="CANDEIAS":
+  cMun=="3112000"
   cMunSIAFI="4239"
-if cMun=="3112059":
-  xMun="CANTAGALO"
+if xMun="CANTAGALO":
+  cMun=="3112059"
   cMunSIAFI="0582"
-if cMun=="3112109":
-  xMun="CAPARAO"
+if xMun="CAPARAO":
+  cMun=="3112109"
   cMunSIAFI="4241"
-if cMun=="3112208":
-  xMun="CAPELA NOVA"
+if xMun="CAPELA NOVA":
+  cMun=="3112208"
   cMunSIAFI="4243"
-if cMun=="3112307":
-  xMun="CAPELINHA"
+if xMun="CAPELINHA":
+  cMun=="3112307"
   cMunSIAFI="4245"
-if cMun=="3112406":
-  xMun="CAPETINGA"
+if xMun="CAPETINGA":
+  cMun=="3112406"
   cMunSIAFI="4247"
-if cMun=="3112505":
-  xMun="CAPIM BRANCO"
+if xMun="CAPIM BRANCO":
+  cMun=="3112505"
   cMunSIAFI="4249"
-if cMun=="3112604":
-  xMun="CAPINOPOLIS"
+if xMun="CAPINOPOLIS":
+  cMun=="3112604"
   cMunSIAFI="4251"
-if cMun=="3112653":
-  xMun="CAPITAO ANDRADE"
+if xMun="CAPITAO ANDRADE":
+  cMun=="3112653"
   cMunSIAFI="2651"
-if cMun=="3112703":
-  xMun="CAPITAO ENEAS"
+if xMun="CAPITAO ENEAS":
+  cMun=="3112703"
   cMunSIAFI="4253"
-if cMun=="3112802":
-  xMun="CAPITOLIO"
+if xMun="CAPITOLIO":
+  cMun=="3112802"
   cMunSIAFI="4255"
-if cMun=="3112901":
-  xMun="CAPUTIRA"
+if xMun="CAPUTIRA":
+  cMun=="3112901"
   cMunSIAFI="4257"
-if cMun=="3113008":
-  xMun="CARAI"
+if xMun="CARAI":
+  cMun=="3113008"
   cMunSIAFI="4259"
-if cMun=="3113107":
-  xMun="CARANAIBA"
+if xMun="CARANAIBA":
+  cMun=="3113107"
   cMunSIAFI="4261"
-if cMun=="3113206":
-  xMun="CARANDAI"
+if xMun="CARANDAI":
+  cMun=="3113206"
   cMunSIAFI="4263"
-if cMun=="3113305":
-  xMun="CARANGOLA"
+if xMun="CARANGOLA":
+  cMun=="3113305"
   cMunSIAFI="4265"
-if cMun=="3113404":
-  xMun="CARATINGA"
+if xMun="CARATINGA":
+  cMun=="3113404"
   cMunSIAFI="4267"
-if cMun=="3113503":
-  xMun="CARBONITA"
+if xMun="CARBONITA":
+  cMun=="3113503"
   cMunSIAFI="4269"
-if cMun=="3113602":
-  xMun="CAREACU"
+if xMun="CAREACU":
+  cMun=="3113602"
   cMunSIAFI="4271"
-if cMun=="3113701":
-  xMun="CARLOS CHAGAS"
+if xMun="CARLOS CHAGAS":
+  cMun=="3113701"
   cMunSIAFI="4273"
-if cMun=="3113800":
-  xMun="CARMESIA"
+if xMun="CARMESIA":
+  cMun=="3113800"
   cMunSIAFI="4275"
-if cMun=="3113909":
-  xMun="CARMO DA CACHOEIRA"
+if xMun="CARMO DA CACHOEIRA":
+  cMun=="3113909"
   cMunSIAFI="4277"
-if cMun=="3114006":
-  xMun="CARMO DA MATA"
+if xMun="CARMO DA MATA":
+  cMun=="3114006"
   cMunSIAFI="4279"
-if cMun=="3114105":
-  xMun="CARMO DE MINAS"
+if xMun="CARMO DE MINAS":
+  cMun=="3114105"
   cMunSIAFI="4281"
-if cMun=="3114204":
-  xMun="CARMO DO CAJURU"
+if xMun="CARMO DO CAJURU":
+  cMun=="3114204"
   cMunSIAFI="4283"
-if cMun=="3114303":
-  xMun="CARMO DO PARANAIBA"
+if xMun="CARMO DO PARANAIBA":
+  cMun=="3114303"
   cMunSIAFI="4285"
-if cMun=="3114402":
-  xMun="CARMO DO RIO CLARO"
+if xMun="CARMO DO RIO CLARO":
+  cMun=="3114402"
   cMunSIAFI="4287"
-if cMun=="3114501":
-  xMun="CARMOPOLIS DE MINAS"
+if xMun="CARMOPOLIS DE MINAS":
+  cMun=="3114501"
   cMunSIAFI="4289"
-if cMun=="3114550":
-  xMun="CARNEIRINHO"
+if xMun="CARNEIRINHO":
+  cMun=="3114550"
   cMunSIAFI="2685"
-if cMun=="3114600":
-  xMun="CARRANCAS"
+if xMun="CARRANCAS":
+  cMun=="3114600"
   cMunSIAFI="4291"
-if cMun=="3114709":
-  xMun="CARVALHOPOLIS"
+if xMun="CARVALHOPOLIS":
+  cMun=="3114709"
   cMunSIAFI="4293"
-if cMun=="3114808":
-  xMun="CARVALHOS"
+if xMun="CARVALHOS":
+  cMun=="3114808"
   cMunSIAFI="4295"
-if cMun=="3114907":
-  xMun="CASA GRANDE"
+if xMun="CASA GRANDE":
+  cMun=="3114907"
   cMunSIAFI="4297"
-if cMun=="3115003":
-  xMun="CASCALHO RICO"
+if xMun="CASCALHO RICO":
+  cMun=="3115003"
   cMunSIAFI="4299"
-if cMun=="3115102":
-  xMun="CASSIA"
+if xMun="CASSIA":
+  cMun=="3115102"
   cMunSIAFI="4301"
-if cMun=="3115300":
-  xMun="CATAGUASES"
+if xMun="CATAGUASES":
+  cMun=="3115300"
   cMunSIAFI="4305"
-if cMun=="3115359":
-  xMun="CATAS ALTAS"
+if xMun="CATAS ALTAS":
+  cMun=="3115359"
   cMunSIAFI="0584"
-if cMun=="3115409":
-  xMun="CATAS ALTAS DA NORUEGA"
+if xMun="CATAS ALTAS DA NORUEGA":
+  cMun=="3115409"
   cMunSIAFI="4307"
-if cMun=="3115458":
-  xMun="CATUJI"
+if xMun="CATUJI":
+  cMun=="3115458"
   cMunSIAFI="2653"
-if cMun=="3115474":
-  xMun="CATUTI"
+if xMun="CATUTI":
+  cMun=="3115474"
   cMunSIAFI="0586"
-if cMun=="3115508":
-  xMun="CAXAMBU"
+if xMun="CAXAMBU":
+  cMun=="3115508"
   cMunSIAFI="4309"
-if cMun=="3115607":
-  xMun="CEDRO DO ABAETE"
+if xMun="CEDRO DO ABAETE":
+  cMun=="3115607"
   cMunSIAFI="4311"
-if cMun=="3115706":
-  xMun="CENTRAL DE MINAS"
+if xMun="CENTRAL DE MINAS":
+  cMun=="3115706"
   cMunSIAFI="4313"
-if cMun=="3115805":
-  xMun="CENTRALINA"
+if xMun="CENTRALINA":
+  cMun=="3115805"
   cMunSIAFI="4315"
-if cMun=="3115904":
-  xMun="CHACARA"
+if xMun="CHACARA":
+  cMun=="3115904"
   cMunSIAFI="4317"
-if cMun=="3116001":
-  xMun="CHALE"
+if xMun="CHALE":
+  cMun=="3116001"
   cMunSIAFI="4319"
-if cMun=="3116100":
-  xMun="CHAPADA DO NORTE"
+if xMun="CHAPADA DO NORTE":
+  cMun=="3116100"
   cMunSIAFI="4321"
-if cMun=="3116159":
-  xMun="CHAPADA GAUCHA"
+if xMun="CHAPADA GAUCHA":
+  cMun=="3116159"
   cMunSIAFI="0588"
-if cMun=="3116209":
-  xMun="CHIADOR"
+if xMun="CHIADOR":
+  cMun=="3116209"
   cMunSIAFI="4323"
-if cMun=="3116308":
-  xMun="CIPOTANEA"
+if xMun="CIPOTANEA":
+  cMun=="3116308"
   cMunSIAFI="4325"
-if cMun=="3116407":
-  xMun="CLARAVAL"
+if xMun="CLARAVAL":
+  cMun=="3116407"
   cMunSIAFI="4327"
-if cMun=="3116506":
-  xMun="CLARO DOS POCÃ•ES"
+if xMun="CLARO DOS POCÃ•ES":
+  cMun=="3116506"
   cMunSIAFI="4329"
-if cMun=="3116605":
-  xMun="CLAUDIO"
+if xMun="CLAUDIO":
+  cMun=="3116605"
   cMunSIAFI="4331"
-if cMun=="3116704":
-  xMun="COIMBRA"
+if xMun="COIMBRA":
+  cMun=="3116704"
   cMunSIAFI="4333"
-if cMun=="3116803":
-  xMun="COLUNA"
+if xMun="COLUNA":
+  cMun=="3116803"
   cMunSIAFI="4335"
-if cMun=="3116902":
-  xMun="COMENDADOR GOMES"
+if xMun="COMENDADOR GOMES":
+  cMun=="3116902"
   cMunSIAFI="4337"
-if cMun=="3117009":
-  xMun="COMERCINHO"
+if xMun="COMERCINHO":
+  cMun=="3117009"
   cMunSIAFI="4339"
-if cMun=="3117108":
-  xMun="CONCEICAO DA APARECIDA"
+if xMun="CONCEICAO DA APARECIDA":
+  cMun=="3117108"
   cMunSIAFI="4341"
-if cMun=="3115201":
-  xMun="CONCEICAO DA BARRA DE MINAS"
+if xMun="CONCEICAO DA BARRA DE MINAS":
+  cMun=="3115201"
   cMunSIAFI="4303"
-if cMun=="3117306":
-  xMun="CONCEICAO DAS ALAGOAS"
+if xMun="CONCEICAO DAS ALAGOAS":
+  cMun=="3117306"
   cMunSIAFI="4345"
-if cMun=="3117207":
-  xMun="CONCEICAO DAS PEDRAS"
+if xMun="CONCEICAO DAS PEDRAS":
+  cMun=="3117207"
   cMunSIAFI="4343"
-if cMun=="3117405":
-  xMun="CONCEICAO DE IPANEMA"
+if xMun="CONCEICAO DE IPANEMA":
+  cMun=="3117405"
   cMunSIAFI="4347"
-if cMun=="3117504":
-  xMun="CONCEICAO DO MATO DENTRO"
+if xMun="CONCEICAO DO MATO DENTRO":
+  cMun=="3117504"
   cMunSIAFI="4349"
-if cMun=="3117603":
-  xMun="CONCEICAO DO PARA"
+if xMun="CONCEICAO DO PARA":
+  cMun=="3117603"
   cMunSIAFI="4351"
-if cMun=="3117702":
-  xMun="CONCEICAO DO RIO VERDE"
+if xMun="CONCEICAO DO RIO VERDE":
+  cMun=="3117702"
   cMunSIAFI="4353"
-if cMun=="3117801":
-  xMun="CONCEICAO DOS OUROS"
+if xMun="CONCEICAO DOS OUROS":
+  cMun=="3117801"
   cMunSIAFI="4355"
-if cMun=="3117836":
-  xMun="CONEGO MARINHO"
+if xMun="CONEGO MARINHO":
+  cMun=="3117836"
   cMunSIAFI="0590"
-if cMun=="3117876":
-  xMun="CONFINS"
+if xMun="CONFINS":
+  cMun=="3117876"
   cMunSIAFI="0592"
-if cMun=="3117900":
-  xMun="CONGONHAL"
+if xMun="CONGONHAL":
+  cMun=="3117900"
   cMunSIAFI="4357"
-if cMun=="3118007":
-  xMun="CONGONHAS"
+if xMun="CONGONHAS":
+  cMun=="3118007"
   cMunSIAFI="4359"
-if cMun=="3118106":
-  xMun="CONGONHAS DO NORTE"
+if xMun="CONGONHAS DO NORTE":
+  cMun=="3118106"
   cMunSIAFI="4361"
-if cMun=="3118205":
-  xMun="CONQUISTA"
+if xMun="CONQUISTA":
+  cMun=="3118205"
   cMunSIAFI="4363"
-if cMun=="3118304":
-  xMun="CONSELHEIRO LAFAIETE"
+if xMun="CONSELHEIRO LAFAIETE":
+  cMun=="3118304"
   cMunSIAFI="4365"
-if cMun=="3118403":
-  xMun="CONSELHEIRO PENA"
+if xMun="CONSELHEIRO PENA":
+  cMun=="3118403"
   cMunSIAFI="4367"
-if cMun=="3118502":
-  xMun="CONSOLACAO"
+if xMun="CONSOLACAO":
+  cMun=="3118502"
   cMunSIAFI="4369"
-if cMun=="3118601":
-  xMun="CONTAGEM"
+if xMun="CONTAGEM":
+  cMun=="3118601"
   cMunSIAFI="4371"
-if cMun=="3118700":
-  xMun="COQUEIRAL"
+if xMun="COQUEIRAL":
+  cMun=="3118700"
   cMunSIAFI="4373"
-if cMun=="3118809":
-  xMun="CORACAO DE JESUS"
+if xMun="CORACAO DE JESUS":
+  cMun=="3118809"
   cMunSIAFI="4375"
-if cMun=="3118908":
-  xMun="CORDISBURGO"
+if xMun="CORDISBURGO":
+  cMun=="3118908"
   cMunSIAFI="4377"
-if cMun=="3119005":
-  xMun="CORDISLANDIA"
+if xMun="CORDISLANDIA":
+  cMun=="3119005"
   cMunSIAFI="4379"
-if cMun=="3119104":
-  xMun="CORINTO"
+if xMun="CORINTO":
+  cMun=="3119104"
   cMunSIAFI="4381"
-if cMun=="3119203":
-  xMun="COROACI"
+if xMun="COROACI":
+  cMun=="3119203"
   cMunSIAFI="4383"
-if cMun=="3119302":
-  xMun="COROMANDEL"
+if xMun="COROMANDEL":
+  cMun=="3119302"
   cMunSIAFI="4385"
-if cMun=="3119401":
-  xMun="CORONEL FABRICIANO"
+if xMun="CORONEL FABRICIANO":
+  cMun=="3119401"
   cMunSIAFI="4387"
-if cMun=="3119500":
-  xMun="CORONEL MURTA"
+if xMun="CORONEL MURTA":
+  cMun=="3119500"
   cMunSIAFI="4389"
-if cMun=="3119609":
-  xMun="CORONEL PACHECO"
+if xMun="CORONEL PACHECO":
+  cMun=="3119609"
   cMunSIAFI="4391"
-if cMun=="3119708":
-  xMun="CORONEL XAVIER CHAVES"
+if xMun="CORONEL XAVIER CHAVES":
+  cMun=="3119708"
   cMunSIAFI="4393"
-if cMun=="3119807":
-  xMun="CORREGO DANTA"
+if xMun="CORREGO DANTA":
+  cMun=="3119807"
   cMunSIAFI="4395"
-if cMun=="3119906":
-  xMun="CORREGO DO BOM JESUS"
+if xMun="CORREGO DO BOM JESUS":
+  cMun=="3119906"
   cMunSIAFI="4397"
-if cMun=="3119955":
-  xMun="CORREGO FUNDO"
+if xMun="CORREGO FUNDO":
+  cMun=="3119955"
   cMunSIAFI="0594"
-if cMun=="3120003":
-  xMun="CORREGO NOVO"
+if xMun="CORREGO NOVO":
+  cMun=="3120003"
   cMunSIAFI="4399"
-if cMun=="3120102":
-  xMun="COUTO DE MAGALHAES DE MINAS"
+if xMun="COUTO DE MAGALHAES DE MINAS":
+  cMun=="3120102"
   cMunSIAFI="4401"
-if cMun=="3120151":
-  xMun="CRISOLITA"
+if xMun="CRISOLITA":
+  cMun=="3120151"
   cMunSIAFI="0596"
-if cMun=="3120201":
-  xMun="CRISTAIS"
+if xMun="CRISTAIS":
+  cMun=="3120201"
   cMunSIAFI="4403"
-if cMun=="3120300":
-  xMun="CRISTALIA"
+if xMun="CRISTALIA":
+  cMun=="3120300"
   cMunSIAFI="4405"
-if cMun=="3120409":
-  xMun="CRISTIANO OTONI"
+if xMun="CRISTIANO OTONI":
+  cMun=="3120409"
   cMunSIAFI="4407"
-if cMun=="3120508":
-  xMun="CRISTINA"
+if xMun="CRISTINA":
+  cMun=="3120508"
   cMunSIAFI="4409"
-if cMun=="3120607":
-  xMun="CRUCILANDIA"
+if xMun="CRUCILANDIA":
+  cMun=="3120607"
   cMunSIAFI="4411"
-if cMun=="3120706":
-  xMun="CRUZEIRO DA FORTALEZA"
+if xMun="CRUZEIRO DA FORTALEZA":
+  cMun=="3120706"
   cMunSIAFI="4413"
-if cMun=="3120805":
-  xMun="CRUZILIA"
+if xMun="CRUZILIA":
+  cMun=="3120805"
   cMunSIAFI="4415"
-if cMun=="3120839":
-  xMun="CUPARAQUE"
+if xMun="CUPARAQUE":
+  cMun=="3120839"
   cMunSIAFI="0598"
-if cMun=="3120870":
-  xMun="CURRAL DE DENTRO"
+if xMun="CURRAL DE DENTRO":
+  cMun=="3120870"
   cMunSIAFI="0600"
-if cMun=="3120904":
-  xMun="CURVELO"
+if xMun="CURVELO":
+  cMun=="3120904"
   cMunSIAFI="4417"
-if cMun=="3121001":
-  xMun="DATAS"
+if xMun="DATAS":
+  cMun=="3121001"
   cMunSIAFI="4419"
-if cMun=="3121100":
-  xMun="DELFIM MOREIRA"
+if xMun="DELFIM MOREIRA":
+  cMun=="3121100"
   cMunSIAFI="4421"
-if cMun=="3121209":
-  xMun="DELFINOPOLIS"
+if xMun="DELFINOPOLIS":
+  cMun=="3121209"
   cMunSIAFI="4423"
-if cMun=="3121258":
-  xMun="DELTA"
+if xMun="DELTA":
+  cMun=="3121258"
   cMunSIAFI="0602"
-if cMun=="3121308":
-  xMun="DESCOBERTO"
+if xMun="DESCOBERTO":
+  cMun=="3121308"
   cMunSIAFI="4425"
-if cMun=="3121407":
-  xMun="DESTERRO DE ENTRE RIOS"
+if xMun="DESTERRO DE ENTRE RIOS":
+  cMun=="3121407"
   cMunSIAFI="4427"
-if cMun=="3121506":
-  xMun="DESTERRO DO MELO"
+if xMun="DESTERRO DO MELO":
+  cMun=="3121506"
   cMunSIAFI="4429"
-if cMun=="3121605":
-  xMun="DIAMANTINA"
+if xMun="DIAMANTINA":
+  cMun=="3121605"
   cMunSIAFI="4431"
-if cMun=="3121704":
-  xMun="DIOGO DE VASCONCELOS"
+if xMun="DIOGO DE VASCONCELOS":
+  cMun=="3121704"
   cMunSIAFI="4433"
-if cMun=="3121803":
-  xMun="DIONISIO"
+if xMun="DIONISIO":
+  cMun=="3121803"
   cMunSIAFI="4435"
-if cMun=="3121902":
-  xMun="DIVINESIA"
+if xMun="DIVINESIA":
+  cMun=="3121902"
   cMunSIAFI="4437"
-if cMun=="3122009":
-  xMun="DIVINO"
+if xMun="DIVINO":
+  cMun=="3122009"
   cMunSIAFI="4439"
-if cMun=="3122108":
-  xMun="DIVINO DAS LARANJEIRAS"
+if xMun="DIVINO DAS LARANJEIRAS":
+  cMun=="3122108"
   cMunSIAFI="4441"
-if cMun=="3122207":
-  xMun="DIVINOLANDIA DE MINAS"
+if xMun="DIVINOLANDIA DE MINAS":
+  cMun=="3122207"
   cMunSIAFI="4443"
-if cMun=="3122306":
-  xMun="DIVINOPOLIS"
+if xMun="DIVINOPOLIS":
+  cMun=="3122306"
   cMunSIAFI="4445"
-if cMun=="3122355":
-  xMun="DIVISA ALEGRE"
+if xMun="DIVISA ALEGRE":
+  cMun=="3122355"
   cMunSIAFI="0604"
-if cMun=="3122405":
-  xMun="DIVISA NOVA"
+if xMun="DIVISA NOVA":
+  cMun=="3122405"
   cMunSIAFI="4447"
-if cMun=="3122454":
-  xMun="DIVISOPOLIS"
+if xMun="DIVISOPOLIS":
+  cMun=="3122454"
   cMunSIAFI="2657"
-if cMun=="3122470":
-  xMun="DOM BOSCO"
+if xMun="DOM BOSCO":
+  cMun=="3122470"
   cMunSIAFI="0606"
-if cMun=="3122504":
-  xMun="DOM CAVATI"
+if xMun="DOM CAVATI":
+  cMun=="3122504"
   cMunSIAFI="4449"
-if cMun=="3122603":
-  xMun="DOM JOAQUIM"
+if xMun="DOM JOAQUIM":
+  cMun=="3122603"
   cMunSIAFI="4451"
-if cMun=="3122702":
-  xMun="DOM SILVERIO"
+if xMun="DOM SILVERIO":
+  cMun=="3122702"
   cMunSIAFI="4453"
-if cMun=="3122801":
-  xMun="DOM VICOSO"
+if xMun="DOM VICOSO":
+  cMun=="3122801"
   cMunSIAFI="4455"
-if cMun=="3122900":
-  xMun="DONA EUSEBIA"
+if xMun="DONA EUSEBIA":
+  cMun=="3122900"
   cMunSIAFI="4457"
-if cMun=="3123007":
-  xMun="DORES DE CAMPOS"
+if xMun="DORES DE CAMPOS":
+  cMun=="3123007"
   cMunSIAFI="4459"
-if cMun=="3123106":
-  xMun="DORES DE GUANHAES"
+if xMun="DORES DE GUANHAES":
+  cMun=="3123106"
   cMunSIAFI="4461"
-if cMun=="3123205":
-  xMun="DORES DO INDAIA"
+if xMun="DORES DO INDAIA":
+  cMun=="3123205"
   cMunSIAFI="4463"
-if cMun=="3123304":
-  xMun="DORES DO TURVO"
+if xMun="DORES DO TURVO":
+  cMun=="3123304"
   cMunSIAFI="4465"
-if cMun=="3123403":
-  xMun="DORESOPOLIS"
+if xMun="DORESOPOLIS":
+  cMun=="3123403"
   cMunSIAFI="4467"
-if cMun=="3123502":
-  xMun="DOURADOQUARA"
+if xMun="DOURADOQUARA":
+  cMun=="3123502"
   cMunSIAFI="4469"
-if cMun=="3123528":
-  xMun="DURANDE"
+if xMun="DURANDE":
+  cMun=="3123528"
   cMunSIAFI="2675"
-if cMun=="3123601":
-  xMun="ELOI MENDES"
+if xMun="ELOI MENDES":
+  cMun=="3123601"
   cMunSIAFI="4471"
-if cMun=="3123700":
-  xMun="ENGENHEIRO CALDAS"
+if xMun="ENGENHEIRO CALDAS":
+  cMun=="3123700"
   cMunSIAFI="4473"
-if cMun=="3123809":
-  xMun="ENGENHEIRO NAVARRO"
+if xMun="ENGENHEIRO NAVARRO":
+  cMun=="3123809"
   cMunSIAFI="4475"
-if cMun=="3123858":
-  xMun="ENTRE FOLHAS"
+if xMun="ENTRE FOLHAS":
+  cMun=="3123858"
   cMunSIAFI="2663"
-if cMun=="3123908":
-  xMun="ENTRE RIOS DE MINAS"
+if xMun="ENTRE RIOS DE MINAS":
+  cMun=="3123908"
   cMunSIAFI="4477"
-if cMun=="3124005":
-  xMun="ERVALIA"
+if xMun="ERVALIA":
+  cMun=="3124005"
   cMunSIAFI="4479"
-if cMun=="3124104":
-  xMun="ESMERALDAS"
+if xMun="ESMERALDAS":
+  cMun=="3124104"
   cMunSIAFI="4481"
-if cMun=="3124203":
-  xMun="ESPERA FELIZ"
+if xMun="ESPERA FELIZ":
+  cMun=="3124203"
   cMunSIAFI="4483"
-if cMun=="3124302":
-  xMun="ESPINOSA"
+if xMun="ESPINOSA":
+  cMun=="3124302"
   cMunSIAFI="4485"
-if cMun=="3124401":
-  xMun="ESPIRITO SANTO DO DOURADO"
+if xMun="ESPIRITO SANTO DO DOURADO":
+  cMun=="3124401"
   cMunSIAFI="4487"
-if cMun=="3124500":
-  xMun="ESTIVA"
+if xMun="ESTIVA":
+  cMun=="3124500"
   cMunSIAFI="4489"
-if cMun=="3124609":
-  xMun="ESTRELA DALVA"
+if xMun="ESTRELA DALVA":
+  cMun=="3124609"
   cMunSIAFI="4491"
-if cMun=="3124708":
-  xMun="ESTRELA DO INDAIA"
+if xMun="ESTRELA DO INDAIA":
+  cMun=="3124708"
   cMunSIAFI="4493"
-if cMun=="3124807":
-  xMun="ESTRELA DO SUL"
+if xMun="ESTRELA DO SUL":
+  cMun=="3124807"
   cMunSIAFI="4495"
-if cMun=="3124906":
-  xMun="EUGENOPOLIS"
+if xMun="EUGENOPOLIS":
+  cMun=="3124906"
   cMunSIAFI="4497"
-if cMun=="3125002":
-  xMun="EWBANK DA CAMARA"
+if xMun="EWBANK DA CAMARA":
+  cMun=="3125002"
   cMunSIAFI="4499"
-if cMun=="3125101":
-  xMun="EXTREMA"
+if xMun="EXTREMA":
+  cMun=="3125101"
   cMunSIAFI="4501"
-if cMun=="3125200":
-  xMun="FAMA"
+if xMun="FAMA":
+  cMun=="3125200"
   cMunSIAFI="4503"
-if cMun=="3125309":
-  xMun="FARIA LEMOS"
+if xMun="FARIA LEMOS":
+  cMun=="3125309"
   cMunSIAFI="4505"
-if cMun=="3125408":
-  xMun="FELICIO DOS SANTOS"
+if xMun="FELICIO DOS SANTOS":
+  cMun=="3125408"
   cMunSIAFI="4507"
-if cMun=="3125606":
-  xMun="FELISBURGO"
+if xMun="FELISBURGO":
+  cMun=="3125606"
   cMunSIAFI="4511"
-if cMun=="3125705":
-  xMun="FELIXLANDIA"
+if xMun="FELIXLANDIA":
+  cMun=="3125705"
   cMunSIAFI="4513"
-if cMun=="3125804":
-  xMun="FERNANDES TOURINHO"
+if xMun="FERNANDES TOURINHO":
+  cMun=="3125804"
   cMunSIAFI="4515"
-if cMun=="3125903":
-  xMun="FERROS"
+if xMun="FERROS":
+  cMun=="3125903"
   cMunSIAFI="4517"
-if cMun=="3125952":
-  xMun="FERVEDOURO"
+if xMun="FERVEDOURO":
+  cMun=="3125952"
   cMunSIAFI="2683"
-if cMun=="3126000":
-  xMun="FLORESTAL"
+if xMun="FLORESTAL":
+  cMun=="3126000"
   cMunSIAFI="4519"
-if cMun=="3126109":
-  xMun="FORMIGA"
+if xMun="FORMIGA":
+  cMun=="3126109"
   cMunSIAFI="4521"
-if cMun=="3126208":
-  xMun="FORMOSO"
+if xMun="FORMOSO":
+  cMun=="3126208"
   cMunSIAFI="4523"
-if cMun=="3126307":
-  xMun="FORTALEZA DE MINAS"
+if xMun="FORTALEZA DE MINAS":
+  cMun=="3126307"
   cMunSIAFI="4525"
-if cMun=="3126406":
-  xMun="FORTUNA DE MINAS"
+if xMun="FORTUNA DE MINAS":
+  cMun=="3126406"
   cMunSIAFI="4527"
-if cMun=="3126505":
-  xMun="FRANCISCO BADARO"
+if xMun="FRANCISCO BADARO":
+  cMun=="3126505"
   cMunSIAFI="4529"
-if cMun=="3126604":
-  xMun="FRANCISCO DUMONT"
+if xMun="FRANCISCO DUMONT":
+  cMun=="3126604"
   cMunSIAFI="4531"
-if cMun=="3126703":
-  xMun="FRANCISCO SA"
+if xMun="FRANCISCO SA":
+  cMun=="3126703"
   cMunSIAFI="4533"
-if cMun=="3126752":
-  xMun="FRANCISCOPOLIS"
+if xMun="FRANCISCOPOLIS":
+  cMun=="3126752"
   cMunSIAFI="0608"
-if cMun=="3126802":
-  xMun="FREI GASPAR"
+if xMun="FREI GASPAR":
+  cMun=="3126802"
   cMunSIAFI="4535"
-if cMun=="3126901":
-  xMun="FREI INOCÃŠNCIO"
+if xMun="FREI INOCÃŠNCIO":
+  cMun=="3126901"
   cMunSIAFI="4537"
-if cMun=="3126950":
-  xMun="FREI LAGONEGRO"
+if xMun="FREI LAGONEGRO":
+  cMun=="3126950"
   cMunSIAFI="0610"
-if cMun=="3127008":
-  xMun="FRONTEIRA"
+if xMun="FRONTEIRA":
+  cMun=="3127008"
   cMunSIAFI="4539"
-if cMun=="3127057":
-  xMun="FRONTEIRA DOS VALES"
+if xMun="FRONTEIRA DOS VALES":
+  cMun=="3127057"
   cMunSIAFI="4935"
-if cMun=="3127073":
-  xMun="FRUTA DE LEITE"
+if xMun="FRUTA DE LEITE":
+  cMun=="3127073"
   cMunSIAFI="0612"
-if cMun=="3127107":
-  xMun="FRUTAL"
+if xMun="FRUTAL":
+  cMun=="3127107"
   cMunSIAFI="4541"
-if cMun=="3127206":
-  xMun="FUNILANDIA"
+if xMun="FUNILANDIA":
+  cMun=="3127206"
   cMunSIAFI="4543"
-if cMun=="3127305":
-  xMun="GALILEIA"
+if xMun="GALILEIA":
+  cMun=="3127305"
   cMunSIAFI="4545"
-if cMun=="3127339":
-  xMun="GAMELEIRAS"
+if xMun="GAMELEIRAS":
+  cMun=="3127339"
   cMunSIAFI="0614"
-if cMun=="3127354":
-  xMun="GLAUCILANDIA"
+if xMun="GLAUCILANDIA":
+  cMun=="3127354"
   cMunSIAFI="0616"
-if cMun=="3127370":
-  xMun="GOIABEIRA"
+if xMun="GOIABEIRA":
+  cMun=="3127370"
   cMunSIAFI="0618"
-if cMun=="3127388":
-  xMun="GOIANA"
+if xMun="GOIANA":
+  cMun=="3127388"
   cMunSIAFI="0620"
-if cMun=="3127404":
-  xMun="GONCALVES"
+if xMun="GONCALVES":
+  cMun=="3127404"
   cMunSIAFI="4547"
-if cMun=="3127503":
-  xMun="GONZAGA"
+if xMun="GONZAGA":
+  cMun=="3127503"
   cMunSIAFI="4549"
-if cMun=="3127602":
-  xMun="GOUVEIA"
+if xMun="GOUVEIA":
+  cMun=="3127602"
   cMunSIAFI="4551"
-if cMun=="3127701":
-  xMun="GOVERNADOR VALADARES"
+if xMun="GOVERNADOR VALADARES":
+  cMun=="3127701"
   cMunSIAFI="4553"
-if cMun=="3127800":
-  xMun="GRAO MOGOL"
+if xMun="GRAO MOGOL":
+  cMun=="3127800"
   cMunSIAFI="4555"
-if cMun=="3127909":
-  xMun="GRUPIARA"
+if xMun="GRUPIARA":
+  cMun=="3127909"
   cMunSIAFI="4557"
-if cMun=="3128006":
-  xMun="GUANHAES"
+if xMun="GUANHAES":
+  cMun=="3128006"
   cMunSIAFI="4559"
-if cMun=="3128105":
-  xMun="GUAPE"
+if xMun="GUAPE":
+  cMun=="3128105"
   cMunSIAFI="4561"
-if cMun=="3128204":
-  xMun="GUARACIABA"
+if xMun="GUARACIABA":
+  cMun=="3128204"
   cMunSIAFI="4563"
-if cMun=="3128253":
-  xMun="GUARACIAMA"
+if xMun="GUARACIAMA":
+  cMun=="3128253"
   cMunSIAFI="0622"
-if cMun=="3128303":
-  xMun="GUARANESIA"
+if xMun="GUARANESIA":
+  cMun=="3128303"
   cMunSIAFI="4565"
-if cMun=="3128402":
-  xMun="GUARANI"
+if xMun="GUARANI":
+  cMun=="3128402"
   cMunSIAFI="4567"
-if cMun=="3128501":
-  xMun="GUARARA"
+if xMun="GUARARA":
+  cMun=="3128501"
   cMunSIAFI="4569"
-if cMun=="3128600":
-  xMun="GUARDA-MOR"
+if xMun="GUARDA-MOR":
+  cMun=="3128600"
   cMunSIAFI="4571"
-if cMun=="3128709":
-  xMun="GUAXUPE"
+if xMun="GUAXUPE":
+  cMun=="3128709"
   cMunSIAFI="4573"
-if cMun=="3128808":
-  xMun="GUIDOVAL"
+if xMun="GUIDOVAL":
+  cMun=="3128808"
   cMunSIAFI="4575"
-if cMun=="3128907":
-  xMun="GUIMARANIA"
+if xMun="GUIMARANIA":
+  cMun=="3128907"
   cMunSIAFI="4577"
-if cMun=="3129004":
-  xMun="GUIRICEMA"
+if xMun="GUIRICEMA":
+  cMun=="3129004"
   cMunSIAFI="4579"
-if cMun=="3129103":
-  xMun="GURINHATA"
+if xMun="GURINHATA":
+  cMun=="3129103"
   cMunSIAFI="4581"
-if cMun=="3129202":
-  xMun="HELIODORA"
+if xMun="HELIODORA":
+  cMun=="3129202"
   cMunSIAFI="4583"
-if cMun=="3129301":
-  xMun="IAPU"
+if xMun="IAPU":
+  cMun=="3129301"
   cMunSIAFI="4585"
-if cMun=="3129400":
-  xMun="IBERTIOGA"
+if xMun="IBERTIOGA":
+  cMun=="3129400"
   cMunSIAFI="4587"
-if cMun=="3129509":
-  xMun="IBIA"
+if xMun="IBIA":
+  cMun=="3129509"
   cMunSIAFI="4589"
-if cMun=="3129608":
-  xMun="IBIAI"
+if xMun="IBIAI":
+  cMun=="3129608"
   cMunSIAFI="4591"
-if cMun=="3129657":
-  xMun="IBIRACATU"
+if xMun="IBIRACATU":
+  cMun=="3129657"
   cMunSIAFI="0624"
-if cMun=="3129707":
-  xMun="IBIRACI"
+if xMun="IBIRACI":
+  cMun=="3129707"
   cMunSIAFI="4593"
-if cMun=="3129806":
-  xMun="IBIRITE"
+if xMun="IBIRITE":
+  cMun=="3129806"
   cMunSIAFI="4595"
-if cMun=="3129905":
-  xMun="IBITIURA DE MINAS"
+if xMun="IBITIURA DE MINAS":
+  cMun=="3129905"
   cMunSIAFI="4597"
-if cMun=="3130002":
-  xMun="IBITURUNA"
+if xMun="IBITURUNA":
+  cMun=="3130002"
   cMunSIAFI="4599"
-if cMun=="3130051":
-  xMun="ICARAI DE MINAS"
+if xMun="ICARAI DE MINAS":
+  cMun=="3130051"
   cMunSIAFI="2693"
-if cMun=="3130101":
-  xMun="IGARAPE"
+if xMun="IGARAPE":
+  cMun=="3130101"
   cMunSIAFI="4601"
-if cMun=="3130200":
-  xMun="IGARATINGA"
+if xMun="IGARATINGA":
+  cMun=="3130200"
   cMunSIAFI="4603"
-if cMun=="3130309":
-  xMun="IGUATAMA"
+if xMun="IGUATAMA":
+  cMun=="3130309"
   cMunSIAFI="4605"
-if cMun=="3130408":
-  xMun="IJACI"
+if xMun="IJACI":
+  cMun=="3130408"
   cMunSIAFI="4607"
-if cMun=="3130507":
-  xMun="ILICINEA"
+if xMun="ILICINEA":
+  cMun=="3130507"
   cMunSIAFI="4609"
-if cMun=="3130556":
-  xMun="IMBE DE MINAS"
+if xMun="IMBE DE MINAS":
+  cMun=="3130556"
   cMunSIAFI="0626"
-if cMun=="3130606":
-  xMun="INCONFIDENTES"
+if xMun="INCONFIDENTES":
+  cMun=="3130606"
   cMunSIAFI="4611"
-if cMun=="3130655":
-  xMun="INDAIABIRA"
+if xMun="INDAIABIRA":
+  cMun=="3130655"
   cMunSIAFI="0628"
-if cMun=="3130705":
-  xMun="INDIANOPOLIS"
+if xMun="INDIANOPOLIS":
+  cMun=="3130705"
   cMunSIAFI="4613"
-if cMun=="3130804":
-  xMun="INGAI"
+if xMun="INGAI":
+  cMun=="3130804"
   cMunSIAFI="4615"
-if cMun=="3130903":
-  xMun="INHAPIM"
+if xMun="INHAPIM":
+  cMun=="3130903"
   cMunSIAFI="4617"
-if cMun=="3131000":
-  xMun="INHAUMA"
+if xMun="INHAUMA":
+  cMun=="3131000"
   cMunSIAFI="4619"
-if cMun=="3131109":
-  xMun="INIMUTABA"
+if xMun="INIMUTABA":
+  cMun=="3131109"
   cMunSIAFI="4621"
-if cMun=="3131158":
-  xMun="IPABA"
+if xMun="IPABA":
+  cMun=="3131158"
   cMunSIAFI="2665"
-if cMun=="3131208":
-  xMun="IPANEMA"
+if xMun="IPANEMA":
+  cMun=="3131208"
   cMunSIAFI="4623"
-if cMun=="3131307":
-  xMun="IPATINGA"
+if xMun="IPATINGA":
+  cMun=="3131307"
   cMunSIAFI="4625"
-if cMun=="3131406":
-  xMun="IPIACU"
+if xMun="IPIACU":
+  cMun=="3131406"
   cMunSIAFI="4627"
-if cMun=="3131505":
-  xMun="IPUIUNA"
+if xMun="IPUIUNA":
+  cMun=="3131505"
   cMunSIAFI="4629"
-if cMun=="3131604":
-  xMun="IRAI DE MINAS"
+if xMun="IRAI DE MINAS":
+  cMun=="3131604"
   cMunSIAFI="4631"
-if cMun=="3131703":
-  xMun="ITABIRA"
+if xMun="ITABIRA":
+  cMun=="3131703"
   cMunSIAFI="4633"
-if cMun=="3131802":
-  xMun="ITABIRINHA"
+if xMun="ITABIRINHA":
+  cMun=="3131802"
   cMunSIAFI="4635"
-if cMun=="3131901":
-  xMun="ITABIRITO"
+if xMun="ITABIRITO":
+  cMun=="3131901"
   cMunSIAFI="4637"
-if cMun=="3132008":
-  xMun="ITACAMBIRA"
+if xMun="ITACAMBIRA":
+  cMun=="3132008"
   cMunSIAFI="4639"
-if cMun=="3132107":
-  xMun="ITACARAMBI"
+if xMun="ITACARAMBI":
+  cMun=="3132107"
   cMunSIAFI="4641"
-if cMun=="3132206":
-  xMun="ITAGUARA"
+if xMun="ITAGUARA":
+  cMun=="3132206"
   cMunSIAFI="4643"
-if cMun=="3132305":
-  xMun="ITAIPE"
+if xMun="ITAIPE":
+  cMun=="3132305"
   cMunSIAFI="4645"
-if cMun=="3132404":
-  xMun="ITAJUBA"
+if xMun="ITAJUBA":
+  cMun=="3132404"
   cMunSIAFI="4647"
-if cMun=="3132503":
-  xMun="ITAMARANDIBA"
+if xMun="ITAMARANDIBA":
+  cMun=="3132503"
   cMunSIAFI="4649"
-if cMun=="3132602":
-  xMun="ITAMARATI DE MINAS"
+if xMun="ITAMARATI DE MINAS":
+  cMun=="3132602"
   cMunSIAFI="4651"
-if cMun=="3132701":
-  xMun="ITAMBACURI"
+if xMun="ITAMBACURI":
+  cMun=="3132701"
   cMunSIAFI="4653"
-if cMun=="3132800":
-  xMun="ITAMBE DO MATO DENTRO"
+if xMun="ITAMBE DO MATO DENTRO":
+  cMun=="3132800"
   cMunSIAFI="4655"
-if cMun=="3132909":
-  xMun="ITAMOGI"
+if xMun="ITAMOGI":
+  cMun=="3132909"
   cMunSIAFI="4657"
-if cMun=="3133006":
-  xMun="ITAMONTE"
+if xMun="ITAMONTE":
+  cMun=="3133006"
   cMunSIAFI="4659"
-if cMun=="3133105":
-  xMun="ITANHANDU"
+if xMun="ITANHANDU":
+  cMun=="3133105"
   cMunSIAFI="4661"
-if cMun=="3133204":
-  xMun="ITANHOMI"
+if xMun="ITANHOMI":
+  cMun=="3133204"
   cMunSIAFI="4663"
-if cMun=="3133303":
-  xMun="ITAOBIM"
+if xMun="ITAOBIM":
+  cMun=="3133303"
   cMunSIAFI="4665"
-if cMun=="3133402":
-  xMun="ITAPAGIPE"
+if xMun="ITAPAGIPE":
+  cMun=="3133402"
   cMunSIAFI="4667"
-if cMun=="3133501":
-  xMun="ITAPECERICA"
+if xMun="ITAPECERICA":
+  cMun=="3133501"
   cMunSIAFI="4669"
-if cMun=="3133600":
-  xMun="ITAPEVA"
+if xMun="ITAPEVA":
+  cMun=="3133600"
   cMunSIAFI="4671"
-if cMun=="3133709":
-  xMun="ITATIAIUCU"
+if xMun="ITATIAIUCU":
+  cMun=="3133709"
   cMunSIAFI="4673"
-if cMun=="3133758":
-  xMun="ITAU DE MINAS"
+if xMun="ITAU DE MINAS":
+  cMun=="3133758"
   cMunSIAFI="5731"
-if cMun=="3133808":
-  xMun="ITAUNA"
+if xMun="ITAUNA":
+  cMun=="3133808"
   cMunSIAFI="4675"
-if cMun=="3133907":
-  xMun="ITAVERAVA"
+if xMun="ITAVERAVA":
+  cMun=="3133907"
   cMunSIAFI="4677"
-if cMun=="3134004":
-  xMun="ITINGA"
+if xMun="ITINGA":
+  cMun=="3134004"
   cMunSIAFI="4679"
-if cMun=="3134103":
-  xMun="ITUETA"
+if xMun="ITUETA":
+  cMun=="3134103"
   cMunSIAFI="4681"
-if cMun=="3134202":
-  xMun="ITUIUTABA"
+if xMun="ITUIUTABA":
+  cMun=="3134202"
   cMunSIAFI="4683"
-if cMun=="3134301":
-  xMun="ITUMIRIM"
+if xMun="ITUMIRIM":
+  cMun=="3134301"
   cMunSIAFI="4685"
-if cMun=="3134400":
-  xMun="ITURAMA"
+if xMun="ITURAMA":
+  cMun=="3134400"
   cMunSIAFI="4687"
-if cMun=="3134509":
-  xMun="ITUTINGA"
+if xMun="ITUTINGA":
+  cMun=="3134509"
   cMunSIAFI="4689"
-if cMun=="3134608":
-  xMun="JABOTICATUBAS"
+if xMun="JABOTICATUBAS":
+  cMun=="3134608"
   cMunSIAFI="4691"
-if cMun=="3134707":
-  xMun="JACINTO"
+if xMun="JACINTO":
+  cMun=="3134707"
   cMunSIAFI="4693"
-if cMun=="3134806":
-  xMun="JACUI"
+if xMun="JACUI":
+  cMun=="3134806"
   cMunSIAFI="4695"
-if cMun=="3134905":
-  xMun="JACUTINGA"
+if xMun="JACUTINGA":
+  cMun=="3134905"
   cMunSIAFI="4697"
-if cMun=="3135001":
-  xMun="JAGUARACU"
+if xMun="JAGUARACU":
+  cMun=="3135001"
   cMunSIAFI="4699"
-if cMun=="3135050":
-  xMun="JAIBA"
+if xMun="JAIBA":
+  cMun=="3135050"
   cMunSIAFI="2893"
-if cMun=="3135076":
-  xMun="JAMPRUCA"
+if xMun="JAMPRUCA":
+  cMun=="3135076"
   cMunSIAFI="2655"
-if cMun=="3135100":
-  xMun="JANAUBA"
+if xMun="JANAUBA":
+  cMun=="3135100"
   cMunSIAFI="4701"
-if cMun=="3135209":
-  xMun="JANUARIA"
+if xMun="JANUARIA":
+  cMun=="3135209"
   cMunSIAFI="4703"
-if cMun=="3135308":
-  xMun="JAPARAIBA"
+if xMun="JAPARAIBA":
+  cMun=="3135308"
   cMunSIAFI="4705"
-if cMun=="3135357":
-  xMun="JAPONVAR"
+if xMun="JAPONVAR":
+  cMun=="3135357"
   cMunSIAFI="0630"
-if cMun=="3135407":
-  xMun="JECEABA"
+if xMun="JECEABA":
+  cMun=="3135407"
   cMunSIAFI="4707"
-if cMun=="3135456":
-  xMun="JENIPAPO DE MINAS"
+if xMun="JENIPAPO DE MINAS":
+  cMun=="3135456"
   cMunSIAFI="0632"
-if cMun=="3135506":
-  xMun="JEQUERI"
+if xMun="JEQUERI":
+  cMun=="3135506"
   cMunSIAFI="4709"
-if cMun=="3135605":
-  xMun="JEQUITAI"
+if xMun="JEQUITAI":
+  cMun=="3135605"
   cMunSIAFI="4711"
-if cMun=="3135704":
-  xMun="JEQUITIBA"
+if xMun="JEQUITIBA":
+  cMun=="3135704"
   cMunSIAFI="4713"
-if cMun=="3135803":
-  xMun="JEQUITINHONHA"
+if xMun="JEQUITINHONHA":
+  cMun=="3135803"
   cMunSIAFI="4715"
-if cMun=="3135902":
-  xMun="JESUANIA"
+if xMun="JESUANIA":
+  cMun=="3135902"
   cMunSIAFI="4717"
-if cMun=="3136009":
-  xMun="JOAIMA"
+if xMun="JOAIMA":
+  cMun=="3136009"
   cMunSIAFI="4719"
-if cMun=="3136108":
-  xMun="JOANESIA"
+if xMun="JOANESIA":
+  cMun=="3136108"
   cMunSIAFI="4721"
-if cMun=="3136207":
-  xMun="JOAO MONLEVADE"
+if xMun="JOAO MONLEVADE":
+  cMun=="3136207"
   cMunSIAFI="4723"
-if cMun=="3136306":
-  xMun="JOAO PINHEIRO"
+if xMun="JOAO PINHEIRO":
+  cMun=="3136306"
   cMunSIAFI="4725"
-if cMun=="3136405":
-  xMun="JOAQUIM FELICIO"
+if xMun="JOAQUIM FELICIO":
+  cMun=="3136405"
   cMunSIAFI="4727"
-if cMun=="3136504":
-  xMun="JORDANIA"
+if xMun="JORDANIA":
+  cMun=="3136504"
   cMunSIAFI="4729"
-if cMun=="3136520":
-  xMun="JOSE GONCALVES DE MINAS"
+if xMun="JOSE GONCALVES DE MINAS":
+  cMun=="3136520"
   cMunSIAFI="0634"
-if cMun=="3136553":
-  xMun="JOSE RAYDAN"
+if xMun="JOSE RAYDAN":
+  cMun=="3136553"
   cMunSIAFI="0636"
-if cMun=="3136579":
-  xMun="JOSENOPOLIS"
+if xMun="JOSENOPOLIS":
+  cMun=="3136579"
   cMunSIAFI="0638"
-if cMun=="3136652":
-  xMun="JUATUBA"
+if xMun="JUATUBA":
+  cMun=="3136652"
   cMunSIAFI="2691"
-if cMun=="3136702":
-  xMun="JUIZ DE FORA"
+if xMun="JUIZ DE FORA":
+  cMun=="3136702"
   cMunSIAFI="4733"
-if cMun=="3136801":
-  xMun="JURAMENTO"
+if xMun="JURAMENTO":
+  cMun=="3136801"
   cMunSIAFI="4735"
-if cMun=="3136900":
-  xMun="JURUAIA"
+if xMun="JURUAIA":
+  cMun=="3136900"
   cMunSIAFI="4737"
-if cMun=="3136959":
-  xMun="JUVENILIA"
+if xMun="JUVENILIA":
+  cMun=="3136959"
   cMunSIAFI="0640"
-if cMun=="3137007":
-  xMun="LADAINHA"
+if xMun="LADAINHA":
+  cMun=="3137007"
   cMunSIAFI="4739"
-if cMun=="3137106":
-  xMun="LAGAMAR"
+if xMun="LAGAMAR":
+  cMun=="3137106"
   cMunSIAFI="4741"
-if cMun=="3137205":
-  xMun="LAGOA DA PRATA"
+if xMun="LAGOA DA PRATA":
+  cMun=="3137205"
   cMunSIAFI="4743"
-if cMun=="3137304":
-  xMun="LAGOA DOS PATOS"
+if xMun="LAGOA DOS PATOS":
+  cMun=="3137304"
   cMunSIAFI="4745"
-if cMun=="3137403":
-  xMun="LAGOA DOURADA"
+if xMun="LAGOA DOURADA":
+  cMun=="3137403"
   cMunSIAFI="4747"
-if cMun=="3137502":
-  xMun="LAGOA FORMOSA"
+if xMun="LAGOA FORMOSA":
+  cMun=="3137502"
   cMunSIAFI="4749"
-if cMun=="3137536":
-  xMun="LAGOA GRANDE"
+if xMun="LAGOA GRANDE":
+  cMun=="3137536"
   cMunSIAFI="2905"
-if cMun=="3137601":
-  xMun="LAGOA SANTA"
+if xMun="LAGOA SANTA":
+  cMun=="3137601"
   cMunSIAFI="4751"
-if cMun=="3137700":
-  xMun="LAJINHA"
+if xMun="LAJINHA":
+  cMun=="3137700"
   cMunSIAFI="4753"
-if cMun=="3137809":
-  xMun="LAMBARI"
+if xMun="LAMBARI":
+  cMun=="3137809"
   cMunSIAFI="4755"
-if cMun=="3137908":
-  xMun="LAMIM"
+if xMun="LAMIM":
+  cMun=="3137908"
   cMunSIAFI="4757"
-if cMun=="3138005":
-  xMun="LARANJAL"
+if xMun="LARANJAL":
+  cMun=="3138005"
   cMunSIAFI="4759"
-if cMun=="3138104":
-  xMun="LASSANCE"
+if xMun="LASSANCE":
+  cMun=="3138104"
   cMunSIAFI="4761"
-if cMun=="3138203":
-  xMun="LAVRAS"
+if xMun="LAVRAS":
+  cMun=="3138203"
   cMunSIAFI="4763"
-if cMun=="3138302":
-  xMun="LEANDRO FERREIRA"
+if xMun="LEANDRO FERREIRA":
+  cMun=="3138302"
   cMunSIAFI="4765"
-if cMun=="3138351":
-  xMun="LEME DO PRADO"
+if xMun="LEME DO PRADO":
+  cMun=="3138351"
   cMunSIAFI="0642"
-if cMun=="3138401":
-  xMun="LEOPOLDINA"
+if xMun="LEOPOLDINA":
+  cMun=="3138401"
   cMunSIAFI="4767"
-if cMun=="3138500":
-  xMun="LIBERDADE"
+if xMun="LIBERDADE":
+  cMun=="3138500"
   cMunSIAFI="4769"
-if cMun=="3138609":
-  xMun="LIMA DUARTE"
+if xMun="LIMA DUARTE":
+  cMun=="3138609"
   cMunSIAFI="4771"
-if cMun=="3138625":
-  xMun="LIMEIRA DO OESTE"
+if xMun="LIMEIRA DO OESTE":
+  cMun=="3138625"
   cMunSIAFI="2687"
-if cMun=="3138658":
-  xMun="LONTRA"
+if xMun="LONTRA":
+  cMun=="3138658"
   cMunSIAFI="2695"
-if cMun=="3138674":
-  xMun="LUISBURGO"
+if xMun="LUISBURGO":
+  cMun=="3138674"
   cMunSIAFI="0644"
-if cMun=="3138682":
-  xMun="LUISLANDIA"
+if xMun="LUISLANDIA":
+  cMun=="3138682"
   cMunSIAFI="0646"
-if cMun=="3138708":
-  xMun="LUMINARIAS"
+if xMun="LUMINARIAS":
+  cMun=="3138708"
   cMunSIAFI="4773"
-if cMun=="3138807":
-  xMun="LUZ"
+if xMun="LUZ":
+  cMun=="3138807"
   cMunSIAFI="4775"
-if cMun=="3138906":
-  xMun="MACHACALIS"
+if xMun="MACHACALIS":
+  cMun=="3138906"
   cMunSIAFI="4777"
-if cMun=="3139003":
-  xMun="MACHADO"
+if xMun="MACHADO":
+  cMun=="3139003"
   cMunSIAFI="4779"
-if cMun=="3139102":
-  xMun="MADRE DE DEUS DE MINAS"
+if xMun="MADRE DE DEUS DE MINAS":
+  cMun=="3139102"
   cMunSIAFI="4781"
-if cMun=="3139201":
-  xMun="MALACACHETA"
+if xMun="MALACACHETA":
+  cMun=="3139201"
   cMunSIAFI="4783"
-if cMun=="3139250":
-  xMun="MAMONAS"
+if xMun="MAMONAS":
+  cMun=="3139250"
   cMunSIAFI="2895"
-if cMun=="3139300":
-  xMun="MANGA"
+if xMun="MANGA":
+  cMun=="3139300"
   cMunSIAFI="4785"
-if cMun=="3139409":
-  xMun="MANHUACU"
+if xMun="MANHUACU":
+  cMun=="3139409"
   cMunSIAFI="4787"
-if cMun=="3139508":
-  xMun="MANHUMIRIM"
+if xMun="MANHUMIRIM":
+  cMun=="3139508"
   cMunSIAFI="4789"
-if cMun=="3139607":
-  xMun="MANTENA"
+if xMun="MANTENA":
+  cMun=="3139607"
   cMunSIAFI="4791"
-if cMun=="3139805":
-  xMun="MAR DE ESPANHA"
+if xMun="MAR DE ESPANHA":
+  cMun=="3139805"
   cMunSIAFI="4795"
-if cMun=="3139706":
-  xMun="MARAVILHAS"
+if xMun="MARAVILHAS":
+  cMun=="3139706"
   cMunSIAFI="4793"
-if cMun=="3139904":
-  xMun="MARIA DA FE"
+if xMun="MARIA DA FE":
+  cMun=="3139904"
   cMunSIAFI="4797"
-if cMun=="3140001":
-  xMun="MARIANA"
+if xMun="MARIANA":
+  cMun=="3140001"
   cMunSIAFI="4799"
-if cMun=="3140100":
-  xMun="MARILAC"
+if xMun="MARILAC":
+  cMun=="3140100"
   cMunSIAFI="4801"
-if cMun=="3140159":
-  xMun="MARIO CAMPOS"
+if xMun="MARIO CAMPOS":
+  cMun=="3140159"
   cMunSIAFI="0648"
-if cMun=="3140209":
-  xMun="MARIPA DE MINAS"
+if xMun="MARIPA DE MINAS":
+  cMun=="3140209"
   cMunSIAFI="4803"
-if cMun=="3140308":
-  xMun="MARLIERIA"
+if xMun="MARLIERIA":
+  cMun=="3140308"
   cMunSIAFI="4805"
-if cMun=="3140407":
-  xMun="MARMELOPOLIS"
+if xMun="MARMELOPOLIS":
+  cMun=="3140407"
   cMunSIAFI="4807"
-if cMun=="3140506":
-  xMun="MARTINHO CAMPOS"
+if xMun="MARTINHO CAMPOS":
+  cMun=="3140506"
   cMunSIAFI="4809"
-if cMun=="3140530":
-  xMun="MARTINS SOARES"
+if xMun="MARTINS SOARES":
+  cMun=="3140530"
   cMunSIAFI="0650"
-if cMun=="3140555":
-  xMun="MATA VERDE"
+if xMun="MATA VERDE":
+  cMun=="3140555"
   cMunSIAFI="2659"
-if cMun=="3140605":
-  xMun="MATERLANDIA"
+if xMun="MATERLANDIA":
+  cMun=="3140605"
   cMunSIAFI="4811"
-if cMun=="3140704":
-  xMun="MATEUS LEME"
+if xMun="MATEUS LEME":
+  cMun=="3140704"
   cMunSIAFI="4813"
-if cMun=="3171501":
-  xMun="MATHIAS LOBATO"
+if xMun="MATHIAS LOBATO":
+  cMun=="3171501"
   cMunSIAFI="5431"
-if cMun=="3140803":
-  xMun="MATIAS BARBOSA"
+if xMun="MATIAS BARBOSA":
+  cMun=="3140803"
   cMunSIAFI="4815"
-if cMun=="3140852":
-  xMun="MATIAS CARDOSO"
+if xMun="MATIAS CARDOSO":
+  cMun=="3140852"
   cMunSIAFI="2897"
-if cMun=="3140902":
-  xMun="MATIPO"
+if xMun="MATIPO":
+  cMun=="3140902"
   cMunSIAFI="4817"
-if cMun=="3141009":
-  xMun="MATO VERDE"
+if xMun="MATO VERDE":
+  cMun=="3141009"
   cMunSIAFI="4819"
-if cMun=="3141108":
-  xMun="MATOZINHOS"
+if xMun="MATOZINHOS":
+  cMun=="3141108"
   cMunSIAFI="4821"
-if cMun=="3141207":
-  xMun="MATUTINA"
+if xMun="MATUTINA":
+  cMun=="3141207"
   cMunSIAFI="4823"
-if cMun=="3141306":
-  xMun="MEDEIROS"
+if xMun="MEDEIROS":
+  cMun=="3141306"
   cMunSIAFI="4825"
-if cMun=="3141405":
-  xMun="MEDINA"
+if xMun="MEDINA":
+  cMun=="3141405"
   cMunSIAFI="4827"
-if cMun=="3141504":
-  xMun="MENDES PIMENTEL"
+if xMun="MENDES PIMENTEL":
+  cMun=="3141504"
   cMunSIAFI="4829"
-if cMun=="3141603":
-  xMun="MERCÃŠS"
+if xMun="MERCÃŠS":
+  cMun=="3141603"
   cMunSIAFI="4831"
-if cMun=="3141702":
-  xMun="MESQUITA"
+if xMun="MESQUITA":
+  cMun=="3141702"
   cMunSIAFI="4833"
-if cMun=="3141801":
-  xMun="MINAS NOVAS"
+if xMun="MINAS NOVAS":
+  cMun=="3141801"
   cMunSIAFI="4835"
-if cMun=="3141900":
-  xMun="MINDURI"
+if xMun="MINDURI":
+  cMun=="3141900"
   cMunSIAFI="4837"
-if cMun=="3142007":
-  xMun="MIRABELA"
+if xMun="MIRABELA":
+  cMun=="3142007"
   cMunSIAFI="4839"
-if cMun=="3142106":
-  xMun="MIRADOURO"
+if xMun="MIRADOURO":
+  cMun=="3142106"
   cMunSIAFI="4841"
-if cMun=="3142205":
-  xMun="MIRAI"
+if xMun="MIRAI":
+  cMun=="3142205"
   cMunSIAFI="4843"
-if cMun=="3142254":
-  xMun="MIRAVANIA"
+if xMun="MIRAVANIA":
+  cMun=="3142254"
   cMunSIAFI="0652"
-if cMun=="3142304":
-  xMun="MOEDA"
+if xMun="MOEDA":
+  cMun=="3142304"
   cMunSIAFI="4845"
-if cMun=="3142403":
-  xMun="MOEMA"
+if xMun="MOEMA":
+  cMun=="3142403"
   cMunSIAFI="4847"
-if cMun=="3142502":
-  xMun="MONJOLOS"
+if xMun="MONJOLOS":
+  cMun=="3142502"
   cMunSIAFI="4849"
-if cMun=="3142601":
-  xMun="MONSENHOR PAULO"
+if xMun="MONSENHOR PAULO":
+  cMun=="3142601"
   cMunSIAFI="4851"
-if cMun=="3142700":
-  xMun="MONTALVANIA"
+if xMun="MONTALVANIA":
+  cMun=="3142700"
   cMunSIAFI="4853"
-if cMun=="3142809":
-  xMun="MONTE ALEGRE DE MINAS"
+if xMun="MONTE ALEGRE DE MINAS":
+  cMun=="3142809"
   cMunSIAFI="4855"
-if cMun=="3142908":
-  xMun="MONTE AZUL"
+if xMun="MONTE AZUL":
+  cMun=="3142908"
   cMunSIAFI="4857"
-if cMun=="3143005":
-  xMun="MONTE BELO"
+if xMun="MONTE BELO":
+  cMun=="3143005"
   cMunSIAFI="4859"
-if cMun=="3143104":
-  xMun="MONTE CARMELO"
+if xMun="MONTE CARMELO":
+  cMun=="3143104"
   cMunSIAFI="4861"
-if cMun=="3143153":
-  xMun="MONTE FORMOSO"
+if xMun="MONTE FORMOSO":
+  cMun=="3143153"
   cMunSIAFI="0654"
-if cMun=="3143203":
-  xMun="MONTE SANTO DE MINAS"
+if xMun="MONTE SANTO DE MINAS":
+  cMun=="3143203"
   cMunSIAFI="4863"
-if cMun=="3143401":
-  xMun="MONTE SIAO"
+if xMun="MONTE SIAO":
+  cMun=="3143401"
   cMunSIAFI="4867"
-if cMun=="3143302":
-  xMun="MONTES CLAROS"
+if xMun="MONTES CLAROS":
+  cMun=="3143302"
   cMunSIAFI="4865"
-if cMun=="3143450":
-  xMun="MONTEZUMA"
+if xMun="MONTEZUMA":
+  cMun=="3143450"
   cMunSIAFI="2697"
-if cMun=="3143500":
-  xMun="MORADA NOVA DE MINAS"
+if xMun="MORADA NOVA DE MINAS":
+  cMun=="3143500"
   cMunSIAFI="4869"
-if cMun=="3143609":
-  xMun="MORRO DA GARCA"
+if xMun="MORRO DA GARCA":
+  cMun=="3143609"
   cMunSIAFI="4871"
-if cMun=="3143708":
-  xMun="MORRO DO PILAR"
+if xMun="MORRO DO PILAR":
+  cMun=="3143708"
   cMunSIAFI="4873"
-if cMun=="3143807":
-  xMun="MUNHOZ"
+if xMun="MUNHOZ":
+  cMun=="3143807"
   cMunSIAFI="4875"
-if cMun=="3143906":
-  xMun="MURIAE"
+if xMun="MURIAE":
+  cMun=="3143906"
   cMunSIAFI="4877"
-if cMun=="3144003":
-  xMun="MUTUM"
+if xMun="MUTUM":
+  cMun=="3144003"
   cMunSIAFI="4879"
-if cMun=="3144102":
-  xMun="MUZAMBINHO"
+if xMun="MUZAMBINHO":
+  cMun=="3144102"
   cMunSIAFI="4881"
-if cMun=="3144201":
-  xMun="NACIP RAYDAN"
+if xMun="NACIP RAYDAN":
+  cMun=="3144201"
   cMunSIAFI="4883"
-if cMun=="3144300":
-  xMun="NANUQUE"
+if xMun="NANUQUE":
+  cMun=="3144300"
   cMunSIAFI="4885"
-if cMun=="3144359":
-  xMun="NAQUE"
+if xMun="NAQUE":
+  cMun=="3144359"
   cMunSIAFI="0656"
-if cMun=="3144375":
-  xMun="NATALANDIA"
+if xMun="NATALANDIA":
+  cMun=="3144375"
   cMunSIAFI="0658"
-if cMun=="3144409":
-  xMun="NATERCIA"
+if xMun="NATERCIA":
+  cMun=="3144409"
   cMunSIAFI="4887"
-if cMun=="3144508":
-  xMun="NAZARENO"
+if xMun="NAZARENO":
+  cMun=="3144508"
   cMunSIAFI="4889"
-if cMun=="3144607":
-  xMun="NEPOMUCENO"
+if xMun="NEPOMUCENO":
+  cMun=="3144607"
   cMunSIAFI="4891"
-if cMun=="3144656":
-  xMun="NINHEIRA"
+if xMun="NINHEIRA":
+  cMun=="3144656"
   cMunSIAFI="0660"
-if cMun=="3144672":
-  xMun="NOVA BELEM"
+if xMun="NOVA BELEM":
+  cMun=="3144672"
   cMunSIAFI="0662"
-if cMun=="3144706":
-  xMun="NOVA ERA"
+if xMun="NOVA ERA":
+  cMun=="3144706"
   cMunSIAFI="4893"
-if cMun=="3144805":
-  xMun="NOVA LIMA"
+if xMun="NOVA LIMA":
+  cMun=="3144805"
   cMunSIAFI="4895"
-if cMun=="3144904":
-  xMun="NOVA MODICA"
+if xMun="NOVA MODICA":
+  cMun=="3144904"
   cMunSIAFI="4897"
-if cMun=="3145000":
-  xMun="NOVA PONTE"
+if xMun="NOVA PONTE":
+  cMun=="3145000"
   cMunSIAFI="4899"
-if cMun=="3145059":
-  xMun="NOVA PORTEIRINHA"
+if xMun="NOVA PORTEIRINHA":
+  cMun=="3145059"
   cMunSIAFI="0664"
-if cMun=="3145109":
-  xMun="NOVA RESENDE"
+if xMun="NOVA RESENDE":
+  cMun=="3145109"
   cMunSIAFI="4901"
-if cMun=="3145208":
-  xMun="NOVA SERRANA"
+if xMun="NOVA SERRANA":
+  cMun=="3145208"
   cMunSIAFI="4903"
-if cMun=="3136603":
-  xMun="NOVA UNIAO"
+if xMun="NOVA UNIAO":
+  cMun=="3136603"
   cMunSIAFI="4731"
-if cMun=="3145307":
-  xMun="NOVO CRUZEIRO"
+if xMun="NOVO CRUZEIRO":
+  cMun=="3145307"
   cMunSIAFI="4905"
-if cMun=="3145356":
-  xMun="NOVO ORIENTE DE MINAS"
+if xMun="NOVO ORIENTE DE MINAS":
+  cMun=="3145356"
   cMunSIAFI="0666"
-if cMun=="3145372":
-  xMun="NOVORIZONTE"
+if xMun="NOVORIZONTE":
+  cMun=="3145372"
   cMunSIAFI="0668"
-if cMun=="3145406":
-  xMun="OLARIA"
+if xMun="OLARIA":
+  cMun=="3145406"
   cMunSIAFI="4907"
-if cMun=="3145455":
-  xMun="OLHOS D AGUA"
+if xMun="OLHOS D AGUA":
+  cMun=="3145455"
   cMunSIAFI="0670"
-if cMun=="3145505":
-  xMun="OLIMPIO NORONHA"
+if xMun="OLIMPIO NORONHA":
+  cMun=="3145505"
   cMunSIAFI="4909"
-if cMun=="3145604":
-  xMun="OLIVEIRA"
+if xMun="OLIVEIRA":
+  cMun=="3145604"
   cMunSIAFI="4911"
-if cMun=="3145703":
-  xMun="OLIVEIRA FORTES"
+if xMun="OLIVEIRA FORTES":
+  cMun=="3145703"
   cMunSIAFI="4913"
-if cMun=="3145802":
-  xMun="ONCA DE PITANGUI"
+if xMun="ONCA DE PITANGUI":
+  cMun=="3145802"
   cMunSIAFI="4915"
-if cMun=="3145851":
-  xMun="ORATORIOS"
+if xMun="ORATORIOS":
+  cMun=="3145851"
   cMunSIAFI="0672"
-if cMun=="3145877":
-  xMun="ORIZANIA"
+if xMun="ORIZANIA":
+  cMun=="3145877"
   cMunSIAFI="0674"
-if cMun=="3145901":
-  xMun="OURO BRANCO"
+if xMun="OURO BRANCO":
+  cMun=="3145901"
   cMunSIAFI="4917"
-if cMun=="3146008":
-  xMun="OURO FINO"
+if xMun="OURO FINO":
+  cMun=="3146008"
   cMunSIAFI="4919"
-if cMun=="3146107":
-  xMun="OURO PRETO"
+if xMun="OURO PRETO":
+  cMun=="3146107"
   cMunSIAFI="4921"
-if cMun=="3146206":
-  xMun="OURO VERDE DE MINAS"
+if xMun="OURO VERDE DE MINAS":
+  cMun=="3146206"
   cMunSIAFI="4923"
-if cMun=="3146255":
-  xMun="PADRE CARVALHO"
+if xMun="PADRE CARVALHO":
+  cMun=="3146255"
   cMunSIAFI="0676"
-if cMun=="3146305":
-  xMun="PADRE PARAISO"
+if xMun="PADRE PARAISO":
+  cMun=="3146305"
   cMunSIAFI="4925"
-if cMun=="3146552":
-  xMun="PAI PEDRO"
+if xMun="PAI PEDRO":
+  cMun=="3146552"
   cMunSIAFI="0678"
-if cMun=="3146404":
-  xMun="PAINEIRAS"
+if xMun="PAINEIRAS":
+  cMun=="3146404"
   cMunSIAFI="4927"
-if cMun=="3146503":
-  xMun="PAINS"
+if xMun="PAINS":
+  cMun=="3146503"
   cMunSIAFI="4929"
-if cMun=="3146602":
-  xMun="PAIVA"
+if xMun="PAIVA":
+  cMun=="3146602"
   cMunSIAFI="4931"
-if cMun=="3146701":
-  xMun="PALMA"
+if xMun="PALMA":
+  cMun=="3146701"
   cMunSIAFI="4933"
-if cMun=="3146750":
-  xMun="PALMOPOLIS"
+if xMun="PALMOPOLIS":
+  cMun=="3146750"
   cMunSIAFI="2661"
-if cMun=="3146909":
-  xMun="PAPAGAIOS"
+if xMun="PAPAGAIOS":
+  cMun=="3146909"
   cMunSIAFI="4937"
-if cMun=="3147105":
-  xMun="PARA DE MINAS"
+if xMun="PARA DE MINAS":
+  cMun=="3147105"
   cMunSIAFI="4941"
-if cMun=="3147006":
-  xMun="PARACATU"
+if xMun="PARACATU":
+  cMun=="3147006"
   cMunSIAFI="4939"
-if cMun=="3147204":
-  xMun="PARAGUACU"
+if xMun="PARAGUACU":
+  cMun=="3147204"
   cMunSIAFI="4943"
-if cMun=="3147303":
-  xMun="PARAISOPOLIS"
+if xMun="PARAISOPOLIS":
+  cMun=="3147303"
   cMunSIAFI="4945"
-if cMun=="3147402":
-  xMun="PARAOPEBA"
+if xMun="PARAOPEBA":
+  cMun=="3147402"
   cMunSIAFI="4947"
-if cMun=="3147600":
-  xMun="PASSA QUATRO"
+if xMun="PASSA QUATRO":
+  cMun=="3147600"
   cMunSIAFI="4951"
-if cMun=="3147709":
-  xMun="PASSA TEMPO"
+if xMun="PASSA TEMPO":
+  cMun=="3147709"
   cMunSIAFI="4953"
-if cMun=="3147501":
-  xMun="PASSABEM"
+if xMun="PASSABEM":
+  cMun=="3147501"
   cMunSIAFI="4949"
-if cMun=="3147808":
-  xMun="PASSA-VINTE"
+if xMun="PASSA-VINTE":
+  cMun=="3147808"
   cMunSIAFI="4955"
-if cMun=="3147907":
-  xMun="PASSOS"
+if xMun="PASSOS":
+  cMun=="3147907"
   cMunSIAFI="4957"
-if cMun=="3147956":
-  xMun="PATIS"
+if xMun="PATIS":
+  cMun=="3147956"
   cMunSIAFI="0680"
-if cMun=="3148004":
-  xMun="PATOS DE MINAS"
+if xMun="PATOS DE MINAS":
+  cMun=="3148004"
   cMunSIAFI="4959"
-if cMun=="3148103":
-  xMun="PATROCINIO"
+if xMun="PATROCINIO":
+  cMun=="3148103"
   cMunSIAFI="4961"
-if cMun=="3148202":
-  xMun="PATROCINIO DO MURIAE"
+if xMun="PATROCINIO DO MURIAE":
+  cMun=="3148202"
   cMunSIAFI="4963"
-if cMun=="3148301":
-  xMun="PAULA CANDIDO"
+if xMun="PAULA CANDIDO":
+  cMun=="3148301"
   cMunSIAFI="4965"
-if cMun=="3148400":
-  xMun="PAULISTAS"
+if xMun="PAULISTAS":
+  cMun=="3148400"
   cMunSIAFI="4967"
-if cMun=="3148509":
-  xMun="PAVAO"
+if xMun="PAVAO":
+  cMun=="3148509"
   cMunSIAFI="4969"
-if cMun=="3148608":
-  xMun="PECANHA"
+if xMun="PECANHA":
+  cMun=="3148608"
   cMunSIAFI="4971"
-if cMun=="3148707":
-  xMun="PEDRA AZUL"
+if xMun="PEDRA AZUL":
+  cMun=="3148707"
   cMunSIAFI="4973"
-if cMun=="3148756":
-  xMun="PEDRA BONITA"
+if xMun="PEDRA BONITA":
+  cMun=="3148756"
   cMunSIAFI="0682"
-if cMun=="3148806":
-  xMun="PEDRA DO ANTA"
+if xMun="PEDRA DO ANTA":
+  cMun=="3148806"
   cMunSIAFI="4975"
-if cMun=="3148905":
-  xMun="PEDRA DO INDAIA"
+if xMun="PEDRA DO INDAIA":
+  cMun=="3148905"
   cMunSIAFI="4977"
-if cMun=="3149002":
-  xMun="PEDRA DOURADA"
+if xMun="PEDRA DOURADA":
+  cMun=="3149002"
   cMunSIAFI="4979"
-if cMun=="3149101":
-  xMun="PEDRALVA"
+if xMun="PEDRALVA":
+  cMun=="3149101"
   cMunSIAFI="4981"
-if cMun=="3149150":
-  xMun="PEDRAS DE MARIA DA CRUZ"
+if xMun="PEDRAS DE MARIA DA CRUZ":
+  cMun=="3149150"
   cMunSIAFI="2899"
-if cMun=="3149200":
-  xMun="PEDRINOPOLIS"
+if xMun="PEDRINOPOLIS":
+  cMun=="3149200"
   cMunSIAFI="4983"
-if cMun=="3149309":
-  xMun="PEDRO LEOPOLDO"
+if xMun="PEDRO LEOPOLDO":
+  cMun=="3149309"
   cMunSIAFI="4985"
-if cMun=="3149408":
-  xMun="PEDRO TEIXEIRA"
+if xMun="PEDRO TEIXEIRA":
+  cMun=="3149408"
   cMunSIAFI="4987"
-if cMun=="3149507":
-  xMun="PEQUERI"
+if xMun="PEQUERI":
+  cMun=="3149507"
   cMunSIAFI="4989"
-if cMun=="3149606":
-  xMun="PEQUI"
+if xMun="PEQUI":
+  cMun=="3149606"
   cMunSIAFI="4991"
-if cMun=="3149705":
-  xMun="PERDIGAO"
+if xMun="PERDIGAO":
+  cMun=="3149705"
   cMunSIAFI="4993"
-if cMun=="3149804":
-  xMun="PERDIZES"
+if xMun="PERDIZES":
+  cMun=="3149804"
   cMunSIAFI="4995"
-if cMun=="3149903":
-  xMun="PERDÃ•ES"
+if xMun="PERDÃ•ES":
+  cMun=="3149903"
   cMunSIAFI="4997"
-if cMun=="3149952":
-  xMun="PERIQUITO"
+if xMun="PERIQUITO":
+  cMun=="3149952"
   cMunSIAFI="0684"
-if cMun=="3150000":
-  xMun="PESCADOR"
+if xMun="PESCADOR":
+  cMun=="3150000"
   cMunSIAFI="4999"
-if cMun=="3150109":
-  xMun="PIAU"
+if xMun="PIAU":
+  cMun=="3150109"
   cMunSIAFI="5001"
-if cMun=="3150158":
-  xMun="PIEDADE DE CARATINGA"
+if xMun="PIEDADE DE CARATINGA":
+  cMun=="3150158"
   cMunSIAFI="0686"
-if cMun=="3150208":
-  xMun="PIEDADE DE PONTE NOVA"
+if xMun="PIEDADE DE PONTE NOVA":
+  cMun=="3150208"
   cMunSIAFI="5003"
-if cMun=="3150307":
-  xMun="PIEDADE DO RIO GRANDE"
+if xMun="PIEDADE DO RIO GRANDE":
+  cMun=="3150307"
   cMunSIAFI="5005"
-if cMun=="3150406":
-  xMun="PIEDADE DOS GERAIS"
+if xMun="PIEDADE DOS GERAIS":
+  cMun=="3150406"
   cMunSIAFI="5007"
-if cMun=="3150505":
-  xMun="PIMENTA"
+if xMun="PIMENTA":
+  cMun=="3150505"
   cMunSIAFI="5009"
-if cMun=="3150539":
-  xMun="PINGO D AGUA"
+if xMun="PINGO D AGUA":
+  cMun=="3150539"
   cMunSIAFI="0688"
-if cMun=="3150570":
-  xMun="PINTOPOLIS"
+if xMun="PINTOPOLIS":
+  cMun=="3150570"
   cMunSIAFI="0690"
-if cMun=="3150604":
-  xMun="PIRACEMA"
+if xMun="PIRACEMA":
+  cMun=="3150604"
   cMunSIAFI="5011"
-if cMun=="3150703":
-  xMun="PIRAJUBA"
+if xMun="PIRAJUBA":
+  cMun=="3150703"
   cMunSIAFI="5013"
-if cMun=="3150802":
-  xMun="PIRANGA"
+if xMun="PIRANGA":
+  cMun=="3150802"
   cMunSIAFI="5015"
-if cMun=="3150901":
-  xMun="PIRANGUCU"
+if xMun="PIRANGUCU":
+  cMun=="3150901"
   cMunSIAFI="5017"
-if cMun=="3151008":
-  xMun="PIRANGUINHO"
+if xMun="PIRANGUINHO":
+  cMun=="3151008"
   cMunSIAFI="5019"
-if cMun=="3151107":
-  xMun="PIRAPETINGA"
+if xMun="PIRAPETINGA":
+  cMun=="3151107"
   cMunSIAFI="5021"
-if cMun=="3151206":
-  xMun="PIRAPORA"
+if xMun="PIRAPORA":
+  cMun=="3151206"
   cMunSIAFI="5023"
-if cMun=="3151305":
-  xMun="PIRAUBA"
+if xMun="PIRAUBA":
+  cMun=="3151305"
   cMunSIAFI="5025"
-if cMun=="3151404":
-  xMun="PITANGUI"
+if xMun="PITANGUI":
+  cMun=="3151404"
   cMunSIAFI="5027"
-if cMun=="3151503":
-  xMun="PIUMHI"
+if xMun="PIUMHI":
+  cMun=="3151503"
   cMunSIAFI="5029"
-if cMun=="3151602":
-  xMun="PLANURA"
+if xMun="PLANURA":
+  cMun=="3151602"
   cMunSIAFI="5031"
-if cMun=="3151701":
-  xMun="POCO FUNDO"
+if xMun="POCO FUNDO":
+  cMun=="3151701"
   cMunSIAFI="5033"
-if cMun=="3151800":
-  xMun="POCOS DE CALDAS"
+if xMun="POCOS DE CALDAS":
+  cMun=="3151800"
   cMunSIAFI="5035"
-if cMun=="3151909":
-  xMun="POCRANE"
+if xMun="POCRANE":
+  cMun=="3151909"
   cMunSIAFI="5037"
-if cMun=="3152006":
-  xMun="POMPEU"
+if xMun="POMPEU":
+  cMun=="3152006"
   cMunSIAFI="5039"
-if cMun=="3152105":
-  xMun="PONTE NOVA"
+if xMun="PONTE NOVA":
+  cMun=="3152105"
   cMunSIAFI="5041"
-if cMun=="3152131":
-  xMun="PONTO CHIQUE"
+if xMun="PONTO CHIQUE":
+  cMun=="3152131"
   cMunSIAFI="0692"
-if cMun=="3152170":
-  xMun="PONTO DOS VOLANTES"
+if xMun="PONTO DOS VOLANTES":
+  cMun=="3152170"
   cMunSIAFI="0694"
-if cMun=="3152204":
-  xMun="PORTEIRINHA"
+if xMun="PORTEIRINHA":
+  cMun=="3152204"
   cMunSIAFI="5043"
-if cMun=="3152303":
-  xMun="PORTO FIRME"
+if xMun="PORTO FIRME":
+  cMun=="3152303"
   cMunSIAFI="5045"
-if cMun=="3152402":
-  xMun="POTE"
+if xMun="POTE":
+  cMun=="3152402"
   cMunSIAFI="5047"
-if cMun=="3152501":
-  xMun="POUSO ALEGRE"
+if xMun="POUSO ALEGRE":
+  cMun=="3152501"
   cMunSIAFI="5049"
-if cMun=="3152600":
-  xMun="POUSO ALTO"
+if xMun="POUSO ALTO":
+  cMun=="3152600"
   cMunSIAFI="5051"
-if cMun=="3152709":
-  xMun="PRADOS"
+if xMun="PRADOS":
+  cMun=="3152709"
   cMunSIAFI="5053"
-if cMun=="3152808":
-  xMun="PRATA"
+if xMun="PRATA":
+  cMun=="3152808"
   cMunSIAFI="5055"
-if cMun=="3152907":
-  xMun="PRATAPOLIS"
+if xMun="PRATAPOLIS":
+  cMun=="3152907"
   cMunSIAFI="5057"
-if cMun=="3153004":
-  xMun="PRATINHA"
+if xMun="PRATINHA":
+  cMun=="3153004"
   cMunSIAFI="5059"
-if cMun=="3153103":
-  xMun="PRESIDENTE BERNARDES"
+if xMun="PRESIDENTE BERNARDES":
+  cMun=="3153103"
   cMunSIAFI="5061"
-if cMun=="3153202":
-  xMun="PRESIDENTE JUSCELINO"
+if xMun="PRESIDENTE JUSCELINO":
+  cMun=="3153202"
   cMunSIAFI="5063"
-if cMun=="3153301":
-  xMun="PRESIDENTE KUBITSCHEK"
+if xMun="PRESIDENTE KUBITSCHEK":
+  cMun=="3153301"
   cMunSIAFI="5065"
-if cMun=="3153400":
-  xMun="PRESIDENTE OLEGARIO"
+if xMun="PRESIDENTE OLEGARIO":
+  cMun=="3153400"
   cMunSIAFI="5067"
-if cMun=="3153608":
-  xMun="PRUDENTE DE MORAIS"
+if xMun="PRUDENTE DE MORAIS":
+  cMun=="3153608"
   cMunSIAFI="5071"
-if cMun=="3153707":
-  xMun="QUARTEL GERAL"
+if xMun="QUARTEL GERAL":
+  cMun=="3153707"
   cMunSIAFI="5073"
-if cMun=="3153806":
-  xMun="QUELUZITO"
+if xMun="QUELUZITO":
+  cMun=="3153806"
   cMunSIAFI="5075"
-if cMun=="3153905":
-  xMun="RAPOSOS"
+if xMun="RAPOSOS":
+  cMun=="3153905"
   cMunSIAFI="5077"
-if cMun=="3154002":
-  xMun="RAUL SOARES"
+if xMun="RAUL SOARES":
+  cMun=="3154002"
   cMunSIAFI="5079"
-if cMun=="3154101":
-  xMun="RECREIO"
+if xMun="RECREIO":
+  cMun=="3154101"
   cMunSIAFI="5081"
-if cMun=="3154150":
-  xMun="REDUTO"
+if xMun="REDUTO":
+  cMun=="3154150"
   cMunSIAFI="0696"
-if cMun=="3154200":
-  xMun="RESENDE COSTA"
+if xMun="RESENDE COSTA":
+  cMun=="3154200"
   cMunSIAFI="5083"
-if cMun=="3154309":
-  xMun="RESPLENDOR"
+if xMun="RESPLENDOR":
+  cMun=="3154309"
   cMunSIAFI="5085"
-if cMun=="3154408":
-  xMun="RESSAQUINHA"
+if xMun="RESSAQUINHA":
+  cMun=="3154408"
   cMunSIAFI="5087"
-if cMun=="3154457":
-  xMun="RIACHINHO"
+if xMun="RIACHINHO":
+  cMun=="3154457"
   cMunSIAFI="2901"
-if cMun=="3154507":
-  xMun="RIACHO DOS MACHADOS"
+if xMun="RIACHO DOS MACHADOS":
+  cMun=="3154507"
   cMunSIAFI="5089"
-if cMun=="3154606":
-  xMun="RIBEIRAO DAS NEVES"
+if xMun="RIBEIRAO DAS NEVES":
+  cMun=="3154606"
   cMunSIAFI="5091"
-if cMun=="3154705":
-  xMun="RIBEIRAO VERMELHO"
+if xMun="RIBEIRAO VERMELHO":
+  cMun=="3154705"
   cMunSIAFI="5093"
-if cMun=="3154804":
-  xMun="RIO ACIMA"
+if xMun="RIO ACIMA":
+  cMun=="3154804"
   cMunSIAFI="5095"
-if cMun=="3154903":
-  xMun="RIO CASCA"
+if xMun="RIO CASCA":
+  cMun=="3154903"
   cMunSIAFI="5097"
-if cMun=="3155108":
-  xMun="RIO DO PRADO"
+if xMun="RIO DO PRADO":
+  cMun=="3155108"
   cMunSIAFI="5101"
-if cMun=="3155009":
-  xMun="RIO DOCE"
+if xMun="RIO DOCE":
+  cMun=="3155009"
   cMunSIAFI="5099"
-if cMun=="3155207":
-  xMun="RIO ESPERA"
+if xMun="RIO ESPERA":
+  cMun=="3155207"
   cMunSIAFI="5103"
-if cMun=="3155306":
-  xMun="RIO MANSO"
+if xMun="RIO MANSO":
+  cMun=="3155306"
   cMunSIAFI="5105"
-if cMun=="3155405":
-  xMun="RIO NOVO"
+if xMun="RIO NOVO":
+  cMun=="3155405"
   cMunSIAFI="5107"
-if cMun=="3155504":
-  xMun="RIO PARANAIBA"
+if xMun="RIO PARANAIBA":
+  cMun=="3155504"
   cMunSIAFI="5109"
-if cMun=="3155603":
-  xMun="RIO PARDO DE MINAS"
+if xMun="RIO PARDO DE MINAS":
+  cMun=="3155603"
   cMunSIAFI="5111"
-if cMun=="3155702":
-  xMun="RIO PIRACICABA"
+if xMun="RIO PIRACICABA":
+  cMun=="3155702"
   cMunSIAFI="5113"
-if cMun=="3155801":
-  xMun="RIO POMBA"
+if xMun="RIO POMBA":
+  cMun=="3155801"
   cMunSIAFI="5115"
-if cMun=="3155900":
-  xMun="RIO PRETO"
+if xMun="RIO PRETO":
+  cMun=="3155900"
   cMunSIAFI="5117"
-if cMun=="3156007":
-  xMun="RIO VERMELHO"
+if xMun="RIO VERMELHO":
+  cMun=="3156007"
   cMunSIAFI="5119"
-if cMun=="3156106":
-  xMun="RITAPOLIS"
+if xMun="RITAPOLIS":
+  cMun=="3156106"
   cMunSIAFI="5121"
-if cMun=="3156205":
-  xMun="ROCHEDO DE MINAS"
+if xMun="ROCHEDO DE MINAS":
+  cMun=="3156205"
   cMunSIAFI="5123"
-if cMun=="3156304":
-  xMun="RODEIRO"
+if xMun="RODEIRO":
+  cMun=="3156304"
   cMunSIAFI="5125"
-if cMun=="3156403":
-  xMun="ROMARIA"
+if xMun="ROMARIA":
+  cMun=="3156403"
   cMunSIAFI="5127"
-if cMun=="3156452":
-  xMun="ROSARIO DA LIMEIRA"
+if xMun="ROSARIO DA LIMEIRA":
+  cMun=="3156452"
   cMunSIAFI="0698"
-if cMun=="3156502":
-  xMun="RUBELITA"
+if xMun="RUBELITA":
+  cMun=="3156502"
   cMunSIAFI="5129"
-if cMun=="3156601":
-  xMun="RUBIM"
+if xMun="RUBIM":
+  cMun=="3156601"
   cMunSIAFI="5131"
-if cMun=="3156700":
-  xMun="SABARA"
+if xMun="SABARA":
+  cMun=="3156700"
   cMunSIAFI="5133"
-if cMun=="3156809":
-  xMun="SABINOPOLIS"
+if xMun="SABINOPOLIS":
+  cMun=="3156809"
   cMunSIAFI="5135"
-if cMun=="3156908":
-  xMun="SACRAMENTO"
+if xMun="SACRAMENTO":
+  cMun=="3156908"
   cMunSIAFI="5137"
-if cMun=="3157005":
-  xMun="SALINAS"
+if xMun="SALINAS":
+  cMun=="3157005"
   cMunSIAFI="5139"
-if cMun=="3157104":
-  xMun="SALTO DA DIVISA"
+if xMun="SALTO DA DIVISA":
+  cMun=="3157104"
   cMunSIAFI="5141"
-if cMun=="3157203":
-  xMun="SANTA BARBARA"
+if xMun="SANTA BARBARA":
+  cMun=="3157203"
   cMunSIAFI="5143"
-if cMun=="3157252":
-  xMun="SANTA BARBARA DO LESTE"
+if xMun="SANTA BARBARA DO LESTE":
+  cMun=="3157252"
   cMunSIAFI="2667"
-if cMun=="3157278":
-  xMun="SANTA BARBARA DO MONTE VERDE"
+if xMun="SANTA BARBARA DO MONTE VERDE":
+  cMun=="3157278"
   cMunSIAFI="0700"
-if cMun=="3157302":
-  xMun="SANTA BARBARA DO TUGURIO"
+if xMun="SANTA BARBARA DO TUGURIO":
+  cMun=="3157302"
   cMunSIAFI="5145"
-if cMun=="3157336":
-  xMun="SANTA CRUZ DE MINAS"
+if xMun="SANTA CRUZ DE MINAS":
+  cMun=="3157336"
   cMunSIAFI="0702"
-if cMun=="3157377":
-  xMun="SANTA CRUZ DE SALINAS"
+if xMun="SANTA CRUZ DE SALINAS":
+  cMun=="3157377"
   cMunSIAFI="0704"
-if cMun=="3157401":
-  xMun="SANTA CRUZ DO ESCALVADO"
+if xMun="SANTA CRUZ DO ESCALVADO":
+  cMun=="3157401"
   cMunSIAFI="5147"
-if cMun=="3157500":
-  xMun="SANTA EFIGÃŠNIA DE MINAS"
+if xMun="SANTA EFIGÃŠNIA DE MINAS":
+  cMun=="3157500"
   cMunSIAFI="5149"
-if cMun=="3157609":
-  xMun="SANTA FE DE MINAS"
+if xMun="SANTA FE DE MINAS":
+  cMun=="3157609"
   cMunSIAFI="5151"
-if cMun=="3157658":
-  xMun="SANTA HELENA DE MINAS"
+if xMun="SANTA HELENA DE MINAS":
+  cMun=="3157658"
   cMunSIAFI="0706"
-if cMun=="3157708":
-  xMun="SANTA JULIANA"
+if xMun="SANTA JULIANA":
+  cMun=="3157708"
   cMunSIAFI="5153"
-if cMun=="3157807":
-  xMun="SANTA LUZIA"
+if xMun="SANTA LUZIA":
+  cMun=="3157807"
   cMunSIAFI="5155"
-if cMun=="3157906":
-  xMun="SANTA MARGARIDA"
+if xMun="SANTA MARGARIDA":
+  cMun=="3157906"
   cMunSIAFI="5157"
-if cMun=="3158003":
-  xMun="SANTA MARIA DE ITABIRA"
+if xMun="SANTA MARIA DE ITABIRA":
+  cMun=="3158003"
   cMunSIAFI="5159"
-if cMun=="3158102":
-  xMun="SANTA MARIA DO SALTO"
+if xMun="SANTA MARIA DO SALTO":
+  cMun=="3158102"
   cMunSIAFI="5161"
-if cMun=="3158201":
-  xMun="SANTA MARIA DO SUACUI"
+if xMun="SANTA MARIA DO SUACUI":
+  cMun=="3158201"
   cMunSIAFI="5163"
-if cMun=="3159209":
-  xMun="SANTA RITA DE CALDAS"
+if xMun="SANTA RITA DE CALDAS":
+  cMun=="3159209"
   cMunSIAFI="5183"
-if cMun=="3159407":
-  xMun="SANTA RITA DE IBITIPOCA"
+if xMun="SANTA RITA DE IBITIPOCA":
+  cMun=="3159407"
   cMunSIAFI="5187"
-if cMun=="3159308":
-  xMun="SANTA RITA DE JACUTINGA"
+if xMun="SANTA RITA DE JACUTINGA":
+  cMun=="3159308"
   cMunSIAFI="5185"
-if cMun=="3159357":
-  xMun="SANTA RITA DE MINAS"
+if xMun="SANTA RITA DE MINAS":
+  cMun=="3159357"
   cMunSIAFI="2669"
-if cMun=="3159506":
-  xMun="SANTA RITA DO ITUETO"
+if xMun="SANTA RITA DO ITUETO":
+  cMun=="3159506"
   cMunSIAFI="5189"
-if cMun=="3159605":
-  xMun="SANTA RITA DO SAPUCAI"
+if xMun="SANTA RITA DO SAPUCAI":
+  cMun=="3159605"
   cMunSIAFI="5191"
-if cMun=="3159704":
-  xMun="SANTA ROSA DA SERRA"
+if xMun="SANTA ROSA DA SERRA":
+  cMun=="3159704"
   cMunSIAFI="5193"
-if cMun=="3159803":
-  xMun="SANTA VITORIA"
+if xMun="SANTA VITORIA":
+  cMun=="3159803"
   cMunSIAFI="5195"
-if cMun=="3158300":
-  xMun="SANTANA DA VARGEM"
+if xMun="SANTANA DA VARGEM":
+  cMun=="3158300"
   cMunSIAFI="5165"
-if cMun=="3158409":
-  xMun="SANTANA DE CATAGUASES"
+if xMun="SANTANA DE CATAGUASES":
+  cMun=="3158409"
   cMunSIAFI="5167"
-if cMun=="3158508":
-  xMun="SANTANA DE PIRAPAMA"
+if xMun="SANTANA DE PIRAPAMA":
+  cMun=="3158508"
   cMunSIAFI="5169"
-if cMun=="3158607":
-  xMun="SANTANA DO DESERTO"
+if xMun="SANTANA DO DESERTO":
+  cMun=="3158607"
   cMunSIAFI="5171"
-if cMun=="3158706":
-  xMun="SANTANA DO GARAMBEU"
+if xMun="SANTANA DO GARAMBEU":
+  cMun=="3158706"
   cMunSIAFI="5173"
-if cMun=="3158805":
-  xMun="SANTANA DO JACARE"
+if xMun="SANTANA DO JACARE":
+  cMun=="3158805"
   cMunSIAFI="5175"
-if cMun=="3158904":
-  xMun="SANTANA DO MANHUACU"
+if xMun="SANTANA DO MANHUACU":
+  cMun=="3158904"
   cMunSIAFI="5177"
-if cMun=="3158953":
-  xMun="SANTANA DO PARAISO"
+if xMun="SANTANA DO PARAISO":
+  cMun=="3158953"
   cMunSIAFI="2673"
-if cMun=="3159001":
-  xMun="SANTANA DO RIACHO"
+if xMun="SANTANA DO RIACHO":
+  cMun=="3159001"
   cMunSIAFI="5179"
-if cMun=="3159100":
-  xMun="SANTANA DOS MONTES"
+if xMun="SANTANA DOS MONTES":
+  cMun=="3159100"
   cMunSIAFI="5181"
-if cMun=="3159902":
-  xMun="SANTO ANTONIO DO AMPARO"
+if xMun="SANTO ANTONIO DO AMPARO":
+  cMun=="3159902"
   cMunSIAFI="5197"
-if cMun=="3160009":
-  xMun="SANTO ANTONIO DO AVENTUREIRO"
+if xMun="SANTO ANTONIO DO AVENTUREIRO":
+  cMun=="3160009"
   cMunSIAFI="5199"
-if cMun=="3160108":
-  xMun="SANTO ANTONIO DO GRAMA"
+if xMun="SANTO ANTONIO DO GRAMA":
+  cMun=="3160108"
   cMunSIAFI="5201"
-if cMun=="3160207":
-  xMun="SANTO ANTONIO DO ITAMBE"
+if xMun="SANTO ANTONIO DO ITAMBE":
+  cMun=="3160207"
   cMunSIAFI="5203"
-if cMun=="3160306":
-  xMun="SANTO ANTONIO DO JACINTO"
+if xMun="SANTO ANTONIO DO JACINTO":
+  cMun=="3160306"
   cMunSIAFI="5205"
-if cMun=="3160405":
-  xMun="SANTO ANTONIO DO MONTE"
+if xMun="SANTO ANTONIO DO MONTE":
+  cMun=="3160405"
   cMunSIAFI="5207"
-if cMun=="3160454":
-  xMun="SANTO ANTONIO DO RETIRO"
+if xMun="SANTO ANTONIO DO RETIRO":
+  cMun=="3160454"
   cMunSIAFI="0708"
-if cMun=="3160504":
-  xMun="SANTO ANTONIO DO RIO ABAIXO"
+if xMun="SANTO ANTONIO DO RIO ABAIXO":
+  cMun=="3160504"
   cMunSIAFI="5209"
-if cMun=="3160603":
-  xMun="SANTO HIPOLITO"
+if xMun="SANTO HIPOLITO":
+  cMun=="3160603"
   cMunSIAFI="5211"
-if cMun=="3160702":
-  xMun="SANTOS DUMONT"
+if xMun="SANTOS DUMONT":
+  cMun=="3160702"
   cMunSIAFI="5213"
-if cMun=="3160801":
-  xMun="SAO BENTO ABADE"
+if xMun="SAO BENTO ABADE":
+  cMun=="3160801"
   cMunSIAFI="5215"
-if cMun=="3160900":
-  xMun="SAO BRAS DO SUACUI"
+if xMun="SAO BRAS DO SUACUI":
+  cMun=="3160900"
   cMunSIAFI="5217"
-if cMun=="3160959":
-  xMun="SAO DOMINGOS DAS DORES"
+if xMun="SAO DOMINGOS DAS DORES":
+  cMun=="3160959"
   cMunSIAFI="0710"
-if cMun=="3161007":
-  xMun="SAO DOMINGOS DO PRATA"
+if xMun="SAO DOMINGOS DO PRATA":
+  cMun=="3161007"
   cMunSIAFI="5219"
-if cMun=="3161056":
-  xMun="SAO FELIX DE MINAS"
+if xMun="SAO FELIX DE MINAS":
+  cMun=="3161056"
   cMunSIAFI="0712"
-if cMun=="3161106":
-  xMun="SAO FRANCISCO"
+if xMun="SAO FRANCISCO":
+  cMun=="3161106"
   cMunSIAFI="5221"
-if cMun=="3161205":
-  xMun="SAO FRANCISCO DE PAULA"
+if xMun="SAO FRANCISCO DE PAULA":
+  cMun=="3161205"
   cMunSIAFI="5223"
-if cMun=="3161304":
-  xMun="SAO FRANCISCO DE SALES"
+if xMun="SAO FRANCISCO DE SALES":
+  cMun=="3161304"
   cMunSIAFI="5225"
-if cMun=="3161403":
-  xMun="SAO FRANCISCO DO GLORIA"
+if xMun="SAO FRANCISCO DO GLORIA":
+  cMun=="3161403"
   cMunSIAFI="5227"
-if cMun=="3161502":
-  xMun="SAO GERALDO"
+if xMun="SAO GERALDO":
+  cMun=="3161502"
   cMunSIAFI="5229"
-if cMun=="3161601":
-  xMun="SAO GERALDO DA PIEDADE"
+if xMun="SAO GERALDO DA PIEDADE":
+  cMun=="3161601"
   cMunSIAFI="5231"
-if cMun=="3161650":
-  xMun="SAO GERALDO DO BAIXIO"
+if xMun="SAO GERALDO DO BAIXIO":
+  cMun=="3161650"
   cMunSIAFI="0714"
-if cMun=="3161700":
-  xMun="SAO GONCALO DO ABAETE"
+if xMun="SAO GONCALO DO ABAETE":
+  cMun=="3161700"
   cMunSIAFI="5233"
-if cMun=="3161809":
-  xMun="SAO GONCALO DO PARA"
+if xMun="SAO GONCALO DO PARA":
+  cMun=="3161809"
   cMunSIAFI="5235"
-if cMun=="3161908":
-  xMun="SAO GONCALO DO RIO ABAIXO"
+if xMun="SAO GONCALO DO RIO ABAIXO":
+  cMun=="3161908"
   cMunSIAFI="5237"
-if cMun=="3125507":
-  xMun="SAO GONCALO DO RIO PRETO"
+if xMun="SAO GONCALO DO RIO PRETO":
+  cMun=="3125507"
   cMunSIAFI="4509"
-if cMun=="3162005":
-  xMun="SAO GONCALO DO SAPUCAI"
+if xMun="SAO GONCALO DO SAPUCAI":
+  cMun=="3162005"
   cMunSIAFI="5239"
-if cMun=="3162104":
-  xMun="SAO GOTARDO"
+if xMun="SAO GOTARDO":
+  cMun=="3162104"
   cMunSIAFI="5241"
-if cMun=="3162203":
-  xMun="SAO JOAO BATISTA DO GLORIA"
+if xMun="SAO JOAO BATISTA DO GLORIA":
+  cMun=="3162203"
   cMunSIAFI="5243"
-if cMun=="3162252":
-  xMun="SAO JOAO DA LAGOA"
+if xMun="SAO JOAO DA LAGOA":
+  cMun=="3162252"
   cMunSIAFI="0716"
-if cMun=="3162302":
-  xMun="SAO JOAO DA MATA"
+if xMun="SAO JOAO DA MATA":
+  cMun=="3162302"
   cMunSIAFI="5245"
-if cMun=="3162401":
-  xMun="SAO JOAO DA PONTE"
+if xMun="SAO JOAO DA PONTE":
+  cMun=="3162401"
   cMunSIAFI="5247"
-if cMun=="3162450":
-  xMun="SAO JOAO DAS MISSÃ•ES"
+if xMun="SAO JOAO DAS MISSÃ•ES":
+  cMun=="3162450"
   cMunSIAFI="0718"
-if cMun=="3162500":
-  xMun="SAO JOAO DEL REI"
+if xMun="SAO JOAO DEL REI":
+  cMun=="3162500"
   cMunSIAFI="5249"
-if cMun=="3162559":
-  xMun="SAO JOAO DO MANHUACU"
+if xMun="SAO JOAO DO MANHUACU":
+  cMun=="3162559"
   cMunSIAFI="2677"
-if cMun=="3162575":
-  xMun="SAO JOAO DO MANTENINHA"
+if xMun="SAO JOAO DO MANTENINHA":
+  cMun=="3162575"
   cMunSIAFI="2679"
-if cMun=="3162609":
-  xMun="SAO JOAO DO ORIENTE"
+if xMun="SAO JOAO DO ORIENTE":
+  cMun=="3162609"
   cMunSIAFI="5251"
-if cMun=="3162658":
-  xMun="SAO JOAO DO PACUI"
+if xMun="SAO JOAO DO PACUI":
+  cMun=="3162658"
   cMunSIAFI="0720"
-if cMun=="3162708":
-  xMun="SAO JOAO DO PARAISO"
+if xMun="SAO JOAO DO PARAISO":
+  cMun=="3162708"
   cMunSIAFI="5253"
-if cMun=="3162807":
-  xMun="SAO JOAO EVANGELISTA"
+if xMun="SAO JOAO EVANGELISTA":
+  cMun=="3162807"
   cMunSIAFI="5255"
-if cMun=="3162906":
-  xMun="SAO JOAO NEPOMUCENO"
+if xMun="SAO JOAO NEPOMUCENO":
+  cMun=="3162906"
   cMunSIAFI="5257"
-if cMun=="3162922":
-  xMun="SAO JOAQUIM DE BICAS"
+if xMun="SAO JOAQUIM DE BICAS":
+  cMun=="3162922"
   cMunSIAFI="0722"
-if cMun=="3162948":
-  xMun="SAO JOSE DA BARRA"
+if xMun="SAO JOSE DA BARRA":
+  cMun=="3162948"
   cMunSIAFI="0724"
-if cMun=="3162955":
-  xMun="SAO JOSE DA LAPA"
+if xMun="SAO JOSE DA LAPA":
+  cMun=="3162955"
   cMunSIAFI="2649"
-if cMun=="3163003":
-  xMun="SAO JOSE DA SAFIRA"
+if xMun="SAO JOSE DA SAFIRA":
+  cMun=="3163003"
   cMunSIAFI="5259"
-if cMun=="3163102":
-  xMun="SAO JOSE DA VARGINHA"
+if xMun="SAO JOSE DA VARGINHA":
+  cMun=="3163102"
   cMunSIAFI="5261"
-if cMun=="3163201":
-  xMun="SAO JOSE DO ALEGRE"
+if xMun="SAO JOSE DO ALEGRE":
+  cMun=="3163201"
   cMunSIAFI="5263"
-if cMun=="3163300":
-  xMun="SAO JOSE DO DIVINO"
+if xMun="SAO JOSE DO DIVINO":
+  cMun=="3163300"
   cMunSIAFI="5265"
-if cMun=="3163409":
-  xMun="SAO JOSE DO GOIABAL"
+if xMun="SAO JOSE DO GOIABAL":
+  cMun=="3163409"
   cMunSIAFI="5267"
-if cMun=="3163508":
-  xMun="SAO JOSE DO JACURI"
+if xMun="SAO JOSE DO JACURI":
+  cMun=="3163508"
   cMunSIAFI="5269"
-if cMun=="3163607":
-  xMun="SAO JOSE DO MANTIMENTO"
+if xMun="SAO JOSE DO MANTIMENTO":
+  cMun=="3163607"
   cMunSIAFI="5271"
-if cMun=="3163706":
-  xMun="SAO LOURENCO"
+if xMun="SAO LOURENCO":
+  cMun=="3163706"
   cMunSIAFI="5273"
-if cMun=="3163805":
-  xMun="SAO MIGUEL DO ANTA"
+if xMun="SAO MIGUEL DO ANTA":
+  cMun=="3163805"
   cMunSIAFI="5275"
-if cMun=="3163904":
-  xMun="SAO PEDRO DA UNIAO"
+if xMun="SAO PEDRO DA UNIAO":
+  cMun=="3163904"
   cMunSIAFI="5277"
-if cMun=="3164100":
-  xMun="SAO PEDRO DO SUACUI"
+if xMun="SAO PEDRO DO SUACUI":
+  cMun=="3164100"
   cMunSIAFI="5281"
-if cMun=="3164001":
-  xMun="SAO PEDRO DOS FERROS"
+if xMun="SAO PEDRO DOS FERROS":
+  cMun=="3164001"
   cMunSIAFI="5279"
-if cMun=="3164209":
-  xMun="SAO ROMAO"
+if xMun="SAO ROMAO":
+  cMun=="3164209"
   cMunSIAFI="5283"
-if cMun=="3164308":
-  xMun="SAO ROQUE DE MINAS"
+if xMun="SAO ROQUE DE MINAS":
+  cMun=="3164308"
   cMunSIAFI="5285"
-if cMun=="3164407":
-  xMun="SAO SEBASTIAO DA BELA VISTA"
+if xMun="SAO SEBASTIAO DA BELA VISTA":
+  cMun=="3164407"
   cMunSIAFI="5287"
-if cMun=="3164431":
-  xMun="SAO SEBASTIAO DA VARGEM ALEGRE"
+if xMun="SAO SEBASTIAO DA VARGEM ALEGRE":
+  cMun=="3164431"
   cMunSIAFI="0726"
-if cMun=="3164472":
-  xMun="SAO SEBASTIAO DO ANTA"
+if xMun="SAO SEBASTIAO DO ANTA":
+  cMun=="3164472"
   cMunSIAFI="0728"
-if cMun=="3164506":
-  xMun="SAO SEBASTIAO DO MARANHAO"
+if xMun="SAO SEBASTIAO DO MARANHAO":
+  cMun=="3164506"
   cMunSIAFI="5289"
-if cMun=="3164605":
-  xMun="SAO SEBASTIAO DO OESTE"
+if xMun="SAO SEBASTIAO DO OESTE":
+  cMun=="3164605"
   cMunSIAFI="5291"
-if cMun=="3164704":
-  xMun="SAO SEBASTIAO DO PARAISO"
+if xMun="SAO SEBASTIAO DO PARAISO":
+  cMun=="3164704"
   cMunSIAFI="5293"
-if cMun=="3164803":
-  xMun="SAO SEBASTIAO DO RIO PRETO"
+if xMun="SAO SEBASTIAO DO RIO PRETO":
+  cMun=="3164803"
   cMunSIAFI="5295"
-if cMun=="3164902":
-  xMun="SAO SEBASTIAO DO RIO VERDE"
+if xMun="SAO SEBASTIAO DO RIO VERDE":
+  cMun=="3164902"
   cMunSIAFI="5297"
-if cMun=="3165206":
-  xMun="SAO THOME DAS LETRAS"
+if xMun="SAO THOME DAS LETRAS":
+  cMun=="3165206"
   cMunSIAFI="5303"
-if cMun=="3165008":
-  xMun="SAO TIAGO"
+if xMun="SAO TIAGO":
+  cMun=="3165008"
   cMunSIAFI="5299"
-if cMun=="3165107":
-  xMun="SAO TOMAS DE AQUINO"
+if xMun="SAO TOMAS DE AQUINO":
+  cMun=="3165107"
   cMunSIAFI="5301"
-if cMun=="3165305":
-  xMun="SAO VICENTE DE MINAS"
+if xMun="SAO VICENTE DE MINAS":
+  cMun=="3165305"
   cMunSIAFI="5305"
-if cMun=="3165404":
-  xMun="SAPUCAI-MIRIM"
+if xMun="SAPUCAI-MIRIM":
+  cMun=="3165404"
   cMunSIAFI="5307"
-if cMun=="3165503":
-  xMun="SARDOA"
+if xMun="SARDOA":
+  cMun=="3165503"
   cMunSIAFI="5309"
-if cMun=="3165537":
-  xMun="SARZEDO"
+if xMun="SARZEDO":
+  cMun=="3165537"
   cMunSIAFI="0730"
-if cMun=="3165560":
-  xMun="SEM PEIXE"
+if xMun="SEM PEIXE":
+  cMun=="3165560"
   cMunSIAFI="0734"
-if cMun=="3165578":
-  xMun="SENADOR AMARAL"
+if xMun="SENADOR AMARAL":
+  cMun=="3165578"
   cMunSIAFI="2689"
-if cMun=="3165602":
-  xMun="SENADOR CORTES"
+if xMun="SENADOR CORTES":
+  cMun=="3165602"
   cMunSIAFI="5311"
-if cMun=="3165701":
-  xMun="SENADOR FIRMINO"
+if xMun="SENADOR FIRMINO":
+  cMun=="3165701"
   cMunSIAFI="5313"
-if cMun=="3165800":
-  xMun="SENADOR JOSE BENTO"
+if xMun="SENADOR JOSE BENTO":
+  cMun=="3165800"
   cMunSIAFI="5315"
-if cMun=="3165909":
-  xMun="SENADOR MODESTINO GONCALVES"
+if xMun="SENADOR MODESTINO GONCALVES":
+  cMun=="3165909"
   cMunSIAFI="5317"
-if cMun=="3166006":
-  xMun="SENHORA DE OLIVEIRA"
+if xMun="SENHORA DE OLIVEIRA":
+  cMun=="3166006"
   cMunSIAFI="5319"
-if cMun=="3166105":
-  xMun="SENHORA DO PORTO"
+if xMun="SENHORA DO PORTO":
+  cMun=="3166105"
   cMunSIAFI="5321"
-if cMun=="3166204":
-  xMun="SENHORA DOS REMEDIOS"
+if xMun="SENHORA DOS REMEDIOS":
+  cMun=="3166204"
   cMunSIAFI="5323"
-if cMun=="3166303":
-  xMun="SERICITA"
+if xMun="SERICITA":
+  cMun=="3166303"
   cMunSIAFI="5325"
-if cMun=="3166402":
-  xMun="SERITINGA"
+if xMun="SERITINGA":
+  cMun=="3166402"
   cMunSIAFI="5327"
-if cMun=="3166501":
-  xMun="SERRA AZUL DE MINAS"
+if xMun="SERRA AZUL DE MINAS":
+  cMun=="3166501"
   cMunSIAFI="5329"
-if cMun=="3166600":
-  xMun="SERRA DA SAUDADE"
+if xMun="SERRA DA SAUDADE":
+  cMun=="3166600"
   cMunSIAFI="5331"
-if cMun=="3166808":
-  xMun="SERRA DO SALITRE"
+if xMun="SERRA DO SALITRE":
+  cMun=="3166808"
   cMunSIAFI="5335"
-if cMun=="3166709":
-  xMun="SERRA DOS AIMORES"
+if xMun="SERRA DOS AIMORES":
+  cMun=="3166709"
   cMunSIAFI="5333"
-if cMun=="3166907":
-  xMun="SERRANIA"
+if xMun="SERRANIA":
+  cMun=="3166907"
   cMunSIAFI="5337"
-if cMun=="3166956":
-  xMun="SERRANOPOLIS DE MINAS"
+if xMun="SERRANOPOLIS DE MINAS":
+  cMun=="3166956"
   cMunSIAFI="0736"
-if cMun=="3167004":
-  xMun="SERRANOS"
+if xMun="SERRANOS":
+  cMun=="3167004"
   cMunSIAFI="5339"
-if cMun=="3167103":
-  xMun="SERRO"
+if xMun="SERRO":
+  cMun=="3167103"
   cMunSIAFI="5341"
-if cMun=="3167202":
-  xMun="SETE LAGOAS"
+if xMun="SETE LAGOAS":
+  cMun=="3167202"
   cMunSIAFI="5343"
-if cMun=="3165552":
-  xMun="SETUBINHA"
+if xMun="SETUBINHA":
+  cMun=="3165552"
   cMunSIAFI="0732"
-if cMun=="3167301":
-  xMun="SILVEIRANIA"
+if xMun="SILVEIRANIA":
+  cMun=="3167301"
   cMunSIAFI="5345"
-if cMun=="3167400":
-  xMun="SILVIANOPOLIS"
+if xMun="SILVIANOPOLIS":
+  cMun=="3167400"
   cMunSIAFI="5347"
-if cMun=="3167509":
-  xMun="SIMAO PEREIRA"
+if xMun="SIMAO PEREIRA":
+  cMun=="3167509"
   cMunSIAFI="5349"
-if cMun=="3167608":
-  xMun="SIMONESIA"
+if xMun="SIMONESIA":
+  cMun=="3167608"
   cMunSIAFI="5351"
-if cMun=="3167707":
-  xMun="SOBRALIA"
+if xMun="SOBRALIA":
+  cMun=="3167707"
   cMunSIAFI="5353"
-if cMun=="3167806":
-  xMun="SOLEDADE DE MINAS"
+if xMun="SOLEDADE DE MINAS":
+  cMun=="3167806"
   cMunSIAFI="5355"
-if cMun=="3167905":
-  xMun="TABULEIRO"
+if xMun="TABULEIRO":
+  cMun=="3167905"
   cMunSIAFI="5357"
-if cMun=="3168002":
-  xMun="TAIOBEIRAS"
+if xMun="TAIOBEIRAS":
+  cMun=="3168002"
   cMunSIAFI="5359"
-if cMun=="3168051":
-  xMun="TAPARUBA"
+if xMun="TAPARUBA":
+  cMun=="3168051"
   cMunSIAFI="0738"
-if cMun=="3168101":
-  xMun="TAPIRA"
+if xMun="TAPIRA":
+  cMun=="3168101"
   cMunSIAFI="5361"
-if cMun=="3168200":
-  xMun="TAPIRAI"
+if xMun="TAPIRAI":
+  cMun=="3168200"
   cMunSIAFI="5363"
-if cMun=="3168309":
-  xMun="TAQUARACU DE MINAS"
+if xMun="TAQUARACU DE MINAS":
+  cMun=="3168309"
   cMunSIAFI="5365"
-if cMun=="3168408":
-  xMun="TARUMIRIM"
+if xMun="TARUMIRIM":
+  cMun=="3168408"
   cMunSIAFI="5367"
-if cMun=="3168507":
-  xMun="TEIXEIRAS"
+if xMun="TEIXEIRAS":
+  cMun=="3168507"
   cMunSIAFI="5369"
-if cMun=="3168606":
-  xMun="TEOFILO OTONI"
+if xMun="TEOFILO OTONI":
+  cMun=="3168606"
   cMunSIAFI="5371"
-if cMun=="3168705":
-  xMun="TIMOTEO"
+if xMun="TIMOTEO":
+  cMun=="3168705"
   cMunSIAFI="5373"
-if cMun=="3168804":
-  xMun="TIRADENTES"
+if xMun="TIRADENTES":
+  cMun=="3168804"
   cMunSIAFI="5375"
-if cMun=="3168903":
-  xMun="TIROS"
+if xMun="TIROS":
+  cMun=="3168903"
   cMunSIAFI="5377"
-if cMun=="3169000":
-  xMun="TOCANTINS"
+if xMun="TOCANTINS":
+  cMun=="3169000"
   cMunSIAFI="5379"
-if cMun=="3169059":
-  xMun="TOCOS DO MOJI"
+if xMun="TOCOS DO MOJI":
+  cMun=="3169059"
   cMunSIAFI="0740"
-if cMun=="3169109":
-  xMun="TOLEDO"
+if xMun="TOLEDO":
+  cMun=="3169109"
   cMunSIAFI="5381"
-if cMun=="3169208":
-  xMun="TOMBOS"
+if xMun="TOMBOS":
+  cMun=="3169208"
   cMunSIAFI="5383"
-if cMun=="3169307":
-  xMun="TRÃŠS CORACÃ•ES"
+if xMun="TRÃŠS CORACÃ•ES":
+  cMun=="3169307"
   cMunSIAFI="5385"
-if cMun=="3169356":
-  xMun="TRÃŠS MARIAS"
+if xMun="TRÃŠS MARIAS":
+  cMun=="3169356"
   cMunSIAFI="4115"
-if cMun=="3169406":
-  xMun="TRÃŠS PONTAS"
+if xMun="TRÃŠS PONTAS":
+  cMun=="3169406"
   cMunSIAFI="5387"
-if cMun=="3169505":
-  xMun="TUMIRITINGA"
+if xMun="TUMIRITINGA":
+  cMun=="3169505"
   cMunSIAFI="5389"
-if cMun=="3169604":
-  xMun="TUPACIGUARA"
+if xMun="TUPACIGUARA":
+  cMun=="3169604"
   cMunSIAFI="5391"
-if cMun=="3169703":
-  xMun="TURMALINA"
+if xMun="TURMALINA":
+  cMun=="3169703"
   cMunSIAFI="5393"
-if cMun=="3169802":
-  xMun="TURVOLANDIA"
+if xMun="TURVOLANDIA":
+  cMun=="3169802"
   cMunSIAFI="5395"
-if cMun=="3169901":
-  xMun="UBA"
+if xMun="UBA":
+  cMun=="3169901"
   cMunSIAFI="5397"
-if cMun=="3170008":
-  xMun="UBAI"
+if xMun="UBAI":
+  cMun=="3170008"
   cMunSIAFI="5399"
-if cMun=="3170057":
-  xMun="UBAPORANGA"
+if xMun="UBAPORANGA":
+  cMun=="3170057"
   cMunSIAFI="2671"
-if cMun=="3170107":
-  xMun="UBERABA"
+if xMun="UBERABA":
+  cMun=="3170107"
   cMunSIAFI="5401"
-if cMun=="3170206":
-  xMun="UBERLANDIA"
+if xMun="UBERLANDIA":
+  cMun=="3170206"
   cMunSIAFI="5403"
-if cMun=="3170305":
-  xMun="UMBURATIBA"
+if xMun="UMBURATIBA":
+  cMun=="3170305"
   cMunSIAFI="5405"
-if cMun=="3170404":
-  xMun="UNAI"
+if xMun="UNAI":
+  cMun=="3170404"
   cMunSIAFI="5407"
-if cMun=="3170438":
-  xMun="UNIAO DE MINAS"
+if xMun="UNIAO DE MINAS":
+  cMun=="3170438"
   cMunSIAFI="0742"
-if cMun=="3170479":
-  xMun="URUANA DE MINAS"
+if xMun="URUANA DE MINAS":
+  cMun=="3170479"
   cMunSIAFI="0744"
-if cMun=="3170503":
-  xMun="URUCANIA"
+if xMun="URUCANIA":
+  cMun=="3170503"
   cMunSIAFI="5409"
-if cMun=="3170529":
-  xMun="URUCUIA"
+if xMun="URUCUIA":
+  cMun=="3170529"
   cMunSIAFI="2699"
-if cMun=="3170578":
-  xMun="VARGEM ALEGRE"
+if xMun="VARGEM ALEGRE":
+  cMun=="3170578"
   cMunSIAFI="0746"
-if cMun=="3170602":
-  xMun="VARGEM BONITA"
+if xMun="VARGEM BONITA":
+  cMun=="3170602"
   cMunSIAFI="5411"
-if cMun=="3170651":
-  xMun="VARGEM GRANDE DO RIO PARDO"
+if xMun="VARGEM GRANDE DO RIO PARDO":
+  cMun=="3170651"
   cMunSIAFI="0748"
-if cMun=="3170701":
-  xMun="VARGINHA"
+if xMun="VARGINHA":
+  cMun=="3170701"
   cMunSIAFI="5413"
-if cMun=="3170750":
-  xMun="VARJAO DE MINAS"
+if xMun="VARJAO DE MINAS":
+  cMun=="3170750"
   cMunSIAFI="0750"
-if cMun=="3170800":
-  xMun="VARZEA DA PALMA"
+if xMun="VARZEA DA PALMA":
+  cMun=="3170800"
   cMunSIAFI="5415"
-if cMun=="3170909":
-  xMun="VARZELANDIA"
+if xMun="VARZELANDIA":
+  cMun=="3170909"
   cMunSIAFI="5417"
-if cMun=="3171006":
-  xMun="VAZANTE"
+if xMun="VAZANTE":
+  cMun=="3171006"
   cMunSIAFI="5419"
-if cMun=="3171030":
-  xMun="VERDELANDIA"
+if xMun="VERDELANDIA":
+  cMun=="3171030"
   cMunSIAFI="0752"
-if cMun=="3171071":
-  xMun="VEREDINHA"
+if xMun="VEREDINHA":
+  cMun=="3171071"
   cMunSIAFI="0754"
-if cMun=="3171105":
-  xMun="VERISSIMO"
+if xMun="VERISSIMO":
+  cMun=="3171105"
   cMunSIAFI="5423"
-if cMun=="3171154":
-  xMun="VERMELHO NOVO"
+if xMun="VERMELHO NOVO":
+  cMun=="3171154"
   cMunSIAFI="0756"
-if cMun=="3171204":
-  xMun="VESPASIANO"
+if xMun="VESPASIANO":
+  cMun=="3171204"
   cMunSIAFI="5425"
-if cMun=="3171303":
-  xMun="VICOSA"
+if xMun="VICOSA":
+  cMun=="3171303"
   cMunSIAFI="5427"
-if cMun=="3171402":
-  xMun="VIEIRAS"
+if xMun="VIEIRAS":
+  cMun=="3171402"
   cMunSIAFI="5429"
-if cMun=="3171600":
-  xMun="VIRGEM DA LAPA"
+if xMun="VIRGEM DA LAPA":
+  cMun=="3171600"
   cMunSIAFI="5433"
-if cMun=="3171709":
-  xMun="VIRGINIA"
+if xMun="VIRGINIA":
+  cMun=="3171709"
   cMunSIAFI="5435"
-if cMun=="3171808":
-  xMun="VIRGINOPOLIS"
+if xMun="VIRGINOPOLIS":
+  cMun=="3171808"
   cMunSIAFI="5437"
-if cMun=="3171907":
-  xMun="VIRGOLANDIA"
+if xMun="VIRGOLANDIA":
+  cMun=="3171907"
   cMunSIAFI="5439"
-if cMun=="3172004":
-  xMun="VISCONDE DO RIO BRANCO"
+if xMun="VISCONDE DO RIO BRANCO":
+  cMun=="3172004"
   cMunSIAFI="5441"
-if cMun=="3172103":
-  xMun="VOLTA GRANDE"
+if xMun="VOLTA GRANDE":
+  cMun=="3172103"
   cMunSIAFI="5443"
-if cMun=="3172202":
-  xMun="WENCESLAU BRAZ"
+if xMun="WENCESLAU BRAZ":
+  cMun=="3172202"
   cMunSIAFI="5421"
-if cMun=="5000203":
-  xMun="AGUA CLARA"
+if xMun="AGUA CLARA":
+  cMun=="5000203"
   cMunSIAFI="9003"
-if cMun=="5000252":
-  xMun="ALCINOPOLIS"
+if xMun="ALCINOPOLIS":
+  cMun=="5000252"
   cMunSIAFI="0141"
-if cMun=="5000609":
-  xMun="AMAMBAI"
+if xMun="AMAMBAI":
+  cMun=="5000609"
   cMunSIAFI="9011"
-if cMun=="5000708":
-  xMun="ANASTACIO"
+if xMun="ANASTACIO":
+  cMun=="5000708"
   cMunSIAFI="9013"
-if cMun=="5000807":
-  xMun="ANAURILANDIA"
+if xMun="ANAURILANDIA":
+  cMun=="5000807"
   cMunSIAFI="9015"
-if cMun=="5000856":
-  xMun="ANGELICA"
+if xMun="ANGELICA":
+  cMun=="5000856"
   cMunSIAFI="9169"
-if cMun=="5000906":
-  xMun="ANTONIO JOAO"
+if xMun="ANTONIO JOAO":
+  cMun=="5000906"
   cMunSIAFI="9017"
-if cMun=="5001003":
-  xMun="APARECIDA DO TABOADO"
+if xMun="APARECIDA DO TABOADO":
+  cMun=="5001003"
   cMunSIAFI="9019"
-if cMun=="5001102":
-  xMun="AQUIDAUANA"
+if xMun="AQUIDAUANA":
+  cMun=="5001102"
   cMunSIAFI="9021"
-if cMun=="5001243":
-  xMun="ARAL MOREIRA"
+if xMun="ARAL MOREIRA":
+  cMun=="5001243"
   cMunSIAFI="9171"
-if cMun=="5001508":
-  xMun="BANDEIRANTES"
+if xMun="BANDEIRANTES":
+  cMun=="5001508"
   cMunSIAFI="9029"
-if cMun=="5001904":
-  xMun="BATAGUASSU"
+if xMun="BATAGUASSU":
+  cMun=="5001904"
   cMunSIAFI="9037"
-if cMun=="5002001":
-  xMun="BATAYPORA"
+if xMun="BATAYPORA":
+  cMun=="5002001"
   cMunSIAFI="9039"
-if cMun=="5002100":
-  xMun="BELA VISTA"
+if xMun="BELA VISTA":
+  cMun=="5002100"
   cMunSIAFI="9041"
-if cMun=="5002159":
-  xMun="BODOQUENA"
+if xMun="BODOQUENA":
+  cMun=="5002159"
   cMunSIAFI="9801"
-if cMun=="5002209":
-  xMun="BONITO"
+if xMun="BONITO":
+  cMun=="5002209"
   cMunSIAFI="9043"
-if cMun=="5002308":
-  xMun="BRASILANDIA"
+if xMun="BRASILANDIA":
+  cMun=="5002308"
   cMunSIAFI="9045"
-if cMun=="5002407":
-  xMun="CAARAPO"
+if xMun="CAARAPO":
+  cMun=="5002407"
   cMunSIAFI="9055"
-if cMun=="5002605":
-  xMun="CAMAPUA"
+if xMun="CAMAPUA":
+  cMun=="5002605"
   cMunSIAFI="9049"
-if cMun=="5002704":
-  xMun="CAMPO GRANDE"
+if xMun="CAMPO GRANDE":
+  cMun=="5002704"
   cMunSIAFI="9051"
-if cMun=="5002803":
-  xMun="CARACOL"
+if xMun="CARACOL":
+  cMun=="5002803"
   cMunSIAFI="9053"
-if cMun=="5002902":
-  xMun="CASSILANDIA"
+if xMun="CASSILANDIA":
+  cMun=="5002902"
   cMunSIAFI="9057"
-if cMun=="5002951":
-  xMun="CHAPADAO DO SUL"
+if xMun="CHAPADAO DO SUL":
+  cMun=="5002951"
   cMunSIAFI="9787"
-if cMun=="5003108":
-  xMun="CORGUINHO"
+if xMun="CORGUINHO":
+  cMun=="5003108"
   cMunSIAFI="9061"
-if cMun=="5003157":
-  xMun="CORONEL SAPUCAIA"
+if xMun="CORONEL SAPUCAIA":
+  cMun=="5003157"
   cMunSIAFI="9997"
-if cMun=="5003207":
-  xMun="CORUMBA"
+if xMun="CORUMBA":
+  cMun=="5003207"
   cMunSIAFI="9063"
-if cMun=="5003256":
-  xMun="COSTA RICA"
+if xMun="COSTA RICA":
+  cMun=="5003256"
   cMunSIAFI="9803"
-if cMun=="5003306":
-  xMun="COXIM"
+if xMun="COXIM":
+  cMun=="5003306"
   cMunSIAFI="9065"
-if cMun=="5003454":
-  xMun="DEODAPOLIS"
+if xMun="DEODAPOLIS":
+  cMun=="5003454"
   cMunSIAFI="9175"
-if cMun=="5003488":
-  xMun="DOIS IRMAOS DO BURITI"
+if xMun="DOIS IRMAOS DO BURITI":
+  cMun=="5003488"
   cMunSIAFI="9793"
-if cMun=="5003504":
-  xMun="DOURADINA"
+if xMun="DOURADINA":
+  cMun=="5003504"
   cMunSIAFI="9805"
-if cMun=="5003702":
-  xMun="DOURADOS"
+if xMun="DOURADOS":
+  cMun=="5003702"
   cMunSIAFI="9073"
-if cMun=="5003751":
-  xMun="ELDORADO"
+if xMun="ELDORADO":
+  cMun=="5003751"
   cMunSIAFI="9173"
-if cMun=="5003801":
-  xMun="FATIMA DO SUL"
+if xMun="FATIMA DO SUL":
+  cMun=="5003801"
   cMunSIAFI="9075"
-if cMun=="5003900":
-  xMun="FIGUEIRAO"
+if xMun="FIGUEIRAO":
+  cMun=="5003900"
   cMunSIAFI="1178"
-if cMun=="5004007":
-  xMun="GLORIA DE DOURADOS"
+if xMun="GLORIA DE DOURADOS":
+  cMun=="5004007"
   cMunSIAFI="9079"
-if cMun=="5004106":
-  xMun="GUIA LOPES DA LAGUNA"
+if xMun="GUIA LOPES DA LAGUNA":
+  cMun=="5004106"
   cMunSIAFI="9081"
-if cMun=="5004304":
-  xMun="IGUATEMI"
+if xMun="IGUATEMI":
+  cMun=="5004304"
   cMunSIAFI="9085"
-if cMun=="5004403":
-  xMun="INOCÃŠNCIA"
+if xMun="INOCÃŠNCIA":
+  cMun=="5004403"
   cMunSIAFI="9087"
-if cMun=="5004502":
-  xMun="ITAPORA"
+if xMun="ITAPORA":
+  cMun=="5004502"
   cMunSIAFI="9089"
-if cMun=="5004601":
-  xMun="ITAQUIRAI"
+if xMun="ITAQUIRAI":
+  cMun=="5004601"
   cMunSIAFI="9807"
-if cMun=="5004700":
-  xMun="IVINHEMA"
+if xMun="IVINHEMA":
+  cMun=="5004700"
   cMunSIAFI="9093"
-if cMun=="5004809":
-  xMun="JAPORA"
+if xMun="JAPORA":
+  cMun=="5004809"
   cMunSIAFI="0161"
-if cMun=="5004908":
-  xMun="JARAGUARI"
+if xMun="JARAGUARI":
+  cMun=="5004908"
   cMunSIAFI="9097"
-if cMun=="5005004":
-  xMun="JARDIM"
+if xMun="JARDIM":
+  cMun=="5005004"
   cMunSIAFI="9099"
-if cMun=="5005103":
-  xMun="JATEI"
+if xMun="JATEI":
+  cMun=="5005103"
   cMunSIAFI="9101"
-if cMun=="5005152":
-  xMun="JUTI"
+if xMun="JUTI":
+  cMun=="5005152"
   cMunSIAFI="9923"
-if cMun=="5005202":
-  xMun="LADARIO"
+if xMun="LADARIO":
+  cMun=="5005202"
   cMunSIAFI="9103"
-if cMun=="5005251":
-  xMun="LAGUNA CARAPA"
+if xMun="LAGUNA CARAPA":
+  cMun=="5005251"
   cMunSIAFI="0163"
-if cMun=="5005400":
-  xMun="MARACAJU"
+if xMun="MARACAJU":
+  cMun=="5005400"
   cMunSIAFI="9107"
-if cMun=="5005608":
-  xMun="MIRANDA"
+if xMun="MIRANDA":
+  cMun=="5005608"
   cMunSIAFI="9111"
-if cMun=="5005681":
-  xMun="MUNDO NOVO"
+if xMun="MUNDO NOVO":
+  cMun=="5005681"
   cMunSIAFI="9179"
-if cMun=="5005707":
-  xMun="NAVIRAI"
+if xMun="NAVIRAI":
+  cMun=="5005707"
   cMunSIAFI="9113"
-if cMun=="5005806":
-  xMun="NIOAQUE"
+if xMun="NIOAQUE":
+  cMun=="5005806"
   cMunSIAFI="9115"
-if cMun=="5006002":
-  xMun="NOVA ALVORADA DO SUL"
+if xMun="NOVA ALVORADA DO SUL":
+  cMun=="5006002"
   cMunSIAFI="0143"
-if cMun=="5006200":
-  xMun="NOVA ANDRADINA"
+if xMun="NOVA ANDRADINA":
+  cMun=="5006200"
   cMunSIAFI="9123"
-if cMun=="5006259":
-  xMun="NOVO HORIZONTE DO SUL"
+if xMun="NOVO HORIZONTE DO SUL":
+  cMun=="5006259"
   cMunSIAFI="0159"
-if cMun=="5006309":
-  xMun="PARANAIBA"
+if xMun="PARANAIBA":
+  cMun=="5006309"
   cMunSIAFI="9125"
-if cMun=="5006358":
-  xMun="PARANHOS"
+if xMun="PARANHOS":
+  cMun=="5006358"
   cMunSIAFI="9739"
-if cMun=="5006408":
-  xMun="PEDRO GOMES"
+if xMun="PEDRO GOMES":
+  cMun=="5006408"
   cMunSIAFI="9127"
-if cMun=="5006606":
-  xMun="PONTA PORA"
+if xMun="PONTA PORA":
+  cMun=="5006606"
   cMunSIAFI="9131"
-if cMun=="5006903":
-  xMun="PORTO MURTINHO"
+if xMun="PORTO MURTINHO":
+  cMun=="5006903"
   cMunSIAFI="9137"
-if cMun=="5007109":
-  xMun="RIBAS DO RIO PARDO"
+if xMun="RIBAS DO RIO PARDO":
+  cMun=="5007109"
   cMunSIAFI="9141"
-if cMun=="5007208":
-  xMun="RIO BRILHANTE"
+if xMun="RIO BRILHANTE":
+  cMun=="5007208"
   cMunSIAFI="9143"
-if cMun=="5007307":
-  xMun="RIO NEGRO"
+if xMun="RIO NEGRO":
+  cMun=="5007307"
   cMunSIAFI="9145"
-if cMun=="5007406":
-  xMun="RIO VERDE DE MATO GROSSO"
+if xMun="RIO VERDE DE MATO GROSSO":
+  cMun=="5007406"
   cMunSIAFI="9147"
-if cMun=="5007505":
-  xMun="ROCHEDO"
+if xMun="ROCHEDO":
+  cMun=="5007505"
   cMunSIAFI="9149"
-if cMun=="5007554":
-  xMun="SANTA RITA DO PARDO"
+if xMun="SANTA RITA DO PARDO":
+  cMun=="5007554"
   cMunSIAFI="9745"
-if cMun=="5007695":
-  xMun="SAO GABRIEL DO OESTE"
+if xMun="SAO GABRIEL DO OESTE":
+  cMun=="5007695"
   cMunSIAFI="9809"
-if cMun=="5007802":
-  xMun="SELVIRIA"
+if xMun="SELVIRIA":
+  cMun=="5007802"
   cMunSIAFI="9811"
-if cMun=="5007703":
-  xMun="SETE QUEDAS"
+if xMun="SETE QUEDAS":
+  cMun=="5007703"
   cMunSIAFI="9813"
-if cMun=="5007901":
-  xMun="SIDROLANDIA"
+if xMun="SIDROLANDIA":
+  cMun=="5007901"
   cMunSIAFI="9157"
-if cMun=="5007935":
-  xMun="SONORA"
+if xMun="SONORA":
+  cMun=="5007935"
   cMunSIAFI="9757"
-if cMun=="5007950":
-  xMun="TACURU"
+if xMun="TACURU":
+  cMun=="5007950"
   cMunSIAFI="9815"
-if cMun=="5007976":
-  xMun="TAQUARUSSU"
+if xMun="TAQUARUSSU":
+  cMun=="5007976"
   cMunSIAFI="9817"
-if cMun=="5008008":
-  xMun="TERENOS"
+if xMun="TERENOS":
+  cMun=="5008008"
   cMunSIAFI="9159"
-if cMun=="5008305":
-  xMun="TRÃŠS LAGOAS"
+if xMun="TRÃŠS LAGOAS":
+  cMun=="5008305"
   cMunSIAFI="9165"
-if cMun=="5008404":
-  xMun="VICENTINA"
+if xMun="VICENTINA":
+  cMun=="5008404"
   cMunSIAFI="9187"
-if cMun=="5100102":
-  xMun="ACORIZAL"
+if xMun="ACORIZAL":
+  cMun=="5100102"
   cMunSIAFI="9001"
-if cMun=="5100201":
-  xMun="AGUA BOA"
+if xMun="AGUA BOA":
+  cMun=="5100201"
   cMunSIAFI="9191"
-if cMun=="5100250":
-  xMun="ALTA FLORESTA"
+if xMun="ALTA FLORESTA":
+  cMun=="5100250"
   cMunSIAFI="8987"
-if cMun=="5100300":
-  xMun="ALTO ARAGUAIA"
+if xMun="ALTO ARAGUAIA":
+  cMun=="5100300"
   cMunSIAFI="9005"
-if cMun=="5100359":
-  xMun="ALTO BOA VISTA"
+if xMun="ALTO BOA VISTA":
+  cMun=="5100359"
   cMunSIAFI="0127"
-if cMun=="5100409":
-  xMun="ALTO GARCAS"
+if xMun="ALTO GARCAS":
+  cMun=="5100409"
   cMunSIAFI="9007"
-if cMun=="5100508":
-  xMun="ALTO PARAGUAI"
+if xMun="ALTO PARAGUAI":
+  cMun=="5100508"
   cMunSIAFI="9009"
-if cMun=="5100607":
-  xMun="ALTO TAQUARI"
+if xMun="ALTO TAQUARI":
+  cMun=="5100607"
   cMunSIAFI="9911"
-if cMun=="5100805":
-  xMun="APIACAS"
+if xMun="APIACAS":
+  cMun=="5100805"
   cMunSIAFI="9773"
-if cMun=="5101001":
-  xMun="ARAGUAIANA"
+if xMun="ARAGUAIANA":
+  cMun=="5101001"
   cMunSIAFI="9869"
-if cMun=="5101209":
-  xMun="ARAGUAINHA"
+if xMun="ARAGUAINHA":
+  cMun=="5101209"
   cMunSIAFI="9023"
-if cMun=="5101258":
-  xMun="ARAPUTANGA"
+if xMun="ARAPUTANGA":
+  cMun=="5101258"
   cMunSIAFI="8989"
-if cMun=="5101308":
-  xMun="ARENAPOLIS"
+if xMun="ARENAPOLIS":
+  cMun=="5101308"
   cMunSIAFI="9025"
-if cMun=="5101407":
-  xMun="ARIPUANA"
+if xMun="ARIPUANA":
+  cMun=="5101407"
   cMunSIAFI="9027"
-if cMun=="5101605":
-  xMun="BARAO DE MELGACO"
+if xMun="BARAO DE MELGACO":
+  cMun=="5101605"
   cMunSIAFI="9031"
-if cMun=="5101704":
-  xMun="BARRA DO BUGRES"
+if xMun="BARRA DO BUGRES":
+  cMun=="5101704"
   cMunSIAFI="9033"
-if cMun=="5101803":
-  xMun="BARRA DO GARCAS"
+if xMun="BARRA DO GARCAS":
+  cMun=="5101803"
   cMunSIAFI="9035"
-if cMun=="5101852":
-  xMun="BOM JESUS DO ARAGUAIA"
+if xMun="BOM JESUS DO ARAGUAIA":
+  cMun=="5101852"
   cMunSIAFI="1078"
-if cMun=="5101902":
-  xMun="BRASNORTE"
+if xMun="BRASNORTE":
+  cMun=="5101902"
   cMunSIAFI="9873"
-if cMun=="5102504":
-  xMun="CACERES"
+if xMun="CACERES":
+  cMun=="5102504"
   cMunSIAFI="9047"
-if cMun=="5102603":
-  xMun="CAMPINAPOLIS"
+if xMun="CAMPINAPOLIS":
+  cMun=="5102603"
   cMunSIAFI="9863"
-if cMun=="5102637":
-  xMun="CAMPO NOVO DO PARECIS"
+if xMun="CAMPO NOVO DO PARECIS":
+  cMun=="5102637"
   cMunSIAFI="9777"
-if cMun=="5102678":
-  xMun="CAMPO VERDE"
+if xMun="CAMPO VERDE":
+  cMun=="5102678"
   cMunSIAFI="9779"
-if cMun=="5102686":
-  xMun="CAMPOS DE JULIO"
+if xMun="CAMPOS DE JULIO":
+  cMun=="5102686"
   cMunSIAFI="1032"
-if cMun=="5102694":
-  xMun="CANABRAVA DO NORTE"
+if xMun="CANABRAVA DO NORTE":
+  cMun=="5102694"
   cMunSIAFI="0129"
-if cMun=="5102702":
-  xMun="CANARANA"
+if xMun="CANARANA":
+  cMun=="5102702"
   cMunSIAFI="9193"
-if cMun=="5102793":
-  xMun="CARLINDA"
+if xMun="CARLINDA":
+  cMun=="5102793"
   cMunSIAFI="1034"
-if cMun=="5102850":
-  xMun="CASTANHEIRA"
+if xMun="CASTANHEIRA":
+  cMun=="5102850"
   cMunSIAFI="9783"
-if cMun=="5103007":
-  xMun="CHAPADA DOS GUIMARAES"
+if xMun="CHAPADA DOS GUIMARAES":
+  cMun=="5103007"
   cMunSIAFI="9059"
-if cMun=="5103056":
-  xMun="CLAUDIA"
+if xMun="CLAUDIA":
+  cMun=="5103056"
   cMunSIAFI="9789"
-if cMun=="5103106":
-  xMun="COCALINHO"
+if xMun="COCALINHO":
+  cMun=="5103106"
   cMunSIAFI="9865"
-if cMun=="5103205":
-  xMun="COLIDER"
+if xMun="COLIDER":
+  cMun=="5103205"
   cMunSIAFI="8979"
-if cMun=="5103254":
-  xMun="COLNIZA"
+if xMun="COLNIZA":
+  cMun=="5103254"
   cMunSIAFI="1080"
-if cMun=="5103304":
-  xMun="COMODORO"
+if xMun="COMODORO":
+  cMun=="5103304"
   cMunSIAFI="9883"
-if cMun=="5103353":
-  xMun="CONFRESA"
+if xMun="CONFRESA":
+  cMun=="5103353"
   cMunSIAFI="0131"
-if cMun=="5103361":
-  xMun="CONQUISTA D OESTE"
+if xMun="CONQUISTA D OESTE":
+  cMun=="5103361"
   cMunSIAFI="1082"
-if cMun=="5103379":
-  xMun="COTRIGUACU"
+if xMun="COTRIGUACU":
+  cMun=="5103379"
   cMunSIAFI="0089"
-if cMun=="5103403":
-  xMun="CUIABA"
+if xMun="CUIABA":
+  cMun=="5103403"
   cMunSIAFI="9067"
-if cMun=="5103437":
-  xMun="CURVELANDIA"
+if xMun="CURVELANDIA":
+  cMun=="5103437"
   cMunSIAFI="1084"
-if cMun=="5103452":
-  xMun="DENISE"
+if xMun="DENISE":
+  cMun=="5103452"
   cMunSIAFI="9833"
-if cMun=="5103502":
-  xMun="DIAMANTINO"
+if xMun="DIAMANTINO":
+  cMun=="5103502"
   cMunSIAFI="9069"
-if cMun=="5103601":
-  xMun="DOM AQUINO"
+if xMun="DOM AQUINO":
+  cMun=="5103601"
   cMunSIAFI="9071"
-if cMun=="5103700":
-  xMun="FELIZ NATAL"
+if xMun="FELIZ NATAL":
+  cMun=="5103700"
   cMunSIAFI="1036"
-if cMun=="5103809":
-  xMun="FIGUEIROPOLIS D OESTE"
+if xMun="FIGUEIROPOLIS D OESTE":
+  cMun=="5103809"
   cMunSIAFI="9881"
-if cMun=="5103858":
-  xMun="GAUCHA DO NORTE"
+if xMun="GAUCHA DO NORTE":
+  cMun=="5103858"
   cMunSIAFI="1038"
-if cMun=="5103908":
-  xMun="GENERAL CARNEIRO"
+if xMun="GENERAL CARNEIRO":
+  cMun=="5103908"
   cMunSIAFI="9077"
-if cMun=="5103957":
-  xMun="GLORIA D OESTE"
+if xMun="GLORIA D OESTE":
+  cMun=="5103957"
   cMunSIAFI="0135"
-if cMun=="5104104":
-  xMun="GUARANTA DO NORTE"
+if xMun="GUARANTA DO NORTE":
+  cMun=="5104104"
   cMunSIAFI="9887"
-if cMun=="5104203":
-  xMun="GUIRATINGA"
+if xMun="GUIRATINGA":
+  cMun=="5104203"
   cMunSIAFI="9083"
-if cMun=="5104500":
-  xMun="INDIAVAI"
+if xMun="INDIAVAI":
+  cMun=="5104500"
   cMunSIAFI="9877"
-if cMun=="5104526":
-  xMun="IPIRANGA DO NORTE"
+if xMun="IPIRANGA DO NORTE":
+  cMun=="5104526"
   cMunSIAFI="1184"
-if cMun=="5104542":
-  xMun="ITANHANGA"
+if xMun="ITANHANGA":
+  cMun=="5104542"
   cMunSIAFI="1186"
-if cMun=="5104559":
-  xMun="ITAUBA"
+if xMun="ITAUBA":
+  cMun=="5104559"
   cMunSIAFI="9901"
-if cMun=="5104609":
-  xMun="ITIQUIRA"
+if xMun="ITIQUIRA":
+  cMun=="5104609"
   cMunSIAFI="9091"
-if cMun=="5104807":
-  xMun="JACIARA"
+if xMun="JACIARA":
+  cMun=="5104807"
   cMunSIAFI="9095"
-if cMun=="5104906":
-  xMun="JANGADA"
+if xMun="JANGADA":
+  cMun=="5104906"
   cMunSIAFI="9861"
-if cMun=="5105002":
-  xMun="JAURU"
+if xMun="JAURU":
+  cMun=="5105002"
   cMunSIAFI="8991"
-if cMun=="5105101":
-  xMun="JUARA"
+if xMun="JUARA":
+  cMun=="5105101"
   cMunSIAFI="9819"
-if cMun=="5105150":
-  xMun="JUINA"
+if xMun="JUINA":
+  cMun=="5105150"
   cMunSIAFI="9831"
-if cMun=="5105176":
-  xMun="JURUENA"
+if xMun="JURUENA":
+  cMun=="5105176"
   cMunSIAFI="9921"
-if cMun=="5105200":
-  xMun="JUSCIMEIRA"
+if xMun="JUSCIMEIRA":
+  cMun=="5105200"
   cMunSIAFI="9189"
-if cMun=="5105234":
-  xMun="LAMBARI D OESTE"
+if xMun="LAMBARI D OESTE":
+  cMun=="5105234"
   cMunSIAFI="0137"
-if cMun=="5105259":
-  xMun="LUCAS DO RIO VERDE"
+if xMun="LUCAS DO RIO VERDE":
+  cMun=="5105259"
   cMunSIAFI="9925"
-if cMun=="5105309":
-  xMun="LUCIARA"
+if xMun="LUCIARA":
+  cMun=="5105309"
   cMunSIAFI="9105"
-if cMun=="5105580":
-  xMun="MARCELANDIA"
+if xMun="MARCELANDIA":
+  cMun=="5105580"
   cMunSIAFI="9899"
-if cMun=="5105606":
-  xMun="MATUPA"
+if xMun="MATUPA":
+  cMun=="5105606"
   cMunSIAFI="9929"
-if cMun=="5105622":
-  xMun="MIRASSOL D OESTE"
+if xMun="MIRASSOL D OESTE":
+  cMun=="5105622"
   cMunSIAFI="9177"
-if cMun=="5105903":
-  xMun="NOBRES"
+if xMun="NOBRES":
+  cMun=="5105903"
   cMunSIAFI="9117"
-if cMun=="5106000":
-  xMun="NORTELANDIA"
+if xMun="NORTELANDIA":
+  cMun=="5106000"
   cMunSIAFI="9119"
-if cMun=="5106109":
-  xMun="NOSSA SENHORA DO LIVRAMENTO"
+if xMun="NOSSA SENHORA DO LIVRAMENTO":
+  cMun=="5106109"
   cMunSIAFI="9121"
-if cMun=="5106158":
-  xMun="NOVA BANDEIRANTES"
+if xMun="NOVA BANDEIRANTES":
+  cMun=="5106158"
   cMunSIAFI="0117"
-if cMun=="5106208":
-  xMun="NOVA BRASILANDIA"
+if xMun="NOVA BRASILANDIA":
+  cMun=="5106208"
   cMunSIAFI="8981"
-if cMun=="5106216":
-  xMun="NOVA CANAA DO NORTE"
+if xMun="NOVA CANAA DO NORTE":
+  cMun=="5106216"
   cMunSIAFI="9889"
-if cMun=="5108808":
-  xMun="NOVA GUARITA"
+if xMun="NOVA GUARITA":
+  cMun=="5108808"
   cMunSIAFI="0121"
-if cMun=="5106182":
-  xMun="NOVA LACERDA"
+if xMun="NOVA LACERDA":
+  cMun=="5106182"
   cMunSIAFI="1040"
-if cMun=="5108857":
-  xMun="NOVA MARILANDIA"
+if xMun="NOVA MARILANDIA":
+  cMun=="5108857"
   cMunSIAFI="0103"
-if cMun=="5108907":
-  xMun="NOVA MARINGA"
+if xMun="NOVA MARINGA":
+  cMun=="5108907"
   cMunSIAFI="0111"
-if cMun=="5108956":
-  xMun="NOVA MONTE VERDE"
+if xMun="NOVA MONTE VERDE":
+  cMun=="5108956"
   cMunSIAFI="0119"
-if cMun=="5106224":
-  xMun="NOVA MUTUM"
+if xMun="NOVA MUTUM":
+  cMun=="5106224"
   cMunSIAFI="9937"
-if cMun=="5106174":
-  xMun="NOVA NAZARE"
+if xMun="NOVA NAZARE":
+  cMun=="5106174"
   cMunSIAFI="1086"
-if cMun=="5106232":
-  xMun="NOVA OLIMPIA"
+if xMun="NOVA OLIMPIA":
+  cMun=="5106232"
   cMunSIAFI="9893"
-if cMun=="5106190":
-  xMun="NOVA SANTA HELENA"
+if xMun="NOVA SANTA HELENA":
+  cMun=="5106190"
   cMunSIAFI="1088"
-if cMun=="5106240":
-  xMun="NOVA UBIRATA"
+if xMun="NOVA UBIRATA":
+  cMun=="5106240"
   cMunSIAFI="1042"
-if cMun=="5106257":
-  xMun="NOVA XAVANTINA"
+if xMun="NOVA XAVANTINA":
+  cMun=="5106257"
   cMunSIAFI="9195"
-if cMun=="5106273":
-  xMun="NOVO HORIZONTE DO NORTE"
+if xMun="NOVO HORIZONTE DO NORTE":
+  cMun=="5106273"
   cMunSIAFI="9903"
-if cMun=="5106265":
-  xMun="NOVO MUNDO"
+if xMun="NOVO MUNDO":
+  cMun=="5106265"
   cMunSIAFI="1044"
-if cMun=="5106315":
-  xMun="NOVO SANTO ANTONIO"
+if xMun="NOVO SANTO ANTONIO":
+  cMun=="5106315"
   cMunSIAFI="1090"
-if cMun=="5106281":
-  xMun="NOVO SAO JOAQUIM"
+if xMun="NOVO SAO JOAQUIM":
+  cMun=="5106281"
   cMunSIAFI="9867"
-if cMun=="5106299":
-  xMun="PARANAITA"
+if xMun="PARANAITA":
+  cMun=="5106299"
   cMunSIAFI="9885"
-if cMun=="5106307":
-  xMun="PARANATINGA"
+if xMun="PARANATINGA":
+  cMun=="5106307"
   cMunSIAFI="8983"
-if cMun=="5106372":
-  xMun="PEDRA PRETA"
+if xMun="PEDRA PRETA":
+  cMun=="5106372"
   cMunSIAFI="9181"
-if cMun=="5106422":
-  xMun="PEIXOTO DE AZEVEDO"
+if xMun="PEIXOTO DE AZEVEDO":
+  cMun=="5106422"
   cMunSIAFI="9891"
-if cMun=="5106455":
-  xMun="PLANALTO DA SERRA"
+if xMun="PLANALTO DA SERRA":
+  cMun=="5106455"
   cMunSIAFI="0091"
-if cMun=="5106505":
-  xMun="POCONE"
+if xMun="POCONE":
+  cMun=="5106505"
   cMunSIAFI="9129"
-if cMun=="5106653":
-  xMun="PONTAL DO ARAGUAIA"
+if xMun="PONTAL DO ARAGUAIA":
+  cMun=="5106653"
   cMunSIAFI="0095"
-if cMun=="5106703":
-  xMun="PONTE BRANCA"
+if xMun="PONTE BRANCA":
+  cMun=="5106703"
   cMunSIAFI="9133"
-if cMun=="5106752":
-  xMun="PONTES E LACERDA"
+if xMun="PONTES E LACERDA":
+  cMun=="5106752"
   cMunSIAFI="8999"
-if cMun=="5106778":
-  xMun="PORTO ALEGRE DO NORTE"
+if xMun="PORTO ALEGRE DO NORTE":
+  cMun=="5106778"
   cMunSIAFI="9895"
-if cMun=="5106802":
-  xMun="PORTO DOS GAUCHOS"
+if xMun="PORTO DOS GAUCHOS":
+  cMun=="5106802"
   cMunSIAFI="9135"
-if cMun=="5106828":
-  xMun="PORTO ESPERIDIAO"
+if xMun="PORTO ESPERIDIAO":
+  cMun=="5106828"
   cMunSIAFI="9875"
-if cMun=="5106851":
-  xMun="PORTO ESTRELA"
+if xMun="PORTO ESTRELA":
+  cMun=="5106851"
   cMunSIAFI="0101"
-if cMun=="5107008":
-  xMun="POXOREO"
+if xMun="POXOREO":
+  cMun=="5107008"
   cMunSIAFI="9139"
-if cMun=="5107040":
-  xMun="PRIMAVERA DO LESTE"
+if xMun="PRIMAVERA DO LESTE":
+  cMun=="5107040"
   cMunSIAFI="9871"
-if cMun=="5107065":
-  xMun="QUERÃŠNCIA"
+if xMun="QUERÃŠNCIA":
+  cMun=="5107065"
   cMunSIAFI="0097"
-if cMun=="5107156":
-  xMun="RESERVA DO CABACAL"
+if xMun="RESERVA DO CABACAL":
+  cMun=="5107156"
   cMunSIAFI="9879"
-if cMun=="5107180":
-  xMun="RIBEIRAO CASCALHEIRA"
+if xMun="RIBEIRAO CASCALHEIRA":
+  cMun=="5107180"
   cMunSIAFI="9741"
-if cMun=="5107198":
-  xMun="RIBEIRAOZINHO"
+if xMun="RIBEIRAOZINHO":
+  cMun=="5107198"
   cMunSIAFI="0099"
-if cMun=="5107206":
-  xMun="RIO BRANCO"
+if xMun="RIO BRANCO":
+  cMun=="5107206"
   cMunSIAFI="8995"
-if cMun=="5107578":
-  xMun="RONDOLANDIA"
+if xMun="RONDOLANDIA":
+  cMun=="5107578"
   cMunSIAFI="1092"
-if cMun=="5107602":
-  xMun="RONDONOPOLIS"
+if xMun="RONDONOPOLIS":
+  cMun=="5107602"
   cMunSIAFI="9151"
-if cMun=="5107701":
-  xMun="ROSARIO OESTE"
+if xMun="ROSARIO OESTE":
+  cMun=="5107701"
   cMunSIAFI="9153"
-if cMun=="5107750":
-  xMun="SALTO DO CEU"
+if xMun="SALTO DO CEU":
+  cMun=="5107750"
   cMunSIAFI="8997"
-if cMun=="5107248":
-  xMun="SANTA CARMEM"
+if xMun="SANTA CARMEM":
+  cMun=="5107248"
   cMunSIAFI="0123"
-if cMun=="5107743":
-  xMun="SANTA CRUZ DO XINGU"
+if xMun="SANTA CRUZ DO XINGU":
+  cMun=="5107743"
   cMunSIAFI="1094"
-if cMun=="5107768":
-  xMun="SANTA RITA DO TRIVELATO"
+if xMun="SANTA RITA DO TRIVELATO":
+  cMun=="5107768"
   cMunSIAFI="1096"
-if cMun=="5107776":
-  xMun="SANTA TEREZINHA"
+if xMun="SANTA TEREZINHA":
+  cMun=="5107776"
   cMunSIAFI="9197"
-if cMun=="5107263":
-  xMun="SANTO AFONSO"
+if xMun="SANTO AFONSO":
+  cMun=="5107263"
   cMunSIAFI="0115"
-if cMun=="5107792":
-  xMun="SANTO ANTONIO DO LESTE"
+if xMun="SANTO ANTONIO DO LESTE":
+  cMun=="5107792"
   cMunSIAFI="1098"
-if cMun=="5107800":
-  xMun="SANTO ANTONIO DO LEVERGER"
+if xMun="SANTO ANTONIO DO LEVERGER":
+  cMun=="5107800"
   cMunSIAFI="9155"
-if cMun=="5107859":
-  xMun="SAO FELIX DO ARAGUAIA"
+if xMun="SAO FELIX DO ARAGUAIA":
+  cMun=="5107859"
   cMunSIAFI="9183"
-if cMun=="5107297":
-  xMun="SAO JOSE DO POVO"
+if xMun="SAO JOSE DO POVO":
+  cMun=="5107297"
   cMunSIAFI="6087"
-if cMun=="5107305":
-  xMun="SAO JOSE DO RIO CLARO"
+if xMun="SAO JOSE DO RIO CLARO":
+  cMun=="5107305"
   cMunSIAFI="9199"
-if cMun=="5107354":
-  xMun="SAO JOSE DO XINGU"
+if xMun="SAO JOSE DO XINGU":
+  cMun=="5107354"
   cMunSIAFI="0133"
-if cMun=="5107107":
-  xMun="SAO JOSE DOS QUATRO MARCOS"
+if xMun="SAO JOSE DOS QUATRO MARCOS":
+  cMun=="5107107"
   cMunSIAFI="8993"
-if cMun=="5107404":
-  xMun="SAO PEDRO DA CIPA"
+if xMun="SAO PEDRO DA CIPA":
+  cMun=="5107404"
   cMunSIAFI="0093"
-if cMun=="5107875":
-  xMun="SAPEZAL"
+if xMun="SAPEZAL":
+  cMun=="5107875"
   cMunSIAFI="1046"
-if cMun=="5107883":
-  xMun="SERRA NOVA DOURADA"
+if xMun="SERRA NOVA DOURADA":
+  cMun=="5107883"
   cMunSIAFI="1100"
-if cMun=="5107909":
-  xMun="SINOP"
+if xMun="SINOP":
+  cMun=="5107909"
   cMunSIAFI="8985"
-if cMun=="5107925":
-  xMun="SORRISO"
+if xMun="SORRISO":
+  cMun=="5107925"
   cMunSIAFI="9907"
-if cMun=="5107941":
-  xMun="TABAPORA"
+if xMun="TABAPORA":
+  cMun=="5107941"
   cMunSIAFI="0125"
-if cMun=="5107958":
-  xMun="TANGARA DA SERRA"
+if xMun="TANGARA DA SERRA":
+  cMun=="5107958"
   cMunSIAFI="9185"
-if cMun=="5108006":
-  xMun="TAPURAH"
+if xMun="TAPURAH":
+  cMun=="5108006"
   cMunSIAFI="9763"
-if cMun=="5108055":
-  xMun="TERRA NOVA DO NORTE"
+if xMun="TERRA NOVA DO NORTE":
+  cMun=="5108055"
   cMunSIAFI="9909"
-if cMun=="5108105":
-  xMun="TESOURO"
+if xMun="TESOURO":
+  cMun=="5108105"
   cMunSIAFI="9161"
-if cMun=="5108204":
-  xMun="TORIXOREU"
+if xMun="TORIXOREU":
+  cMun=="5108204"
   cMunSIAFI="9163"
-if cMun=="5108303":
-  xMun="UNIAO DO SUL"
+if xMun="UNIAO DO SUL":
+  cMun=="5108303"
   cMunSIAFI="1048"
-if cMun=="5108352":
-  xMun="VALE DE SAO DOMINGOS"
+if xMun="VALE DE SAO DOMINGOS":
+  cMun=="5108352"
   cMunSIAFI="1102"
-if cMun=="5108402":
-  xMun="VARZEA GRANDE"
+if xMun="VARZEA GRANDE":
+  cMun=="5108402"
   cMunSIAFI="9167"
-if cMun=="5108501":
-  xMun="VERA"
+if xMun="VERA":
+  cMun=="5108501"
   cMunSIAFI="9905"
-if cMun=="5105507":
-  xMun="VILA BELA DA SANTISSIMA TRINDADE"
+if xMun="VILA BELA DA SANTISSIMA TRINDADE":
+  cMun=="5105507"
   cMunSIAFI="9109"
-if cMun=="5108600":
-  xMun="VILA RICA"
+if xMun="VILA RICA":
+  cMun=="5108600"
   cMunSIAFI="9897"
-if cMun=="1500107":
-  xMun="ABAETETUBA"
+if xMun="ABAETETUBA":
+  cMun=="1500107"
   cMunSIAFI="0401"
-if cMun=="1500131":
-  xMun="ABEL FIGUEIREDO"
+if xMun="ABEL FIGUEIREDO":
+  cMun=="1500131"
   cMunSIAFI="0375"
-if cMun=="1500206":
-  xMun="ACARA"
+if xMun="ACARA":
+  cMun=="1500206"
   cMunSIAFI="0403"
-if cMun=="1500305":
-  xMun="AFUA"
+if xMun="AFUA":
+  cMun=="1500305"
   cMunSIAFI="0405"
-if cMun=="1500347":
-  xMun="AGUA AZUL DO NORTE"
+if xMun="AGUA AZUL DO NORTE":
+  cMun=="1500347"
   cMunSIAFI="0383"
-if cMun=="1500404":
-  xMun="ALENQUER"
+if xMun="ALENQUER":
+  cMun=="1500404"
   cMunSIAFI="0407"
-if cMun=="1500503":
-  xMun="ALMEIRIM"
+if xMun="ALMEIRIM":
+  cMun=="1500503"
   cMunSIAFI="0409"
-if cMun=="1500602":
-  xMun="ALTAMIRA"
+if xMun="ALTAMIRA":
+  cMun=="1500602"
   cMunSIAFI="0411"
-if cMun=="1500701":
-  xMun="ANAJAS"
+if xMun="ANAJAS":
+  cMun=="1500701"
   cMunSIAFI="0413"
-if cMun=="1500800":
-  xMun="ANANINDEUA"
+if xMun="ANANINDEUA":
+  cMun=="1500800"
   cMunSIAFI="0415"
-if cMun=="1500859":
-  xMun="ANAPU"
+if xMun="ANAPU":
+  cMun=="1500859"
   cMunSIAFI="0040"
-if cMun=="1500909":
-  xMun="AUGUSTO CORRÃŠA"
+if xMun="AUGUSTO CORRÃŠA":
+  cMun=="1500909"
   cMunSIAFI="0417"
-if cMun=="1500958":
-  xMun="AURORA DO PARA"
+if xMun="AURORA DO PARA":
+  cMun=="1500958"
   cMunSIAFI="0389"
-if cMun=="1501006":
-  xMun="AVEIRO"
+if xMun="AVEIRO":
+  cMun=="1501006"
   cMunSIAFI="0419"
-if cMun=="1501105":
-  xMun="BAGRE"
+if xMun="BAGRE":
+  cMun=="1501105"
   cMunSIAFI="0421"
-if cMun=="1501204":
-  xMun="BAIAO"
+if xMun="BAIAO":
+  cMun=="1501204"
   cMunSIAFI="0423"
-if cMun=="1501253":
-  xMun="BANNACH"
+if xMun="BANNACH":
+  cMun=="1501253"
   cMunSIAFI="0042"
-if cMun=="1501303":
-  xMun="BARCARENA"
+if xMun="BARCARENA":
+  cMun=="1501303"
   cMunSIAFI="0425"
-if cMun=="1501402":
-  xMun="BELEM"
+if xMun="BELEM":
+  cMun=="1501402"
   cMunSIAFI="0427"
-if cMun=="1501451":
-  xMun="BELTERRA"
+if xMun="BELTERRA":
+  cMun=="1501451"
   cMunSIAFI="0044"
-if cMun=="1501501":
-  xMun="BENEVIDES"
+if xMun="BENEVIDES":
+  cMun=="1501501"
   cMunSIAFI="0429"
-if cMun=="1501576":
-  xMun="BOM JESUS DO TOCANTINS"
+if xMun="BOM JESUS DO TOCANTINS":
+  cMun=="1501576"
   cMunSIAFI="0575"
-if cMun=="1501600":
-  xMun="BONITO"
+if xMun="BONITO":
+  cMun=="1501600"
   cMunSIAFI="0431"
-if cMun=="1501709":
-  xMun="BRAGANCA"
+if xMun="BRAGANCA":
+  cMun=="1501709"
   cMunSIAFI="0433"
-if cMun=="1501725":
-  xMun="BRASIL NOVO"
+if xMun="BRASIL NOVO":
+  cMun=="1501725"
   cMunSIAFI="0639"
-if cMun=="1501758":
-  xMun="BREJO GRANDE DO ARAGUAIA"
+if xMun="BREJO GRANDE DO ARAGUAIA":
+  cMun=="1501758"
   cMunSIAFI="0577"
-if cMun=="1501782":
-  xMun="BREU BRANCO"
+if xMun="BREU BRANCO":
+  cMun=="1501782"
   cMunSIAFI="0625"
-if cMun=="1501808":
-  xMun="BREVES"
+if xMun="BREVES":
+  cMun=="1501808"
   cMunSIAFI="0435"
-if cMun=="1501907":
-  xMun="BUJARU"
+if xMun="BUJARU":
+  cMun=="1501907"
   cMunSIAFI="0437"
-if cMun=="1502004":
-  xMun="CACHOEIRA DO ARARI"
+if xMun="CACHOEIRA DO ARARI":
+  cMun=="1502004"
   cMunSIAFI="0439"
-if cMun=="1501956":
-  xMun="CACHOEIRA DO PIRIA"
+if xMun="CACHOEIRA DO PIRIA":
+  cMun=="1501956"
   cMunSIAFI="0046"
-if cMun=="1502103":
-  xMun="CAMETA"
+if xMun="CAMETA":
+  cMun=="1502103"
   cMunSIAFI="0441"
-if cMun=="1502152":
-  xMun="CANAA DOS CARAJAS"
+if xMun="CANAA DOS CARAJAS":
+  cMun=="1502152"
   cMunSIAFI="0048"
-if cMun=="1502202":
-  xMun="CAPANEMA"
+if xMun="CAPANEMA":
+  cMun=="1502202"
   cMunSIAFI="0443"
-if cMun=="1502301":
-  xMun="CAPITAO POCO"
+if xMun="CAPITAO POCO":
+  cMun=="1502301"
   cMunSIAFI="0445"
-if cMun=="1502400":
-  xMun="CASTANHAL"
+if xMun="CASTANHAL":
+  cMun=="1502400"
   cMunSIAFI="0447"
-if cMun=="1502509":
-  xMun="CHAVES"
+if xMun="CHAVES":
+  cMun=="1502509"
   cMunSIAFI="0449"
-if cMun=="1502608":
-  xMun="COLARES"
+if xMun="COLARES":
+  cMun=="1502608"
   cMunSIAFI="0451"
-if cMun=="1502707":
-  xMun="CONCEICAO DO ARAGUAIA"
+if xMun="CONCEICAO DO ARAGUAIA":
+  cMun=="1502707"
   cMunSIAFI="0453"
-if cMun=="1502756":
-  xMun="CONCORDIA DO PARA"
+if xMun="CONCORDIA DO PARA":
+  cMun=="1502756"
   cMunSIAFI="0579"
-if cMun=="1502764":
-  xMun="CUMARU DO NORTE"
+if xMun="CUMARU DO NORTE":
+  cMun=="1502764"
   cMunSIAFI="0385"
-if cMun=="1502772":
-  xMun="CURIONOPOLIS"
+if xMun="CURIONOPOLIS":
+  cMun=="1502772"
   cMunSIAFI="0581"
-if cMun=="1502806":
-  xMun="CURRALINHO"
+if xMun="CURRALINHO":
+  cMun=="1502806"
   cMunSIAFI="0455"
-if cMun=="1502855":
-  xMun="CURUA"
+if xMun="CURUA":
+  cMun=="1502855"
   cMunSIAFI="0050"
-if cMun=="1502905":
-  xMun="CURUCA"
+if xMun="CURUCA":
+  cMun=="1502905"
   cMunSIAFI="0457"
-if cMun=="1502939":
-  xMun="DOM ELISEU"
+if xMun="DOM ELISEU":
+  cMun=="1502939"
   cMunSIAFI="0583"
-if cMun=="1502954":
-  xMun="ELDORADO DOS CARAJAS"
+if xMun="ELDORADO DOS CARAJAS":
+  cMun=="1502954"
   cMunSIAFI="0377"
-if cMun=="1503002":
-  xMun="FARO"
+if xMun="FARO":
+  cMun=="1503002"
   cMunSIAFI="0459"
-if cMun=="1503044":
-  xMun="FLORESTA DO ARAGUAIA"
+if xMun="FLORESTA DO ARAGUAIA":
+  cMun=="1503044"
   cMunSIAFI="0052"
-if cMun=="1503077":
-  xMun="GARRAFAO DO NORTE"
+if xMun="GARRAFAO DO NORTE":
+  cMun=="1503077"
   cMunSIAFI="0585"
-if cMun=="1503093":
-  xMun="GOIANESIA DO PARA"
+if xMun="GOIANESIA DO PARA":
+  cMun=="1503093"
   cMunSIAFI="0627"
-if cMun=="1503101":
-  xMun="GURUPA"
+if xMun="GURUPA":
+  cMun=="1503101"
   cMunSIAFI="0461"
-if cMun=="1503200":
-  xMun="IGARAPE-ACU"
+if xMun="IGARAPE-ACU":
+  cMun=="1503200"
   cMunSIAFI="0463"
-if cMun=="1503309":
-  xMun="IGARAPE-MIRI"
+if xMun="IGARAPE-MIRI":
+  cMun=="1503309"
   cMunSIAFI="0465"
-if cMun=="1503408":
-  xMun="INHANGAPI"
+if xMun="INHANGAPI":
+  cMun=="1503408"
   cMunSIAFI="0467"
-if cMun=="1503457":
-  xMun="IPIXUNA DO PARA"
+if xMun="IPIXUNA DO PARA":
+  cMun=="1503457"
   cMunSIAFI="0621"
-if cMun=="1503507":
-  xMun="IRITUIA"
+if xMun="IRITUIA":
+  cMun=="1503507"
   cMunSIAFI="0469"
-if cMun=="1503606":
-  xMun="ITAITUBA"
+if xMun="ITAITUBA":
+  cMun=="1503606"
   cMunSIAFI="0471"
-if cMun=="1503705":
-  xMun="ITUPIRANGA"
+if xMun="ITUPIRANGA":
+  cMun=="1503705"
   cMunSIAFI="0473"
-if cMun=="1503754":
-  xMun="JACAREACANGA"
+if xMun="JACAREACANGA":
+  cMun=="1503754"
   cMunSIAFI="0631"
-if cMun=="1503804":
-  xMun="JACUNDA"
+if xMun="JACUNDA":
+  cMun=="1503804"
   cMunSIAFI="0475"
-if cMun=="1503903":
-  xMun="JURUTI"
+if xMun="JURUTI":
+  cMun=="1503903"
   cMunSIAFI="0477"
-if cMun=="1504000":
-  xMun="LIMOEIRO DO AJURU"
+if xMun="LIMOEIRO DO AJURU":
+  cMun=="1504000"
   cMunSIAFI="0479"
-if cMun=="1504059":
-  xMun="MAE DO RIO"
+if xMun="MAE DO RIO":
+  cMun=="1504059"
   cMunSIAFI="0587"
-if cMun=="1504109":
-  xMun="MAGALHAES BARATA"
+if xMun="MAGALHAES BARATA":
+  cMun=="1504109"
   cMunSIAFI="0481"
-if cMun=="1504208":
-  xMun="MARABA"
+if xMun="MARABA":
+  cMun=="1504208"
   cMunSIAFI="0483"
-if cMun=="1504307":
-  xMun="MARACANA"
+if xMun="MARACANA":
+  cMun=="1504307"
   cMunSIAFI="0485"
-if cMun=="1504406":
-  xMun="MARAPANIM"
+if xMun="MARAPANIM":
+  cMun=="1504406"
   cMunSIAFI="0487"
-if cMun=="1504422":
-  xMun="MARITUBA"
+if xMun="MARITUBA":
+  cMun=="1504422"
   cMunSIAFI="0054"
-if cMun=="1504455":
-  xMun="MEDICILANDIA"
+if xMun="MEDICILANDIA":
+  cMun=="1504455"
   cMunSIAFI="0589"
-if cMun=="1504505":
-  xMun="MELGACO"
+if xMun="MELGACO":
+  cMun=="1504505"
   cMunSIAFI="0489"
-if cMun=="1504604":
-  xMun="MOCAJUBA"
+if xMun="MOCAJUBA":
+  cMun=="1504604"
   cMunSIAFI="0491"
-if cMun=="1504703":
-  xMun="MOJU"
+if xMun="MOJU":
+  cMun=="1504703"
   cMunSIAFI="0493"
-if cMun=="1504802":
-  xMun="MONTE ALEGRE"
+if xMun="MONTE ALEGRE":
+  cMun=="1504802"
   cMunSIAFI="0495"
-if cMun=="1504901":
-  xMun="MUANA"
+if xMun="MUANA":
+  cMun=="1504901"
   cMunSIAFI="0497"
-if cMun=="1504950":
-  xMun="NOVA ESPERANCA DO PIRIA"
+if xMun="NOVA ESPERANCA DO PIRIA":
+  cMun=="1504950"
   cMunSIAFI="0391"
-if cMun=="1504976":
-  xMun="NOVA IPIXUNA"
+if xMun="NOVA IPIXUNA":
+  cMun=="1504976"
   cMunSIAFI="0056"
-if cMun=="1505007":
-  xMun="NOVA TIMBOTEUA"
+if xMun="NOVA TIMBOTEUA":
+  cMun=="1505007"
   cMunSIAFI="0499"
-if cMun=="1505031":
-  xMun="NOVO PROGRESSO"
+if xMun="NOVO PROGRESSO":
+  cMun=="1505031"
   cMunSIAFI="0633"
-if cMun=="1505064":
-  xMun="NOVO REPARTIMENTO"
+if xMun="NOVO REPARTIMENTO":
+  cMun=="1505064"
   cMunSIAFI="0629"
-if cMun=="1505106":
-  xMun="OBIDOS"
+if xMun="OBIDOS":
+  cMun=="1505106"
   cMunSIAFI="0501"
-if cMun=="1505205":
-  xMun="OEIRAS DO PARA"
+if xMun="OEIRAS DO PARA":
+  cMun=="1505205"
   cMunSIAFI="0503"
-if cMun=="1505304":
-  xMun="ORIXIMINA"
+if xMun="ORIXIMINA":
+  cMun=="1505304"
   cMunSIAFI="0505"
-if cMun=="1505403":
-  xMun="OUREM"
+if xMun="OUREM":
+  cMun=="1505403"
   cMunSIAFI="0507"
-if cMun=="1505437":
-  xMun="OURILANDIA DO NORTE"
+if xMun="OURILANDIA DO NORTE":
+  cMun=="1505437"
   cMunSIAFI="0591"
-if cMun=="1505486":
-  xMun="PACAJA"
+if xMun="PACAJA":
+  cMun=="1505486"
   cMunSIAFI="0593"
-if cMun=="1505494":
-  xMun="PALESTINA DO PARA"
+if xMun="PALESTINA DO PARA":
+  cMun=="1505494"
   cMunSIAFI="0379"
-if cMun=="1505502":
-  xMun="PARAGOMINAS"
+if xMun="PARAGOMINAS":
+  cMun=="1505502"
   cMunSIAFI="0509"
-if cMun=="1505536":
-  xMun="PARAUAPEBAS"
+if xMun="PARAUAPEBAS":
+  cMun=="1505536"
   cMunSIAFI="0595"
-if cMun=="1505551":
-  xMun="PAU D ARCO"
+if xMun="PAU D ARCO":
+  cMun=="1505551"
   cMunSIAFI="0387"
-if cMun=="1505601":
-  xMun="PEIXE-BOI"
+if xMun="PEIXE-BOI":
+  cMun=="1505601"
   cMunSIAFI="0511"
-if cMun=="1505635":
-  xMun="PICARRA"
+if xMun="PICARRA":
+  cMun=="1505635"
   cMunSIAFI="0058"
-if cMun=="1505650":
-  xMun="PLACAS"
+if xMun="PLACAS":
+  cMun=="1505650"
   cMunSIAFI="0060"
-if cMun=="1505700":
-  xMun="PONTA DE PEDRAS"
+if xMun="PONTA DE PEDRAS":
+  cMun=="1505700"
   cMunSIAFI="0513"
-if cMun=="1505809":
-  xMun="PORTEL"
+if xMun="PORTEL":
+  cMun=="1505809"
   cMunSIAFI="0515"
-if cMun=="1505908":
-  xMun="PORTO DE MOZ"
+if xMun="PORTO DE MOZ":
+  cMun=="1505908"
   cMunSIAFI="0517"
-if cMun=="1506005":
-  xMun="PRAINHA"
+if xMun="PRAINHA":
+  cMun=="1506005"
   cMunSIAFI="0519"
-if cMun=="1506104":
-  xMun="PRIMAVERA"
+if xMun="PRIMAVERA":
+  cMun=="1506104"
   cMunSIAFI="0521"
-if cMun=="1506112":
-  xMun="QUATIPURU"
+if xMun="QUATIPURU":
+  cMun=="1506112"
   cMunSIAFI="0062"
-if cMun=="1506138":
-  xMun="REDENCAO"
+if xMun="REDENCAO":
+  cMun=="1506138"
   cMunSIAFI="0567"
-if cMun=="1506161":
-  xMun="RIO MARIA"
+if xMun="RIO MARIA":
+  cMun=="1506161"
   cMunSIAFI="0569"
-if cMun=="1506187":
-  xMun="RONDON DO PARA"
+if xMun="RONDON DO PARA":
+  cMun=="1506187"
   cMunSIAFI="0573"
-if cMun=="1506195":
-  xMun="RUROPOLIS"
+if xMun="RUROPOLIS":
+  cMun=="1506195"
   cMunSIAFI="0597"
-if cMun=="1506203":
-  xMun="SALINOPOLIS"
+if xMun="SALINOPOLIS":
+  cMun=="1506203"
   cMunSIAFI="0523"
-if cMun=="1506302":
-  xMun="SALVATERRA"
+if xMun="SALVATERRA":
+  cMun=="1506302"
   cMunSIAFI="0525"
-if cMun=="1506351":
-  xMun="SANTA BARBARA DO PARA"
+if xMun="SANTA BARBARA DO PARA":
+  cMun=="1506351"
   cMunSIAFI="0369"
-if cMun=="1506401":
-  xMun="SANTA CRUZ DO ARARI"
+if xMun="SANTA CRUZ DO ARARI":
+  cMun=="1506401"
   cMunSIAFI="0527"
-if cMun=="1506500":
-  xMun="SANTA ISABEL DO PARA"
+if xMun="SANTA ISABEL DO PARA":
+  cMun=="1506500"
   cMunSIAFI="0529"
-if cMun=="1506559":
-  xMun="SANTA LUZIA DO PARA"
+if xMun="SANTA LUZIA DO PARA":
+  cMun=="1506559"
   cMunSIAFI="0371"
-if cMun=="1506583":
-  xMun="SANTA MARIA DAS BARREIRAS"
+if xMun="SANTA MARIA DAS BARREIRAS":
+  cMun=="1506583"
   cMunSIAFI="0599"
-if cMun=="1506609":
-  xMun="SANTA MARIA DO PARA"
+if xMun="SANTA MARIA DO PARA":
+  cMun=="1506609"
   cMunSIAFI="0531"
-if cMun=="1506708":
-  xMun="SANTANA DO ARAGUAIA"
+if xMun="SANTANA DO ARAGUAIA":
+  cMun=="1506708"
   cMunSIAFI="0533"
-if cMun=="1506807":
-  xMun="SANTAREM"
+if xMun="SANTAREM":
+  cMun=="1506807"
   cMunSIAFI="0535"
-if cMun=="1506906":
-  xMun="SANTAREM NOVO"
+if xMun="SANTAREM NOVO":
+  cMun=="1506906"
   cMunSIAFI="0537"
-if cMun=="1507003":
-  xMun="SANTO ANTONIO DO TAUA"
+if xMun="SANTO ANTONIO DO TAUA":
+  cMun=="1507003"
   cMunSIAFI="0539"
-if cMun=="1507102":
-  xMun="SAO CAETANO DE ODIVELAS"
+if xMun="SAO CAETANO DE ODIVELAS":
+  cMun=="1507102"
   cMunSIAFI="0541"
-if cMun=="1507151":
-  xMun="SAO DOMINGOS DO ARAGUAIA"
+if xMun="SAO DOMINGOS DO ARAGUAIA":
+  cMun=="1507151"
   cMunSIAFI="0381"
-if cMun=="1507201":
-  xMun="SAO DOMINGOS DO CAPIM"
+if xMun="SAO DOMINGOS DO CAPIM":
+  cMun=="1507201"
   cMunSIAFI="0543"
-if cMun=="1507300":
-  xMun="SAO FELIX DO XINGU"
+if xMun="SAO FELIX DO XINGU":
+  cMun=="1507300"
   cMunSIAFI="0545"
-if cMun=="1507409":
-  xMun="SAO FRANCISCO DO PARA"
+if xMun="SAO FRANCISCO DO PARA":
+  cMun=="1507409"
   cMunSIAFI="0547"
-if cMun=="1507458":
-  xMun="SAO GERALDO DO ARAGUAIA"
+if xMun="SAO GERALDO DO ARAGUAIA":
+  cMun=="1507458"
   cMunSIAFI="0619"
-if cMun=="1507466":
-  xMun="SAO JOAO DA PONTA"
+if xMun="SAO JOAO DA PONTA":
+  cMun=="1507466"
   cMunSIAFI="0064"
-if cMun=="1507474":
-  xMun="SAO JOAO DE PIRABAS"
+if xMun="SAO JOAO DE PIRABAS":
+  cMun=="1507474"
   cMunSIAFI="0393"
-if cMun=="1507508":
-  xMun="SAO JOAO DO ARAGUAIA"
+if xMun="SAO JOAO DO ARAGUAIA":
+  cMun=="1507508"
   cMunSIAFI="0549"
-if cMun=="1507607":
-  xMun="SAO MIGUEL DO GUAMA"
+if xMun="SAO MIGUEL DO GUAMA":
+  cMun=="1507607"
   cMunSIAFI="0551"
-if cMun=="1507706":
-  xMun="SAO SEBASTIAO DA BOA VISTA"
+if xMun="SAO SEBASTIAO DA BOA VISTA":
+  cMun=="1507706"
   cMunSIAFI="0553"
-if cMun=="1507755":
-  xMun="SAPUCAIA"
+if xMun="SAPUCAIA":
+  cMun=="1507755"
   cMunSIAFI="0066"
-if cMun=="1507805":
-  xMun="SENADOR JOSE PORFIRIO"
+if xMun="SENADOR JOSE PORFIRIO":
+  cMun=="1507805"
   cMunSIAFI="0555"
-if cMun=="1507904":
-  xMun="SOURE"
+if xMun="SOURE":
+  cMun=="1507904"
   cMunSIAFI="0557"
-if cMun=="1507953":
-  xMun="TAILANDIA"
+if xMun="TAILANDIA":
+  cMun=="1507953"
   cMunSIAFI="0395"
-if cMun=="1507961":
-  xMun="TERRA ALTA"
+if xMun="TERRA ALTA":
+  cMun=="1507961"
   cMunSIAFI="0373"
-if cMun=="1507979":
-  xMun="TERRA SANTA"
+if xMun="TERRA SANTA":
+  cMun=="1507979"
   cMunSIAFI="0637"
-if cMun=="1508001":
-  xMun="TOME-ACU"
+if xMun="TOME-ACU":
+  cMun=="1508001"
   cMunSIAFI="0559"
-if cMun=="1508035":
-  xMun="TRACUATEUA"
+if xMun="TRACUATEUA":
+  cMun=="1508035"
   cMunSIAFI="0068"
-if cMun=="1508050":
-  xMun="TRAIRAO"
+if xMun="TRAIRAO":
+  cMun=="1508050"
   cMunSIAFI="0635"
-if cMun=="1508084":
-  xMun="TUCUMA"
+if xMun="TUCUMA":
+  cMun=="1508084"
   cMunSIAFI="0397"
-if cMun=="1508100":
-  xMun="TUCURUI"
+if xMun="TUCURUI":
+  cMun=="1508100"
   cMunSIAFI="0561"
-if cMun=="1508126":
-  xMun="ULIANOPOLIS"
+if xMun="ULIANOPOLIS":
+  cMun=="1508126"
   cMunSIAFI="0623"
-if cMun=="1508159":
-  xMun="URUARA"
+if xMun="URUARA":
+  cMun=="1508159"
   cMunSIAFI="0399"
-if cMun=="1508209":
-  xMun="VIGIA"
+if xMun="VIGIA":
+  cMun=="1508209"
   cMunSIAFI="0563"
-if cMun=="1508308":
-  xMun="VISEU"
+if xMun="VISEU":
+  cMun=="1508308"
   cMunSIAFI="0565"
-if cMun=="1508357":
-  xMun="VITORIA DO XINGU"
+if xMun="VITORIA DO XINGU":
+  cMun=="1508357"
   cMunSIAFI="0641"
-if cMun=="1508407":
-  xMun="XINGUARA"
+if xMun="XINGUARA":
+  cMun=="1508407"
   cMunSIAFI="0571"
-if cMun=="2500106":
-  xMun="AGUA BRANCA"
+if xMun="AGUA BRANCA":
+  cMun=="2500106"
   cMunSIAFI="1901"
-if cMun=="2500205":
-  xMun="AGUIAR"
+if xMun="AGUIAR":
+  cMun=="2500205"
   cMunSIAFI="1903"
-if cMun=="2500304":
-  xMun="ALAGOA GRANDE"
+if xMun="ALAGOA GRANDE":
+  cMun=="2500304"
   cMunSIAFI="1905"
-if cMun=="2500403":
-  xMun="ALAGOA NOVA"
+if xMun="ALAGOA NOVA":
+  cMun=="2500403"
   cMunSIAFI="1907"
-if cMun=="2500502":
-  xMun="ALAGOINHA"
+if xMun="ALAGOINHA":
+  cMun=="2500502"
   cMunSIAFI="1909"
-if cMun=="2500536":
-  xMun="ALCANTIL"
+if xMun="ALCANTIL":
+  cMun=="2500536"
   cMunSIAFI="0440"
-if cMun=="2500577":
-  xMun="ALGODAO DE JANDAIRA"
+if xMun="ALGODAO DE JANDAIRA":
+  cMun=="2500577"
   cMunSIAFI="0442"
-if cMun=="2500601":
-  xMun="ALHANDRA"
+if xMun="ALHANDRA":
+  cMun=="2500601"
   cMunSIAFI="1911"
-if cMun=="2500734":
-  xMun="AMPARO"
+if xMun="AMPARO":
+  cMun=="2500734"
   cMunSIAFI="0444"
-if cMun=="2500775":
-  xMun="APARECIDA"
+if xMun="APARECIDA":
+  cMun=="2500775"
   cMunSIAFI="0446"
-if cMun=="2500809":
-  xMun="ARACAGI"
+if xMun="ARACAGI":
+  cMun=="2500809"
   cMunSIAFI="1915"
-if cMun=="2500908":
-  xMun="ARARA"
+if xMun="ARARA":
+  cMun=="2500908"
   cMunSIAFI="1917"
-if cMun=="2501005":
-  xMun="ARARUNA"
+if xMun="ARARUNA":
+  cMun=="2501005"
   cMunSIAFI="1919"
-if cMun=="2501104":
-  xMun="AREIA"
+if xMun="AREIA":
+  cMun=="2501104"
   cMunSIAFI="1921"
-if cMun=="2501153":
-  xMun="AREIA DE BARAUNAS"
+if xMun="AREIA DE BARAUNAS":
+  cMun=="2501153"
   cMunSIAFI="0448"
-if cMun=="2501203":
-  xMun="AREIAL"
+if xMun="AREIAL":
+  cMun=="2501203"
   cMunSIAFI="1923"
-if cMun=="2501302":
-  xMun="AROEIRAS"
+if xMun="AROEIRAS":
+  cMun=="2501302"
   cMunSIAFI="1925"
-if cMun=="2501351":
-  xMun="ASSUNCAO"
+if xMun="ASSUNCAO":
+  cMun=="2501351"
   cMunSIAFI="0450"
-if cMun=="2501401":
-  xMun="BAIA DA TRAICAO"
+if xMun="BAIA DA TRAICAO":
+  cMun=="2501401"
   cMunSIAFI="1929"
-if cMun=="2501500":
-  xMun="BANANEIRAS"
+if xMun="BANANEIRAS":
+  cMun=="2501500"
   cMunSIAFI="1931"
-if cMun=="2501534":
-  xMun="BARAUNA"
+if xMun="BARAUNA":
+  cMun=="2501534"
   cMunSIAFI="0452"
-if cMun=="2501609":
-  xMun="BARRA DE SANTA ROSA"
+if xMun="BARRA DE SANTA ROSA":
+  cMun=="2501609"
   cMunSIAFI="1933"
-if cMun=="2501575":
-  xMun="BARRA DE SANTANA"
+if xMun="BARRA DE SANTANA":
+  cMun=="2501575"
   cMunSIAFI="0454"
-if cMun=="2501708":
-  xMun="BARRA DE SAO MIGUEL"
+if xMun="BARRA DE SAO MIGUEL":
+  cMun=="2501708"
   cMunSIAFI="1935"
-if cMun=="2501807":
-  xMun="BAYEUX"
+if xMun="BAYEUX":
+  cMun=="2501807"
   cMunSIAFI="1937"
-if cMun=="2501906":
-  xMun="BELEM"
+if xMun="BELEM":
+  cMun=="2501906"
   cMunSIAFI="1939"
-if cMun=="2502003":
-  xMun="BELEM DO BREJO DO CRUZ"
+if xMun="BELEM DO BREJO DO CRUZ":
+  cMun=="2502003"
   cMunSIAFI="1941"
-if cMun=="2502052":
-  xMun="BERNARDINO BATISTA"
+if xMun="BERNARDINO BATISTA":
+  cMun=="2502052"
   cMunSIAFI="0456"
-if cMun=="2502102":
-  xMun="BOA VENTURA"
+if xMun="BOA VENTURA":
+  cMun=="2502102"
   cMunSIAFI="1943"
-if cMun=="2502151":
-  xMun="BOA VISTA"
+if xMun="BOA VISTA":
+  cMun=="2502151"
   cMunSIAFI="0458"
-if cMun=="2502201":
-  xMun="BOM JESUS"
+if xMun="BOM JESUS":
+  cMun=="2502201"
   cMunSIAFI="1945"
-if cMun=="2502300":
-  xMun="BOM SUCESSO"
+if xMun="BOM SUCESSO":
+  cMun=="2502300"
   cMunSIAFI="1947"
-if cMun=="2502409":
-  xMun="BONITO DE SANTA FE"
+if xMun="BONITO DE SANTA FE":
+  cMun=="2502409"
   cMunSIAFI="1949"
-if cMun=="2502508":
-  xMun="BOQUEIRAO"
+if xMun="BOQUEIRAO":
+  cMun=="2502508"
   cMunSIAFI="1951"
-if cMun=="2502706":
-  xMun="BORBOREMA"
+if xMun="BORBOREMA":
+  cMun=="2502706"
   cMunSIAFI="1955"
-if cMun=="2502805":
-  xMun="BREJO DO CRUZ"
+if xMun="BREJO DO CRUZ":
+  cMun=="2502805"
   cMunSIAFI="1957"
-if cMun=="2502904":
-  xMun="BREJO DOS SANTOS"
+if xMun="BREJO DOS SANTOS":
+  cMun=="2502904"
   cMunSIAFI="1959"
-if cMun=="2503001":
-  xMun="CAAPORA"
+if xMun="CAAPORA":
+  cMun=="2503001"
   cMunSIAFI="1961"
-if cMun=="2503100":
-  xMun="CABACEIRAS"
+if xMun="CABACEIRAS":
+  cMun=="2503100"
   cMunSIAFI="1963"
-if cMun=="2503209":
-  xMun="CABEDELO"
+if xMun="CABEDELO":
+  cMun=="2503209"
   cMunSIAFI="1965"
-if cMun=="2503308":
-  xMun="CACHOEIRA DOS INDIOS"
+if xMun="CACHOEIRA DOS INDIOS":
+  cMun=="2503308"
   cMunSIAFI="1967"
-if cMun=="2503407":
-  xMun="CACIMBA DE AREIA"
+if xMun="CACIMBA DE AREIA":
+  cMun=="2503407"
   cMunSIAFI="1969"
-if cMun=="2503506":
-  xMun="CACIMBA DE DENTRO"
+if xMun="CACIMBA DE DENTRO":
+  cMun=="2503506"
   cMunSIAFI="1971"
-if cMun=="2503555":
-  xMun="CACIMBAS"
+if xMun="CACIMBAS":
+  cMun=="2503555"
   cMunSIAFI="0460"
-if cMun=="2503605":
-  xMun="CAICARA"
+if xMun="CAICARA":
+  cMun=="2503605"
   cMunSIAFI="1973"
-if cMun=="2503704":
-  xMun="CAJAZEIRAS"
+if xMun="CAJAZEIRAS":
+  cMun=="2503704"
   cMunSIAFI="1975"
-if cMun=="2503753":
-  xMun="CAJAZEIRINHAS"
+if xMun="CAJAZEIRINHAS":
+  cMun=="2503753"
   cMunSIAFI="0462"
-if cMun=="2503803":
-  xMun="CALDAS BRANDAO"
+if xMun="CALDAS BRANDAO":
+  cMun=="2503803"
   cMunSIAFI="1977"
-if cMun=="2503902":
-  xMun="CAMALAU"
+if xMun="CAMALAU":
+  cMun=="2503902"
   cMunSIAFI="1979"
-if cMun=="2504009":
-  xMun="CAMPINA GRANDE"
+if xMun="CAMPINA GRANDE":
+  cMun=="2504009"
   cMunSIAFI="1981"
-if cMun=="":
-  xMun="CAMPO DE SANTANA"
-  cMunSIAFI="2229"
-if cMun=="2504033":
-  xMun="CAPIM"
-  cMunSIAFI="0464"
-if cMun=="2504074":
-  xMun="CARAUBAS"
+if ifPO DE SANTANA"
+  :cM nSIAFI="2229"  Mun=="":
+  xMuniif xMun="CAPIM"
+  cMun:== 2504033":
+  cMuSIAFI="0464"
+if xMun="CARAUBAS":
+  cMun=="2504074"
   cMunSIAFI="0466"
-if cMun=="2504108":
-  xMun="CARRAPATEIRA"
+if xMun="CARRAPATEIRA":
+  cMun=="2504108"
   cMunSIAFI="1983"
-if cMun=="2504157":
-  xMun="CASSERENGUE"
+if xMun="CASSERENGUE":
+  cMun=="2504157"
   cMunSIAFI="0468"
-if cMun=="2504207":
-  xMun="CATINGUEIRA"
+if xMun="CATINGUEIRA":
+  cMun=="2504207"
   cMunSIAFI="1985"
-if cMun=="2504306":
-  xMun="CATOLE DO ROCHA"
+if xMun="CATOLE DO ROCHA":
+  cMun=="2504306"
   cMunSIAFI="1987"
-if cMun=="2504355":
-  xMun="CATURITE"
+if xMun="CATURITE":
+  cMun=="2504355"
   cMunSIAFI="0470"
-if cMun=="2504405":
-  xMun="CONCEICAO"
+if xMun="CONCEICAO":
+  cMun=="2504405"
   cMunSIAFI="1989"
-if cMun=="2504504":
-  xMun="CONDADO"
+if xMun="CONDADO":
+  cMun=="2504504"
   cMunSIAFI="1991"
-if cMun=="2504603":
-  xMun="CONDE"
+if xMun="CONDE":
+  cMun=="2504603"
   cMunSIAFI="1993"
-if cMun=="2504702":
-  xMun="CONGO"
+if xMun="CONGO":
+  cMun=="2504702"
   cMunSIAFI="1995"
-if cMun=="2504801":
-  xMun="COREMAS"
+if xMun="COREMAS":
+  cMun=="2504801"
   cMunSIAFI="1997"
-if cMun=="2504850":
-  xMun="COXIXOLA"
+if xMun="COXIXOLA":
+  cMun=="2504850"
   cMunSIAFI="0472"
-if cMun=="2504900":
-  xMun="CRUZ DO ESPIRITO SANTO"
+if xMun="CRUZ DO ESPIRITO SANTO":
+  cMun=="2504900"
   cMunSIAFI="1999"
-if cMun=="2505006":
-  xMun="CUBATI"
+if xMun="CUBATI":
+  cMun=="2505006"
   cMunSIAFI="2001"
-if cMun=="2505105":
-  xMun="CUITE"
+if xMun="CUITE":
+  cMun=="2505105"
   cMunSIAFI="2003"
-if cMun=="2505238":
-  xMun="CUITE DE MAMANGUAPE"
+if xMun="CUITE DE MAMANGUAPE":
+  cMun=="2505238"
   cMunSIAFI="0474"
-if cMun=="2505204":
-  xMun="CUITEGI"
+if xMun="CUITEGI":
+  cMun=="2505204"
   cMunSIAFI="2005"
-if cMun=="2505279":
-  xMun="CURRAL DE CIMA"
+if xMun="CURRAL DE CIMA":
+  cMun=="2505279"
   cMunSIAFI="0476"
-if cMun=="2505303":
-  xMun="CURRAL VELHO"
+if xMun="CURRAL VELHO":
+  cMun=="2505303"
   cMunSIAFI="2007"
-if cMun=="2505352":
-  xMun="DAMIAO"
+if xMun="DAMIAO":
+  cMun=="2505352"
   cMunSIAFI="0478"
-if cMun=="2505402":
-  xMun="DESTERRO"
+if xMun="DESTERRO":
+  cMun=="2505402"
   cMunSIAFI="2009"
-if cMun=="2505600":
-  xMun="DIAMANTE"
+if xMun="DIAMANTE":
+  cMun=="2505600"
   cMunSIAFI="2013"
-if cMun=="2505709":
-  xMun="DONA INÃŠS"
+if xMun="DONA INÃŠS":
+  cMun=="2505709"
   cMunSIAFI="2015"
-if cMun=="2505808":
-  xMun="DUAS ESTRADAS"
+if xMun="DUAS ESTRADAS":
+  cMun=="2505808"
   cMunSIAFI="2017"
-if cMun=="2505907":
-  xMun="EMAS"
+if xMun="EMAS":
+  cMun=="2505907"
   cMunSIAFI="2019"
-if cMun=="2506004":
-  xMun="ESPERANCA"
+if xMun="ESPERANCA":
+  cMun=="2506004"
   cMunSIAFI="2021"
-if cMun=="2506103":
-  xMun="FAGUNDES"
+if xMun="FAGUNDES":
+  cMun=="2506103"
   cMunSIAFI="2023"
-if cMun=="2506202":
-  xMun="FREI MARTINHO"
+if xMun="FREI MARTINHO":
+  cMun=="2506202"
   cMunSIAFI="2025"
-if cMun=="2506251":
-  xMun="GADO BRAVO"
+if xMun="GADO BRAVO":
+  cMun=="2506251"
   cMunSIAFI="0480"
-if cMun=="2506301":
-  xMun="GUARABIRA"
+if xMun="GUARABIRA":
+  cMun=="2506301"
   cMunSIAFI="2027"
-if cMun=="2506400":
-  xMun="GURINHEM"
+if xMun="GURINHEM":
+  cMun=="2506400"
   cMunSIAFI="2029"
-if cMun=="2506509":
-  xMun="GURJAO"
+if xMun="GURJAO":
+  cMun=="2506509"
   cMunSIAFI="2031"
-if cMun=="2506608":
-  xMun="IBIARA"
+if xMun="IBIARA":
+  cMun=="2506608"
   cMunSIAFI="2033"
-if cMun=="2502607":
-  xMun="IGARACY"
+if xMun="IGARACY":
+  cMun=="2502607"
   cMunSIAFI="1953"
-if cMun=="2506707":
-  xMun="IMACULADA"
+if xMun="IMACULADA":
+  cMun=="2506707"
   cMunSIAFI="2035"
-if cMun=="2506806":
-  xMun="INGA"
+if xMun="INGA":
+  cMun=="2506806"
   cMunSIAFI="2037"
-if cMun=="2506905":
-  xMun="ITABAIANA"
+if xMun="ITABAIANA":
+  cMun=="2506905"
   cMunSIAFI="2039"
-if cMun=="2507002":
-  xMun="ITAPORANGA"
+if xMun="ITAPORANGA":
+  cMun=="2507002"
   cMunSIAFI="2041"
-if cMun=="2507101":
-  xMun="ITAPOROROCA"
+if xMun="ITAPOROROCA":
+  cMun=="2507101"
   cMunSIAFI="2043"
-if cMun=="2507200":
-  xMun="ITATUBA"
+if xMun="ITATUBA":
+  cMun=="2507200"
   cMunSIAFI="2045"
-if cMun=="2507309":
-  xMun="JACARAU"
+if xMun="JACARAU":
+  cMun=="2507309"
   cMunSIAFI="2047"
-if cMun=="2507408":
-  xMun="JERICO"
+if xMun="JERICO":
+  cMun=="2507408"
   cMunSIAFI="2049"
-if cMun=="2507507":
-  xMun="JOAO PESSOA"
+if xMun="JOAO PESSOA":
+  cMun=="2507507"
   cMunSIAFI="2051"
-if cMun=="2513653":
-  xMun="JOCA CLAUDINO"
+if xMun="JOCA CLAUDINO":
+  cMun=="2513653"
   cMunSIAFI=""
-if cMun=="2507606":
-  xMun="JUAREZ TAVORA"
+if xMun="JUAREZ TAVORA":
+  cMun=="2507606"
   cMunSIAFI="2053"
-if cMun=="2507705":
-  xMun="JUAZEIRINHO"
+if xMun="JUAZEIRINHO":
+  cMun=="2507705"
   cMunSIAFI="2055"
-if cMun=="2507804":
-  xMun="JUNCO DO SERIDO"
+if xMun="JUNCO DO SERIDO":
+  cMun=="2507804"
   cMunSIAFI="2057"
-if cMun=="2507903":
-  xMun="JURIPIRANGA"
+if xMun="JURIPIRANGA":
+  cMun=="2507903"
   cMunSIAFI="2059"
-if cMun=="2508000":
-  xMun="JURU"
+if xMun="JURU":
+  cMun=="2508000"
   cMunSIAFI="2061"
-if cMun=="2508109":
-  xMun="LAGOA"
+if xMun="LAGOA":
+  cMun=="2508109"
   cMunSIAFI="2063"
-if cMun=="2508208":
-  xMun="LAGOA DE DENTRO"
+if xMun="LAGOA DE DENTRO":
+  cMun=="2508208"
   cMunSIAFI="2065"
-if cMun=="2508307":
-  xMun="LAGOA SECA"
+if xMun="LAGOA SECA":
+  cMun=="2508307"
   cMunSIAFI="2067"
-if cMun=="2508406":
-  xMun="LASTRO"
+if xMun="LASTRO":
+  cMun=="2508406"
   cMunSIAFI="2069"
-if cMun=="2508505":
-  xMun="LIVRAMENTO"
+if xMun="LIVRAMENTO":
+  cMun=="2508505"
   cMunSIAFI="2071"
-if cMun=="2508554":
-  xMun="LOGRADOURO"
+if xMun="LOGRADOURO":
+  cMun=="2508554"
   cMunSIAFI="0482"
-if cMun=="2508604":
-  xMun="LUCENA"
+if xMun="LUCENA":
+  cMun=="2508604"
   cMunSIAFI="2073"
-if cMun=="2508703":
-  xMun="MAE D AGUA"
+if xMun="MAE D AGUA":
+  cMun=="2508703"
   cMunSIAFI="2075"
-if cMun=="2508802":
-  xMun="MALTA"
+if xMun="MALTA":
+  cMun=="2508802"
   cMunSIAFI="2077"
-if cMun=="2508901":
-  xMun="MAMANGUAPE"
+if xMun="MAMANGUAPE":
+  cMun=="2508901"
   cMunSIAFI="2079"
-if cMun=="2509008":
-  xMun="MANAIRA"
+if xMun="MANAIRA":
+  cMun=="2509008"
   cMunSIAFI="2081"
-if cMun=="2509057":
-  xMun="MARCACAO"
+if xMun="MARCACAO":
+  cMun=="2509057"
   cMunSIAFI="0484"
-if cMun=="2509107":
-  xMun="MARI"
+if xMun="MARI":
+  cMun=="2509107"
   cMunSIAFI="2083"
-if cMun=="2509156":
-  xMun="MARIZOPOLIS"
+if xMun="MARIZOPOLIS":
+  cMun=="2509156"
   cMunSIAFI="0486"
-if cMun=="2509206":
-  xMun="MASSARANDUBA"
+if xMun="MASSARANDUBA":
+  cMun=="2509206"
   cMunSIAFI="2085"
-if cMun=="2509305":
-  xMun="MATARACA"
+if xMun="MATARACA":
+  cMun=="2509305"
   cMunSIAFI="2087"
-if cMun=="2509339":
-  xMun="MATINHAS"
+if xMun="MATINHAS":
+  cMun=="2509339"
   cMunSIAFI="0488"
-if cMun=="2509370":
-  xMun="MATO GROSSO"
+if xMun="MATO GROSSO":
+  cMun=="2509370"
   cMunSIAFI="0490"
-if cMun=="2509396":
-  xMun="MATUREIA"
+if xMun="MATUREIA":
+  cMun=="2509396"
   cMunSIAFI="0492"
-if cMun=="2509404":
-  xMun="MOGEIRO"
+if xMun="MOGEIRO":
+  cMun=="2509404"
   cMunSIAFI="2089"
-if cMun=="2509503":
-  xMun="MONTADAS"
+if xMun="MONTADAS":
+  cMun=="2509503"
   cMunSIAFI="2091"
-if cMun=="2509602":
-  xMun="MONTE HOREBE"
+if xMun="MONTE HOREBE":
+  cMun=="2509602"
   cMunSIAFI="2093"
-if cMun=="2509701":
-  xMun="MONTEIRO"
+if xMun="MONTEIRO":
+  cMun=="2509701"
   cMunSIAFI="2095"
-if cMun=="2509800":
-  xMun="MULUNGU"
+if xMun="MULUNGU":
+  cMun=="2509800"
   cMunSIAFI="2097"
-if cMun=="2509909":
-  xMun="NATUBA"
+if xMun="NATUBA":
+  cMun=="2509909"
   cMunSIAFI="2099"
-if cMun=="2510006":
-  xMun="NAZAREZINHO"
+if xMun="NAZAREZINHO":
+  cMun=="2510006"
   cMunSIAFI="2101"
-if cMun=="2510105":
-  xMun="NOVA FLORESTA"
+if xMun="NOVA FLORESTA":
+  cMun=="2510105"
   cMunSIAFI="2103"
-if cMun=="2510204":
-  xMun="NOVA OLINDA"
+if xMun="NOVA OLINDA":
+  cMun=="2510204"
   cMunSIAFI="2105"
-if cMun=="2510303":
-  xMun="NOVA PALMEIRA"
+if xMun="NOVA PALMEIRA":
+  cMun=="2510303"
   cMunSIAFI="2107"
-if cMun=="2510402":
-  xMun="OLHO D AGUA"
+if xMun="OLHO D AGUA":
+  cMun=="2510402"
   cMunSIAFI="2109"
-if cMun=="2510501":
-  xMun="OLIVEDOS"
+if xMun="OLIVEDOS":
+  cMun=="2510501"
   cMunSIAFI="2111"
-if cMun=="2510600":
-  xMun="OURO VELHO"
+if xMun="OURO VELHO":
+  cMun=="2510600"
   cMunSIAFI="2113"
-if cMun=="2510659":
-  xMun="PARARI"
+if xMun="PARARI":
+  cMun=="2510659"
   cMunSIAFI="0494"
-if cMun=="2510709":
-  xMun="PASSAGEM"
+if xMun="PASSAGEM":
+  cMun=="2510709"
   cMunSIAFI="2115"
-if cMun=="2510808":
-  xMun="PATOS"
+if xMun="PATOS":
+  cMun=="2510808"
   cMunSIAFI="2117"
-if cMun=="2510907":
-  xMun="PAULISTA"
+if xMun="PAULISTA":
+  cMun=="2510907"
   cMunSIAFI="2119"
-if cMun=="2511004":
-  xMun="PEDRA BRANCA"
+if xMun="PEDRA BRANCA":
+  cMun=="2511004"
   cMunSIAFI="2121"
-if cMun=="2511103":
-  xMun="PEDRA LAVRADA"
+if xMun="PEDRA LAVRADA":
+  cMun=="2511103"
   cMunSIAFI="2123"
-if cMun=="2511202":
-  xMun="PEDRAS DE FOGO"
+if xMun="PEDRAS DE FOGO":
+  cMun=="2511202"
   cMunSIAFI="2125"
-if cMun=="2512721":
-  xMun="PEDRO REGIS"
+if xMun="PEDRO REGIS":
+  cMun=="2512721"
   cMunSIAFI="0500"
-if cMun=="2511301":
-  xMun="PIANCO"
+if xMun="PIANCO":
+  cMun=="2511301"
   cMunSIAFI="2127"
-if cMun=="2511400":
-  xMun="PICUI"
+if xMun="PICUI":
+  cMun=="2511400"
   cMunSIAFI="2129"
-if cMun=="2511509":
-  xMun="PILAR"
+if xMun="PILAR":
+  cMun=="2511509"
   cMunSIAFI="2131"
-if cMun=="2511608":
-  xMun="PILÃ•ES"
+if xMun="PILÃ•ES":
+  cMun=="2511608"
   cMunSIAFI="2133"
-if cMun=="2511707":
-  xMun="PILÃ•EZINHOS"
+if xMun="PILÃ•EZINHOS":
+  cMun=="2511707"
   cMunSIAFI="2135"
-if cMun=="2511806":
-  xMun="PIRPIRITUBA"
+if xMun="PIRPIRITUBA":
+  cMun=="2511806"
   cMunSIAFI="2137"
-if cMun=="2511905":
-  xMun="PITIMBU"
+if xMun="PITIMBU":
+  cMun=="2511905"
   cMunSIAFI="2139"
-if cMun=="2512002":
-  xMun="POCINHOS"
+if xMun="POCINHOS":
+  cMun=="2512002"
   cMunSIAFI="2141"
-if cMun=="2512036":
-  xMun="POCO DANTAS"
+if xMun="POCO DANTAS":
+  cMun=="2512036"
   cMunSIAFI="0496"
-if cMun=="2512077":
-  xMun="POCO DE JOSE DE MOURA"
+if xMun="POCO DE JOSE DE MOURA":
+  cMun=="2512077"
   cMunSIAFI="0498"
-if cMun=="2512101":
-  xMun="POMBAL"
+if xMun="POMBAL":
+  cMun=="2512101"
   cMunSIAFI="2143"
-if cMun=="2512200":
-  xMun="PRATA"
+if xMun="PRATA":
+  cMun=="2512200"
   cMunSIAFI="2145"
-if cMun=="2512309":
-  xMun="PRINCESA ISABEL"
+if xMun="PRINCESA ISABEL":
+  cMun=="2512309"
   cMunSIAFI="2147"
-if cMun=="2512408":
-  xMun="PUXINANA"
+if xMun="PUXINANA":
+  cMun=="2512408"
   cMunSIAFI="2149"
-if cMun=="2512507":
-  xMun="QUEIMADAS"
+if xMun="QUEIMADAS":
+  cMun=="2512507"
   cMunSIAFI="2151"
-if cMun=="2512606":
-  xMun="QUIXABA"
+if xMun="QUIXABA":
+  cMun=="2512606"
   cMunSIAFI="2153"
-if cMun=="2512705":
-  xMun="REMIGIO"
+if xMun="REMIGIO":
+  cMun=="2512705"
   cMunSIAFI="2155"
-if cMun=="2512747":
-  xMun="RIACHAO"
+if xMun="RIACHAO":
+  cMun=="2512747"
   cMunSIAFI="0502"
-if cMun=="2512754":
-  xMun="RIACHAO DO BACAMARTE"
+if xMun="RIACHAO DO BACAMARTE":
+  cMun=="2512754"
   cMunSIAFI="0504"
-if cMun=="2512762":
-  xMun="RIACHAO DO POCO"
+if xMun="RIACHAO DO POCO":
+  cMun=="2512762"
   cMunSIAFI="0506"
-if cMun=="2512788":
-  xMun="RIACHO DE SANTO ANTONIO"
+if xMun="RIACHO DE SANTO ANTONIO":
+  cMun=="2512788"
   cMunSIAFI="0508"
-if cMun=="2512804":
-  xMun="RIACHO DOS CAVALOS"
+if xMun="RIACHO DOS CAVALOS":
+  cMun=="2512804"
   cMunSIAFI="2157"
-if cMun=="2512903":
-  xMun="RIO TINTO"
+if xMun="RIO TINTO":
+  cMun=="2512903"
   cMunSIAFI="2159"
-if cMun=="2513000":
-  xMun="SALGADINHO"
+if xMun="SALGADINHO":
+  cMun=="2513000"
   cMunSIAFI="2161"
-if cMun=="2513109":
-  xMun="SALGADO DE SAO FELIX"
+if xMun="SALGADO DE SAO FELIX":
+  cMun=="2513109"
   cMunSIAFI="2163"
-if cMun=="2513158":
-  xMun="SANTA CECILIA"
+if xMun="SANTA CECILIA":
+  cMun=="2513158"
   cMunSIAFI="0510"
-if cMun=="2513208":
-  xMun="SANTA CRUZ"
+if xMun="SANTA CRUZ":
+  cMun=="2513208"
   cMunSIAFI="2165"
-if cMun=="2513307":
-  xMun="SANTA HELENA"
+if xMun="SANTA HELENA":
+  cMun=="2513307"
   cMunSIAFI="2167"
-if cMun=="2513356":
-  xMun="SANTA INÃŠS"
+if xMun="SANTA INÃŠS":
+  cMun=="2513356"
   cMunSIAFI="0512"
-if cMun=="2513406":
-  xMun="SANTA LUZIA"
+if xMun="SANTA LUZIA":
+  cMun=="2513406"
   cMunSIAFI="2169"
-if cMun=="2513703":
-  xMun="SANTA RITA"
+if xMun="SANTA RITA":
+  cMun=="2513703"
   cMunSIAFI="2175"
-if cMun=="2513802":
-  xMun="SANTA TERESINHA"
+if xMun="SANTA TERESINHA":
+  cMun=="2513802"
   cMunSIAFI="2177"
-if cMun=="2513505":
-  xMun="SANTANA DE MANGUEIRA"
+if xMun="SANTANA DE MANGUEIRA":
+  cMun=="2513505"
   cMunSIAFI="2171"
-if cMun=="2513604":
-  xMun="SANTANA DOS GARROTES"
+if xMun="SANTANA DOS GARROTES":
+  cMun=="2513604"
   cMunSIAFI="2173"
-if cMun=="":
-  xMun="SANTAREM"
-  cMunSIAFI="0514"
-if cMun=="2513851":
-  xMun="SANTO ANDRE"
-  cMunSIAFI="0516"
-if cMun=="2513927":
-  xMun="SAO BENTINHO"
+if ifTAREM"
+  :cM nSIAFI="0514"  Mun=="":
+  xMuniif xMun="SANTO ANDRE"
+  cMun:== 2513851":
+  cMuSIAFI="0516"
+if xMun="SAO BENTINHO":
+  cMun=="2513927"
   cMunSIAFI="0518"
-if cMun=="2513901":
-  xMun="SAO BENTO"
+if xMun="SAO BENTO":
+  cMun=="2513901"
   cMunSIAFI="2179"
-if cMun=="2513968":
-  xMun="SAO DOMINGOS"
+if xMun="SAO DOMINGOS":
+  cMun=="2513968"
   cMunSIAFI="0522"
-if cMun=="2513943":
-  xMun="SAO DOMINGOS DO CARIRI"
+if xMun="SAO DOMINGOS DO CARIRI":
+  cMun=="2513943"
   cMunSIAFI="0520"
-if cMun=="2513984":
-  xMun="SAO FRANCISCO"
+if xMun="SAO FRANCISCO":
+  cMun=="2513984"
   cMunSIAFI="0524"
-if cMun=="2514008":
-  xMun="SAO JOAO DO CARIRI"
+if xMun="SAO JOAO DO CARIRI":
+  cMun=="2514008"
   cMunSIAFI="2181"
-if cMun=="2500700":
-  xMun="SAO JOAO DO RIO DO PEIXE"
+if xMun="SAO JOAO DO RIO DO PEIXE":
+  cMun=="2500700"
   cMunSIAFI="1913"
-if cMun=="2514107":
-  xMun="SAO JOAO DO TIGRE"
+if xMun="SAO JOAO DO TIGRE":
+  cMun=="2514107"
   cMunSIAFI="2183"
-if cMun=="2514206":
-  xMun="SAO JOSE DA LAGOA TAPADA"
+if xMun="SAO JOSE DA LAGOA TAPADA":
+  cMun=="2514206"
   cMunSIAFI="2185"
-if cMun=="2514305":
-  xMun="SAO JOSE DE CAIANA"
+if xMun="SAO JOSE DE CAIANA":
+  cMun=="2514305"
   cMunSIAFI="2187"
-if cMun=="2514404":
-  xMun="SAO JOSE DE ESPINHARAS"
+if xMun="SAO JOSE DE ESPINHARAS":
+  cMun=="2514404"
   cMunSIAFI="2189"
-if cMun=="2514503":
-  xMun="SAO JOSE DE PIRANHAS"
+if xMun="SAO JOSE DE PIRANHAS":
+  cMun=="2514503"
   cMunSIAFI="2191"
-if cMun=="2514552":
-  xMun="SAO JOSE DE PRINCESA"
+if xMun="SAO JOSE DE PRINCESA":
+  cMun=="2514552"
   cMunSIAFI="0528"
-if cMun=="2514602":
-  xMun="SAO JOSE DO BONFIM"
+if xMun="SAO JOSE DO BONFIM":
+  cMun=="2514602"
   cMunSIAFI="2193"
-if cMun=="2514651":
-  xMun="SAO JOSE DO BREJO DO CRUZ"
+if xMun="SAO JOSE DO BREJO DO CRUZ":
+  cMun=="2514651"
   cMunSIAFI="0530"
-if cMun=="2514701":
-  xMun="SAO JOSE DO SABUGI"
+if xMun="SAO JOSE DO SABUGI":
+  cMun=="2514701"
   cMunSIAFI="2195"
-if cMun=="2514800":
-  xMun="SAO JOSE DOS CORDEIROS"
+if xMun="SAO JOSE DOS CORDEIROS":
+  cMun=="2514800"
   cMunSIAFI="2197"
-if cMun=="2514453":
-  xMun="SAO JOSE DOS RAMOS"
+if xMun="SAO JOSE DOS RAMOS":
+  cMun=="2514453"
   cMunSIAFI="0526"
-if cMun=="2514909":
-  xMun="SAO MAMEDE"
+if xMun="SAO MAMEDE":
+  cMun=="2514909"
   cMunSIAFI="2199"
-if cMun=="2515005":
-  xMun="SAO MIGUEL DE TAIPU"
+if xMun="SAO MIGUEL DE TAIPU":
+  cMun=="2515005"
   cMunSIAFI="2201"
-if cMun=="2515104":
-  xMun="SAO SEBASTIAO DE LAGOA DE ROCA"
+if xMun="SAO SEBASTIAO DE LAGOA DE ROCA":
+  cMun=="2515104"
   cMunSIAFI="2203"
-if cMun=="2515203":
-  xMun="SAO SEBASTIAO DO UMBUZEIRO"
+if xMun="SAO SEBASTIAO DO UMBUZEIRO":
+  cMun=="2515203"
   cMunSIAFI="2205"
-if cMun=="2515302":
-  xMun="SAPE"
+if xMun="SAPE":
+  cMun=="2515302"
   cMunSIAFI="2207"
-if cMun=="2515401":
-  xMun="SERIDO"
+if xMun="SERIDO":
+  cMun=="2515401"
   cMunSIAFI="2209"
-if cMun=="2515500":
-  xMun="SERRA BRANCA"
+if xMun="SERRA BRANCA":
+  cMun=="2515500"
   cMunSIAFI="2211"
-if cMun=="2515609":
-  xMun="SERRA DA RAIZ"
+if xMun="SERRA DA RAIZ":
+  cMun=="2515609"
   cMunSIAFI="2213"
-if cMun=="2515708":
-  xMun="SERRA GRANDE"
+if xMun="SERRA GRANDE":
+  cMun=="2515708"
   cMunSIAFI="2215"
-if cMun=="2515807":
-  xMun="SERRA REDONDA"
+if xMun="SERRA REDONDA":
+  cMun=="2515807"
   cMunSIAFI="2217"
-if cMun=="2515906":
-  xMun="SERRARIA"
+if xMun="SERRARIA":
+  cMun=="2515906"
   cMunSIAFI="2219"
-if cMun=="2515930":
-  xMun="SERTAOZINHO"
+if xMun="SERTAOZINHO":
+  cMun=="2515930"
   cMunSIAFI="0532"
-if cMun=="2515971":
-  xMun="SOBRADO"
+if xMun="SOBRADO":
+  cMun=="2515971"
   cMunSIAFI="0534"
-if cMun=="2516003":
-  xMun="SOLANEA"
+if xMun="SOLANEA":
+  cMun=="2516003"
   cMunSIAFI="2221"
-if cMun=="2516102":
-  xMun="SOLEDADE"
+if xMun="SOLEDADE":
+  cMun=="2516102"
   cMunSIAFI="2223"
-if cMun=="2516151":
-  xMun="SOSSÃŠGO"
+if xMun="SOSSÃŠGO":
+  cMun=="2516151"
   cMunSIAFI="0536"
-if cMun=="2516201":
-  xMun="SOUSA"
+if xMun="SOUSA":
+  cMun=="2516201"
   cMunSIAFI="2225"
-if cMun=="2516300":
-  xMun="SUME"
+if xMun="SUME":
+  cMun=="2516300"
   cMunSIAFI="2227"
-if cMun=="2516409":
-  xMun="TACIMA"
+if xMun="TACIMA":
+  cMun=="2516409"
   cMunSIAFI=""
-if cMun=="2516508":
-  xMun="TAPEROA"
+if xMun="TAPEROA":
+  cMun=="2516508"
   cMunSIAFI="2231"
-if cMun=="2516607":
-  xMun="TAVARES"
+if xMun="TAVARES":
+  cMun=="2516607"
   cMunSIAFI="2233"
-if cMun=="2516706":
-  xMun="TEIXEIRA"
+if xMun="TEIXEIRA":
+  cMun=="2516706"
   cMunSIAFI="2235"
-if cMun=="2516755":
-  xMun="TENORIO"
+if xMun="TENORIO":
+  cMun=="2516755"
   cMunSIAFI="0538"
-if cMun=="2516805":
-  xMun="TRIUNFO"
+if xMun="TRIUNFO":
+  cMun=="2516805"
   cMunSIAFI="2237"
-if cMun=="2516904":
-  xMun="UIRAUNA"
+if xMun="UIRAUNA":
+  cMun=="2516904"
   cMunSIAFI="2239"
-if cMun=="2517001":
-  xMun="UMBUZEIRO"
+if xMun="UMBUZEIRO":
+  cMun=="2517001"
   cMunSIAFI="2241"
-if cMun=="2517100":
-  xMun="VARZEA"
+if xMun="VARZEA":
+  cMun=="2517100"
   cMunSIAFI="2243"
-if cMun=="2517209":
-  xMun="VIEIROPOLIS"
+if xMun="VIEIROPOLIS":
+  cMun=="2517209"
   cMunSIAFI="0540"
-if cMun=="2505501":
-  xMun="VISTA SERRANA"
+if xMun="VISTA SERRANA":
+  cMun=="2505501"
   cMunSIAFI="2011"
-if cMun=="2517407":
-  xMun="ZABELÃŠ"
+if xMun="ZABELÃŠ":
+  cMun=="2517407"
   cMunSIAFI="0542"
-if cMun=="2600054":
-  xMun="ABREU E LIMA"
+if xMun="ABREU E LIMA":
+  cMun=="2600054"
   cMunSIAFI="2631"
-if cMun=="2600104":
-  xMun="AFOGADOS DA INGAZEIRA"
+if xMun="AFOGADOS DA INGAZEIRA":
+  cMun=="2600104"
   cMunSIAFI="2301"
-if cMun=="2600203":
-  xMun="AFRANIO"
+if xMun="AFRANIO":
+  cMun=="2600203"
   cMunSIAFI="2303"
-if cMun=="2600302":
-  xMun="AGRESTINA"
+if xMun="AGRESTINA":
+  cMun=="2600302"
   cMunSIAFI="2305"
-if cMun=="2600401":
-  xMun="AGUA PRETA"
+if xMun="AGUA PRETA":
+  cMun=="2600401"
   cMunSIAFI="2307"
-if cMun=="2600500":
-  xMun="AGUAS BELAS"
+if xMun="AGUAS BELAS":
+  cMun=="2600500"
   cMunSIAFI="2309"
-if cMun=="2600609":
-  xMun="ALAGOINHA"
+if xMun="ALAGOINHA":
+  cMun=="2600609"
   cMunSIAFI="2311"
-if cMun=="2600708":
-  xMun="ALIANCA"
+if xMun="ALIANCA":
+  cMun=="2600708"
   cMunSIAFI="2313"
-if cMun=="2600807":
-  xMun="ALTINHO"
+if xMun="ALTINHO":
+  cMun=="2600807"
   cMunSIAFI="2315"
-if cMun=="2600906":
-  xMun="AMARAJI"
+if xMun="AMARAJI":
+  cMun=="2600906"
   cMunSIAFI="2317"
-if cMun=="2601003":
-  xMun="ANGELIM"
+if xMun="ANGELIM":
+  cMun=="2601003"
   cMunSIAFI="2319"
-if cMun=="2601052":
-  xMun="ARACOIABA"
+if xMun="ARACOIABA":
+  cMun=="2601052"
   cMunSIAFI="0544"
-if cMun=="2601102":
-  xMun="ARARIPINA"
+if xMun="ARARIPINA":
+  cMun=="2601102"
   cMunSIAFI="2321"
-if cMun=="2601201":
-  xMun="ARCOVERDE"
+if xMun="ARCOVERDE":
+  cMun=="2601201"
   cMunSIAFI="2323"
-if cMun=="2601300":
-  xMun="BARRA DE GUABIRABA"
+if xMun="BARRA DE GUABIRABA":
+  cMun=="2601300"
   cMunSIAFI="2325"
-if cMun=="2601409":
-  xMun="BARREIROS"
+if xMun="BARREIROS":
+  cMun=="2601409"
   cMunSIAFI="2327"
-if cMun=="2601508":
-  xMun="BELEM DE MARIA"
+if xMun="BELEM DE MARIA":
+  cMun=="2601508"
   cMunSIAFI="2329"
-if cMun=="2601607":
-  xMun="BELEM DO SAO FRANCISCO"
+if xMun="BELEM DO SAO FRANCISCO":
+  cMun=="2601607"
   cMunSIAFI="2331"
-if cMun=="2601706":
-  xMun="BELO JARDIM"
+if xMun="BELO JARDIM":
+  cMun=="2601706"
   cMunSIAFI="2333"
-if cMun=="2601805":
-  xMun="BETANIA"
+if xMun="BETANIA":
+  cMun=="2601805"
   cMunSIAFI="2335"
-if cMun=="2601904":
-  xMun="BEZERROS"
+if xMun="BEZERROS":
+  cMun=="2601904"
   cMunSIAFI="2337"
-if cMun=="2602001":
-  xMun="BODOCO"
+if xMun="BODOCO":
+  cMun=="2602001"
   cMunSIAFI="2339"
-if cMun=="2602100":
-  xMun="BOM CONSELHO"
+if xMun="BOM CONSELHO":
+  cMun=="2602100"
   cMunSIAFI="2341"
-if cMun=="2602209":
-  xMun="BOM JARDIM"
+if xMun="BOM JARDIM":
+  cMun=="2602209"
   cMunSIAFI="2343"
-if cMun=="2602308":
-  xMun="BONITO"
+if xMun="BONITO":
+  cMun=="2602308"
   cMunSIAFI="2345"
-if cMun=="2602407":
-  xMun="BREJAO"
+if xMun="BREJAO":
+  cMun=="2602407"
   cMunSIAFI="2347"
-if cMun=="2602506":
-  xMun="BREJINHO"
+if xMun="BREJINHO":
+  cMun=="2602506"
   cMunSIAFI="2349"
-if cMun=="2602605":
-  xMun="BREJO DA MADRE DE DEUS"
+if xMun="BREJO DA MADRE DE DEUS":
+  cMun=="2602605"
   cMunSIAFI="2351"
-if cMun=="2602704":
-  xMun="BUENOS AIRES"
+if xMun="BUENOS AIRES":
+  cMun=="2602704"
   cMunSIAFI="2353"
-if cMun=="2602803":
-  xMun="BUIQUE"
+if xMun="BUIQUE":
+  cMun=="2602803"
   cMunSIAFI="2355"
-if cMun=="2602902":
-  xMun="CABO DE SANTO AGOSTINHO"
+if xMun="CABO DE SANTO AGOSTINHO":
+  cMun=="2602902"
   cMunSIAFI="2357"
-if cMun=="2603009":
-  xMun="CABROBO"
+if xMun="CABROBO":
+  cMun=="2603009"
   cMunSIAFI="2359"
-if cMun=="2603108":
-  xMun="CACHOEIRINHA"
+if xMun="CACHOEIRINHA":
+  cMun=="2603108"
   cMunSIAFI="2361"
-if cMun=="2603207":
-  xMun="CAETES"
+if xMun="CAETES":
+  cMun=="2603207"
   cMunSIAFI="2363"
-if cMun=="2603306":
-  xMun="CALCADO"
+if xMun="CALCADO":
+  cMun=="2603306"
   cMunSIAFI="2365"
-if cMun=="2603405":
-  xMun="CALUMBI"
+if xMun="CALUMBI":
+  cMun=="2603405"
   cMunSIAFI="2367"
-if cMun=="2603454":
-  xMun="CAMARAGIBE"
+if xMun="CAMARAGIBE":
+  cMun=="2603454"
   cMunSIAFI="2629"
-if cMun=="2603504":
-  xMun="CAMOCIM DE SAO FELIX"
+if xMun="CAMOCIM DE SAO FELIX":
+  cMun=="2603504"
   cMunSIAFI="2369"
-if cMun=="2603603":
-  xMun="CAMUTANGA"
+if xMun="CAMUTANGA":
+  cMun=="2603603"
   cMunSIAFI="2371"
-if cMun=="2603702":
-  xMun="CANHOTINHO"
+if xMun="CANHOTINHO":
+  cMun=="2603702"
   cMunSIAFI="2373"
-if cMun=="2603801":
-  xMun="CAPOEIRAS"
+if xMun="CAPOEIRAS":
+  cMun=="2603801"
   cMunSIAFI="2375"
-if cMun=="2603900":
-  xMun="CARNAIBA"
+if xMun="CARNAIBA":
+  cMun=="2603900"
   cMunSIAFI="2377"
-if cMun=="2603926":
-  xMun="CARNAUBEIRA DA PENHA"
+if xMun="CARNAUBEIRA DA PENHA":
+  cMun=="2603926"
   cMunSIAFI="2635"
-if cMun=="2604007":
-  xMun="CARPINA"
+if xMun="CARPINA":
+  cMun=="2604007"
   cMunSIAFI="2379"
-if cMun=="2604106":
-  xMun="CARUARU"
+if xMun="CARUARU":
+  cMun=="2604106"
   cMunSIAFI="2381"
-if cMun=="2604155":
-  xMun="CASINHAS"
+if xMun="CASINHAS":
+  cMun=="2604155"
   cMunSIAFI="0546"
-if cMun=="2604205":
-  xMun="CATENDE"
+if xMun="CATENDE":
+  cMun=="2604205"
   cMunSIAFI="2383"
-if cMun=="2604304":
-  xMun="CEDRO"
+if xMun="CEDRO":
+  cMun=="2604304"
   cMunSIAFI="2385"
-if cMun=="2604403":
-  xMun="CHA DE ALEGRIA"
+if xMun="CHA DE ALEGRIA":
+  cMun=="2604403"
   cMunSIAFI="2387"
-if cMun=="2604502":
-  xMun="CHA GRANDE"
+if xMun="CHA GRANDE":
+  cMun=="2604502"
   cMunSIAFI="2389"
-if cMun=="2604601":
-  xMun="CONDADO"
+if xMun="CONDADO":
+  cMun=="2604601"
   cMunSIAFI="2391"
-if cMun=="2604700":
-  xMun="CORRENTES"
+if xMun="CORRENTES":
+  cMun=="2604700"
   cMunSIAFI="2393"
-if cMun=="2604809":
-  xMun="CORTÃŠS"
+if xMun="CORTÃŠS":
+  cMun=="2604809"
   cMunSIAFI="2395"
-if cMun=="2604908":
-  xMun="CUMARU"
+if xMun="CUMARU":
+  cMun=="2604908"
   cMunSIAFI="2397"
-if cMun=="2605004":
-  xMun="CUPIRA"
+if xMun="CUPIRA":
+  cMun=="2605004"
   cMunSIAFI="2399"
-if cMun=="2605103":
-  xMun="CUSTODIA"
+if xMun="CUSTODIA":
+  cMun=="2605103"
   cMunSIAFI="2401"
-if cMun=="2605152":
-  xMun="DORMENTES"
+if xMun="DORMENTES":
+  cMun=="2605152"
   cMunSIAFI="2299"
-if cMun=="2605202":
-  xMun="ESCADA"
+if xMun="ESCADA":
+  cMun=="2605202"
   cMunSIAFI="2403"
-if cMun=="2605301":
-  xMun="EXU"
+if xMun="EXU":
+  cMun=="2605301"
   cMunSIAFI="2405"
-if cMun=="2605400":
-  xMun="FEIRA NOVA"
+if xMun="FEIRA NOVA":
+  cMun=="2605400"
   cMunSIAFI="2407"
-if cMun=="2605459":
-  xMun="FERNANDO DE NORONHA"
+if xMun="FERNANDO DE NORONHA":
+  cMun=="2605459"
   cMunSIAFI=""
-if cMun=="2605509":
-  xMun="FERREIROS"
+if xMun="FERREIROS":
+  cMun=="2605509"
   cMunSIAFI="2409"
-if cMun=="2605608":
-  xMun="FLORES"
+if xMun="FLORES":
+  cMun=="2605608"
   cMunSIAFI="2411"
-if cMun=="2605707":
-  xMun="FLORESTA"
+if xMun="FLORESTA":
+  cMun=="2605707"
   cMunSIAFI="2413"
-if cMun=="2605806":
-  xMun="FREI MIGUELINHO"
+if xMun="FREI MIGUELINHO":
+  cMun=="2605806"
   cMunSIAFI="2415"
-if cMun=="2605905":
-  xMun="GAMELEIRA"
+if xMun="GAMELEIRA":
+  cMun=="2605905"
   cMunSIAFI="2417"
-if cMun=="2606002":
-  xMun="GARANHUNS"
+if xMun="GARANHUNS":
+  cMun=="2606002"
   cMunSIAFI="2419"
-if cMun=="2606101":
-  xMun="GLORIA DO GOITA"
+if xMun="GLORIA DO GOITA":
+  cMun=="2606101"
   cMunSIAFI="2421"
-if cMun=="2606200":
-  xMun="GOIANA"
+if xMun="GOIANA":
+  cMun=="2606200"
   cMunSIAFI="2423"
-if cMun=="2606309":
-  xMun="GRANITO"
+if xMun="GRANITO":
+  cMun=="2606309"
   cMunSIAFI="2425"
-if cMun=="2606408":
-  xMun="GRAVATA"
+if xMun="GRAVATA":
+  cMun=="2606408"
   cMunSIAFI="2427"
-if cMun=="2606507":
-  xMun="IATI"
+if xMun="IATI":
+  cMun=="2606507"
   cMunSIAFI="2429"
-if cMun=="2606606":
-  xMun="IBIMIRIM"
+if xMun="IBIMIRIM":
+  cMun=="2606606"
   cMunSIAFI="2431"
-if cMun=="2606705":
-  xMun="IBIRAJUBA"
+if xMun="IBIRAJUBA":
+  cMun=="2606705"
   cMunSIAFI="2433"
-if cMun=="2606804":
-  xMun="IGARASSU"
+if xMun="IGARASSU":
+  cMun=="2606804"
   cMunSIAFI="2435"
-if cMun=="2606903":
-  xMun="IGUARACI"
+if xMun="IGUARACI":
+  cMun=="2606903"
   cMunSIAFI="2437"
-if cMun=="2607604":
-  xMun="ILHA DE ITAMARACA"
+if xMun="ILHA DE ITAMARACA":
+  cMun=="2607604"
   cMunSIAFI=""
-if cMun=="2607000":
-  xMun="INAJA"
+if xMun="INAJA":
+  cMun=="2607000"
   cMunSIAFI="2439"
-if cMun=="2607109":
-  xMun="INGAZEIRA"
+if xMun="INGAZEIRA":
+  cMun=="2607109"
   cMunSIAFI="2441"
-if cMun=="2607208":
-  xMun="IPOJUCA"
+if xMun="IPOJUCA":
+  cMun=="2607208"
   cMunSIAFI="2443"
-if cMun=="2607307":
-  xMun="IPUBI"
+if xMun="IPUBI":
+  cMun=="2607307"
   cMunSIAFI="2445"
-if cMun=="2607406":
-  xMun="ITACURUBA"
+if xMun="ITACURUBA":
+  cMun=="2607406"
   cMunSIAFI="2447"
-if cMun=="2607505":
-  xMun="ITAIBA"
+if xMun="ITAIBA":
+  cMun=="2607505"
   cMunSIAFI="2449"
-if cMun=="":
-  xMun="ITAMARACA"
-  cMunSIAFI="2451"
-if cMun=="2607653":
-  xMun="ITAMBE"
-  cMunSIAFI="2597"
-if cMun=="2607703":
-  xMun="ITAPETIM"
+if ifMARACA"
+  :cM nSIAFI="2451"  Mun=="":
+  xMuniif xMun="ITAMBE"
+  cMun:== 2607653":
+  cMuSIAFI="2597"
+if xMun="ITAPETIM":
+  cMun=="2607703"
   cMunSIAFI="2453"
-if cMun=="2607752":
-  xMun="ITAPISSUMA"
+if xMun="ITAPISSUMA":
+  cMun=="2607752"
   cMunSIAFI="2633"
-if cMun=="2607802":
-  xMun="ITAQUITINGA"
+if xMun="ITAQUITINGA":
+  cMun=="2607802"
   cMunSIAFI="2455"
-if cMun=="2607901":
-  xMun="JABOATAO DOS GUARARAPES"
+if xMun="JABOATAO DOS GUARARAPES":
+  cMun=="2607901"
   cMunSIAFI="2457"
-if cMun=="2607950":
-  xMun="JAQUEIRA"
+if xMun="JAQUEIRA":
+  cMun=="2607950"
   cMunSIAFI="0548"
-if cMun=="2608008":
-  xMun="JATAUBA"
+if xMun="JATAUBA":
+  cMun=="2608008"
   cMunSIAFI="2459"
-if cMun=="2608057":
-  xMun="JATOBA"
+if xMun="JATOBA":
+  cMun=="2608057"
   cMunSIAFI="0550"
-if cMun=="2608107":
-  xMun="JOAO ALFREDO"
+if xMun="JOAO ALFREDO":
+  cMun=="2608107"
   cMunSIAFI="2461"
-if cMun=="2608206":
-  xMun="JOAQUIM NABUCO"
+if xMun="JOAQUIM NABUCO":
+  cMun=="2608206"
   cMunSIAFI="2463"
-if cMun=="2608255":
-  xMun="JUCATI"
+if xMun="JUCATI":
+  cMun=="2608255"
   cMunSIAFI="2295"
-if cMun=="2608305":
-  xMun="JUPI"
+if xMun="JUPI":
+  cMun=="2608305"
   cMunSIAFI="2465"
-if cMun=="2608404":
-  xMun="JUREMA"
+if xMun="JUREMA":
+  cMun=="2608404"
   cMunSIAFI="2467"
-if cMun=="2608503":
-  xMun="LAGOA DE ITAENGA"
+if xMun="LAGOA DE ITAENGA":
+  cMun=="2608503"
   cMunSIAFI="2469"
-if cMun=="2608453":
-  xMun="LAGOA DO CARRO"
+if xMun="LAGOA DO CARRO":
+  cMun=="2608453"
   cMunSIAFI="2289"
-if cMun=="2608602":
-  xMun="LAGOA DO OURO"
+if xMun="LAGOA DO OURO":
+  cMun=="2608602"
   cMunSIAFI="2471"
-if cMun=="2608701":
-  xMun="LAGOA DOS GATOS"
+if xMun="LAGOA DOS GATOS":
+  cMun=="2608701"
   cMunSIAFI="2473"
-if cMun=="2608750":
-  xMun="LAGOA GRANDE"
+if xMun="LAGOA GRANDE":
+  cMun=="2608750"
   cMunSIAFI="0552"
-if cMun=="2608800":
-  xMun="LAJEDO"
+if xMun="LAJEDO":
+  cMun=="2608800"
   cMunSIAFI="2475"
-if cMun=="2608909":
-  xMun="LIMOEIRO"
+if xMun="LIMOEIRO":
+  cMun=="2608909"
   cMunSIAFI="2477"
-if cMun=="2609006":
-  xMun="MACAPARANA"
+if xMun="MACAPARANA":
+  cMun=="2609006"
   cMunSIAFI="2479"
-if cMun=="2609105":
-  xMun="MACHADOS"
+if xMun="MACHADOS":
+  cMun=="2609105"
   cMunSIAFI="2481"
-if cMun=="2609154":
-  xMun="MANARI"
+if xMun="MANARI":
+  cMun=="2609154"
   cMunSIAFI="0554"
-if cMun=="2609204":
-  xMun="MARAIAL"
+if xMun="MARAIAL":
+  cMun=="2609204"
   cMunSIAFI="2483"
-if cMun=="2609303":
-  xMun="MIRANDIBA"
+if xMun="MIRANDIBA":
+  cMun=="2609303"
   cMunSIAFI="2485"
-if cMun=="2614303":
-  xMun="MOREILANDIA"
+if xMun="MOREILANDIA":
+  cMun=="2614303"
   cMunSIAFI="2585"
-if cMun=="2609402":
-  xMun="MORENO"
+if xMun="MORENO":
+  cMun=="2609402"
   cMunSIAFI="2487"
-if cMun=="2609501":
-  xMun="NAZARE DA MATA"
+if xMun="NAZARE DA MATA":
+  cMun=="2609501"
   cMunSIAFI="2489"
-if cMun=="2609600":
-  xMun="OLINDA"
+if xMun="OLINDA":
+  cMun=="2609600"
   cMunSIAFI="2491"
-if cMun=="2609709":
-  xMun="OROBO"
+if xMun="OROBO":
+  cMun=="2609709"
   cMunSIAFI="2493"
-if cMun=="2609808":
-  xMun="OROCO"
+if xMun="OROCO":
+  cMun=="2609808"
   cMunSIAFI="2495"
-if cMun=="2609907":
-  xMun="OURICURI"
+if xMun="OURICURI":
+  cMun=="2609907"
   cMunSIAFI="2497"
-if cMun=="2610004":
-  xMun="PALMARES"
+if xMun="PALMARES":
+  cMun=="2610004"
   cMunSIAFI="2499"
-if cMun=="2610103":
-  xMun="PALMEIRINA"
+if xMun="PALMEIRINA":
+  cMun=="2610103"
   cMunSIAFI="2501"
-if cMun=="2610202":
-  xMun="PANELAS"
+if xMun="PANELAS":
+  cMun=="2610202"
   cMunSIAFI="2503"
-if cMun=="2610301":
-  xMun="PARANATAMA"
+if xMun="PARANATAMA":
+  cMun=="2610301"
   cMunSIAFI="2505"
-if cMun=="2610400":
-  xMun="PARNAMIRIM"
+if xMun="PARNAMIRIM":
+  cMun=="2610400"
   cMunSIAFI="2507"
-if cMun=="2610509":
-  xMun="PASSIRA"
+if xMun="PASSIRA":
+  cMun=="2610509"
   cMunSIAFI="2509"
-if cMun=="2610608":
-  xMun="PAUDALHO"
+if xMun="PAUDALHO":
+  cMun=="2610608"
   cMunSIAFI="2511"
-if cMun=="2610707":
-  xMun="PAULISTA"
+if xMun="PAULISTA":
+  cMun=="2610707"
   cMunSIAFI="2513"
-if cMun=="2610806":
-  xMun="PEDRA"
+if xMun="PEDRA":
+  cMun=="2610806"
   cMunSIAFI="2515"
-if cMun=="2610905":
-  xMun="PESQUEIRA"
+if xMun="PESQUEIRA":
+  cMun=="2610905"
   cMunSIAFI="2517"
-if cMun=="2611002":
-  xMun="PETROLANDIA"
+if xMun="PETROLANDIA":
+  cMun=="2611002"
   cMunSIAFI="2519"
-if cMun=="2611101":
-  xMun="PETROLINA"
+if xMun="PETROLINA":
+  cMun=="2611101"
   cMunSIAFI="2521"
-if cMun=="2611200":
-  xMun="POCAO"
+if xMun="POCAO":
+  cMun=="2611200"
   cMunSIAFI="2523"
-if cMun=="2611309":
-  xMun="POMBOS"
+if xMun="POMBOS":
+  cMun=="2611309"
   cMunSIAFI="2525"
-if cMun=="2611408":
-  xMun="PRIMAVERA"
+if xMun="PRIMAVERA":
+  cMun=="2611408"
   cMunSIAFI="2527"
-if cMun=="2611507":
-  xMun="QUIPAPA"
+if xMun="QUIPAPA":
+  cMun=="2611507"
   cMunSIAFI="2529"
-if cMun=="2611533":
-  xMun="QUIXABA"
+if xMun="QUIXABA":
+  cMun=="2611533"
   cMunSIAFI="2637"
-if cMun=="2611606":
-  xMun="RECIFE"
+if xMun="RECIFE":
+  cMun=="2611606"
   cMunSIAFI="2531"
-if cMun=="2611705":
-  xMun="RIACHO DAS ALMAS"
+if xMun="RIACHO DAS ALMAS":
+  cMun=="2611705"
   cMunSIAFI="2533"
-if cMun=="2611804":
-  xMun="RIBEIRAO"
+if xMun="RIBEIRAO":
+  cMun=="2611804"
   cMunSIAFI="2535"
-if cMun=="2611903":
-  xMun="RIO FORMOSO"
+if xMun="RIO FORMOSO":
+  cMun=="2611903"
   cMunSIAFI="2537"
-if cMun=="2612000":
-  xMun="SAIRE"
+if xMun="SAIRE":
+  cMun=="2612000"
   cMunSIAFI="2539"
-if cMun=="2612109":
-  xMun="SALGADINHO"
+if xMun="SALGADINHO":
+  cMun=="2612109"
   cMunSIAFI="2541"
-if cMun=="2612208":
-  xMun="SALGUEIRO"
+if xMun="SALGUEIRO":
+  cMun=="2612208"
   cMunSIAFI="2543"
-if cMun=="2612307":
-  xMun="SALOA"
+if xMun="SALOA":
+  cMun=="2612307"
   cMunSIAFI="2545"
-if cMun=="2612406":
-  xMun="SANHARO"
+if xMun="SANHARO":
+  cMun=="2612406"
   cMunSIAFI="2547"
-if cMun=="2612455":
-  xMun="SANTA CRUZ"
+if xMun="SANTA CRUZ":
+  cMun=="2612455"
   cMunSIAFI="2297"
-if cMun=="2612471":
-  xMun="SANTA CRUZ DA BAIXA VERDE"
+if xMun="SANTA CRUZ DA BAIXA VERDE":
+  cMun=="2612471"
   cMunSIAFI="2639"
-if cMun=="2612505":
-  xMun="SANTA CRUZ DO CAPIBARIBE"
+if xMun="SANTA CRUZ DO CAPIBARIBE":
+  cMun=="2612505"
   cMunSIAFI="2549"
-if cMun=="2612554":
-  xMun="SANTA FILOMENA"
+if xMun="SANTA FILOMENA":
+  cMun=="2612554"
   cMunSIAFI="0556"
-if cMun=="2612604":
-  xMun="SANTA MARIA DA BOA VISTA"
+if xMun="SANTA MARIA DA BOA VISTA":
+  cMun=="2612604"
   cMunSIAFI="2551"
-if cMun=="2612703":
-  xMun="SANTA MARIA DO CAMBUCA"
+if xMun="SANTA MARIA DO CAMBUCA":
+  cMun=="2612703"
   cMunSIAFI="2553"
-if cMun=="2612802":
-  xMun="SANTA TEREZINHA"
+if xMun="SANTA TEREZINHA":
+  cMun=="2612802"
   cMunSIAFI="2555"
-if cMun=="2612901":
-  xMun="SAO BENEDITO DO SUL"
+if xMun="SAO BENEDITO DO SUL":
+  cMun=="2612901"
   cMunSIAFI="2557"
-if cMun=="2613008":
-  xMun="SAO BENTO DO UNA"
+if xMun="SAO BENTO DO UNA":
+  cMun=="2613008"
   cMunSIAFI="2559"
-if cMun=="2613107":
-  xMun="SAO CAITANO"
+if xMun="SAO CAITANO":
+  cMun=="2613107"
   cMunSIAFI="2561"
-if cMun=="2613206":
-  xMun="SAO JOAO"
+if xMun="SAO JOAO":
+  cMun=="2613206"
   cMunSIAFI="2563"
-if cMun=="2613305":
-  xMun="SAO JOAQUIM DO MONTE"
+if xMun="SAO JOAQUIM DO MONTE":
+  cMun=="2613305"
   cMunSIAFI="2565"
-if cMun=="2613404":
-  xMun="SAO JOSE DA COROA GRANDE"
+if xMun="SAO JOSE DA COROA GRANDE":
+  cMun=="2613404"
   cMunSIAFI="2567"
-if cMun=="2613503":
-  xMun="SAO JOSE DO BELMONTE"
+if xMun="SAO JOSE DO BELMONTE":
+  cMun=="2613503"
   cMunSIAFI="2569"
-if cMun=="2613602":
-  xMun="SAO JOSE DO EGITO"
+if xMun="SAO JOSE DO EGITO":
+  cMun=="2613602"
   cMunSIAFI="2571"
-if cMun=="2613701":
-  xMun="SAO LOURENCO DA MATA"
+if xMun="SAO LOURENCO DA MATA":
+  cMun=="2613701"
   cMunSIAFI="2573"
-if cMun=="2613800":
-  xMun="SAO VICENTE FERRER"
+if xMun="SAO VICENTE FERRER":
+  cMun=="2613800"
   cMunSIAFI="2575"
-if cMun=="2613909":
-  xMun="SERRA TALHADA"
+if xMun="SERRA TALHADA":
+  cMun=="2613909"
   cMunSIAFI="2577"
-if cMun=="2614006":
-  xMun="SERRITA"
+if xMun="SERRITA":
+  cMun=="2614006"
   cMunSIAFI="2579"
-if cMun=="2614105":
-  xMun="SERTANIA"
+if xMun="SERTANIA":
+  cMun=="2614105"
   cMunSIAFI="2581"
-if cMun=="2614204":
-  xMun="SIRINHAEM"
+if xMun="SIRINHAEM":
+  cMun=="2614204"
   cMunSIAFI="2583"
-if cMun=="2614402":
-  xMun="SOLIDAO"
+if xMun="SOLIDAO":
+  cMun=="2614402"
   cMunSIAFI="2587"
-if cMun=="2614501":
-  xMun="SURUBIM"
+if xMun="SURUBIM":
+  cMun=="2614501"
   cMunSIAFI="2589"
-if cMun=="2614600":
-  xMun="TABIRA"
+if xMun="TABIRA":
+  cMun=="2614600"
   cMunSIAFI="2591"
-if cMun=="2614709":
-  xMun="TACAIMBO"
+if xMun="TACAIMBO":
+  cMun=="2614709"
   cMunSIAFI="2593"
-if cMun=="2614808":
-  xMun="TACARATU"
+if xMun="TACARATU":
+  cMun=="2614808"
   cMunSIAFI="2595"
-if cMun=="2614857":
-  xMun="TAMANDARE"
+if xMun="TAMANDARE":
+  cMun=="2614857"
   cMunSIAFI="0558"
-if cMun=="2615003":
-  xMun="TAQUARITINGA DO NORTE"
+if xMun="TAQUARITINGA DO NORTE":
+  cMun=="2615003"
   cMunSIAFI="2599"
-if cMun=="2615102":
-  xMun="TEREZINHA"
+if xMun="TEREZINHA":
+  cMun=="2615102"
   cMunSIAFI="2601"
-if cMun=="2615201":
-  xMun="TERRA NOVA"
+if xMun="TERRA NOVA":
+  cMun=="2615201"
   cMunSIAFI="2603"
-if cMun=="2615300":
-  xMun="TIMBAUBA"
+if xMun="TIMBAUBA":
+  cMun=="2615300"
   cMunSIAFI="2605"
-if cMun=="2615409":
-  xMun="TORITAMA"
+if xMun="TORITAMA":
+  cMun=="2615409"
   cMunSIAFI="2607"
-if cMun=="2615508":
-  xMun="TRACUNHAEM"
+if xMun="TRACUNHAEM":
+  cMun=="2615508"
   cMunSIAFI="2609"
-if cMun=="2615607":
-  xMun="TRINDADE"
+if xMun="TRINDADE":
+  cMun=="2615607"
   cMunSIAFI="2611"
-if cMun=="2615706":
-  xMun="TRIUNFO"
+if xMun="TRIUNFO":
+  cMun=="2615706"
   cMunSIAFI="2613"
-if cMun=="2615805":
-  xMun="TUPANATINGA"
+if xMun="TUPANATINGA":
+  cMun=="2615805"
   cMunSIAFI="2615"
-if cMun=="2615904":
-  xMun="TUPARETAMA"
+if xMun="TUPARETAMA":
+  cMun=="2615904"
   cMunSIAFI="2617"
-if cMun=="2616001":
-  xMun="VENTUROSA"
+if xMun="VENTUROSA":
+  cMun=="2616001"
   cMunSIAFI="2619"
-if cMun=="2616100":
-  xMun="VERDEJANTE"
+if xMun="VERDEJANTE":
+  cMun=="2616100"
   cMunSIAFI="2621"
-if cMun=="2616183":
-  xMun="VERTENTE DO LERIO"
+if xMun="VERTENTE DO LERIO":
+  cMun=="2616183"
   cMunSIAFI="2291"
-if cMun=="2616209":
-  xMun="VERTENTES"
+if xMun="VERTENTES":
+  cMun=="2616209"
   cMunSIAFI="2623"
-if cMun=="2616308":
-  xMun="VICÃŠNCIA"
+if xMun="VICÃŠNCIA":
+  cMun=="2616308"
   cMunSIAFI="2625"
-if cMun=="2616407":
-  xMun="VITORIA DE SANTO ANTAO"
+if xMun="VITORIA DE SANTO ANTAO":
+  cMun=="2616407"
   cMunSIAFI="2627"
-if cMun=="2616506":
-  xMun="XEXEU"
+if xMun="XEXEU":
+  cMun=="2616506"
   cMunSIAFI="2293"
-if cMun=="2200053":
-  xMun="ACAUA"
+if xMun="ACAUA":
+  cMun=="2200053"
   cMunSIAFI="0266"
-if cMun=="2200103":
-  xMun="AGRICOLANDIA"
+if xMun="AGRICOLANDIA":
+  cMun=="2200103"
   cMunSIAFI="1001"
-if cMun=="2200202":
-  xMun="AGUA BRANCA"
+if xMun="AGUA BRANCA":
+  cMun=="2200202"
   cMunSIAFI="1003"
-if cMun=="2200251":
-  xMun="ALAGOINHA DO PIAUI"
+if xMun="ALAGOINHA DO PIAUI":
+  cMun=="2200251"
   cMunSIAFI="9767"
-if cMun=="2200277":
-  xMun="ALEGRETE DO PIAUI"
+if xMun="ALEGRETE DO PIAUI":
+  cMun=="2200277"
   cMunSIAFI="2269"
-if cMun=="2200301":
-  xMun="ALTO LONGA"
+if xMun="ALTO LONGA":
+  cMun=="2200301"
   cMunSIAFI="1005"
-if cMun=="2200400":
-  xMun="ALTOS"
+if xMun="ALTOS":
+  cMun=="2200400"
   cMunSIAFI="1007"
-if cMun=="2200459":
-  xMun="ALVORADA DO GURGUEIA"
+if xMun="ALVORADA DO GURGUEIA":
+  cMun=="2200459"
   cMunSIAFI="0268"
-if cMun=="2200509":
-  xMun="AMARANTE"
+if xMun="AMARANTE":
+  cMun=="2200509"
   cMunSIAFI="1009"
-if cMun=="2200608":
-  xMun="ANGICAL DO PIAUI"
+if xMun="ANGICAL DO PIAUI":
+  cMun=="2200608"
   cMunSIAFI="1011"
-if cMun=="2200707":
-  xMun="ANISIO DE ABREU"
+if xMun="ANISIO DE ABREU":
+  cMun=="2200707"
   cMunSIAFI="1013"
-if cMun=="2200806":
-  xMun="ANTONIO ALMEIDA"
+if xMun="ANTONIO ALMEIDA":
+  cMun=="2200806"
   cMunSIAFI="1015"
-if cMun=="2200905":
-  xMun="AROAZES"
+if xMun="AROAZES":
+  cMun=="2200905"
   cMunSIAFI="1017"
-if cMun=="2200954":
-  xMun="AROEIRAS DO ITAIM"
+if xMun="AROEIRAS DO ITAIM":
+  cMun=="2200954"
   cMunSIAFI="1188"
-if cMun=="2201002":
-  xMun="ARRAIAL"
+if xMun="ARRAIAL":
+  cMun=="2201002"
   cMunSIAFI="1019"
-if cMun=="2201051":
-  xMun="ASSUNCAO DO PIAUI"
+if xMun="ASSUNCAO DO PIAUI":
+  cMun=="2201051"
   cMunSIAFI="0270"
-if cMun=="2201101":
-  xMun="AVELINO LOPES"
+if xMun="AVELINO LOPES":
+  cMun=="2201101"
   cMunSIAFI="1021"
-if cMun=="2201150":
-  xMun="BAIXA GRANDE DO RIBEIRO"
+if xMun="BAIXA GRANDE DO RIBEIRO":
+  cMun=="2201150"
   cMunSIAFI="2245"
-if cMun=="2201176":
-  xMun="BARRA D ALCANTARA"
+if xMun="BARRA D ALCANTARA":
+  cMun=="2201176"
   cMunSIAFI="0272"
-if cMun=="2201200":
-  xMun="BARRAS"
+if xMun="BARRAS":
+  cMun=="2201200"
   cMunSIAFI="1023"
-if cMun=="2201309":
-  xMun="BARREIRAS DO PIAUI"
+if xMun="BARREIRAS DO PIAUI":
+  cMun=="2201309"
   cMunSIAFI="1025"
-if cMun=="2201408":
-  xMun="BARRO DURO"
+if xMun="BARRO DURO":
+  cMun=="2201408"
   cMunSIAFI="1027"
-if cMun=="2201507":
-  xMun="BATALHA"
+if xMun="BATALHA":
+  cMun=="2201507"
   cMunSIAFI="1029"
-if cMun=="2201556":
-  xMun="BELA VISTA DO PIAUI"
+if xMun="BELA VISTA DO PIAUI":
+  cMun=="2201556"
   cMunSIAFI="0274"
-if cMun=="2201572":
-  xMun="BELEM DO PIAUI"
+if xMun="BELEM DO PIAUI":
+  cMun=="2201572"
   cMunSIAFI="0276"
-if cMun=="2201606":
-  xMun="BENEDITINOS"
+if xMun="BENEDITINOS":
+  cMun=="2201606"
   cMunSIAFI="1031"
-if cMun=="2201705":
-  xMun="BERTOLINIA"
+if xMun="BERTOLINIA":
+  cMun=="2201705"
   cMunSIAFI="1033"
-if cMun=="2201739":
-  xMun="BETANIA DO PIAUI"
+if xMun="BETANIA DO PIAUI":
+  cMun=="2201739"
   cMunSIAFI="0278"
-if cMun=="2201770":
-  xMun="BOA HORA"
+if xMun="BOA HORA":
+  cMun=="2201770"
   cMunSIAFI="0280"
-if cMun=="2201804":
-  xMun="BOCAINA"
+if xMun="BOCAINA":
+  cMun=="2201804"
   cMunSIAFI="1035"
-if cMun=="2201903":
-  xMun="BOM JESUS"
+if xMun="BOM JESUS":
+  cMun=="2201903"
   cMunSIAFI="1037"
-if cMun=="2201919":
-  xMun="BOM PRINCIPIO DO PIAUI"
+if xMun="BOM PRINCIPIO DO PIAUI":
+  cMun=="2201919"
   cMunSIAFI="2287"
-if cMun=="2201929":
-  xMun="BONFIM DO PIAUI"
+if xMun="BONFIM DO PIAUI":
+  cMun=="2201929"
   cMunSIAFI="2251"
-if cMun=="2201945":
-  xMun="BOQUEIRAO DO PIAUI"
+if xMun="BOQUEIRAO DO PIAUI":
+  cMun=="2201945"
   cMunSIAFI="0282"
-if cMun=="2201960":
-  xMun="BRASILEIRA"
+if xMun="BRASILEIRA":
+  cMun=="2201960"
   cMunSIAFI="2283"
-if cMun=="2201988":
-  xMun="BREJO DO PIAUI"
+if xMun="BREJO DO PIAUI":
+  cMun=="2201988"
   cMunSIAFI="0284"
-if cMun=="2202000":
-  xMun="BURITI DOS LOPES"
+if xMun="BURITI DOS LOPES":
+  cMun=="2202000"
   cMunSIAFI="1039"
-if cMun=="2202026":
-  xMun="BURITI DOS MONTES"
+if xMun="BURITI DOS MONTES":
+  cMun=="2202026"
   cMunSIAFI="1297"
-if cMun=="2202059":
-  xMun="CABECEIRAS DO PIAUI"
+if xMun="CABECEIRAS DO PIAUI":
+  cMun=="2202059"
   cMunSIAFI="1299"
-if cMun=="2202075":
-  xMun="CAJAZEIRAS DO PIAUI"
+if xMun="CAJAZEIRAS DO PIAUI":
+  cMun=="2202075"
   cMunSIAFI="0286"
-if cMun=="2202083":
-  xMun="CAJUEIRO DA PRAIA"
+if xMun="CAJUEIRO DA PRAIA":
+  cMun=="2202083"
   cMunSIAFI="0288"
-if cMun=="2202091":
-  xMun="CALDEIRAO GRANDE DO PIAUI"
+if xMun="CALDEIRAO GRANDE DO PIAUI":
+  cMun=="2202091"
   cMunSIAFI="2271"
-if cMun=="2202109":
-  xMun="CAMPINAS DO PIAUI"
+if xMun="CAMPINAS DO PIAUI":
+  cMun=="2202109"
   cMunSIAFI="1041"
-if cMun=="2202117":
-  xMun="CAMPO ALEGRE DO FIDALGO"
+if xMun="CAMPO ALEGRE DO FIDALGO":
+  cMun=="2202117"
   cMunSIAFI="0290"
-if cMun=="2202133":
-  xMun="CAMPO GRANDE DO PIAUI"
+if xMun="CAMPO GRANDE DO PIAUI":
+  cMun=="2202133"
   cMunSIAFI="0292"
-if cMun=="2202174":
-  xMun="CAMPO LARGO DO PIAUI"
+if xMun="CAMPO LARGO DO PIAUI":
+  cMun=="2202174"
   cMunSIAFI="0294"
-if cMun=="2202208":
-  xMun="CAMPO MAIOR"
+if xMun="CAMPO MAIOR":
+  cMun=="2202208"
   cMunSIAFI="1043"
-if cMun=="2202251":
-  xMun="CANAVIEIRA"
+if xMun="CANAVIEIRA":
+  cMun=="2202251"
   cMunSIAFI="2247"
-if cMun=="2202307":
-  xMun="CANTO DO BURITI"
+if xMun="CANTO DO BURITI":
+  cMun=="2202307"
   cMunSIAFI="1045"
-if cMun=="2202406":
-  xMun="CAPITAO DE CAMPOS"
+if xMun="CAPITAO DE CAMPOS":
+  cMun=="2202406"
   cMunSIAFI="1047"
-if cMun=="2202455":
-  xMun="CAPITAO GERVASIO OLIVEIRA"
+if xMun="CAPITAO GERVASIO OLIVEIRA":
+  cMun=="2202455"
   cMunSIAFI="0296"
-if cMun=="2202505":
-  xMun="CARACOL"
+if xMun="CARACOL":
+  cMun=="2202505"
   cMunSIAFI="1049"
-if cMun=="2202539":
-  xMun="CARAUBAS DO PIAUI"
+if xMun="CARAUBAS DO PIAUI":
+  cMun=="2202539"
   cMunSIAFI="0298"
-if cMun=="2202554":
-  xMun="CARIDADE DO PIAUI"
+if xMun="CARIDADE DO PIAUI":
+  cMun=="2202554"
   cMunSIAFI="0300"
-if cMun=="2202604":
-  xMun="CASTELO DO PIAUI"
+if xMun="CASTELO DO PIAUI":
+  cMun=="2202604"
   cMunSIAFI="1051"
-if cMun=="2202653":
-  xMun="CAXINGO"
+if xMun="CAXINGO":
+  cMun=="2202653"
   cMunSIAFI="0302"
-if cMun=="2202703":
-  xMun="COCAL"
+if xMun="COCAL":
+  cMun=="2202703"
   cMunSIAFI="1053"
-if cMun=="2202711":
-  xMun="COCAL DE TELHA"
+if xMun="COCAL DE TELHA":
+  cMun=="2202711"
   cMunSIAFI="0304"
-if cMun=="2202729":
-  xMun="COCAL DOS ALVES"
+if xMun="COCAL DOS ALVES":
+  cMun=="2202729"
   cMunSIAFI="0306"
-if cMun=="2202737":
-  xMun="COIVARAS"
+if xMun="COIVARAS":
+  cMun=="2202737"
   cMunSIAFI="0995"
-if cMun=="2202752":
-  xMun="COLONIA DO GURGUEIA"
+if xMun="COLONIA DO GURGUEIA":
+  cMun=="2202752"
   cMunSIAFI="2249"
-if cMun=="2202778":
-  xMun="COLONIA DO PIAUI"
+if xMun="COLONIA DO PIAUI":
+  cMun=="2202778"
   cMunSIAFI="2253"
-if cMun=="2202802":
-  xMun="CONCEICAO DO CANINDE"
+if xMun="CONCEICAO DO CANINDE":
+  cMun=="2202802"
   cMunSIAFI="1055"
-if cMun=="2202851":
-  xMun="CORONEL JOSE DIAS"
+if xMun="CORONEL JOSE DIAS":
+  cMun=="2202851"
   cMunSIAFI="2255"
-if cMun=="2202901":
-  xMun="CORRENTE"
+if xMun="CORRENTE":
+  cMun=="2202901"
   cMunSIAFI="1057"
-if cMun=="2203008":
-  xMun="CRISTALANDIA DO PIAUI"
+if xMun="CRISTALANDIA DO PIAUI":
+  cMun=="2203008"
   cMunSIAFI="1059"
-if cMun=="2203107":
-  xMun="CRISTINO CASTRO"
+if xMun="CRISTINO CASTRO":
+  cMun=="2203107"
   cMunSIAFI="1061"
-if cMun=="2203206":
-  xMun="CURIMATA"
+if xMun="CURIMATA":
+  cMun=="2203206"
   cMunSIAFI="1063"
-if cMun=="2203230":
-  xMun="CURRAIS"
+if xMun="CURRAIS":
+  cMun=="2203230"
   cMunSIAFI="0308"
-if cMun=="2203271":
-  xMun="CURRAL NOVO DO PIAUI"
+if xMun="CURRAL NOVO DO PIAUI":
+  cMun=="2203271"
   cMunSIAFI="0312"
-if cMun=="2203255":
-  xMun="CURRALINHOS"
+if xMun="CURRALINHOS":
+  cMun=="2203255"
   cMunSIAFI="0310"
-if cMun=="2203305":
-  xMun="DEMERVAL LOBAO"
+if xMun="DEMERVAL LOBAO":
+  cMun=="2203305"
   cMunSIAFI="1065"
-if cMun=="2203354":
-  xMun="DIRCEU ARCOVERDE"
+if xMun="DIRCEU ARCOVERDE":
+  cMun=="2203354"
   cMunSIAFI="1229"
-if cMun=="2203404":
-  xMun="DOM EXPEDITO LOPES"
+if xMun="DOM EXPEDITO LOPES":
+  cMun=="2203404"
   cMunSIAFI="1067"
-if cMun=="2203453":
-  xMun="DOM INOCÃŠNCIO"
+if xMun="DOM INOCÃŠNCIO":
+  cMun=="2203453"
   cMunSIAFI="1289"
-if cMun=="2203420":
-  xMun="DOMINGOS MOURAO"
+if xMun="DOMINGOS MOURAO":
+  cMun=="2203420"
   cMunSIAFI="1141"
-if cMun=="2203503":
-  xMun="ELESBAO VELOSO"
+if xMun="ELESBAO VELOSO":
+  cMun=="2203503"
   cMunSIAFI="1069"
-if cMun=="2203602":
-  xMun="ELISEU MARTINS"
+if xMun="ELISEU MARTINS":
+  cMun=="2203602"
   cMunSIAFI="1071"
-if cMun=="2203701":
-  xMun="ESPERANTINA"
+if xMun="ESPERANTINA":
+  cMun=="2203701"
   cMunSIAFI="1073"
-if cMun=="2203750":
-  xMun="FARTURA DO PIAUI"
+if xMun="FARTURA DO PIAUI":
+  cMun=="2203750"
   cMunSIAFI="2257"
-if cMun=="2203800":
-  xMun="FLORES DO PIAUI"
+if xMun="FLORES DO PIAUI":
+  cMun=="2203800"
   cMunSIAFI="1075"
-if cMun=="2203859":
-  xMun="FLORESTA DO PIAUI"
+if xMun="FLORESTA DO PIAUI":
+  cMun=="2203859"
   cMunSIAFI="0314"
-if cMun=="2203909":
-  xMun="FLORIANO"
+if xMun="FLORIANO":
+  cMun=="2203909"
   cMunSIAFI="1077"
-if cMun=="2204006":
-  xMun="FRANCINOPOLIS"
+if xMun="FRANCINOPOLIS":
+  cMun=="2204006"
   cMunSIAFI="1079"
-if cMun=="2204105":
-  xMun="FRANCISCO AYRES"
+if xMun="FRANCISCO AYRES":
+  cMun=="2204105"
   cMunSIAFI="1081"
-if cMun=="2204154":
-  xMun="FRANCISCO MACEDO"
+if xMun="FRANCISCO MACEDO":
+  cMun=="2204154"
   cMunSIAFI="0316"
-if cMun=="2204204":
-  xMun="FRANCISCO SANTOS"
+if xMun="FRANCISCO SANTOS":
+  cMun=="2204204"
   cMunSIAFI="1083"
-if cMun=="2204303":
-  xMun="FRONTEIRAS"
+if xMun="FRONTEIRAS":
+  cMun=="2204303"
   cMunSIAFI="1085"
-if cMun=="2204352":
-  xMun="GEMINIANO"
+if xMun="GEMINIANO":
+  cMun=="2204352"
   cMunSIAFI="0318"
-if cMun=="2204402":
-  xMun="GILBUES"
+if xMun="GILBUES":
+  cMun=="2204402"
   cMunSIAFI="1087"
-if cMun=="2204501":
-  xMun="GUADALUPE"
+if xMun="GUADALUPE":
+  cMun=="2204501"
   cMunSIAFI="1089"
-if cMun=="2204550":
-  xMun="GUARIBAS"
+if xMun="GUARIBAS":
+  cMun=="2204550"
   cMunSIAFI="0320"
-if cMun=="2204600":
-  xMun="HUGO NAPOLEAO"
+if xMun="HUGO NAPOLEAO":
+  cMun=="2204600"
   cMunSIAFI="1091"
-if cMun=="2204659":
-  xMun="ILHA GRANDE"
+if xMun="ILHA GRANDE":
+  cMun=="2204659"
   cMunSIAFI="0322"
-if cMun=="2204709":
-  xMun="INHUMA"
+if xMun="INHUMA":
+  cMun=="2204709"
   cMunSIAFI="1093"
-if cMun=="2204808":
-  xMun="IPIRANGA DO PIAUI"
+if xMun="IPIRANGA DO PIAUI":
+  cMun=="2204808"
   cMunSIAFI="1095"
-if cMun=="2204907":
-  xMun="ISAIAS COELHO"
+if xMun="ISAIAS COELHO":
+  cMun=="2204907"
   cMunSIAFI="1097"
-if cMun=="2205003":
-  xMun="ITAINOPOLIS"
+if xMun="ITAINOPOLIS":
+  cMun=="2205003"
   cMunSIAFI="1099"
-if cMun=="2205102":
-  xMun="ITAUEIRA"
+if xMun="ITAUEIRA":
+  cMun=="2205102"
   cMunSIAFI="1101"
-if cMun=="2205151":
-  xMun="JACOBINA DO PIAUI"
+if xMun="JACOBINA DO PIAUI":
+  cMun=="2205151"
   cMunSIAFI="2273"
-if cMun=="2205201":
-  xMun="JAICOS"
+if xMun="JAICOS":
+  cMun=="2205201"
   cMunSIAFI="1103"
-if cMun=="2205250":
-  xMun="JARDIM DO MULATO"
+if xMun="JARDIM DO MULATO":
+  cMun=="2205250"
   cMunSIAFI="0997"
-if cMun=="2205276":
-  xMun="JATOBA DO PIAUI"
+if xMun="JATOBA DO PIAUI":
+  cMun=="2205276"
   cMunSIAFI="0324"
-if cMun=="2205300":
-  xMun="JERUMENHA"
+if xMun="JERUMENHA":
+  cMun=="2205300"
   cMunSIAFI="1105"
-if cMun=="2205359":
-  xMun="JOAO COSTA"
+if xMun="JOAO COSTA":
+  cMun=="2205359"
   cMunSIAFI="0326"
-if cMun=="2205409":
-  xMun="JOAQUIM PIRES"
+if xMun="JOAQUIM PIRES":
+  cMun=="2205409"
   cMunSIAFI="1107"
-if cMun=="2205458":
-  xMun="JOCA MARQUES"
+if xMun="JOCA MARQUES":
+  cMun=="2205458"
   cMunSIAFI="0328"
-if cMun=="2205508":
-  xMun="JOSE DE FREITAS"
+if xMun="JOSE DE FREITAS":
+  cMun=="2205508"
   cMunSIAFI="1109"
-if cMun=="2205516":
-  xMun="JUAZEIRO DO PIAUI"
+if xMun="JUAZEIRO DO PIAUI":
+  cMun=="2205516"
   cMunSIAFI="0330"
-if cMun=="2205524":
-  xMun="JULIO BORGES"
+if xMun="JULIO BORGES":
+  cMun=="2205524"
   cMunSIAFI="0332"
-if cMun=="2205532":
-  xMun="JUREMA"
+if xMun="JUREMA":
+  cMun=="2205532"
   cMunSIAFI="0334"
-if cMun=="2205557":
-  xMun="LAGOA ALEGRE"
+if xMun="LAGOA ALEGRE":
+  cMun=="2205557"
   cMunSIAFI="0999"
-if cMun=="2205573":
-  xMun="LAGOA DE SAO FRANCISCO"
+if xMun="LAGOA DE SAO FRANCISCO":
+  cMun=="2205573"
   cMunSIAFI="0338"
-if cMun=="2205565":
-  xMun="LAGOA DO BARRO DO PIAUI"
+if xMun="LAGOA DO BARRO DO PIAUI":
+  cMun=="2205565"
   cMunSIAFI="2259"
-if cMun=="2205581":
-  xMun="LAGOA DO PIAUI"
+if xMun="LAGOA DO PIAUI":
+  cMun=="2205581"
   cMunSIAFI="0340"
-if cMun=="2205599":
-  xMun="LAGOA DO SITIO"
+if xMun="LAGOA DO SITIO":
+  cMun=="2205599"
   cMunSIAFI="0342"
-if cMun=="2205540":
-  xMun="LAGOINHA DO PIAUI"
+if xMun="LAGOINHA DO PIAUI":
+  cMun=="2205540"
   cMunSIAFI="0336"
-if cMun=="2205607":
-  xMun="LANDRI SALES"
+if xMun="LANDRI SALES":
+  cMun=="2205607"
   cMunSIAFI="1111"
-if cMun=="2205706":
-  xMun="LUIS CORREIA"
+if xMun="LUIS CORREIA":
+  cMun=="2205706"
   cMunSIAFI="1113"
-if cMun=="2205805":
-  xMun="LUZILANDIA"
+if xMun="LUZILANDIA":
+  cMun=="2205805"
   cMunSIAFI="1115"
-if cMun=="2205854":
-  xMun="MADEIRO"
+if xMun="MADEIRO":
+  cMun=="2205854"
   cMunSIAFI="0344"
-if cMun=="2205904":
-  xMun="MANOEL EMIDIO"
+if xMun="MANOEL EMIDIO":
+  cMun=="2205904"
   cMunSIAFI="1117"
-if cMun=="2205953":
-  xMun="MARCOLANDIA"
+if xMun="MARCOLANDIA":
+  cMun=="2205953"
   cMunSIAFI="2275"
-if cMun=="2206001":
-  xMun="MARCOS PARENTE"
+if xMun="MARCOS PARENTE":
+  cMun=="2206001"
   cMunSIAFI="1119"
-if cMun=="2206050":
-  xMun="MASSAPÃŠ DO PIAUI"
+if xMun="MASSAPÃŠ DO PIAUI":
+  cMun=="2206050"
   cMunSIAFI="0346"
-if cMun=="2206100":
-  xMun="MATIAS OLIMPIO"
+if xMun="MATIAS OLIMPIO":
+  cMun=="2206100"
   cMunSIAFI="1121"
-if cMun=="2206209":
-  xMun="MIGUEL ALVES"
+if xMun="MIGUEL ALVES":
+  cMun=="2206209"
   cMunSIAFI="1123"
-if cMun=="2206308":
-  xMun="MIGUEL LEAO"
+if xMun="MIGUEL LEAO":
+  cMun=="2206308"
   cMunSIAFI="1125"
-if cMun=="2206357":
-  xMun="MILTON BRANDAO"
+if xMun="MILTON BRANDAO":
+  cMun=="2206357"
   cMunSIAFI="0348"
-if cMun=="2206407":
-  xMun="MONSENHOR GIL"
+if xMun="MONSENHOR GIL":
+  cMun=="2206407"
   cMunSIAFI="1127"
-if cMun=="2206506":
-  xMun="MONSENHOR HIPOLITO"
+if xMun="MONSENHOR HIPOLITO":
+  cMun=="2206506"
   cMunSIAFI="1129"
-if cMun=="2206605":
-  xMun="MONTE ALEGRE DO PIAUI"
+if xMun="MONTE ALEGRE DO PIAUI":
+  cMun=="2206605"
   cMunSIAFI="1131"
-if cMun=="2206654":
-  xMun="MORRO CABECA NO TEMPO"
+if xMun="MORRO CABECA NO TEMPO":
+  cMun=="2206654"
   cMunSIAFI="0350"
-if cMun=="2206670":
-  xMun="MORRO DO CHAPEU DO PIAUI"
+if xMun="MORRO DO CHAPEU DO PIAUI":
+  cMun=="2206670"
   cMunSIAFI="0352"
-if cMun=="2206696":
-  xMun="MURICI DOS PORTELAS"
+if xMun="MURICI DOS PORTELAS":
+  cMun=="2206696"
   cMunSIAFI="0354"
-if cMun=="2206704":
-  xMun="NAZARE DO PIAUI"
+if xMun="NAZARE DO PIAUI":
+  cMun=="2206704"
   cMunSIAFI="1133"
-if cMun=="2206720":
-  xMun="NAZARIA"
+if xMun="NAZARIA":
+  cMun=="2206720"
   cMunSIAFI=""
-if cMun=="2206753":
-  xMun="NOSSA SENHORA DE NAZARE"
+if xMun="NOSSA SENHORA DE NAZARE":
+  cMun=="2206753"
   cMunSIAFI="0356"
-if cMun=="2206803":
-  xMun="NOSSA SENHORA DOS REMEDIOS"
+if xMun="NOSSA SENHORA DOS REMEDIOS":
+  cMun=="2206803"
   cMunSIAFI="1135"
-if cMun=="2207959":
-  xMun="NOVA SANTA RITA"
+if xMun="NOVA SANTA RITA":
+  cMun=="2207959"
   cMunSIAFI="0370"
-if cMun=="2206902":
-  xMun="NOVO ORIENTE DO PIAUI"
+if xMun="NOVO ORIENTE DO PIAUI":
+  cMun=="2206902"
   cMunSIAFI="1137"
-if cMun=="2206951":
-  xMun="NOVO SANTO ANTONIO"
+if xMun="NOVO SANTO ANTONIO":
+  cMun=="2206951"
   cMunSIAFI="0358"
-if cMun=="2207009":
-  xMun="OEIRAS"
+if xMun="OEIRAS":
+  cMun=="2207009"
   cMunSIAFI="1139"
-if cMun=="2207108":
-  xMun="OLHO D AGUA DO PIAUI"
+if xMun="OLHO D AGUA DO PIAUI":
+  cMun=="2207108"
   cMunSIAFI="0360"
-if cMun=="2207207":
-  xMun="PADRE MARCOS"
+if xMun="PADRE MARCOS":
+  cMun=="2207207"
   cMunSIAFI="1143"
-if cMun=="2207306":
-  xMun="PAES LANDIM"
+if xMun="PAES LANDIM":
+  cMun=="2207306"
   cMunSIAFI="1145"
-if cMun=="2207355":
-  xMun="PAJEU DO PIAUI"
+if xMun="PAJEU DO PIAUI":
+  cMun=="2207355"
   cMunSIAFI="0362"
-if cMun=="2207405":
-  xMun="PALMEIRA DO PIAUI"
+if xMun="PALMEIRA DO PIAUI":
+  cMun=="2207405"
   cMunSIAFI="1147"
-if cMun=="2207504":
-  xMun="PALMEIRAIS"
+if xMun="PALMEIRAIS":
+  cMun=="2207504"
   cMunSIAFI="1149"
-if cMun=="2207553":
-  xMun="PAQUETA"
+if xMun="PAQUETA":
+  cMun=="2207553"
   cMunSIAFI="0364"
-if cMun=="2207603":
-  xMun="PARNAGUA"
+if xMun="PARNAGUA":
+  cMun=="2207603"
   cMunSIAFI="1151"
-if cMun=="2207702":
-  xMun="PARNAIBA"
+if xMun="PARNAIBA":
+  cMun=="2207702"
   cMunSIAFI="1153"
-if cMun=="2207751":
-  xMun="PASSAGEM FRANCA DO PIAUI"
+if xMun="PASSAGEM FRANCA DO PIAUI":
+  cMun=="2207751"
   cMunSIAFI="1293"
-if cMun=="2207777":
-  xMun="PATOS DO PIAUI"
+if xMun="PATOS DO PIAUI":
+  cMun=="2207777"
   cMunSIAFI="2277"
-if cMun=="2207793":
-  xMun="PAU D ARCO DO PIAUI"
+if xMun="PAU D ARCO DO PIAUI":
+  cMun=="2207793"
   cMunSIAFI="1104"
-if cMun=="2207801":
-  xMun="PAULISTANA"
+if xMun="PAULISTANA":
+  cMun=="2207801"
   cMunSIAFI="1155"
-if cMun=="2207850":
-  xMun="PAVUSSU"
+if xMun="PAVUSSU":
+  cMun=="2207850"
   cMunSIAFI="0366"
-if cMun=="2207900":
-  xMun="PEDRO II"
+if xMun="PEDRO II":
+  cMun=="2207900"
   cMunSIAFI="1157"
-if cMun=="2207934":
-  xMun="PEDRO LAURENTINO"
+if xMun="PEDRO LAURENTINO":
+  cMun=="2207934"
   cMunSIAFI="0368"
-if cMun=="2208007":
-  xMun="PICOS"
+if xMun="PICOS":
+  cMun=="2208007"
   cMunSIAFI="1159"
-if cMun=="2208106":
-  xMun="PIMENTEIRAS"
+if xMun="PIMENTEIRAS":
+  cMun=="2208106"
   cMunSIAFI="1161"
-if cMun=="2208205":
-  xMun="PIO IX"
+if xMun="PIO IX":
+  cMun=="2208205"
   cMunSIAFI="1163"
-if cMun=="2208304":
-  xMun="PIRACURUCA"
+if xMun="PIRACURUCA":
+  cMun=="2208304"
   cMunSIAFI="1165"
-if cMun=="2208403":
-  xMun="PIRIPIRI"
+if xMun="PIRIPIRI":
+  cMun=="2208403"
   cMunSIAFI="1167"
-if cMun=="2208502":
-  xMun="PORTO"
+if xMun="PORTO":
+  cMun=="2208502"
   cMunSIAFI="1169"
-if cMun=="2208551":
-  xMun="PORTO ALEGRE DO PIAUI"
+if xMun="PORTO ALEGRE DO PIAUI":
+  cMun=="2208551"
   cMunSIAFI="0372"
-if cMun=="2208601":
-  xMun="PRATA DO PIAUI"
+if xMun="PRATA DO PIAUI":
+  cMun=="2208601"
   cMunSIAFI="1171"
-if cMun=="2208650":
-  xMun="QUEIMADA NOVA"
+if xMun="QUEIMADA NOVA":
+  cMun=="2208650"
   cMunSIAFI="2279"
-if cMun=="2208700":
-  xMun="REDENCAO DO GURGUEIA"
+if xMun="REDENCAO DO GURGUEIA":
+  cMun=="2208700"
   cMunSIAFI="1173"
-if cMun=="2208809":
-  xMun="REGENERACAO"
+if xMun="REGENERACAO":
+  cMun=="2208809"
   cMunSIAFI="1175"
-if cMun=="2208858":
-  xMun="RIACHO FRIO"
+if xMun="RIACHO FRIO":
+  cMun=="2208858"
   cMunSIAFI="0374"
-if cMun=="2208874":
-  xMun="RIBEIRA DO PIAUI"
+if xMun="RIBEIRA DO PIAUI":
+  cMun=="2208874"
   cMunSIAFI="0376"
-if cMun=="2208908":
-  xMun="RIBEIRO GONCALVES"
+if xMun="RIBEIRO GONCALVES":
+  cMun=="2208908"
   cMunSIAFI="1177"
-if cMun=="2209005":
-  xMun="RIO GRANDE DO PIAUI"
+if xMun="RIO GRANDE DO PIAUI":
+  cMun=="2209005"
   cMunSIAFI="1179"
-if cMun=="2209104":
-  xMun="SANTA CRUZ DO PIAUI"
+if xMun="SANTA CRUZ DO PIAUI":
+  cMun=="2209104"
   cMunSIAFI="1181"
-if cMun=="2209153":
-  xMun="SANTA CRUZ DOS MILAGRES"
+if xMun="SANTA CRUZ DOS MILAGRES":
+  cMun=="2209153"
   cMunSIAFI="1295"
-if cMun=="2209203":
-  xMun="SANTA FILOMENA"
+if xMun="SANTA FILOMENA":
+  cMun=="2209203"
   cMunSIAFI="1183"
-if cMun=="2209302":
-  xMun="SANTA LUZ"
+if xMun="SANTA LUZ":
+  cMun=="2209302"
   cMunSIAFI="1185"
-if cMun=="2209377":
-  xMun="SANTA ROSA DO PIAUI"
+if xMun="SANTA ROSA DO PIAUI":
+  cMun=="2209377"
   cMunSIAFI="2261"
-if cMun=="2209351":
-  xMun="SANTANA DO PIAUI"
+if xMun="SANTANA DO PIAUI":
+  cMun=="2209351"
   cMunSIAFI="2281"
-if cMun=="2209401":
-  xMun="SANTO ANTONIO DE LISBOA"
+if xMun="SANTO ANTONIO DE LISBOA":
+  cMun=="2209401"
   cMunSIAFI="1187"
-if cMun=="2209450":
-  xMun="SANTO ANTONIO DOS MILAGRES"
+if xMun="SANTO ANTONIO DOS MILAGRES":
+  cMun=="2209450"
   cMunSIAFI="0378"
-if cMun=="2209500":
-  xMun="SANTO INACIO DO PIAUI"
+if xMun="SANTO INACIO DO PIAUI":
+  cMun=="2209500"
   cMunSIAFI="1189"
-if cMun=="2209559":
-  xMun="SAO BRAZ DO PIAUI"
+if xMun="SAO BRAZ DO PIAUI":
+  cMun=="2209559"
   cMunSIAFI="2263"
-if cMun=="2209609":
-  xMun="SAO FELIX DO PIAUI"
+if xMun="SAO FELIX DO PIAUI":
+  cMun=="2209609"
   cMunSIAFI="1191"
-if cMun=="2209658":
-  xMun="SAO FRANCISCO DE ASSIS DO PIAUI"
+if xMun="SAO FRANCISCO DE ASSIS DO PIAUI":
+  cMun=="2209658"
   cMunSIAFI="0380"
-if cMun=="2209708":
-  xMun="SAO FRANCISCO DO PIAUI"
+if xMun="SAO FRANCISCO DO PIAUI":
+  cMun=="2209708"
   cMunSIAFI="1193"
-if cMun=="2209757":
-  xMun="SAO GONCALO DO GURGUEIA"
+if xMun="SAO GONCALO DO GURGUEIA":
+  cMun=="2209757"
   cMunSIAFI="0382"
-if cMun=="2209807":
-  xMun="SAO GONCALO DO PIAUI"
+if xMun="SAO GONCALO DO PIAUI":
+  cMun=="2209807"
   cMunSIAFI="1195"
-if cMun=="2209856":
-  xMun="SAO JOAO DA CANABRAVA"
+if xMun="SAO JOAO DA CANABRAVA":
+  cMun=="2209856"
   cMunSIAFI="1291"
-if cMun=="2209872":
-  xMun="SAO JOAO DA FRONTEIRA"
+if xMun="SAO JOAO DA FRONTEIRA":
+  cMun=="2209872"
   cMunSIAFI="0384"
-if cMun=="2209906":
-  xMun="SAO JOAO DA SERRA"
+if xMun="SAO JOAO DA SERRA":
+  cMun=="2209906"
   cMunSIAFI="1197"
-if cMun=="2209955":
-  xMun="SAO JOAO DA VARJOTA"
+if xMun="SAO JOAO DA VARJOTA":
+  cMun=="2209955"
   cMunSIAFI="0386"
-if cMun=="2209971":
-  xMun="SAO JOAO DO ARRAIAL"
+if xMun="SAO JOAO DO ARRAIAL":
+  cMun=="2209971"
   cMunSIAFI="0388"
-if cMun=="2210003":
-  xMun="SAO JOAO DO PIAUI"
+if xMun="SAO JOAO DO PIAUI":
+  cMun=="2210003"
   cMunSIAFI="1199"
-if cMun=="2210052":
-  xMun="SAO JOSE DO DIVINO"
+if xMun="SAO JOSE DO DIVINO":
+  cMun=="2210052"
   cMunSIAFI="2285"
-if cMun=="2210102":
-  xMun="SAO JOSE DO PEIXE"
+if xMun="SAO JOSE DO PEIXE":
+  cMun=="2210102"
   cMunSIAFI="1201"
-if cMun=="2210201":
-  xMun="SAO JOSE DO PIAUI"
+if xMun="SAO JOSE DO PIAUI":
+  cMun=="2210201"
   cMunSIAFI="1203"
-if cMun=="2210300":
-  xMun="SAO JULIAO"
+if xMun="SAO JULIAO":
+  cMun=="2210300"
   cMunSIAFI="1205"
-if cMun=="2210359":
-  xMun="SAO LOURENCO DO PIAUI"
+if xMun="SAO LOURENCO DO PIAUI":
+  cMun=="2210359"
   cMunSIAFI="2265"
-if cMun=="2210375":
-  xMun="SAO LUIS DO PIAUI"
+if xMun="SAO LUIS DO PIAUI":
+  cMun=="2210375"
   cMunSIAFI="0390"
-if cMun=="2210383":
-  xMun="SAO MIGUEL DA BAIXA GRANDE"
+if xMun="SAO MIGUEL DA BAIXA GRANDE":
+  cMun=="2210383"
   cMunSIAFI="0392"
-if cMun=="2210391":
-  xMun="SAO MIGUEL DO FIDALGO"
+if xMun="SAO MIGUEL DO FIDALGO":
+  cMun=="2210391"
   cMunSIAFI="0394"
-if cMun=="2210409":
-  xMun="SAO MIGUEL DO TAPUIO"
+if xMun="SAO MIGUEL DO TAPUIO":
+  cMun=="2210409"
   cMunSIAFI="1207"
-if cMun=="2210508":
-  xMun="SAO PEDRO DO PIAUI"
+if xMun="SAO PEDRO DO PIAUI":
+  cMun=="2210508"
   cMunSIAFI="1209"
-if cMun=="2210607":
-  xMun="SAO RAIMUNDO NONATO"
+if xMun="SAO RAIMUNDO NONATO":
+  cMun=="2210607"
   cMunSIAFI="1211"
-if cMun=="2210623":
-  xMun="SEBASTIAO BARROS"
+if xMun="SEBASTIAO BARROS":
+  cMun=="2210623"
   cMunSIAFI="0396"
-if cMun=="2210631":
-  xMun="SEBASTIAO LEAL"
+if xMun="SEBASTIAO LEAL":
+  cMun=="2210631"
   cMunSIAFI="0398"
-if cMun=="2210656":
-  xMun="SIGEFREDO PACHECO"
+if xMun="SIGEFREDO PACHECO":
+  cMun=="2210656"
   cMunSIAFI="1379"
-if cMun=="2210706":
-  xMun="SIMÃ•ES"
+if xMun="SIMÃ•ES":
+  cMun=="2210706"
   cMunSIAFI="1213"
-if cMun=="2210805":
-  xMun="SIMPLICIO MENDES"
+if xMun="SIMPLICIO MENDES":
+  cMun=="2210805"
   cMunSIAFI="1215"
-if cMun=="2210904":
-  xMun="SOCORRO DO PIAUI"
+if xMun="SOCORRO DO PIAUI":
+  cMun=="2210904"
   cMunSIAFI="1217"
-if cMun=="2210938":
-  xMun="SUSSUAPARA"
+if xMun="SUSSUAPARA":
+  cMun=="2210938"
   cMunSIAFI="0400"
-if cMun=="2210953":
-  xMun="TAMBORIL DO PIAUI"
+if xMun="TAMBORIL DO PIAUI":
+  cMun=="2210953"
   cMunSIAFI="0402"
-if cMun=="2210979":
-  xMun="TANQUE DO PIAUI"
+if xMun="TANQUE DO PIAUI":
+  cMun=="2210979"
   cMunSIAFI="0404"
-if cMun=="2211001":
-  xMun="TERESINA"
+if xMun="TERESINA":
+  cMun=="2211001"
   cMunSIAFI="1219"
-if cMun=="2211100":
-  xMun="UNIAO"
+if xMun="UNIAO":
+  cMun=="2211100"
   cMunSIAFI="1221"
-if cMun=="2211209":
-  xMun="URUCUI"
+if xMun="URUCUI":
+  cMun=="2211209"
   cMunSIAFI="1223"
-if cMun=="2211308":
-  xMun="VALENCA DO PIAUI"
+if xMun="VALENCA DO PIAUI":
+  cMun=="2211308"
   cMunSIAFI="1225"
-if cMun=="2211357":
-  xMun="VARZEA BRANCA"
+if xMun="VARZEA BRANCA":
+  cMun=="2211357"
   cMunSIAFI="2267"
-if cMun=="2211407":
-  xMun="VARZEA GRANDE"
+if xMun="VARZEA GRANDE":
+  cMun=="2211407"
   cMunSIAFI="1227"
-if cMun=="2211506":
-  xMun="VERA MENDES"
+if xMun="VERA MENDES":
+  cMun=="2211506"
   cMunSIAFI="0406"
-if cMun=="2211605":
-  xMun="VILA NOVA DO PIAUI"
+if xMun="VILA NOVA DO PIAUI":
+  cMun=="2211605"
   cMunSIAFI="0408"
-if cMun=="2211704":
-  xMun="WALL FERRAZ"
+if xMun="WALL FERRAZ":
+  cMun=="2211704"
   cMunSIAFI="0410"
-if cMun=="4100103":
-  xMun="ABATIA"
+if xMun="ABATIA":
+  cMun=="4100103"
   cMunSIAFI="7401"
-if cMun=="4100202":
-  xMun="ADRIANOPOLIS"
+if xMun="ADRIANOPOLIS":
+  cMun=="4100202"
   cMunSIAFI="7403"
-if cMun=="4100301":
-  xMun="AGUDOS DO SUL"
+if xMun="AGUDOS DO SUL":
+  cMun=="4100301"
   cMunSIAFI="7405"
-if cMun=="4100400":
-  xMun="ALMIRANTE TAMANDARE"
+if xMun="ALMIRANTE TAMANDARE":
+  cMun=="4100400"
   cMunSIAFI="7407"
-if cMun=="4100459":
-  xMun="ALTAMIRA DO PARANA"
+if xMun="ALTAMIRA DO PARANA":
+  cMun=="4100459"
   cMunSIAFI="8455"
-if cMun=="4128625":
-  xMun="ALTO PARAISO"
+if xMun="ALTO PARAISO":
+  cMun=="4128625"
   cMunSIAFI="5523"
-if cMun=="4100608":
-  xMun="ALTO PARANA"
+if xMun="ALTO PARANA":
+  cMun=="4100608"
   cMunSIAFI="7409"
-if cMun=="4100707":
-  xMun="ALTO PIQUIRI"
+if xMun="ALTO PIQUIRI":
+  cMun=="4100707"
   cMunSIAFI="7411"
-if cMun=="4100509":
-  xMun="ALTONIA"
+if xMun="ALTONIA":
+  cMun=="4100509"
   cMunSIAFI="7951"
-if cMun=="4100806":
-  xMun="ALVORADA DO SUL"
+if xMun="ALVORADA DO SUL":
+  cMun=="4100806"
   cMunSIAFI="7413"
-if cMun=="4100905":
-  xMun="AMAPORA"
+if xMun="AMAPORA":
+  cMun=="4100905"
   cMunSIAFI="7415"
-if cMun=="4101002":
-  xMun="AMPERE"
+if xMun="AMPERE":
+  cMun=="4101002"
   cMunSIAFI="7417"
-if cMun=="4101051":
-  xMun="ANAHY"
+if xMun="ANAHY":
+  cMun=="4101051"
   cMunSIAFI="5463"
-if cMun=="4101101":
-  xMun="ANDIRA"
+if xMun="ANDIRA":
+  cMun=="4101101"
   cMunSIAFI="7419"
-if cMun=="4101150":
-  xMun="ANGULO"
+if xMun="ANGULO":
+  cMun=="4101150"
   cMunSIAFI="5509"
-if cMun=="4101200":
-  xMun="ANTONINA"
+if xMun="ANTONINA":
+  cMun=="4101200"
   cMunSIAFI="7421"
-if cMun=="4101309":
-  xMun="ANTONIO OLINTO"
+if xMun="ANTONIO OLINTO":
+  cMun=="4101309"
   cMunSIAFI="7423"
-if cMun=="4101408":
-  xMun="APUCARANA"
+if xMun="APUCARANA":
+  cMun=="4101408"
   cMunSIAFI="7425"
-if cMun=="4101507":
-  xMun="ARAPONGAS"
+if xMun="ARAPONGAS":
+  cMun=="4101507"
   cMunSIAFI="7427"
-if cMun=="4101606":
-  xMun="ARAPOTI"
+if xMun="ARAPOTI":
+  cMun=="4101606"
   cMunSIAFI="7429"
-if cMun=="4101655":
-  xMun="ARAPUA"
+if xMun="ARAPUA":
+  cMun=="4101655"
   cMunSIAFI="0830"
-if cMun=="4101705":
-  xMun="ARARUNA"
+if xMun="ARARUNA":
+  cMun=="4101705"
   cMunSIAFI="7431"
-if cMun=="4101804":
-  xMun="ARAUCARIA"
+if xMun="ARAUCARIA":
+  cMun=="4101804"
   cMunSIAFI="7435"
-if cMun=="4101853":
-  xMun="ARIRANHA DO IVAI"
+if xMun="ARIRANHA DO IVAI":
+  cMun=="4101853"
   cMunSIAFI="0832"
-if cMun=="4101903":
-  xMun="ASSAI"
+if xMun="ASSAI":
+  cMun=="4101903"
   cMunSIAFI="7437"
-if cMun=="4102000":
-  xMun="ASSIS CHATEAUBRIAND"
+if xMun="ASSIS CHATEAUBRIAND":
+  cMun=="4102000"
   cMunSIAFI="7953"
-if cMun=="4102109":
-  xMun="ASTORGA"
+if xMun="ASTORGA":
+  cMun=="4102109"
   cMunSIAFI="7439"
-if cMun=="4102208":
-  xMun="ATALAIA"
+if xMun="ATALAIA":
+  cMun=="4102208"
   cMunSIAFI="7441"
-if cMun=="4102307":
-  xMun="BALSA NOVA"
+if xMun="BALSA NOVA":
+  cMun=="4102307"
   cMunSIAFI="7443"
-if cMun=="4102406":
-  xMun="BANDEIRANTES"
+if xMun="BANDEIRANTES":
+  cMun=="4102406"
   cMunSIAFI="7445"
-if cMun=="4102505":
-  xMun="BARBOSA FERRAZ"
+if xMun="BARBOSA FERRAZ":
+  cMun=="4102505"
   cMunSIAFI="7447"
-if cMun=="4102703":
-  xMun="BARRA DO JACARE"
+if xMun="BARRA DO JACARE":
+  cMun=="4102703"
   cMunSIAFI="7451"
-if cMun=="4102604":
-  xMun="BARRACAO"
+if xMun="BARRACAO":
+  cMun=="4102604"
   cMunSIAFI="7449"
-if cMun=="4102752":
-  xMun="BELA VISTA DA CAROBA"
+if xMun="BELA VISTA DA CAROBA":
+  cMun=="4102752"
   cMunSIAFI="0834"
-if cMun=="4102802":
-  xMun="BELA VISTA DO PARAISO"
+if xMun="BELA VISTA DO PARAISO":
+  cMun=="4102802"
   cMunSIAFI="7453"
-if cMun=="4102901":
-  xMun="BITURUNA"
+if xMun="BITURUNA":
+  cMun=="4102901"
   cMunSIAFI="7455"
-if cMun=="4103008":
-  xMun="BOA ESPERANCA"
+if xMun="BOA ESPERANCA":
+  cMun=="4103008"
   cMunSIAFI="7457"
-if cMun=="4103024":
-  xMun="BOA ESPERANCA DO IGUACU"
+if xMun="BOA ESPERANCA DO IGUACU":
+  cMun=="4103024"
   cMunSIAFI="5471"
-if cMun=="4103040":
-  xMun="BOA VENTURA DE SAO ROQUE"
+if xMun="BOA VENTURA DE SAO ROQUE":
+  cMun=="4103040"
   cMunSIAFI="0836"
-if cMun=="4103057":
-  xMun="BOA VISTA DA APARECIDA"
+if xMun="BOA VISTA DA APARECIDA":
+  cMun=="4103057"
   cMunSIAFI="7981"
-if cMun=="4103107":
-  xMun="BOCAIUVA DO SUL"
+if xMun="BOCAIUVA DO SUL":
+  cMun=="4103107"
   cMunSIAFI="7459"
-if cMun=="4103156":
-  xMun="BOM JESUS DO SUL"
+if xMun="BOM JESUS DO SUL":
+  cMun=="4103156"
   cMunSIAFI="0838"
-if cMun=="4103206":
-  xMun="BOM SUCESSO"
+if xMun="BOM SUCESSO":
+  cMun=="4103206"
   cMunSIAFI="7461"
-if cMun=="4103222":
-  xMun="BOM SUCESSO DO SUL"
+if xMun="BOM SUCESSO DO SUL":
+  cMun=="4103222"
   cMunSIAFI="9979"
-if cMun=="4103305":
-  xMun="BORRAZOPOLIS"
+if xMun="BORRAZOPOLIS":
+  cMun=="4103305"
   cMunSIAFI="7463"
-if cMun=="4103354":
-  xMun="BRAGANEY"
+if xMun="BRAGANEY":
+  cMun=="4103354"
   cMunSIAFI="7983"
-if cMun=="4103370":
-  xMun="BRASILANDIA DO SUL"
+if xMun="BRASILANDIA DO SUL":
+  cMun=="4103370"
   cMunSIAFI="5521"
-if cMun=="4103404":
-  xMun="CAFEARA"
+if xMun="CAFEARA":
+  cMun=="4103404"
   cMunSIAFI="7465"
-if cMun=="4103453":
-  xMun="CAFELANDIA"
+if xMun="CAFELANDIA":
+  cMun=="4103453"
   cMunSIAFI="7985"
-if cMun=="4103479":
-  xMun="CAFEZAL DO SUL"
+if xMun="CAFEZAL DO SUL":
+  cMun=="4103479"
   cMunSIAFI="5491"
-if cMun=="4103503":
-  xMun="CALIFORNIA"
+if xMun="CALIFORNIA":
+  cMun=="4103503"
   cMunSIAFI="7467"
-if cMun=="4103602":
-  xMun="CAMBARA"
+if xMun="CAMBARA":
+  cMun=="4103602"
   cMunSIAFI="7469"
-if cMun=="4103701":
-  xMun="CAMBE"
+if xMun="CAMBE":
+  cMun=="4103701"
   cMunSIAFI="7471"
-if cMun=="4103800":
-  xMun="CAMBIRA"
+if xMun="CAMBIRA":
+  cMun=="4103800"
   cMunSIAFI="7473"
-if cMun=="4103909":
-  xMun="CAMPINA DA LAGOA"
+if xMun="CAMPINA DA LAGOA":
+  cMun=="4103909"
   cMunSIAFI="7475"
-if cMun=="4103958":
-  xMun="CAMPINA DO SIMAO"
+if xMun="CAMPINA DO SIMAO":
+  cMun=="4103958"
   cMunSIAFI="0840"
-if cMun=="4104006":
-  xMun="CAMPINA GRANDE DO SUL"
+if xMun="CAMPINA GRANDE DO SUL":
+  cMun=="4104006"
   cMunSIAFI="7477"
-if cMun=="4104055":
-  xMun="CAMPO BONITO"
+if xMun="CAMPO BONITO":
+  cMun=="4104055"
   cMunSIAFI="8475"
-if cMun=="4104105":
-  xMun="CAMPO DO TENENTE"
+if xMun="CAMPO DO TENENTE":
+  cMun=="4104105"
   cMunSIAFI="7479"
-if cMun=="4104204":
-  xMun="CAMPO LARGO"
+if xMun="CAMPO LARGO":
+  cMun=="4104204"
   cMunSIAFI="7481"
-if cMun=="4104253":
-  xMun="CAMPO MAGRO"
+if xMun="CAMPO MAGRO":
+  cMun=="4104253"
   cMunSIAFI="0842"
-if cMun=="4104303":
-  xMun="CAMPO MOURAO"
+if xMun="CAMPO MOURAO":
+  cMun=="4104303"
   cMunSIAFI="7483"
-if cMun=="4104402":
-  xMun="CANDIDO DE ABREU"
+if xMun="CANDIDO DE ABREU":
+  cMun=="4104402"
   cMunSIAFI="7485"
-if cMun=="4104428":
-  xMun="CANDOI"
+if xMun="CANDOI":
+  cMun=="4104428"
   cMunSIAFI="5499"
-if cMun=="4104451":
-  xMun="CANTAGALO"
+if xMun="CANTAGALO":
+  cMun=="4104451"
   cMunSIAFI="8451"
-if cMun=="4104501":
-  xMun="CAPANEMA"
+if xMun="CAPANEMA":
+  cMun=="4104501"
   cMunSIAFI="7487"
-if cMun=="4104600":
-  xMun="CAPITAO LEONIDAS MARQUES"
+if xMun="CAPITAO LEONIDAS MARQUES":
+  cMun=="4104600"
   cMunSIAFI="7489"
-if cMun=="4104659":
-  xMun="CARAMBEI"
+if xMun="CARAMBEI":
+  cMun=="4104659"
   cMunSIAFI="0844"
-if cMun=="4104709":
-  xMun="CARLOPOLIS"
+if xMun="CARLOPOLIS":
+  cMun=="4104709"
   cMunSIAFI="7491"
-if cMun=="4104808":
-  xMun="CASCAVEL"
+if xMun="CASCAVEL":
+  cMun=="4104808"
   cMunSIAFI="7493"
-if cMun=="4104907":
-  xMun="CASTRO"
+if xMun="CASTRO":
+  cMun=="4104907"
   cMunSIAFI="7495"
-if cMun=="4105003":
-  xMun="CATANDUVAS"
+if xMun="CATANDUVAS":
+  cMun=="4105003"
   cMunSIAFI="7497"
-if cMun=="4105102":
-  xMun="CENTENARIO DO SUL"
+if xMun="CENTENARIO DO SUL":
+  cMun=="4105102"
   cMunSIAFI="7499"
-if cMun=="4105201":
-  xMun="CERRO AZUL"
+if xMun="CERRO AZUL":
+  cMun=="4105201"
   cMunSIAFI="7501"
-if cMun=="4105300":
-  xMun="CEU AZUL"
+if xMun="CEU AZUL":
+  cMun=="4105300"
   cMunSIAFI="7957"
-if cMun=="4105409":
-  xMun="CHOPINZINHO"
+if xMun="CHOPINZINHO":
+  cMun=="4105409"
   cMunSIAFI="7503"
-if cMun=="4105508":
-  xMun="CIANORTE"
+if xMun="CIANORTE":
+  cMun=="4105508"
   cMunSIAFI="7505"
-if cMun=="4105607":
-  xMun="CIDADE GAUCHA"
+if xMun="CIDADE GAUCHA":
+  cMun=="4105607"
   cMunSIAFI="7507"
-if cMun=="4105706":
-  xMun="CLEVELANDIA"
+if xMun="CLEVELANDIA":
+  cMun=="4105706"
   cMunSIAFI="7509"
-if cMun=="4105805":
-  xMun="COLOMBO"
+if xMun="COLOMBO":
+  cMun=="4105805"
   cMunSIAFI="7513"
-if cMun=="4105904":
-  xMun="COLORADO"
+if xMun="COLORADO":
+  cMun=="4105904"
   cMunSIAFI="7515"
-if cMun=="4106001":
-  xMun="CONGONHINHAS"
+if xMun="CONGONHINHAS":
+  cMun=="4106001"
   cMunSIAFI="7517"
-if cMun=="4106100":
-  xMun="CONSELHEIRO MAIRINCK"
+if xMun="CONSELHEIRO MAIRINCK":
+  cMun=="4106100"
   cMunSIAFI="7519"
-if cMun=="4106209":
-  xMun="CONTENDA"
+if xMun="CONTENDA":
+  cMun=="4106209"
   cMunSIAFI="7521"
-if cMun=="4106308":
-  xMun="CORBELIA"
+if xMun="CORBELIA":
+  cMun=="4106308"
   cMunSIAFI="7523"
-if cMun=="4106407":
-  xMun="CORNELIO PROCOPIO"
+if xMun="CORNELIO PROCOPIO":
+  cMun=="4106407"
   cMunSIAFI="7525"
-if cMun=="4106456":
-  xMun="CORONEL DOMINGOS SOARES"
+if xMun="CORONEL DOMINGOS SOARES":
+  cMun=="4106456"
   cMunSIAFI="0846"
-if cMun=="4106506":
-  xMun="CORONEL VIVIDA"
+if xMun="CORONEL VIVIDA":
+  cMun=="4106506"
   cMunSIAFI="7527"
-if cMun=="4106555":
-  xMun="CORUMBATAI DO SUL"
+if xMun="CORUMBATAI DO SUL":
+  cMun=="4106555"
   cMunSIAFI="8479"
-if cMun=="4106803":
-  xMun="CRUZ MACHADO"
+if xMun="CRUZ MACHADO":
+  cMun=="4106803"
   cMunSIAFI="7533"
-if cMun=="4106571":
-  xMun="CRUZEIRO DO IGUACU"
+if xMun="CRUZEIRO DO IGUACU":
+  cMun=="4106571"
   cMunSIAFI="5473"
-if cMun=="4106605":
-  xMun="CRUZEIRO DO OESTE"
+if xMun="CRUZEIRO DO OESTE":
+  cMun=="4106605"
   cMunSIAFI="7529"
-if cMun=="4106704":
-  xMun="CRUZEIRO DO SUL"
+if xMun="CRUZEIRO DO SUL":
+  cMun=="4106704"
   cMunSIAFI="7531"
-if cMun=="4106852":
-  xMun="CRUZMALTINA"
+if xMun="CRUZMALTINA":
+  cMun=="4106852"
   cMunSIAFI="0848"
-if cMun=="4106902":
-  xMun="CURITIBA"
+if xMun="CURITIBA":
+  cMun=="4106902"
   cMunSIAFI="7535"
-if cMun=="4107009":
-  xMun="CURIUVA"
+if xMun="CURIUVA":
+  cMun=="4107009"
   cMunSIAFI="7537"
-if cMun=="4107108":
-  xMun="DIAMANTE DO NORTE"
+if xMun="DIAMANTE DO NORTE":
+  cMun=="4107108"
   cMunSIAFI="7539"
-if cMun=="4107124":
-  xMun="DIAMANTE DO SUL"
+if xMun="DIAMANTE DO SUL":
+  cMun=="4107124"
   cMunSIAFI="5465"
-if cMun=="4107157":
-  xMun="DIAMANTE D OESTE"
+if xMun="DIAMANTE D OESTE":
+  cMun=="4107157"
   cMunSIAFI="9915"
-if cMun=="4107207":
-  xMun="DOIS VIZINHOS"
+if xMun="DOIS VIZINHOS":
+  cMun=="4107207"
   cMunSIAFI="7541"
-if cMun=="4107256":
-  xMun="DOURADINA"
+if xMun="DOURADINA":
+  cMun=="4107256"
   cMunSIAFI="8465"
-if cMun=="4107306":
-  xMun="DOUTOR CAMARGO"
+if xMun="DOUTOR CAMARGO":
+  cMun=="4107306"
   cMunSIAFI="7543"
-if cMun=="4128633":
-  xMun="DOUTOR ULYSSES"
+if xMun="DOUTOR ULYSSES":
+  cMun=="4128633"
   cMunSIAFI="5449"
-if cMun=="4107405":
-  xMun="ENEAS MARQUES"
+if xMun="ENEAS MARQUES":
+  cMun=="4107405"
   cMunSIAFI="7545"
-if cMun=="4107504":
-  xMun="ENGENHEIRO BELTRAO"
+if xMun="ENGENHEIRO BELTRAO":
+  cMun=="4107504"
   cMunSIAFI="7547"
-if cMun=="4107538":
-  xMun="ENTRE RIOS DO OESTE"
+if xMun="ENTRE RIOS DO OESTE":
+  cMun=="4107538"
   cMunSIAFI="5529"
-if cMun=="4107520":
-  xMun="ESPERANCA NOVA"
+if xMun="ESPERANCA NOVA":
+  cMun=="4107520"
   cMunSIAFI="0850"
-if cMun=="4107546":
-  xMun="ESPIGAO ALTO DO IGUACU"
+if xMun="ESPIGAO ALTO DO IGUACU":
+  cMun=="4107546"
   cMunSIAFI="0852"
-if cMun=="4107553":
-  xMun="FAROL"
+if xMun="FAROL":
+  cMun=="4107553"
   cMunSIAFI="5511"
-if cMun=="4107603":
-  xMun="FAXINAL"
+if xMun="FAXINAL":
+  cMun=="4107603"
   cMunSIAFI="7549"
-if cMun=="4107652":
-  xMun="FAZENDA RIO GRANDE"
+if xMun="FAZENDA RIO GRANDE":
+  cMun=="4107652"
   cMunSIAFI="9983"
-if cMun=="4107702":
-  xMun="FÃŠNIX"
+if xMun="FÃŠNIX":
+  cMun=="4107702"
   cMunSIAFI="7551"
-if cMun=="4107736":
-  xMun="FERNANDES PINHEIRO"
+if xMun="FERNANDES PINHEIRO":
+  cMun=="4107736"
   cMunSIAFI="0854"
-if cMun=="4107751":
-  xMun="FIGUEIRA"
+if xMun="FIGUEIRA":
+  cMun=="4107751"
   cMunSIAFI="8457"
-if cMun=="4107850":
-  xMun="FLOR DA SERRA DO SUL"
+if xMun="FLOR DA SERRA DO SUL":
+  cMun=="4107850"
   cMunSIAFI="5475"
-if cMun=="4107801":
-  xMun="FLORAI"
+if xMun="FLORAI":
+  cMun=="4107801"
   cMunSIAFI="7553"
-if cMun=="4107900":
-  xMun="FLORESTA"
+if xMun="FLORESTA":
+  cMun=="4107900"
   cMunSIAFI="7555"
-if cMun=="4108007":
-  xMun="FLORESTOPOLIS"
+if xMun="FLORESTOPOLIS":
+  cMun=="4108007"
   cMunSIAFI="7557"
-if cMun=="4108106":
-  xMun="FLORIDA"
+if xMun="FLORIDA":
+  cMun=="4108106"
   cMunSIAFI="7559"
-if cMun=="4108205":
-  xMun="FORMOSA DO OESTE"
+if xMun="FORMOSA DO OESTE":
+  cMun=="4108205"
   cMunSIAFI="7561"
-if cMun=="4108304":
-  xMun="FOZ DO IGUACU"
+if xMun="FOZ DO IGUACU":
+  cMun=="4108304"
   cMunSIAFI="7563"
-if cMun=="4108452":
-  xMun="FOZ DO JORDAO"
+if xMun="FOZ DO JORDAO":
+  cMun=="4108452"
   cMunSIAFI="0856"
-if cMun=="4108320":
-  xMun="FRANCISCO ALVES"
+if xMun="FRANCISCO ALVES":
+  cMun=="4108320"
   cMunSIAFI="7977"
-if cMun=="4108403":
-  xMun="FRANCISCO BELTRAO"
+if xMun="FRANCISCO BELTRAO":
+  cMun=="4108403"
   cMunSIAFI="7565"
-if cMun=="4108502":
-  xMun="GENERAL CARNEIRO"
+if xMun="GENERAL CARNEIRO":
+  cMun=="4108502"
   cMunSIAFI="7567"
-if cMun=="4108551":
-  xMun="GODOY MOREIRA"
+if xMun="GODOY MOREIRA":
+  cMun=="4108551"
   cMunSIAFI="9947"
-if cMun=="4108601":
-  xMun="GOIOERÃŠ"
+if xMun="GOIOERÃŠ":
+  cMun=="4108601"
   cMunSIAFI="7569"
-if cMun=="4108650":
-  xMun="GOIOXIM"
+if xMun="GOIOXIM":
+  cMun=="4108650"
   cMunSIAFI="0858"
-if cMun=="4108700":
-  xMun="GRANDES RIOS"
+if xMun="GRANDES RIOS":
+  cMun=="4108700"
   cMunSIAFI="7959"
-if cMun=="4108809":
-  xMun="GUAIRA"
+if xMun="GUAIRA":
+  cMun=="4108809"
   cMunSIAFI="7571"
-if cMun=="4108908":
-  xMun="GUAIRACA"
+if xMun="GUAIRACA":
+  cMun=="4108908"
   cMunSIAFI="7573"
-if cMun=="4108957":
-  xMun="GUAMIRANGA"
+if xMun="GUAMIRANGA":
+  cMun=="4108957"
   cMunSIAFI="0860"
-if cMun=="4109005":
-  xMun="GUAPIRAMA"
+if xMun="GUAPIRAMA":
+  cMun=="4109005"
   cMunSIAFI="7575"
-if cMun=="4109104":
-  xMun="GUAPOREMA"
+if xMun="GUAPOREMA":
+  cMun=="4109104"
   cMunSIAFI="7577"
-if cMun=="4109203":
-  xMun="GUARACI"
+if xMun="GUARACI":
+  cMun=="4109203"
   cMunSIAFI="7579"
-if cMun=="4109302":
-  xMun="GUARANIACU"
+if xMun="GUARANIACU":
+  cMun=="4109302"
   cMunSIAFI="7581"
-if cMun=="4109401":
-  xMun="GUARAPUAVA"
+if xMun="GUARAPUAVA":
+  cMun=="4109401"
   cMunSIAFI="7583"
-if cMun=="4109500":
-  xMun="GUARAQUECABA"
+if xMun="GUARAQUECABA":
+  cMun=="4109500"
   cMunSIAFI="7585"
-if cMun=="4109609":
-  xMun="GUARATUBA"
+if xMun="GUARATUBA":
+  cMun=="4109609"
   cMunSIAFI="7587"
-if cMun=="4109658":
-  xMun="HONORIO SERPA"
+if xMun="HONORIO SERPA":
+  cMun=="4109658"
   cMunSIAFI="9981"
-if cMun=="4109708":
-  xMun="IBAITI"
+if xMun="IBAITI":
+  cMun=="4109708"
   cMunSIAFI="7589"
-if cMun=="4109757":
-  xMun="IBEMA"
+if xMun="IBEMA":
+  cMun=="4109757"
   cMunSIAFI="9949"
-if cMun=="4109807":
-  xMun="IBIPORA"
+if xMun="IBIPORA":
+  cMun=="4109807"
   cMunSIAFI="7591"
-if cMun=="4109906":
-  xMun="ICARAIMA"
+if xMun="ICARAIMA":
+  cMun=="4109906"
   cMunSIAFI="7593"
-if cMun=="4110003":
-  xMun="IGUARACU"
+if xMun="IGUARACU":
+  cMun=="4110003"
   cMunSIAFI="7595"
-if cMun=="4110052":
-  xMun="IGUATU"
+if xMun="IGUATU":
+  cMun=="4110052"
   cMunSIAFI="5467"
-if cMun=="4110078":
-  xMun="IMBAU"
+if xMun="IMBAU":
+  cMun=="4110078"
   cMunSIAFI="0862"
-if cMun=="4110102":
-  xMun="IMBITUVA"
+if xMun="IMBITUVA":
+  cMun=="4110102"
   cMunSIAFI="7597"
-if cMun=="4110201":
-  xMun="INACIO MARTINS"
+if xMun="INACIO MARTINS":
+  cMun=="4110201"
   cMunSIAFI="7599"
-if cMun=="4110300":
-  xMun="INAJA"
+if xMun="INAJA":
+  cMun=="4110300"
   cMunSIAFI="7601"
-if cMun=="4110409":
-  xMun="INDIANOPOLIS"
+if xMun="INDIANOPOLIS":
+  cMun=="4110409"
   cMunSIAFI="7961"
-if cMun=="4110508":
-  xMun="IPIRANGA"
+if xMun="IPIRANGA":
+  cMun=="4110508"
   cMunSIAFI="7603"
-if cMun=="4110607":
-  xMun="IPORA"
+if xMun="IPORA":
+  cMun=="4110607"
   cMunSIAFI="7605"
-if cMun=="4110656":
-  xMun="IRACEMA DO OESTE"
+if xMun="IRACEMA DO OESTE":
+  cMun=="4110656"
   cMunSIAFI="5485"
-if cMun=="4110706":
-  xMun="IRATI"
+if xMun="IRATI":
+  cMun=="4110706"
   cMunSIAFI="7607"
-if cMun=="4110805":
-  xMun="IRETAMA"
+if xMun="IRETAMA":
+  cMun=="4110805"
   cMunSIAFI="7609"
-if cMun=="4110904":
-  xMun="ITAGUAJE"
+if xMun="ITAGUAJE":
+  cMun=="4110904"
   cMunSIAFI="7611"
-if cMun=="4110953":
-  xMun="ITAIPULANDIA"
+if xMun="ITAIPULANDIA":
+  cMun=="4110953"
   cMunSIAFI="5525"
-if cMun=="4111001":
-  xMun="ITAMBARACA"
+if xMun="ITAMBARACA":
+  cMun=="4111001"
   cMunSIAFI="7613"
-if cMun=="4111100":
-  xMun="ITAMBE"
+if xMun="ITAMBE":
+  cMun=="4111100"
   cMunSIAFI="7615"
-if cMun=="4111209":
-  xMun="ITAPEJARA D OESTE"
+if xMun="ITAPEJARA D OESTE":
+  cMun=="4111209"
   cMunSIAFI="7617"
-if cMun=="4111258":
-  xMun="ITAPERUCU"
+if xMun="ITAPERUCU":
+  cMun=="4111258"
   cMunSIAFI="5451"
-if cMun=="4111308":
-  xMun="ITAUNA DO SUL"
+if xMun="ITAUNA DO SUL":
+  cMun=="4111308"
   cMunSIAFI="7619"
-if cMun=="4111407":
-  xMun="IVAI"
+if xMun="IVAI":
+  cMun=="4111407"
   cMunSIAFI="7621"
-if cMun=="4111506":
-  xMun="IVAIPORA"
+if xMun="IVAIPORA":
+  cMun=="4111506"
   cMunSIAFI="7623"
-if cMun=="4111555":
-  xMun="IVATE"
+if xMun="IVATE":
+  cMun=="4111555"
   cMunSIAFI="9955"
-if cMun=="4111605":
-  xMun="IVATUBA"
+if xMun="IVATUBA":
+  cMun=="4111605"
   cMunSIAFI="7625"
-if cMun=="4111704":
-  xMun="JABOTI"
+if xMun="JABOTI":
+  cMun=="4111704"
   cMunSIAFI="7627"
-if cMun=="4111803":
-  xMun="JACAREZINHO"
+if xMun="JACAREZINHO":
+  cMun=="4111803"
   cMunSIAFI="7629"
-if cMun=="4111902":
-  xMun="JAGUAPITA"
+if xMun="JAGUAPITA":
+  cMun=="4111902"
   cMunSIAFI="7631"
-if cMun=="4112009":
-  xMun="JAGUARIAIVA"
+if xMun="JAGUARIAIVA":
+  cMun=="4112009"
   cMunSIAFI="7633"
-if cMun=="4112108":
-  xMun="JANDAIA DO SUL"
+if xMun="JANDAIA DO SUL":
+  cMun=="4112108"
   cMunSIAFI="7635"
-if cMun=="4112207":
-  xMun="JANIOPOLIS"
+if xMun="JANIOPOLIS":
+  cMun=="4112207"
   cMunSIAFI="7637"
-if cMun=="4112306":
-  xMun="JAPIRA"
+if xMun="JAPIRA":
+  cMun=="4112306"
   cMunSIAFI="7639"
-if cMun=="4112405":
-  xMun="JAPURA"
+if xMun="JAPURA":
+  cMun=="4112405"
   cMunSIAFI="7641"
-if cMun=="4112504":
-  xMun="JARDIM ALEGRE"
+if xMun="JARDIM ALEGRE":
+  cMun=="4112504"
   cMunSIAFI="7643"
-if cMun=="4112603":
-  xMun="JARDIM OLINDA"
+if xMun="JARDIM OLINDA":
+  cMun=="4112603"
   cMunSIAFI="7645"
-if cMun=="4112702":
-  xMun="JATAIZINHO"
+if xMun="JATAIZINHO":
+  cMun=="4112702"
   cMunSIAFI="7647"
-if cMun=="4112751":
-  xMun="JESUITAS"
+if xMun="JESUITAS":
+  cMun=="4112751"
   cMunSIAFI="7997"
-if cMun=="4112801":
-  xMun="JOAQUIM TAVORA"
+if xMun="JOAQUIM TAVORA":
+  cMun=="4112801"
   cMunSIAFI="7649"
-if cMun=="4112900":
-  xMun="JUNDIAI DO SUL"
+if xMun="JUNDIAI DO SUL":
+  cMun=="4112900"
   cMunSIAFI="7651"
-if cMun=="4112959":
-  xMun="JURANDA"
+if xMun="JURANDA":
+  cMun=="4112959"
   cMunSIAFI="8463"
-if cMun=="4113007":
-  xMun="JUSSARA"
+if xMun="JUSSARA":
+  cMun=="4113007"
   cMunSIAFI="7653"
-if cMun=="4113106":
-  xMun="KALORE"
+if xMun="KALORE":
+  cMun=="4113106"
   cMunSIAFI="7655"
-if cMun=="4113205":
-  xMun="LAPA"
+if xMun="LAPA":
+  cMun=="4113205"
   cMunSIAFI="7657"
-if cMun=="4113254":
-  xMun="LARANJAL"
+if xMun="LARANJAL":
+  cMun=="4113254"
   cMunSIAFI="5501"
-if cMun=="4113304":
-  xMun="LARANJEIRAS DO SUL"
+if xMun="LARANJEIRAS DO SUL":
+  cMun=="4113304"
   cMunSIAFI="7659"
-if cMun=="4113403":
-  xMun="LEOPOLIS"
+if xMun="LEOPOLIS":
+  cMun=="4113403"
   cMunSIAFI="7661"
-if cMun=="4113429":
-  xMun="LIDIANOPOLIS"
+if xMun="LIDIANOPOLIS":
+  cMun=="4113429"
   cMunSIAFI="5507"
-if cMun=="4113452":
-  xMun="LINDOESTE"
+if xMun="LINDOESTE":
+  cMun=="4113452"
   cMunSIAFI="9959"
-if cMun=="4113502":
-  xMun="LOANDA"
+if xMun="LOANDA":
+  cMun=="4113502"
   cMunSIAFI="7663"
-if cMun=="4113601":
-  xMun="LOBATO"
+if xMun="LOBATO":
+  cMun=="4113601"
   cMunSIAFI="7665"
-if cMun=="4113700":
-  xMun="LONDRINA"
+if xMun="LONDRINA":
+  cMun=="4113700"
   cMunSIAFI="7667"
-if cMun=="4113734":
-  xMun="LUIZIANA"
+if xMun="LUIZIANA":
+  cMun=="4113734"
   cMunSIAFI="8481"
-if cMun=="4113759":
-  xMun="LUNARDELLI"
+if xMun="LUNARDELLI":
+  cMun=="4113759"
   cMunSIAFI="8459"
-if cMun=="4113809":
-  xMun="LUPIONOPOLIS"
+if xMun="LUPIONOPOLIS":
+  cMun=="4113809"
   cMunSIAFI="7669"
-if cMun=="4113908":
-  xMun="MALLET"
+if xMun="MALLET":
+  cMun=="4113908"
   cMunSIAFI="7671"
-if cMun=="4114005":
-  xMun="MAMBORÃŠ"
+if xMun="MAMBORÃŠ":
+  cMun=="4114005"
   cMunSIAFI="7673"
-if cMun=="4114104":
-  xMun="MANDAGUACU"
+if xMun="MANDAGUACU":
+  cMun=="4114104"
   cMunSIAFI="7675"
-if cMun=="4114203":
-  xMun="MANDAGUARI"
+if xMun="MANDAGUARI":
+  cMun=="4114203"
   cMunSIAFI="7677"
-if cMun=="4114302":
-  xMun="MANDIRITUBA"
+if xMun="MANDIRITUBA":
+  cMun=="4114302"
   cMunSIAFI="7679"
-if cMun=="4114351":
-  xMun="MANFRINOPOLIS"
+if xMun="MANFRINOPOLIS":
+  cMun=="4114351"
   cMunSIAFI="0864"
-if cMun=="4114401":
-  xMun="MANGUEIRINHA"
+if xMun="MANGUEIRINHA":
+  cMun=="4114401"
   cMunSIAFI="7511"
-if cMun=="4114500":
-  xMun="MANOEL RIBAS"
+if xMun="MANOEL RIBAS":
+  cMun=="4114500"
   cMunSIAFI="7681"
-if cMun=="4114609":
-  xMun="MARECHAL CANDIDO RONDON"
+if xMun="MARECHAL CANDIDO RONDON":
+  cMun=="4114609"
   cMunSIAFI="7683"
-if cMun=="4114708":
-  xMun="MARIA HELENA"
+if xMun="MARIA HELENA":
+  cMun=="4114708"
   cMunSIAFI="7685"
-if cMun=="4114807":
-  xMun="MARIALVA"
+if xMun="MARIALVA":
+  cMun=="4114807"
   cMunSIAFI="7687"
-if cMun=="4114906":
-  xMun="MARILANDIA DO SUL"
+if xMun="MARILANDIA DO SUL":
+  cMun=="4114906"
   cMunSIAFI="7433"
-if cMun=="4115002":
-  xMun="MARILENA"
+if xMun="MARILENA":
+  cMun=="4115002"
   cMunSIAFI="7975"
-if cMun=="4115101":
-  xMun="MARILUZ"
+if xMun="MARILUZ":
+  cMun=="4115101"
   cMunSIAFI="7689"
-if cMun=="4115200":
-  xMun="MARINGA"
+if xMun="MARINGA":
+  cMun=="4115200"
   cMunSIAFI="7691"
-if cMun=="4115309":
-  xMun="MARIOPOLIS"
+if xMun="MARIOPOLIS":
+  cMun=="4115309"
   cMunSIAFI="7693"
-if cMun=="4115358":
-  xMun="MARIPA"
+if xMun="MARIPA":
+  cMun=="4115358"
   cMunSIAFI="5487"
-if cMun=="4115408":
-  xMun="MARMELEIRO"
+if xMun="MARMELEIRO":
+  cMun=="4115408"
   cMunSIAFI="7695"
-if cMun=="4115457":
-  xMun="MARQUINHO"
+if xMun="MARQUINHO":
+  cMun=="4115457"
   cMunSIAFI="0866"
-if cMun=="4115507":
-  xMun="MARUMBI"
+if xMun="MARUMBI":
+  cMun=="4115507"
   cMunSIAFI="7697"
-if cMun=="4115606":
-  xMun="MATELANDIA"
+if xMun="MATELANDIA":
+  cMun=="4115606"
   cMunSIAFI="7699"
-if cMun=="4115705":
-  xMun="MATINHOS"
+if xMun="MATINHOS":
+  cMun=="4115705"
   cMunSIAFI="7963"
-if cMun=="4115739":
-  xMun="MATO RICO"
+if xMun="MATO RICO":
+  cMun=="4115739"
   cMunSIAFI="5503"
-if cMun=="4115754":
-  xMun="MAUA DA SERRA"
+if xMun="MAUA DA SERRA":
+  cMun=="4115754"
   cMunSIAFI="5459"
-if cMun=="4115804":
-  xMun="MEDIANEIRA"
+if xMun="MEDIANEIRA":
+  cMun=="4115804"
   cMunSIAFI="7701"
-if cMun=="4115853":
-  xMun="MERCEDES"
+if xMun="MERCEDES":
+  cMun=="4115853"
   cMunSIAFI="5531"
-if cMun=="4115903":
-  xMun="MIRADOR"
+if xMun="MIRADOR":
+  cMun=="4115903"
   cMunSIAFI="7703"
-if cMun=="4116000":
-  xMun="MIRASELVA"
+if xMun="MIRASELVA":
+  cMun=="4116000"
   cMunSIAFI="7705"
-if cMun=="4116059":
-  xMun="MISSAL"
+if xMun="MISSAL":
+  cMun=="4116059"
   cMunSIAFI="8469"
-if cMun=="4116109":
-  xMun="MOREIRA SALES"
+if xMun="MOREIRA SALES":
+  cMun=="4116109"
   cMunSIAFI="7707"
-if cMun=="4116208":
-  xMun="MORRETES"
+if xMun="MORRETES":
+  cMun=="4116208"
   cMunSIAFI="7709"
-if cMun=="4116307":
-  xMun="MUNHOZ DE MELO"
+if xMun="MUNHOZ DE MELO":
+  cMun=="4116307"
   cMunSIAFI="7711"
-if cMun=="4116406":
-  xMun="NOSSA SENHORA DAS GRACAS"
+if xMun="NOSSA SENHORA DAS GRACAS":
+  cMun=="4116406"
   cMunSIAFI="7713"
-if cMun=="4116505":
-  xMun="NOVA ALIANCA DO IVAI"
+if xMun="NOVA ALIANCA DO IVAI":
+  cMun=="4116505"
   cMunSIAFI="7715"
-if cMun=="4116604":
-  xMun="NOVA AMERICA DA COLINA"
+if xMun="NOVA AMERICA DA COLINA":
+  cMun=="4116604"
   cMunSIAFI="7717"
-if cMun=="4116703":
-  xMun="NOVA AURORA"
+if xMun="NOVA AURORA":
+  cMun=="4116703"
   cMunSIAFI="7965"
-if cMun=="4116802":
-  xMun="NOVA CANTU"
+if xMun="NOVA CANTU":
+  cMun=="4116802"
   cMunSIAFI="7719"
-if cMun=="4116901":
-  xMun="NOVA ESPERANCA"
+if xMun="NOVA ESPERANCA":
+  cMun=="4116901"
   cMunSIAFI="7721"
-if cMun=="4116950":
-  xMun="NOVA ESPERANCA DO SUDOESTE"
+if xMun="NOVA ESPERANCA DO SUDOESTE":
+  cMun=="4116950"
   cMunSIAFI="5477"
-if cMun=="4117008":
-  xMun="NOVA FATIMA"
+if xMun="NOVA FATIMA":
+  cMun=="4117008"
   cMunSIAFI="7723"
-if cMun=="4117057":
-  xMun="NOVA LARANJEIRAS"
+if xMun="NOVA LARANJEIRAS":
+  cMun=="4117057"
   cMunSIAFI="5479"
-if cMun=="4117107":
-  xMun="NOVA LONDRINA"
+if xMun="NOVA LONDRINA":
+  cMun=="4117107"
   cMunSIAFI="7725"
-if cMun=="4117206":
-  xMun="NOVA OLIMPIA"
+if xMun="NOVA OLIMPIA":
+  cMun=="4117206"
   cMunSIAFI="7967"
-if cMun=="4117255":
-  xMun="NOVA PRATA DO IGUACU"
+if xMun="NOVA PRATA DO IGUACU":
+  cMun=="4117255"
   cMunSIAFI="7995"
-if cMun=="4117214":
-  xMun="NOVA SANTA BARBARA"
+if xMun="NOVA SANTA BARBARA":
+  cMun=="4117214"
   cMunSIAFI="5457"
-if cMun=="4117222":
-  xMun="NOVA SANTA ROSA"
+if xMun="NOVA SANTA ROSA":
+  cMun=="4117222"
   cMunSIAFI="7979"
-if cMun=="4117271":
-  xMun="NOVA TEBAS"
+if xMun="NOVA TEBAS":
+  cMun=="4117271"
   cMunSIAFI="9913"
-if cMun=="4117297":
-  xMun="NOVO ITACOLOMI"
+if xMun="NOVO ITACOLOMI":
+  cMun=="4117297"
   cMunSIAFI="5517"
-if cMun=="4117305":
-  xMun="ORTIGUEIRA"
+if xMun="ORTIGUEIRA":
+  cMun=="4117305"
   cMunSIAFI="7727"
-if cMun=="4117404":
-  xMun="OURIZONA"
+if xMun="OURIZONA":
+  cMun=="4117404"
   cMunSIAFI="7729"
-if cMun=="4117453":
-  xMun="OURO VERDE DO OESTE"
+if xMun="OURO VERDE DO OESTE":
+  cMun=="4117453"
   cMunSIAFI="9965"
-if cMun=="4117503":
-  xMun="PAICANDU"
+if xMun="PAICANDU":
+  cMun=="4117503"
   cMunSIAFI="7731"
-if cMun=="4117602":
-  xMun="PALMAS"
+if xMun="PALMAS":
+  cMun=="4117602"
   cMunSIAFI="7733"
-if cMun=="4117701":
-  xMun="PALMEIRA"
+if xMun="PALMEIRA":
+  cMun=="4117701"
   cMunSIAFI="7735"
-if cMun=="4117800":
-  xMun="PALMITAL"
+if xMun="PALMITAL":
+  cMun=="4117800"
   cMunSIAFI="7737"
-if cMun=="4117909":
-  xMun="PALOTINA"
+if xMun="PALOTINA":
+  cMun=="4117909"
   cMunSIAFI="7739"
-if cMun=="4118006":
-  xMun="PARAISO DO NORTE"
+if xMun="PARAISO DO NORTE":
+  cMun=="4118006"
   cMunSIAFI="7741"
-if cMun=="4118105":
-  xMun="PARANACITY"
+if xMun="PARANACITY":
+  cMun=="4118105"
   cMunSIAFI="7743"
-if cMun=="4118204":
-  xMun="PARANAGUA"
+if xMun="PARANAGUA":
+  cMun=="4118204"
   cMunSIAFI="7745"
-if cMun=="4118303":
-  xMun="PARANAPOEMA"
+if xMun="PARANAPOEMA":
+  cMun=="4118303"
   cMunSIAFI="7747"
-if cMun=="4118402":
-  xMun="PARANAVAI"
+if xMun="PARANAVAI":
+  cMun=="4118402"
   cMunSIAFI="7749"
-if cMun=="4118451":
-  xMun="PATO BRAGADO"
+if xMun="PATO BRAGADO":
+  cMun=="4118451"
   cMunSIAFI="5533"
-if cMun=="4118501":
-  xMun="PATO BRANCO"
+if xMun="PATO BRANCO":
+  cMun=="4118501"
   cMunSIAFI="7751"
-if cMun=="4118600":
-  xMun="PAULA FREITAS"
+if xMun="PAULA FREITAS":
+  cMun=="4118600"
   cMunSIAFI="7753"
-if cMun=="4118709":
-  xMun="PAULO FRONTIN"
+if xMun="PAULO FRONTIN":
+  cMun=="4118709"
   cMunSIAFI="7755"
-if cMun=="4118808":
-  xMun="PEABIRU"
+if xMun="PEABIRU":
+  cMun=="4118808"
   cMunSIAFI="7757"
-if cMun=="4118857":
-  xMun="PEROBAL"
+if xMun="PEROBAL":
+  cMun=="4118857"
   cMunSIAFI="0868"
-if cMun=="4118907":
-  xMun="PEROLA"
+if xMun="PEROLA":
+  cMun=="4118907"
   cMunSIAFI="7969"
-if cMun=="4119004":
-  xMun="PEROLA D OESTE"
+if xMun="PEROLA D OESTE":
+  cMun=="4119004"
   cMunSIAFI="7759"
-if cMun=="4119103":
-  xMun="PIÃŠN"
+if xMun="PIÃŠN":
+  cMun=="4119103"
   cMunSIAFI="7761"
-if cMun=="4119152":
-  xMun="PINHAIS"
+if xMun="PINHAIS":
+  cMun=="4119152"
   cMunSIAFI="5453"
-if cMun=="4119251":
-  xMun="PINHAL DE SAO BENTO"
+if xMun="PINHAL DE SAO BENTO":
+  cMun=="4119251"
   cMunSIAFI="5495"
-if cMun=="4119202":
-  xMun="PINHALAO"
+if xMun="PINHALAO":
+  cMun=="4119202"
   cMunSIAFI="7763"
-if cMun=="4119301":
-  xMun="PINHAO"
+if xMun="PINHAO":
+  cMun=="4119301"
   cMunSIAFI="7765"
-if cMun=="4119400":
-  xMun="PIRAI DO SUL"
+if xMun="PIRAI DO SUL":
+  cMun=="4119400"
   cMunSIAFI="7767"
-if cMun=="4119509":
-  xMun="PIRAQUARA"
+if xMun="PIRAQUARA":
+  cMun=="4119509"
   cMunSIAFI="7769"
-if cMun=="4119608":
-  xMun="PITANGA"
+if xMun="PITANGA":
+  cMun=="4119608"
   cMunSIAFI="7771"
-if cMun=="4119657":
-  xMun="PITANGUEIRAS"
+if xMun="PITANGUEIRAS":
+  cMun=="4119657"
   cMunSIAFI="5461"
-if cMun=="4119707":
-  xMun="PLANALTINA DO PARANA"
+if xMun="PLANALTINA DO PARANA":
+  cMun=="4119707"
   cMunSIAFI="7773"
-if cMun=="4119806":
-  xMun="PLANALTO"
+if xMun="PLANALTO":
+  cMun=="4119806"
   cMunSIAFI="7775"
-if cMun=="4119905":
-  xMun="PONTA GROSSA"
+if xMun="PONTA GROSSA":
+  cMun=="4119905"
   cMunSIAFI="7777"
-if cMun=="4119954":
-  xMun="PONTAL DO PARANA"
+if xMun="PONTAL DO PARANA":
+  cMun=="4119954"
   cMunSIAFI="0870"
-if cMun=="4120002":
-  xMun="PORECATU"
+if xMun="PORECATU":
+  cMun=="4120002"
   cMunSIAFI="7779"
-if cMun=="4120101":
-  xMun="PORTO AMAZONAS"
+if xMun="PORTO AMAZONAS":
+  cMun=="4120101"
   cMunSIAFI="7781"
-if cMun=="4120150":
-  xMun="PORTO BARREIRO"
+if xMun="PORTO BARREIRO":
+  cMun=="4120150"
   cMunSIAFI="0872"
-if cMun=="4120200":
-  xMun="PORTO RICO"
+if xMun="PORTO RICO":
+  cMun=="4120200"
   cMunSIAFI="7783"
-if cMun=="4120309":
-  xMun="PORTO VITORIA"
+if xMun="PORTO VITORIA":
+  cMun=="4120309"
   cMunSIAFI="7785"
-if cMun=="4120333":
-  xMun="PRADO FERREIRA"
+if xMun="PRADO FERREIRA":
+  cMun=="4120333"
   cMunSIAFI="0874"
-if cMun=="4120358":
-  xMun="PRANCHITA"
+if xMun="PRANCHITA":
+  cMun=="4120358"
   cMunSIAFI="7991"
-if cMun=="4120408":
-  xMun="PRESIDENTE CASTELO BRANCO"
+if xMun="PRESIDENTE CASTELO BRANCO":
+  cMun=="4120408"
   cMunSIAFI="7787"
-if cMun=="4120507":
-  xMun="PRIMEIRO DE MAIO"
+if xMun="PRIMEIRO DE MAIO":
+  cMun=="4120507"
   cMunSIAFI="7789"
-if cMun=="4120606":
-  xMun="PRUDENTOPOLIS"
+if xMun="PRUDENTOPOLIS":
+  cMun=="4120606"
   cMunSIAFI="7791"
-if cMun=="4120655":
-  xMun="QUARTO CENTENARIO"
+if xMun="QUARTO CENTENARIO":
+  cMun=="4120655"
   cMunSIAFI="0876"
-if cMun=="4120705":
-  xMun="QUATIGUA"
+if xMun="QUATIGUA":
+  cMun=="4120705"
   cMunSIAFI="7793"
-if cMun=="4120804":
-  xMun="QUATRO BARRAS"
+if xMun="QUATRO BARRAS":
+  cMun=="4120804"
   cMunSIAFI="7795"
-if cMun=="4120853":
-  xMun="QUATRO PONTES"
+if xMun="QUATRO PONTES":
+  cMun=="4120853"
   cMunSIAFI="5535"
-if cMun=="4120903":
-  xMun="QUEDAS DO IGUACU"
+if xMun="QUEDAS DO IGUACU":
+  cMun=="4120903"
   cMunSIAFI="7955"
-if cMun=="4121000":
-  xMun="QUERÃŠNCIA DO NORTE"
+if xMun="QUERÃŠNCIA DO NORTE":
+  cMun=="4121000"
   cMunSIAFI="7797"
-if cMun=="4121109":
-  xMun="QUINTA DO SOL"
+if xMun="QUINTA DO SOL":
+  cMun=="4121109"
   cMunSIAFI="7799"
-if cMun=="4121208":
-  xMun="QUITANDINHA"
+if xMun="QUITANDINHA":
+  cMun=="4121208"
   cMunSIAFI="7801"
-if cMun=="4121257":
-  xMun="RAMILANDIA"
+if xMun="RAMILANDIA":
+  cMun=="4121257"
   cMunSIAFI="5527"
-if cMun=="4121307":
-  xMun="RANCHO ALEGRE"
+if xMun="RANCHO ALEGRE":
+  cMun=="4121307"
   cMunSIAFI="7803"
-if cMun=="4121356":
-  xMun="RANCHO ALEGRE D OESTE"
+if xMun="RANCHO ALEGRE D OESTE":
+  cMun=="4121356"
   cMunSIAFI="5513"
-if cMun=="4121406":
-  xMun="REALEZA"
+if xMun="REALEZA":
+  cMun=="4121406"
   cMunSIAFI="7805"
-if cMun=="4121505":
-  xMun="REBOUCAS"
+if xMun="REBOUCAS":
+  cMun=="4121505"
   cMunSIAFI="7807"
-if cMun=="4121604":
-  xMun="RENASCENCA"
+if xMun="RENASCENCA":
+  cMun=="4121604"
   cMunSIAFI="7809"
-if cMun=="4121703":
-  xMun="RESERVA"
+if xMun="RESERVA":
+  cMun=="4121703"
   cMunSIAFI="7811"
-if cMun=="4121752":
-  xMun="RESERVA DO IGUACU"
+if xMun="RESERVA DO IGUACU":
+  cMun=="4121752"
   cMunSIAFI="0878"
-if cMun=="4121802":
-  xMun="RIBEIRAO CLARO"
+if xMun="RIBEIRAO CLARO":
+  cMun=="4121802"
   cMunSIAFI="7813"
-if cMun=="4121901":
-  xMun="RIBEIRAO DO PINHAL"
+if xMun="RIBEIRAO DO PINHAL":
+  cMun=="4121901"
   cMunSIAFI="7815"
-if cMun=="4122008":
-  xMun="RIO AZUL"
+if xMun="RIO AZUL":
+  cMun=="4122008"
   cMunSIAFI="7817"
-if cMun=="4122107":
-  xMun="RIO BOM"
+if xMun="RIO BOM":
+  cMun=="4122107"
   cMunSIAFI="7819"
-if cMun=="4122156":
-  xMun="RIO BONITO DO IGUACU"
+if xMun="RIO BONITO DO IGUACU":
+  cMun=="4122156"
   cMunSIAFI="5481"
-if cMun=="4122172":
-  xMun="RIO BRANCO DO IVAI"
+if xMun="RIO BRANCO DO IVAI":
+  cMun=="4122172"
   cMunSIAFI="0880"
-if cMun=="4122206":
-  xMun="RIO BRANCO DO SUL"
+if xMun="RIO BRANCO DO SUL":
+  cMun=="4122206"
   cMunSIAFI="7821"
-if cMun=="4122305":
-  xMun="RIO NEGRO"
+if xMun="RIO NEGRO":
+  cMun=="4122305"
   cMunSIAFI="7823"
-if cMun=="4122404":
-  xMun="ROLANDIA"
+if xMun="ROLANDIA":
+  cMun=="4122404"
   cMunSIAFI="7825"
-if cMun=="4122503":
-  xMun="RONCADOR"
+if xMun="RONCADOR":
+  cMun=="4122503"
   cMunSIAFI="7827"
-if cMun=="4122602":
-  xMun="RONDON"
+if xMun="RONDON":
+  cMun=="4122602"
   cMunSIAFI="7829"
-if cMun=="4122651":
-  xMun="ROSARIO DO IVAI"
+if xMun="ROSARIO DO IVAI":
+  cMun=="4122651"
   cMunSIAFI="8473"
-if cMun=="4122701":
-  xMun="SABAUDIA"
+if xMun="SABAUDIA":
+  cMun=="4122701"
   cMunSIAFI="7831"
-if cMun=="4122800":
-  xMun="SALGADO FILHO"
+if xMun="SALGADO FILHO":
+  cMun=="4122800"
   cMunSIAFI="7833"
-if cMun=="4122909":
-  xMun="SALTO DO ITARARE"
+if xMun="SALTO DO ITARARE":
+  cMun=="4122909"
   cMunSIAFI="7835"
-if cMun=="4123006":
-  xMun="SALTO DO LONTRA"
+if xMun="SALTO DO LONTRA":
+  cMun=="4123006"
   cMunSIAFI="7837"
-if cMun=="4123105":
-  xMun="SANTA AMELIA"
+if xMun="SANTA AMELIA":
+  cMun=="4123105"
   cMunSIAFI="7839"
-if cMun=="4123204":
-  xMun="SANTA CECILIA DO PAVAO"
+if xMun="SANTA CECILIA DO PAVAO":
+  cMun=="4123204"
   cMunSIAFI="7841"
-if cMun=="4123303":
-  xMun="SANTA CRUZ DE MONTE CASTELO"
+if xMun="SANTA CRUZ DE MONTE CASTELO":
+  cMun=="4123303"
   cMunSIAFI="7843"
-if cMun=="4123402":
-  xMun="SANTA FE"
+if xMun="SANTA FE":
+  cMun=="4123402"
   cMunSIAFI="7845"
-if cMun=="4123501":
-  xMun="SANTA HELENA"
+if xMun="SANTA HELENA":
+  cMun=="4123501"
   cMunSIAFI="7971"
-if cMun=="4123600":
-  xMun="SANTA INÃŠS"
+if xMun="SANTA INÃŠS":
+  cMun=="4123600"
   cMunSIAFI="7847"
-if cMun=="4123709":
-  xMun="SANTA ISABEL DO IVAI"
+if xMun="SANTA ISABEL DO IVAI":
+  cMun=="4123709"
   cMunSIAFI="7849"
-if cMun=="4123808":
-  xMun="SANTA IZABEL DO OESTE"
+if xMun="SANTA IZABEL DO OESTE":
+  cMun=="4123808"
   cMunSIAFI="7851"
-if cMun=="4123824":
-  xMun="SANTA LUCIA"
+if xMun="SANTA LUCIA":
+  cMun=="4123824"
   cMunSIAFI="5469"
-if cMun=="4123857":
-  xMun="SANTA MARIA DO OESTE"
+if xMun="SANTA MARIA DO OESTE":
+  cMun=="4123857"
   cMunSIAFI="5505"
-if cMun=="4123907":
-  xMun="SANTA MARIANA"
+if xMun="SANTA MARIANA":
+  cMun=="4123907"
   cMunSIAFI="7853"
-if cMun=="4123956":
-  xMun="SANTA MONICA"
+if xMun="SANTA MONICA":
+  cMun=="4123956"
   cMunSIAFI="5519"
-if cMun=="4124020":
-  xMun="SANTA TEREZA DO OESTE"
+if xMun="SANTA TEREZA DO OESTE":
+  cMun=="4124020"
   cMunSIAFI="9969"
-if cMun=="4124053":
-  xMun="SANTA TEREZINHA DE ITAIPU"
+if xMun="SANTA TEREZINHA DE ITAIPU":
+  cMun=="4124053"
   cMunSIAFI="8467"
-if cMun=="4124004":
-  xMun="SANTANA DO ITARARE"
+if xMun="SANTANA DO ITARARE":
+  cMun=="4124004"
   cMunSIAFI="7855"
-if cMun=="4124103":
-  xMun="SANTO ANTONIO DA PLATINA"
+if xMun="SANTO ANTONIO DA PLATINA":
+  cMun=="4124103"
   cMunSIAFI="7859"
-if cMun=="4124202":
-  xMun="SANTO ANTONIO DO CAIUA"
+if xMun="SANTO ANTONIO DO CAIUA":
+  cMun=="4124202"
   cMunSIAFI="7861"
-if cMun=="4124301":
-  xMun="SANTO ANTONIO DO PARAISO"
+if xMun="SANTO ANTONIO DO PARAISO":
+  cMun=="4124301"
   cMunSIAFI="7863"
-if cMun=="4124400":
-  xMun="SANTO ANTONIO DO SUDOESTE"
+if xMun="SANTO ANTONIO DO SUDOESTE":
+  cMun=="4124400"
   cMunSIAFI="7857"
-if cMun=="4124509":
-  xMun="SANTO INACIO"
+if xMun="SANTO INACIO":
+  cMun=="4124509"
   cMunSIAFI="7865"
-if cMun=="4124608":
-  xMun="SAO CARLOS DO IVAI"
+if xMun="SAO CARLOS DO IVAI":
+  cMun=="4124608"
   cMunSIAFI="7867"
-if cMun=="4124707":
-  xMun="SAO JERONIMO DA SERRA"
+if xMun="SAO JERONIMO DA SERRA":
+  cMun=="4124707"
   cMunSIAFI="7869"
-if cMun=="4124806":
-  xMun="SAO JOAO"
+if xMun="SAO JOAO":
+  cMun=="4124806"
   cMunSIAFI="7871"
-if cMun=="4124905":
-  xMun="SAO JOAO DO CAIUA"
+if xMun="SAO JOAO DO CAIUA":
+  cMun=="4124905"
   cMunSIAFI="7873"
-if cMun=="4125001":
-  xMun="SAO JOAO DO IVAI"
+if xMun="SAO JOAO DO IVAI":
+  cMun=="4125001"
   cMunSIAFI="7875"
-if cMun=="4125100":
-  xMun="SAO JOAO DO TRIUNFO"
+if xMun="SAO JOAO DO TRIUNFO":
+  cMun=="4125100"
   cMunSIAFI="7877"
-if cMun=="4125308":
-  xMun="SAO JORGE DO IVAI"
+if xMun="SAO JORGE DO IVAI":
+  cMun=="4125308"
   cMunSIAFI="7879"
-if cMun=="4125357":
-  xMun="SAO JORGE DO PATROCINIO"
+if xMun="SAO JORGE DO PATROCINIO":
+  cMun=="4125357"
   cMunSIAFI="7999"
-if cMun=="4125209":
-  xMun="SAO JORGE D OESTE"
+if xMun="SAO JORGE D OESTE":
+  cMun=="4125209"
   cMunSIAFI="7881"
-if cMun=="4125407":
-  xMun="SAO JOSE DA BOA VISTA"
+if xMun="SAO JOSE DA BOA VISTA":
+  cMun=="4125407"
   cMunSIAFI="7883"
-if cMun=="4125456":
-  xMun="SAO JOSE DAS PALMEIRAS"
+if xMun="SAO JOSE DAS PALMEIRAS":
+  cMun=="4125456"
   cMunSIAFI="8471"
-if cMun=="4125506":
-  xMun="SAO JOSE DOS PINHAIS"
+if xMun="SAO JOSE DOS PINHAIS":
+  cMun=="4125506"
   cMunSIAFI="7885"
-if cMun=="4125555":
-  xMun="SAO MANOEL DO PARANA"
+if xMun="SAO MANOEL DO PARANA":
+  cMun=="4125555"
   cMunSIAFI="5515"
-if cMun=="4125605":
-  xMun="SAO MATEUS DO SUL"
+if xMun="SAO MATEUS DO SUL":
+  cMun=="4125605"
   cMunSIAFI="7887"
-if cMun=="4125704":
-  xMun="SAO MIGUEL DO IGUACU"
+if xMun="SAO MIGUEL DO IGUACU":
+  cMun=="4125704"
   cMunSIAFI="7889"
-if cMun=="4125753":
-  xMun="SAO PEDRO DO IGUACU"
+if xMun="SAO PEDRO DO IGUACU":
+  cMun=="4125753"
   cMunSIAFI="5489"
-if cMun=="4125803":
-  xMun="SAO PEDRO DO IVAI"
+if xMun="SAO PEDRO DO IVAI":
+  cMun=="4125803"
   cMunSIAFI="7891"
-if cMun=="4125902":
-  xMun="SAO PEDRO DO PARANA"
+if xMun="SAO PEDRO DO PARANA":
+  cMun=="4125902"
   cMunSIAFI="7893"
-if cMun=="4126009":
-  xMun="SAO SEBASTIAO DA AMOREIRA"
+if xMun="SAO SEBASTIAO DA AMOREIRA":
+  cMun=="4126009"
   cMunSIAFI="7895"
-if cMun=="4126108":
-  xMun="SAO TOME"
+if xMun="SAO TOME":
+  cMun=="4126108"
   cMunSIAFI="7897"
-if cMun=="4126207":
-  xMun="SAPOPEMA"
+if xMun="SAPOPEMA":
+  cMun=="4126207"
   cMunSIAFI="7899"
-if cMun=="4126256":
-  xMun="SARANDI"
+if xMun="SARANDI":
+  cMun=="4126256"
   cMunSIAFI="8461"
-if cMun=="4126272":
-  xMun="SAUDADE DO IGUACU"
+if xMun="SAUDADE DO IGUACU":
+  cMun=="4126272"
   cMunSIAFI="5493"
-if cMun=="4126306":
-  xMun="SENGES"
+if xMun="SENGES":
+  cMun=="4126306"
   cMunSIAFI="7901"
-if cMun=="4126355":
-  xMun="SERRANOPOLIS DO IGUACU"
+if xMun="SERRANOPOLIS DO IGUACU":
+  cMun=="4126355"
   cMunSIAFI="0882"
-if cMun=="4126405":
-  xMun="SERTANEJA"
+if xMun="SERTANEJA":
+  cMun=="4126405"
   cMunSIAFI="7903"
-if cMun=="4126504":
-  xMun="SERTANOPOLIS"
+if xMun="SERTANOPOLIS":
+  cMun=="4126504"
   cMunSIAFI="7905"
-if cMun=="4126603":
-  xMun="SIQUEIRA CAMPOS"
+if xMun="SIQUEIRA CAMPOS":
+  cMun=="4126603"
   cMunSIAFI="7907"
-if cMun=="4126652":
-  xMun="SULINA"
+if xMun="SULINA":
+  cMun=="4126652"
   cMunSIAFI="8477"
-if cMun=="4126678":
-  xMun="TAMARANA"
+if xMun="TAMARANA":
+  cMun=="4126678"
   cMunSIAFI="0884"
-if cMun=="4126702":
-  xMun="TAMBOARA"
+if xMun="TAMBOARA":
+  cMun=="4126702"
   cMunSIAFI="7909"
-if cMun=="4126801":
-  xMun="TAPEJARA"
+if xMun="TAPEJARA":
+  cMun=="4126801"
   cMunSIAFI="7911"
-if cMun=="4126900":
-  xMun="TAPIRA"
+if xMun="TAPIRA":
+  cMun=="4126900"
   cMunSIAFI="7973"
-if cMun=="4127007":
-  xMun="TEIXEIRA SOARES"
+if xMun="TEIXEIRA SOARES":
+  cMun=="4127007"
   cMunSIAFI="7913"
-if cMun=="4127106":
-  xMun="TELÃŠMACO BORBA"
+if xMun="TELÃŠMACO BORBA":
+  cMun=="4127106"
   cMunSIAFI="7915"
-if cMun=="4127205":
-  xMun="TERRA BOA"
+if xMun="TERRA BOA":
+  cMun=="4127205"
   cMunSIAFI="7917"
-if cMun=="4127304":
-  xMun="TERRA RICA"
+if xMun="TERRA RICA":
+  cMun=="4127304"
   cMunSIAFI="7919"
-if cMun=="4127403":
-  xMun="TERRA ROXA"
+if xMun="TERRA ROXA":
+  cMun=="4127403"
   cMunSIAFI="7921"
-if cMun=="4127502":
-  xMun="TIBAGI"
+if xMun="TIBAGI":
+  cMun=="4127502"
   cMunSIAFI="7923"
-if cMun=="4127601":
-  xMun="TIJUCAS DO SUL"
+if xMun="TIJUCAS DO SUL":
+  cMun=="4127601"
   cMunSIAFI="7925"
-if cMun=="4127700":
-  xMun="TOLEDO"
+if xMun="TOLEDO":
+  cMun=="4127700"
   cMunSIAFI="7927"
-if cMun=="4127809":
-  xMun="TOMAZINA"
+if xMun="TOMAZINA":
+  cMun=="4127809"
   cMunSIAFI="7929"
-if cMun=="4127858":
-  xMun="TRÃŠS BARRAS DO PARANA"
+if xMun="TRÃŠS BARRAS DO PARANA":
+  cMun=="4127858"
   cMunSIAFI="7987"
-if cMun=="4127882":
-  xMun="TUNAS DO PARANA"
+if xMun="TUNAS DO PARANA":
+  cMun=="4127882"
   cMunSIAFI="5455"
-if cMun=="4127908":
-  xMun="TUNEIRAS DO OESTE"
+if xMun="TUNEIRAS DO OESTE":
+  cMun=="4127908"
   cMunSIAFI="7931"
-if cMun=="4127957":
-  xMun="TUPASSI"
+if xMun="TUPASSI":
+  cMun=="4127957"
   cMunSIAFI="7993"
-if cMun=="4127965":
-  xMun="TURVO"
+if xMun="TURVO":
+  cMun=="4127965"
   cMunSIAFI="8453"
-if cMun=="4128005":
-  xMun="UBIRATA"
+if xMun="UBIRATA":
+  cMun=="4128005"
   cMunSIAFI="7933"
-if cMun=="4128104":
-  xMun="UMUARAMA"
+if xMun="UMUARAMA":
+  cMun=="4128104"
   cMunSIAFI="7935"
-if cMun=="4128203":
-  xMun="UNIAO DA VITORIA"
+if xMun="UNIAO DA VITORIA":
+  cMun=="4128203"
   cMunSIAFI="7937"
-if cMun=="4128302":
-  xMun="UNIFLOR"
+if xMun="UNIFLOR":
+  cMun=="4128302"
   cMunSIAFI="7939"
-if cMun=="4128401":
-  xMun="URAI"
+if xMun="URAI":
+  cMun=="4128401"
   cMunSIAFI="7941"
-if cMun=="4128534":
-  xMun="VENTANIA"
+if xMun="VENTANIA":
+  cMun=="4128534"
   cMunSIAFI="5497"
-if cMun=="4128559":
-  xMun="VERA CRUZ DO OESTE"
+if xMun="VERA CRUZ DO OESTE":
+  cMun=="4128559"
   cMunSIAFI="7989"
-if cMun=="4128609":
-  xMun="VERÃŠ"
+if xMun="VERÃŠ":
+  cMun=="4128609"
   cMunSIAFI="7945"
-if cMun=="4128658":
-  xMun="VIRMOND"
+if xMun="VIRMOND":
+  cMun=="4128658"
   cMunSIAFI="5483"
-if cMun=="4128708":
-  xMun="VITORINO"
+if xMun="VITORINO":
+  cMun=="4128708"
   cMunSIAFI="7947"
-if cMun=="4128500":
-  xMun="WENCESLAU BRAZ"
+if xMun="WENCESLAU BRAZ":
+  cMun=="4128500"
   cMunSIAFI="7943"
-if cMun=="4128807":
-  xMun="XAMBRÃŠ"
+if xMun="XAMBRÃŠ":
+  cMun=="4128807"
   cMunSIAFI="7949"
-if cMun=="3300100":
-  xMun="ANGRA DOS REIS"
+if xMun="ANGRA DOS REIS":
+  cMun=="3300100"
   cMunSIAFI="5801"
-if cMun=="3300159":
-  xMun="APERIBE"
+if xMun="APERIBE":
+  cMun=="3300159"
   cMunSIAFI="2919"
-if cMun=="3300209":
-  xMun="ARARUAMA"
+if xMun="ARARUAMA":
+  cMun=="3300209"
   cMunSIAFI="5803"
-if cMun=="3300225":
-  xMun="AREAL"
+if xMun="AREAL":
+  cMun=="3300225"
   cMunSIAFI="2925"
-if cMun=="3300233":
-  xMun="ARMACAO DOS BUZIOS"
+if xMun="ARMACAO DOS BUZIOS":
+  cMun=="3300233"
   cMunSIAFI="0770"
-if cMun=="3300258":
-  xMun="ARRAIAL DO CABO"
+if xMun="ARRAIAL DO CABO":
+  cMun=="3300258"
   cMunSIAFI="5927"
-if cMun=="3300308":
-  xMun="BARRA DO PIRAI"
+if xMun="BARRA DO PIRAI":
+  cMun=="3300308"
   cMunSIAFI="5805"
-if cMun=="3300407":
-  xMun="BARRA MANSA"
+if xMun="BARRA MANSA":
+  cMun=="3300407"
   cMunSIAFI="5807"
-if cMun=="3300456":
-  xMun="BELFORD ROXO"
+if xMun="BELFORD ROXO":
+  cMun=="3300456"
   cMunSIAFI="2909"
-if cMun=="3300506":
-  xMun="BOM JARDIM"
+if xMun="BOM JARDIM":
+  cMun=="3300506"
   cMunSIAFI="5809"
-if cMun=="3300605":
-  xMun="BOM JESUS DO ITABAPOANA"
+if xMun="BOM JESUS DO ITABAPOANA":
+  cMun=="3300605"
   cMunSIAFI="5811"
-if cMun=="3300704":
-  xMun="CABO FRIO"
+if xMun="CABO FRIO":
+  cMun=="3300704"
   cMunSIAFI="5813"
-if cMun=="3300803":
-  xMun="CACHOEIRAS DE MACACU"
+if xMun="CACHOEIRAS DE MACACU":
+  cMun=="3300803"
   cMunSIAFI="5815"
-if cMun=="3300902":
-  xMun="CAMBUCI"
+if xMun="CAMBUCI":
+  cMun=="3300902"
   cMunSIAFI="5817"
-if cMun=="3301009":
-  xMun="CAMPOS DOS GOYTACAZES"
+if xMun="CAMPOS DOS GOYTACAZES":
+  cMun=="3301009"
   cMunSIAFI="5819"
-if cMun=="3301108":
-  xMun="CANTAGALO"
+if xMun="CANTAGALO":
+  cMun=="3301108"
   cMunSIAFI="5821"
-if cMun=="3300936":
-  xMun="CARAPEBUS"
+if xMun="CARAPEBUS":
+  cMun=="3300936"
   cMunSIAFI="0772"
-if cMun=="3301157":
-  xMun="CARDOSO MOREIRA"
+if xMun="CARDOSO MOREIRA":
+  cMun=="3301157"
   cMunSIAFI="2915"
-if cMun=="3301207":
-  xMun="CARMO"
+if xMun="CARMO":
+  cMun=="3301207"
   cMunSIAFI="5823"
-if cMun=="3301306":
-  xMun="CASIMIRO DE ABREU"
+if xMun="CASIMIRO DE ABREU":
+  cMun=="3301306"
   cMunSIAFI="5825"
-if cMun=="3300951":
-  xMun="COMENDADOR LEVY GASPARIAN"
+if xMun="COMENDADOR LEVY GASPARIAN":
+  cMun=="3300951"
   cMunSIAFI="2927"
-if cMun=="3301405":
-  xMun="CONCEICAO DE MACABU"
+if xMun="CONCEICAO DE MACABU":
+  cMun=="3301405"
   cMunSIAFI="5827"
-if cMun=="3301504":
-  xMun="CORDEIRO"
+if xMun="CORDEIRO":
+  cMun=="3301504"
   cMunSIAFI="5829"
-if cMun=="3301603":
-  xMun="DUAS BARRAS"
+if xMun="DUAS BARRAS":
+  cMun=="3301603"
   cMunSIAFI="5831"
-if cMun=="3301702":
-  xMun="DUQUE DE CAXIAS"
+if xMun="DUQUE DE CAXIAS":
+  cMun=="3301702"
   cMunSIAFI="5833"
-if cMun=="3301801":
-  xMun="ENGENHEIRO PAULO DE FRONTIN"
+if xMun="ENGENHEIRO PAULO DE FRONTIN":
+  cMun=="3301801"
   cMunSIAFI="5835"
-if cMun=="3301850":
-  xMun="GUAPIMIRIM"
+if xMun="GUAPIMIRIM":
+  cMun=="3301850"
   cMunSIAFI="2907"
-if cMun=="3301876":
-  xMun="IGUABA GRANDE"
+if xMun="IGUABA GRANDE":
+  cMun=="3301876"
   cMunSIAFI="0774"
-if cMun=="3301900":
-  xMun="ITABORAI"
+if xMun="ITABORAI":
+  cMun=="3301900"
   cMunSIAFI="5837"
-if cMun=="3302007":
-  xMun="ITAGUAI"
+if xMun="ITAGUAI":
+  cMun=="3302007"
   cMunSIAFI="5839"
-if cMun=="3302056":
-  xMun="ITALVA"
+if xMun="ITALVA":
+  cMun=="3302056"
   cMunSIAFI="5929"
-if cMun=="3302106":
-  xMun="ITAOCARA"
+if xMun="ITAOCARA":
+  cMun=="3302106"
   cMunSIAFI="5841"
-if cMun=="3302205":
-  xMun="ITAPERUNA"
+if xMun="ITAPERUNA":
+  cMun=="3302205"
   cMunSIAFI="5843"
-if cMun=="3302254":
-  xMun="ITATIAIA"
+if xMun="ITATIAIA":
+  cMun=="3302254"
   cMunSIAFI="6003"
-if cMun=="3302270":
-  xMun="JAPERI"
+if xMun="JAPERI":
+  cMun=="3302270"
   cMunSIAFI="2913"
-if cMun=="3302304":
-  xMun="LAJE DO MURIAE"
+if xMun="LAJE DO MURIAE":
+  cMun=="3302304"
   cMunSIAFI="5845"
-if cMun=="3302403":
-  xMun="MACAE"
+if xMun="MACAE":
+  cMun=="3302403"
   cMunSIAFI="5847"
-if cMun=="3302452":
-  xMun="MACUCO"
+if xMun="MACUCO":
+  cMun=="3302452"
   cMunSIAFI="0776"
-if cMun=="3302502":
-  xMun="MAGE"
+if xMun="MAGE":
+  cMun=="3302502"
   cMunSIAFI="5849"
-if cMun=="3302601":
-  xMun="MANGARATIBA"
+if xMun="MANGARATIBA":
+  cMun=="3302601"
   cMunSIAFI="5851"
-if cMun=="3302700":
-  xMun="MARICA"
+if xMun="MARICA":
+  cMun=="3302700"
   cMunSIAFI="5853"
-if cMun=="3302809":
-  xMun="MENDES"
+if xMun="MENDES":
+  cMun=="3302809"
   cMunSIAFI="5855"
-if cMun=="3302858":
-  xMun="MESQUITA"
+if xMun="MESQUITA":
+  cMun=="3302858"
   cMunSIAFI="1116"
-if cMun=="3302908":
-  xMun="MIGUEL PEREIRA"
+if xMun="MIGUEL PEREIRA":
+  cMun=="3302908"
   cMunSIAFI="5857"
-if cMun=="3303005":
-  xMun="MIRACEMA"
+if xMun="MIRACEMA":
+  cMun=="3303005"
   cMunSIAFI="5859"
-if cMun=="3303104":
-  xMun="NATIVIDADE"
+if xMun="NATIVIDADE":
+  cMun=="3303104"
   cMunSIAFI="5861"
-if cMun=="3303203":
-  xMun="NILOPOLIS"
+if xMun="NILOPOLIS":
+  cMun=="3303203"
   cMunSIAFI="5863"
-if cMun=="3303302":
-  xMun="NITEROI"
+if xMun="NITEROI":
+  cMun=="3303302"
   cMunSIAFI="5865"
-if cMun=="3303401":
-  xMun="NOVA FRIBURGO"
+if xMun="NOVA FRIBURGO":
+  cMun=="3303401"
   cMunSIAFI="5867"
-if cMun=="3303500":
-  xMun="NOVA IGUACU"
+if xMun="NOVA IGUACU":
+  cMun=="3303500"
   cMunSIAFI="5869"
-if cMun=="3303609":
-  xMun="PARACAMBI"
+if xMun="PARACAMBI":
+  cMun=="3303609"
   cMunSIAFI="5871"
-if cMun=="3303708":
-  xMun="PARAIBA DO SUL"
+if xMun="PARAIBA DO SUL":
+  cMun=="3303708"
   cMunSIAFI="5873"
-if cMun=="3303807":
-  xMun="PARATY"
+if xMun="PARATY":
+  cMun=="3303807"
   cMunSIAFI="5875"
-if cMun=="3303856":
-  xMun="PATY DO ALFERES"
+if xMun="PATY DO ALFERES":
+  cMun=="3303856"
   cMunSIAFI="6005"
-if cMun=="3303906":
-  xMun="PETROPOLIS"
+if xMun="PETROPOLIS":
+  cMun=="3303906"
   cMunSIAFI="5877"
-if cMun=="3303955":
-  xMun="PINHEIRAL"
+if xMun="PINHEIRAL":
+  cMun=="3303955"
   cMunSIAFI="0778"
-if cMun=="3304003":
-  xMun="PIRAI"
+if xMun="PIRAI":
+  cMun=="3304003"
   cMunSIAFI="5879"
-if cMun=="3304102":
-  xMun="PORCIUNCULA"
+if xMun="PORCIUNCULA":
+  cMun=="3304102"
   cMunSIAFI="5881"
-if cMun=="3304110":
-  xMun="PORTO REAL"
+if xMun="PORTO REAL":
+  cMun=="3304110"
   cMunSIAFI="0780"
-if cMun=="3304128":
-  xMun="QUATIS"
+if xMun="QUATIS":
+  cMun=="3304128"
   cMunSIAFI="2923"
-if cMun=="3304144":
-  xMun="QUEIMADOS"
+if xMun="QUEIMADOS":
+  cMun=="3304144"
   cMunSIAFI="2911"
-if cMun=="3304151":
-  xMun="QUISSAMA"
+if xMun="QUISSAMA":
+  cMun=="3304151"
   cMunSIAFI="6007"
-if cMun=="3304201":
-  xMun="RESENDE"
+if xMun="RESENDE":
+  cMun=="3304201"
   cMunSIAFI="5883"
-if cMun=="3304300":
-  xMun="RIO BONITO"
+if xMun="RIO BONITO":
+  cMun=="3304300"
   cMunSIAFI="5885"
-if cMun=="3304409":
-  xMun="RIO CLARO"
+if xMun="RIO CLARO":
+  cMun=="3304409"
   cMunSIAFI="5887"
-if cMun=="3304508":
-  xMun="RIO DAS FLORES"
+if xMun="RIO DAS FLORES":
+  cMun=="3304508"
   cMunSIAFI="5889"
-if cMun=="3304524":
-  xMun="RIO DAS OSTRAS"
+if xMun="RIO DAS OSTRAS":
+  cMun=="3304524"
   cMunSIAFI="2921"
-if cMun=="3304557":
-  xMun="RIO DE JANEIRO"
+if xMun="RIO DE JANEIRO":
+  cMun=="3304557"
   cMunSIAFI="6001"
-if cMun=="3304607":
-  xMun="SANTA MARIA MADALENA"
+if xMun="SANTA MARIA MADALENA":
+  cMun=="3304607"
   cMunSIAFI="5891"
-if cMun=="3304706":
-  xMun="SANTO ANTONIO DE PADUA"
+if xMun="SANTO ANTONIO DE PADUA":
+  cMun=="3304706"
   cMunSIAFI="5893"
-if cMun=="3304805":
-  xMun="SAO FIDELIS"
+if xMun="SAO FIDELIS":
+  cMun=="3304805"
   cMunSIAFI="5895"
-if cMun=="3304755":
-  xMun="SAO FRANCISCO DE ITABAPOANA"
+if xMun="SAO FRANCISCO DE ITABAPOANA":
+  cMun=="3304755"
   cMunSIAFI="0782"
-if cMun=="3304904":
-  xMun="SAO GONCALO"
+if xMun="SAO GONCALO":
+  cMun=="3304904"
   cMunSIAFI="5897"
-if cMun=="3305000":
-  xMun="SAO JOAO DA BARRA"
+if xMun="SAO JOAO DA BARRA":
+  cMun=="3305000"
   cMunSIAFI="5899"
-if cMun=="3305109":
-  xMun="SAO JOAO DE MERITI"
+if xMun="SAO JOAO DE MERITI":
+  cMun=="3305109"
   cMunSIAFI="5901"
-if cMun=="3305133":
-  xMun="SAO JOSE DE UBA"
+if xMun="SAO JOSE DE UBA":
+  cMun=="3305133"
   cMunSIAFI="0784"
-if cMun=="3305158":
-  xMun="SAO JOSE DO VALE DO RIO PRETO"
+if xMun="SAO JOSE DO VALE DO RIO PRETO":
+  cMun=="3305158"
   cMunSIAFI="6009"
-if cMun=="3305208":
-  xMun="SAO PEDRO DA ALDEIA"
+if xMun="SAO PEDRO DA ALDEIA":
+  cMun=="3305208"
   cMunSIAFI="5903"
-if cMun=="3305307":
-  xMun="SAO SEBASTIAO DO ALTO"
+if xMun="SAO SEBASTIAO DO ALTO":
+  cMun=="3305307"
   cMunSIAFI="5905"
-if cMun=="3305406":
-  xMun="SAPUCAIA"
+if xMun="SAPUCAIA":
+  cMun=="3305406"
   cMunSIAFI="5907"
-if cMun=="3305505":
-  xMun="SAQUAREMA"
+if xMun="SAQUAREMA":
+  cMun=="3305505"
   cMunSIAFI="5909"
-if cMun=="3305554":
-  xMun="SEROPEDICA"
+if xMun="SEROPEDICA":
+  cMun=="3305554"
   cMunSIAFI="0786"
-if cMun=="3305604":
-  xMun="SILVA JARDIM"
+if xMun="SILVA JARDIM":
+  cMun=="3305604"
   cMunSIAFI="5911"
-if cMun=="3305703":
-  xMun="SUMIDOURO"
+if xMun="SUMIDOURO":
+  cMun=="3305703"
   cMunSIAFI="5913"
-if cMun=="3305752":
-  xMun="TANGUA"
+if xMun="TANGUA":
+  cMun=="3305752"
   cMunSIAFI="0788"
-if cMun=="3305802":
-  xMun="TERESOPOLIS"
+if xMun="TERESOPOLIS":
+  cMun=="3305802"
   cMunSIAFI="5915"
-if cMun=="3305901":
-  xMun="TRAJANO DE MORAES"
+if xMun="TRAJANO DE MORAES":
+  cMun=="3305901"
   cMunSIAFI="5917"
-if cMun=="3306008":
-  xMun="TRÃŠS RIOS"
+if xMun="TRÃŠS RIOS":
+  cMun=="3306008"
   cMunSIAFI="5919"
-if cMun=="3306107":
-  xMun="VALENCA"
+if xMun="VALENCA":
+  cMun=="3306107"
   cMunSIAFI="5921"
-if cMun=="3306156":
-  xMun="VARRE-SAI"
+if xMun="VARRE-SAI":
+  cMun=="3306156"
   cMunSIAFI="2917"
-if cMun=="3306206":
-  xMun="VASSOURAS"
+if xMun="VASSOURAS":
+  cMun=="3306206"
   cMunSIAFI="5923"
-if cMun=="3306305":
-  xMun="VOLTA REDONDA"
+if xMun="VOLTA REDONDA":
+  cMun=="3306305"
   cMunSIAFI="5925"
-if cMun=="2400109":
-  xMun="ACARI"
+if xMun="ACARI":
+  cMun=="2400109"
   cMunSIAFI="1601"
-if cMun=="2400208":
-  xMun="ACU"
+if xMun="ACU":
+  cMun=="2400208"
   cMunSIAFI=""
-if cMun=="2400307":
-  xMun="AFONSO BEZERRA"
+if xMun="AFONSO BEZERRA":
+  cMun=="2400307"
   cMunSIAFI="1605"
-if cMun=="2400406":
-  xMun="AGUA NOVA"
+if xMun="AGUA NOVA":
+  cMun=="2400406"
   cMunSIAFI="1607"
-if cMun=="2400505":
-  xMun="ALEXANDRIA"
+if xMun="ALEXANDRIA":
+  cMun=="2400505"
   cMunSIAFI="1609"
-if cMun=="2400604":
-  xMun="ALMINO AFONSO"
+if xMun="ALMINO AFONSO":
+  cMun=="2400604"
   cMunSIAFI="1611"
-if cMun=="2400703":
-  xMun="ALTO DO RODRIGUES"
+if xMun="ALTO DO RODRIGUES":
+  cMun=="2400703"
   cMunSIAFI="1613"
-if cMun=="2400802":
-  xMun="ANGICOS"
+if xMun="ANGICOS":
+  cMun=="2400802"
   cMunSIAFI="1615"
-if cMun=="2400901":
-  xMun="ANTONIO MARTINS"
+if xMun="ANTONIO MARTINS":
+  cMun=="2400901"
   cMunSIAFI="1617"
-if cMun=="2401008":
-  xMun="APODI"
+if xMun="APODI":
+  cMun=="2401008"
   cMunSIAFI="1619"
-if cMun=="2401107":
-  xMun="AREIA BRANCA"
+if xMun="AREIA BRANCA":
+  cMun=="2401107"
   cMunSIAFI="1621"
-if cMun=="2401206":
-  xMun="ARÃŠS"
+if xMun="ARÃŠS":
+  cMun=="2401206"
   cMunSIAFI="1623"
-if cMun=="":
-  xMun="ASSU"
-  cMunSIAFI="1603"
-if cMun=="2401305":
-  xMun="AUGUSTO SEVERO"
-  cMunSIAFI="1625"
-if cMun=="2401404":
-  xMun="BAIA FORMOSA"
+if ifU"
+  :cM nSIAFI="1603"  Mun=="":
+  xMuniif xMun="AUGUSTO SEVERO"
+  cMun:== 2401305":
+  cMuSIAFI="1625"
+if xMun="BAIA FORMOSA":
+  cMun=="2401404"
   cMunSIAFI="1627"
-if cMun=="2401453":
-  xMun="BARAUNA"
+if xMun="BARAUNA":
+  cMun=="2401453"
   cMunSIAFI="3003"
-if cMun=="2401503":
-  xMun="BARCELONA"
+if xMun="BARCELONA":
+  cMun=="2401503"
   cMunSIAFI="1629"
-if cMun=="2401602":
-  xMun="BENTO FERNANDES"
+if xMun="BENTO FERNANDES":
+  cMun=="2401602"
   cMunSIAFI="1631"
-if cMun=="2401651":
-  xMun="BODO"
+if xMun="BODO":
+  cMun=="2401651"
   cMunSIAFI="0412"
-if cMun=="2401701":
-  xMun="BOM JESUS"
+if xMun="BOM JESUS":
+  cMun=="2401701"
   cMunSIAFI="1633"
-if cMun=="2401800":
-  xMun="BREJINHO"
+if xMun="BREJINHO":
+  cMun=="2401800"
   cMunSIAFI="1635"
-if cMun=="2401859":
-  xMun="CAICARA DO NORTE"
+if xMun="CAICARA DO NORTE":
+  cMun=="2401859"
   cMunSIAFI="0414"
-if cMun=="2401909":
-  xMun="CAICARA DO RIO DO VENTO"
+if xMun="CAICARA DO RIO DO VENTO":
+  cMun=="2401909"
   cMunSIAFI="1637"
-if cMun=="2402006":
-  xMun="CAICO"
+if xMun="CAICO":
+  cMun=="2402006"
   cMunSIAFI="1639"
-if cMun=="2402105":
-  xMun="CAMPO REDONDO"
+if xMun="CAMPO REDONDO":
+  cMun=="2402105"
   cMunSIAFI="1641"
-if cMun=="2402204":
-  xMun="CANGUARETAMA"
+if xMun="CANGUARETAMA":
+  cMun=="2402204"
   cMunSIAFI="1643"
-if cMun=="2402303":
-  xMun="CARAUBAS"
+if xMun="CARAUBAS":
+  cMun=="2402303"
   cMunSIAFI="1645"
-if cMun=="2402402":
-  xMun="CARNAUBA DOS DANTAS"
+if xMun="CARNAUBA DOS DANTAS":
+  cMun=="2402402"
   cMunSIAFI="1647"
-if cMun=="2402501":
-  xMun="CARNAUBAIS"
+if xMun="CARNAUBAIS":
+  cMun=="2402501"
   cMunSIAFI="1649"
-if cMun=="2402600":
-  xMun="CEARA-MIRIM"
+if xMun="CEARA-MIRIM":
+  cMun=="2402600"
   cMunSIAFI="1651"
-if cMun=="2402709":
-  xMun="CERRO CORA"
+if xMun="CERRO CORA":
+  cMun=="2402709"
   cMunSIAFI="1653"
-if cMun=="2402808":
-  xMun="CORONEL EZEQUIEL"
+if xMun="CORONEL EZEQUIEL":
+  cMun=="2402808"
   cMunSIAFI="1655"
-if cMun=="2402907":
-  xMun="CORONEL JOAO PESSOA"
+if xMun="CORONEL JOAO PESSOA":
+  cMun=="2402907"
   cMunSIAFI="1657"
-if cMun=="2403004":
-  xMun="CRUZETA"
+if xMun="CRUZETA":
+  cMun=="2403004"
   cMunSIAFI="1659"
-if cMun=="2403103":
-  xMun="CURRAIS NOVOS"
+if xMun="CURRAIS NOVOS":
+  cMun=="2403103"
   cMunSIAFI="1661"
-if cMun=="2403202":
-  xMun="DOUTOR SEVERIANO"
+if xMun="DOUTOR SEVERIANO":
+  cMun=="2403202"
   cMunSIAFI="1663"
-if cMun=="2403301":
-  xMun="ENCANTO"
+if xMun="ENCANTO":
+  cMun=="2403301"
   cMunSIAFI="1665"
-if cMun=="2403400":
-  xMun="EQUADOR"
+if xMun="EQUADOR":
+  cMun=="2403400"
   cMunSIAFI="1667"
-if cMun=="2403509":
-  xMun="ESPIRITO SANTO"
+if xMun="ESPIRITO SANTO":
+  cMun=="2403509"
   cMunSIAFI="1669"
-if cMun=="2403608":
-  xMun="EXTREMOZ"
+if xMun="EXTREMOZ":
+  cMun=="2403608"
   cMunSIAFI="1671"
-if cMun=="2403707":
-  xMun="FELIPE GUERRA"
+if xMun="FELIPE GUERRA":
+  cMun=="2403707"
   cMunSIAFI="1673"
-if cMun=="2403756":
-  xMun="FERNANDO PEDROZA"
+if xMun="FERNANDO PEDROZA":
+  cMun=="2403756"
   cMunSIAFI="0416"
-if cMun=="2403806":
-  xMun="FLORANIA"
+if xMun="FLORANIA":
+  cMun=="2403806"
   cMunSIAFI="1675"
-if cMun=="2403905":
-  xMun="FRANCISCO DANTAS"
+if xMun="FRANCISCO DANTAS":
+  cMun=="2403905"
   cMunSIAFI="1677"
-if cMun=="2404002":
-  xMun="FRUTUOSO GOMES"
+if xMun="FRUTUOSO GOMES":
+  cMun=="2404002"
   cMunSIAFI="1751"
-if cMun=="2404101":
-  xMun="GALINHOS"
+if xMun="GALINHOS":
+  cMun=="2404101"
   cMunSIAFI="1679"
-if cMun=="2404200":
-  xMun="GOIANINHA"
+if xMun="GOIANINHA":
+  cMun=="2404200"
   cMunSIAFI="1681"
-if cMun=="2404309":
-  xMun="GOVERNADOR DIX-SEPT ROSADO"
+if xMun="GOVERNADOR DIX-SEPT ROSADO":
+  cMun=="2404309"
   cMunSIAFI="1683"
-if cMun=="2404408":
-  xMun="GROSSOS"
+if xMun="GROSSOS":
+  cMun=="2404408"
   cMunSIAFI="1685"
-if cMun=="2404507":
-  xMun="GUAMARE"
+if xMun="GUAMARE":
+  cMun=="2404507"
   cMunSIAFI="1687"
-if cMun=="2404606":
-  xMun="IELMO MARINHO"
+if xMun="IELMO MARINHO":
+  cMun=="2404606"
   cMunSIAFI="1689"
-if cMun=="2404705":
-  xMun="IPANGUACU"
+if xMun="IPANGUACU":
+  cMun=="2404705"
   cMunSIAFI="1691"
-if cMun=="2404804":
-  xMun="IPUEIRA"
+if xMun="IPUEIRA":
+  cMun=="2404804"
   cMunSIAFI="1693"
-if cMun=="2404853":
-  xMun="ITAJA"
+if xMun="ITAJA":
+  cMun=="2404853"
   cMunSIAFI="0418"
-if cMun=="2404903":
-  xMun="ITAU"
+if xMun="ITAU":
+  cMun=="2404903"
   cMunSIAFI="1695"
-if cMun=="2405009":
-  xMun="JACANA"
+if xMun="JACANA":
+  cMun=="2405009"
   cMunSIAFI="1697"
-if cMun=="2405108":
-  xMun="JANDAIRA"
+if xMun="JANDAIRA":
+  cMun=="2405108"
   cMunSIAFI="1699"
-if cMun=="2405207":
-  xMun="JANDUIS"
+if xMun="JANDUIS":
+  cMun=="2405207"
   cMunSIAFI="1701"
-if cMun=="2405306":
-  xMun="JANUARIO CICCO"
+if xMun="JANUARIO CICCO":
+  cMun=="2405306"
   cMunSIAFI="1703"
-if cMun=="2405405":
-  xMun="JAPI"
+if xMun="JAPI":
+  cMun=="2405405"
   cMunSIAFI="1705"
-if cMun=="2405504":
-  xMun="JARDIM DE ANGICOS"
+if xMun="JARDIM DE ANGICOS":
+  cMun=="2405504"
   cMunSIAFI="1707"
-if cMun=="2405603":
-  xMun="JARDIM DE PIRANHAS"
+if xMun="JARDIM DE PIRANHAS":
+  cMun=="2405603"
   cMunSIAFI="1709"
-if cMun=="2405702":
-  xMun="JARDIM DO SERIDO"
+if xMun="JARDIM DO SERIDO":
+  cMun=="2405702"
   cMunSIAFI="1711"
-if cMun=="2405801":
-  xMun="JOAO CAMARA"
+if xMun="JOAO CAMARA":
+  cMun=="2405801"
   cMunSIAFI="1713"
-if cMun=="2405900":
-  xMun="JOAO DIAS"
+if xMun="JOAO DIAS":
+  cMun=="2405900"
   cMunSIAFI="1715"
-if cMun=="2406007":
-  xMun="JOSE DA PENHA"
+if xMun="JOSE DA PENHA":
+  cMun=="2406007"
   cMunSIAFI="1717"
-if cMun=="2406106":
-  xMun="JUCURUTU"
+if xMun="JUCURUTU":
+  cMun=="2406106"
   cMunSIAFI="1719"
-if cMun=="2406155":
-  xMun="JUNDIA"
+if xMun="JUNDIA":
+  cMun=="2406155"
   cMunSIAFI="1108"
-if cMun=="2406205":
-  xMun="LAGOA D ANTA"
+if xMun="LAGOA D ANTA":
+  cMun=="2406205"
   cMunSIAFI="1723"
-if cMun=="2406304":
-  xMun="LAGOA DE PEDRAS"
+if xMun="LAGOA DE PEDRAS":
+  cMun=="2406304"
   cMunSIAFI="1725"
-if cMun=="2406403":
-  xMun="LAGOA DE VELHOS"
+if xMun="LAGOA DE VELHOS":
+  cMun=="2406403"
   cMunSIAFI="1727"
-if cMun=="2406502":
-  xMun="LAGOA NOVA"
+if xMun="LAGOA NOVA":
+  cMun=="2406502"
   cMunSIAFI="1729"
-if cMun=="2406601":
-  xMun="LAGOA SALGADA"
+if xMun="LAGOA SALGADA":
+  cMun=="2406601"
   cMunSIAFI="1731"
-if cMun=="2406700":
-  xMun="LAJES"
+if xMun="LAJES":
+  cMun=="2406700"
   cMunSIAFI="1733"
-if cMun=="2406809":
-  xMun="LAJES PINTADAS"
+if xMun="LAJES PINTADAS":
+  cMun=="2406809"
   cMunSIAFI="1735"
-if cMun=="2406908":
-  xMun="LUCRECIA"
+if xMun="LUCRECIA":
+  cMun=="2406908"
   cMunSIAFI="1737"
-if cMun=="2407005":
-  xMun="LUIS GOMES"
+if xMun="LUIS GOMES":
+  cMun=="2407005"
   cMunSIAFI="1739"
-if cMun=="2407104":
-  xMun="MACAIBA"
+if xMun="MACAIBA":
+  cMun=="2407104"
   cMunSIAFI="1741"
-if cMun=="2407203":
-  xMun="MACAU"
+if xMun="MACAU":
+  cMun=="2407203"
   cMunSIAFI="1743"
-if cMun=="2407252":
-  xMun="MAJOR SALES"
+if xMun="MAJOR SALES":
+  cMun=="2407252"
   cMunSIAFI="0420"
-if cMun=="2407302":
-  xMun="MARCELINO VIEIRA"
+if xMun="MARCELINO VIEIRA":
+  cMun=="2407302"
   cMunSIAFI="1745"
-if cMun=="2407401":
-  xMun="MARTINS"
+if xMun="MARTINS":
+  cMun=="2407401"
   cMunSIAFI="1747"
-if cMun=="2407500":
-  xMun="MAXARANGUAPE"
+if xMun="MAXARANGUAPE":
+  cMun=="2407500"
   cMunSIAFI="1749"
-if cMun=="2407609":
-  xMun="MESSIAS TARGINO"
+if xMun="MESSIAS TARGINO":
+  cMun=="2407609"
   cMunSIAFI="1721"
-if cMun=="2407708":
-  xMun="MONTANHAS"
+if xMun="MONTANHAS":
+  cMun=="2407708"
   cMunSIAFI="1753"
-if cMun=="2407807":
-  xMun="MONTE ALEGRE"
+if xMun="MONTE ALEGRE":
+  cMun=="2407807"
   cMunSIAFI="1755"
-if cMun=="2407906":
-  xMun="MONTE DAS GAMELEIRAS"
+if xMun="MONTE DAS GAMELEIRAS":
+  cMun=="2407906"
   cMunSIAFI="1757"
-if cMun=="2408003":
-  xMun="MOSSORO"
+if xMun="MOSSORO":
+  cMun=="2408003"
   cMunSIAFI="1759"
-if cMun=="2408102":
-  xMun="NATAL"
+if xMun="NATAL":
+  cMun=="2408102"
   cMunSIAFI="1761"
-if cMun=="2408201":
-  xMun="NISIA FLORESTA"
+if xMun="NISIA FLORESTA":
+  cMun=="2408201"
   cMunSIAFI="1763"
-if cMun=="2408300":
-  xMun="NOVA CRUZ"
+if xMun="NOVA CRUZ":
+  cMun=="2408300"
   cMunSIAFI="1765"
-if cMun=="2408409":
-  xMun="OLHO D AGUA DO BORGES"
+if xMun="OLHO D AGUA DO BORGES":
+  cMun=="2408409"
   cMunSIAFI="1767"
-if cMun=="2408508":
-  xMun="OURO BRANCO"
+if xMun="OURO BRANCO":
+  cMun=="2408508"
   cMunSIAFI="1769"
-if cMun=="2408607":
-  xMun="PARANA"
+if xMun="PARANA":
+  cMun=="2408607"
   cMunSIAFI="1771"
-if cMun=="2408706":
-  xMun="PARAU"
+if xMun="PARAU":
+  cMun=="2408706"
   cMunSIAFI="1773"
-if cMun=="2408805":
-  xMun="PARAZINHO"
+if xMun="PARAZINHO":
+  cMun=="2408805"
   cMunSIAFI="1775"
-if cMun=="2408904":
-  xMun="PARELHAS"
+if xMun="PARELHAS":
+  cMun=="2408904"
   cMunSIAFI="1777"
-if cMun=="2403251":
-  xMun="PARNAMIRIM"
+if xMun="PARNAMIRIM":
+  cMun=="2403251"
   cMunSIAFI="1779"
-if cMun=="2409100":
-  xMun="PASSA E FICA"
+if xMun="PASSA E FICA":
+  cMun=="2409100"
   cMunSIAFI="1781"
-if cMun=="2409209":
-  xMun="PASSAGEM"
+if xMun="PASSAGEM":
+  cMun=="2409209"
   cMunSIAFI="1783"
-if cMun=="2409308":
-  xMun="PATU"
+if xMun="PATU":
+  cMun=="2409308"
   cMunSIAFI="1785"
-if cMun=="2409407":
-  xMun="PAU DOS FERROS"
+if xMun="PAU DOS FERROS":
+  cMun=="2409407"
   cMunSIAFI="1787"
-if cMun=="2409506":
-  xMun="PEDRA GRANDE"
+if xMun="PEDRA GRANDE":
+  cMun=="2409506"
   cMunSIAFI="1789"
-if cMun=="2409605":
-  xMun="PEDRA PRETA"
+if xMun="PEDRA PRETA":
+  cMun=="2409605"
   cMunSIAFI="1791"
-if cMun=="2409704":
-  xMun="PEDRO AVELINO"
+if xMun="PEDRO AVELINO":
+  cMun=="2409704"
   cMunSIAFI="1793"
-if cMun=="2409803":
-  xMun="PEDRO VELHO"
+if xMun="PEDRO VELHO":
+  cMun=="2409803"
   cMunSIAFI="1795"
-if cMun=="2409902":
-  xMun="PENDÃŠNCIAS"
+if xMun="PENDÃŠNCIAS":
+  cMun=="2409902"
   cMunSIAFI="1797"
-if cMun=="2410009":
-  xMun="PILÃ•ES"
+if xMun="PILÃ•ES":
+  cMun=="2410009"
   cMunSIAFI="1799"
-if cMun=="2410108":
-  xMun="POCO BRANCO"
+if xMun="POCO BRANCO":
+  cMun=="2410108"
   cMunSIAFI="1801"
-if cMun=="2410207":
-  xMun="PORTALEGRE"
+if xMun="PORTALEGRE":
+  cMun=="2410207"
   cMunSIAFI="1803"
-if cMun=="2410256":
-  xMun="PORTO DO MANGUE"
+if xMun="PORTO DO MANGUE":
+  cMun=="2410256"
   cMunSIAFI="0426"
-if cMun=="2410306":
-  xMun="PRESIDENTE JUSCELINO"
+if xMun="PRESIDENTE JUSCELINO":
+  cMun=="2410306"
   cMunSIAFI="1805"
-if cMun=="2410405":
-  xMun="PUREZA"
+if xMun="PUREZA":
+  cMun=="2410405"
   cMunSIAFI="1807"
-if cMun=="2410504":
-  xMun="RAFAEL FERNANDES"
+if xMun="RAFAEL FERNANDES":
+  cMun=="2410504"
   cMunSIAFI="1809"
-if cMun=="2410603":
-  xMun="RAFAEL GODEIRO"
+if xMun="RAFAEL GODEIRO":
+  cMun=="2410603"
   cMunSIAFI="1893"
-if cMun=="2410702":
-  xMun="RIACHO DA CRUZ"
+if xMun="RIACHO DA CRUZ":
+  cMun=="2410702"
   cMunSIAFI="1811"
-if cMun=="2410801":
-  xMun="RIACHO DE SANTANA"
+if xMun="RIACHO DE SANTANA":
+  cMun=="2410801"
   cMunSIAFI="1813"
-if cMun=="2410900":
-  xMun="RIACHUELO"
+if xMun="RIACHUELO":
+  cMun=="2410900"
   cMunSIAFI="1815"
-if cMun=="2408953":
-  xMun="RIO DO FOGO"
+if xMun="RIO DO FOGO":
+  cMun=="2408953"
   cMunSIAFI="0422"
-if cMun=="2411007":
-  xMun="RODOLFO FERNANDES"
+if xMun="RODOLFO FERNANDES":
+  cMun=="2411007"
   cMunSIAFI="1817"
-if cMun=="2411106":
-  xMun="RUY BARBOSA"
+if xMun="RUY BARBOSA":
+  cMun=="2411106"
   cMunSIAFI="1819"
-if cMun=="2411205":
-  xMun="SANTA CRUZ"
+if xMun="SANTA CRUZ":
+  cMun=="2411205"
   cMunSIAFI="1823"
-if cMun=="2409332":
-  xMun="SANTA MARIA"
+if xMun="SANTA MARIA":
+  cMun=="2409332"
   cMunSIAFI="0424"
-if cMun=="2411403":
-  xMun="SANTANA DO MATOS"
+if xMun="SANTANA DO MATOS":
+  cMun=="2411403"
   cMunSIAFI="1827"
-if cMun=="2411429":
-  xMun="SANTANA DO SERIDO"
+if xMun="SANTANA DO SERIDO":
+  cMun=="2411429"
   cMunSIAFI="1825"
-if cMun=="2411502":
-  xMun="SANTO ANTONIO"
+if xMun="SANTO ANTONIO":
+  cMun=="2411502"
   cMunSIAFI="1829"
-if cMun=="2411601":
-  xMun="SAO BENTO DO NORTE"
+if xMun="SAO BENTO DO NORTE":
+  cMun=="2411601"
   cMunSIAFI="1831"
-if cMun=="2411700":
-  xMun="SAO BENTO DO TRAIRI"
+if xMun="SAO BENTO DO TRAIRI":
+  cMun=="2411700"
   cMunSIAFI="1833"
-if cMun=="2411809":
-  xMun="SAO FERNANDO"
+if xMun="SAO FERNANDO":
+  cMun=="2411809"
   cMunSIAFI="1835"
-if cMun=="2411908":
-  xMun="SAO FRANCISCO DO OESTE"
+if xMun="SAO FRANCISCO DO OESTE":
+  cMun=="2411908"
   cMunSIAFI="1821"
-if cMun=="2412005":
-  xMun="SAO GONCALO DO AMARANTE"
+if xMun="SAO GONCALO DO AMARANTE":
+  cMun=="2412005"
   cMunSIAFI="1837"
-if cMun=="2412104":
-  xMun="SAO JOAO DO SABUGI"
+if xMun="SAO JOAO DO SABUGI":
+  cMun=="2412104"
   cMunSIAFI="1839"
-if cMun=="2412203":
-  xMun="SAO JOSE DE MIPIBU"
+if xMun="SAO JOSE DE MIPIBU":
+  cMun=="2412203"
   cMunSIAFI="1841"
-if cMun=="2412302":
-  xMun="SAO JOSE DO CAMPESTRE"
+if xMun="SAO JOSE DO CAMPESTRE":
+  cMun=="2412302"
   cMunSIAFI="1843"
-if cMun=="2412401":
-  xMun="SAO JOSE DO SERIDO"
+if xMun="SAO JOSE DO SERIDO":
+  cMun=="2412401"
   cMunSIAFI="1845"
-if cMun=="2412500":
-  xMun="SAO MIGUEL"
+if xMun="SAO MIGUEL":
+  cMun=="2412500"
   cMunSIAFI="1847"
-if cMun=="2412559":
-  xMun="SAO MIGUEL DO GOSTOSO"
+if xMun="SAO MIGUEL DO GOSTOSO":
+  cMun=="2412559"
   cMunSIAFI="0430"
-if cMun=="2412609":
-  xMun="SAO PAULO DO POTENGI"
+if xMun="SAO PAULO DO POTENGI":
+  cMun=="2412609"
   cMunSIAFI="1849"
-if cMun=="2412708":
-  xMun="SAO PEDRO"
+if xMun="SAO PEDRO":
+  cMun=="2412708"
   cMunSIAFI="1851"
-if cMun=="2412807":
-  xMun="SAO RAFAEL"
+if xMun="SAO RAFAEL":
+  cMun=="2412807"
   cMunSIAFI="1853"
-if cMun=="2412906":
-  xMun="SAO TOME"
+if xMun="SAO TOME":
+  cMun=="2412906"
   cMunSIAFI="1855"
-if cMun=="2413003":
-  xMun="SAO VICENTE"
+if xMun="SAO VICENTE":
+  cMun=="2413003"
   cMunSIAFI="1857"
-if cMun=="2413102":
-  xMun="SENADOR ELOI DE SOUZA"
+if xMun="SENADOR ELOI DE SOUZA":
+  cMun=="2413102"
   cMunSIAFI="1859"
-if cMun=="2413201":
-  xMun="SENADOR GEORGINO AVELINO"
+if xMun="SENADOR GEORGINO AVELINO":
+  cMun=="2413201"
   cMunSIAFI="1861"
-if cMun=="2413300":
-  xMun="SERRA DE SAO BENTO"
+if xMun="SERRA DE SAO BENTO":
+  cMun=="2413300"
   cMunSIAFI="1863"
-if cMun=="2413359":
-  xMun="SERRA DO MEL"
+if xMun="SERRA DO MEL":
+  cMun=="2413359"
   cMunSIAFI="1927"
-if cMun=="2413409":
-  xMun="SERRA NEGRA DO NORTE"
+if xMun="SERRA NEGRA DO NORTE":
+  cMun=="2413409"
   cMunSIAFI="1865"
-if cMun=="2413508":
-  xMun="SERRINHA"
+if xMun="SERRINHA":
+  cMun=="2413508"
   cMunSIAFI="1867"
-if cMun=="2413557":
-  xMun="SERRINHA DOS PINTOS"
+if xMun="SERRINHA DOS PINTOS":
+  cMun=="2413557"
   cMunSIAFI="0432"
-if cMun=="2413607":
-  xMun="SEVERIANO MELO"
+if xMun="SEVERIANO MELO":
+  cMun=="2413607"
   cMunSIAFI="1869"
-if cMun=="2413706":
-  xMun="SITIO NOVO"
+if xMun="SITIO NOVO":
+  cMun=="2413706"
   cMunSIAFI="1871"
-if cMun=="2413805":
-  xMun="TABOLEIRO GRANDE"
+if xMun="TABOLEIRO GRANDE":
+  cMun=="2413805"
   cMunSIAFI="1873"
-if cMun=="2413904":
-  xMun="TAIPU"
+if xMun="TAIPU":
+  cMun=="2413904"
   cMunSIAFI="1875"
-if cMun=="2414001":
-  xMun="TANGARA"
+if xMun="TANGARA":
+  cMun=="2414001"
   cMunSIAFI="1877"
-if cMun=="2414100":
-  xMun="TENENTE ANANIAS"
+if xMun="TENENTE ANANIAS":
+  cMun=="2414100"
   cMunSIAFI="1879"
-if cMun=="2414159":
-  xMun="TENENTE LAURENTINO CRUZ"
+if xMun="TENENTE LAURENTINO CRUZ":
+  cMun=="2414159"
   cMunSIAFI="0434"
-if cMun=="2411056":
-  xMun="TIBAU"
+if xMun="TIBAU":
+  cMun=="2411056"
   cMunSIAFI="0428"
-if cMun=="2414209":
-  xMun="TIBAU DO SUL"
+if xMun="TIBAU DO SUL":
+  cMun=="2414209"
   cMunSIAFI="1881"
-if cMun=="2414308":
-  xMun="TIMBAUBA DOS BATISTAS"
+if xMun="TIMBAUBA DOS BATISTAS":
+  cMun=="2414308"
   cMunSIAFI="1883"
-if cMun=="2414407":
-  xMun="TOUROS"
+if xMun="TOUROS":
+  cMun=="2414407"
   cMunSIAFI="1885"
-if cMun=="2414456":
-  xMun="TRIUNFO POTIGUAR"
+if xMun="TRIUNFO POTIGUAR":
+  cMun=="2414456"
   cMunSIAFI="0436"
-if cMun=="2414506":
-  xMun="UMARIZAL"
+if xMun="UMARIZAL":
+  cMun=="2414506"
   cMunSIAFI="1887"
-if cMun=="2414605":
-  xMun="UPANEMA"
+if xMun="UPANEMA":
+  cMun=="2414605"
   cMunSIAFI="1889"
-if cMun=="2414704":
-  xMun="VARZEA"
+if xMun="VARZEA":
+  cMun=="2414704"
   cMunSIAFI="1891"
-if cMun=="2414753":
-  xMun="VENHA-VER"
+if xMun="VENHA-VER":
+  cMun=="2414753"
   cMunSIAFI="0438"
-if cMun=="2414803":
-  xMun="VERA CRUZ"
+if xMun="VERA CRUZ":
+  cMun=="2414803"
   cMunSIAFI="1895"
-if cMun=="2414902":
-  xMun="VICOSA"
+if xMun="VICOSA":
+  cMun=="2414902"
   cMunSIAFI="1897"
-if cMun=="2415008":
-  xMun="VILA FLOR"
+if xMun="VILA FLOR":
+  cMun=="2415008"
   cMunSIAFI="1899"
-if cMun=="1100015":
-  xMun="ALTA FLORESTA D OESTE"
+if xMun="ALTA FLORESTA D OESTE":
+  cMun=="1100015"
   cMunSIAFI="0033"
-if cMun=="1100379":
-  xMun="ALTO ALEGRE DOS PARECIS"
+if xMun="ALTO ALEGRE DOS PARECIS":
+  cMun=="1100379"
   cMunSIAFI="0002"
-if cMun=="1100403":
-  xMun="ALTO PARAISO"
+if xMun="ALTO PARAISO":
+  cMun=="1100403"
   cMunSIAFI="0675"
-if cMun=="1100346":
-  xMun="ALVORADA D OESTE"
+if xMun="ALVORADA D OESTE":
+  cMun=="1100346"
   cMunSIAFI="0035"
-if cMun=="1100023":
-  xMun="ARIQUEMES"
+if xMun="ARIQUEMES":
+  cMun=="1100023"
   cMunSIAFI="0007"
-if cMun=="1100452":
-  xMun="BURITIS"
+if xMun="BURITIS":
+  cMun=="1100452"
   cMunSIAFI="0004"
-if cMun=="1100031":
-  xMun="CABIXI"
+if xMun="CABIXI":
+  cMun=="1100031"
   cMunSIAFI="0037"
-if cMun=="1100601":
-  xMun="CACAULANDIA"
+if xMun="CACAULANDIA":
+  cMun=="1100601"
   cMunSIAFI="0677"
-if cMun=="1100049":
-  xMun="CACOAL"
+if xMun="CACOAL":
+  cMun=="1100049"
   cMunSIAFI="0009"
-if cMun=="1100700":
-  xMun="CAMPO NOVO DE RONDONIA"
+if xMun="CAMPO NOVO DE RONDONIA":
+  cMun=="1100700"
   cMunSIAFI="0679"
-if cMun=="1100809":
-  xMun="CANDEIAS DO JAMARI"
+if xMun="CANDEIAS DO JAMARI":
+  cMun=="1100809"
   cMunSIAFI="0681"
-if cMun=="1100908":
-  xMun="CASTANHEIRAS"
+if xMun="CASTANHEIRAS":
+  cMun=="1100908"
   cMunSIAFI="0691"
-if cMun=="1100056":
-  xMun="CEREJEIRAS"
+if xMun="CEREJEIRAS":
+  cMun=="1100056"
   cMunSIAFI="0027"
-if cMun=="1100924":
-  xMun="CHUPINGUAIA"
+if xMun="CHUPINGUAIA":
+  cMun=="1100924"
   cMunSIAFI="0006"
-if cMun=="1100064":
-  xMun="COLORADO DO OESTE"
+if xMun="COLORADO DO OESTE":
+  cMun=="1100064"
   cMunSIAFI="0023"
-if cMun=="1100072":
-  xMun="CORUMBIARA"
+if xMun="CORUMBIARA":
+  cMun=="1100072"
   cMunSIAFI="0981"
-if cMun=="1100080":
-  xMun="COSTA MARQUES"
+if xMun="COSTA MARQUES":
+  cMun=="1100080"
   cMunSIAFI="0021"
-if cMun=="1100940":
-  xMun="CUJUBIM"
+if xMun="CUJUBIM":
+  cMun=="1100940"
   cMunSIAFI="0008"
-if cMun=="1100098":
-  xMun="ESPIGAO D OESTE"
+if xMun="ESPIGAO D OESTE":
+  cMun=="1100098"
   cMunSIAFI="0025"
-if cMun=="1101005":
-  xMun="GOVERNADOR JORGE TEIXEIRA"
+if xMun="GOVERNADOR JORGE TEIXEIRA":
+  cMun=="1101005"
   cMunSIAFI="0693"
-if cMun=="1100106":
-  xMun="GUAJARA-MIRIM"
+if xMun="GUAJARA-MIRIM":
+  cMun=="1100106"
   cMunSIAFI="0001"
-if cMun=="1101104":
-  xMun="ITAPUA DO OESTE"
+if xMun="ITAPUA DO OESTE":
+  cMun=="1101104"
   cMunSIAFI="0683"
-if cMun=="1100114":
-  xMun="JARU"
+if xMun="JARU":
+  cMun=="1100114"
   cMunSIAFI="0015"
-if cMun=="1100122":
-  xMun="JI-PARANA"
+if xMun="JI-PARANA":
+  cMun=="1100122"
   cMunSIAFI="0005"
-if cMun=="1100130":
-  xMun="MACHADINHO D OESTE"
+if xMun="MACHADINHO D OESTE":
+  cMun=="1100130"
   cMunSIAFI="0039"
-if cMun=="1101203":
-  xMun="MINISTRO ANDREAZZA"
+if xMun="MINISTRO ANDREAZZA":
+  cMun=="1101203"
   cMunSIAFI="0695"
-if cMun=="1101302":
-  xMun="MIRANTE DA SERRA"
+if xMun="MIRANTE DA SERRA":
+  cMun=="1101302"
   cMunSIAFI="0697"
-if cMun=="1101401":
-  xMun="MONTE NEGRO"
+if xMun="MONTE NEGRO":
+  cMun=="1101401"
   cMunSIAFI="0685"
-if cMun=="1100148":
-  xMun="NOVA BRASILANDIA D OESTE"
+if xMun="NOVA BRASILANDIA D OESTE":
+  cMun=="1100148"
   cMunSIAFI="0041"
-if cMun=="1100338":
-  xMun="NOVA MAMORE"
+if xMun="NOVA MAMORE":
+  cMun=="1100338"
   cMunSIAFI="0047"
-if cMun=="1101435":
-  xMun="NOVA UNIAO"
+if xMun="NOVA UNIAO":
+  cMun=="1101435"
   cMunSIAFI="0010"
-if cMun=="1100502":
-  xMun="NOVO HORIZONTE DO OESTE"
+if xMun="NOVO HORIZONTE DO OESTE":
+  cMun=="1100502"
   cMunSIAFI="0689"
-if cMun=="1100155":
-  xMun="OURO PRETO DO OESTE"
+if xMun="OURO PRETO DO OESTE":
+  cMun=="1100155"
   cMunSIAFI="0017"
-if cMun=="1101450":
-  xMun="PARECIS"
+if xMun="PARECIS":
+  cMun=="1101450"
   cMunSIAFI="0012"
-if cMun=="1100189":
-  xMun="PIMENTA BUENO"
+if xMun="PIMENTA BUENO":
+  cMun=="1100189"
   cMunSIAFI="0011"
-if cMun=="1101468":
-  xMun="PIMENTEIRAS DO OESTE"
+if xMun="PIMENTEIRAS DO OESTE":
+  cMun=="1101468"
   cMunSIAFI="0014"
-if cMun=="1100205":
-  xMun="PORTO VELHO"
+if xMun="PORTO VELHO":
+  cMun=="1100205"
   cMunSIAFI="0003"
-if cMun=="1100254":
-  xMun="PRESIDENTE MEDICI"
+if xMun="PRESIDENTE MEDICI":
+  cMun=="1100254"
   cMunSIAFI="0019"
-if cMun=="1101476":
-  xMun="PRIMAVERA DE RONDONIA"
+if xMun="PRIMAVERA DE RONDONIA":
+  cMun=="1101476"
   cMunSIAFI="0016"
-if cMun=="1100262":
-  xMun="RIO CRESPO"
+if xMun="RIO CRESPO":
+  cMun=="1100262"
   cMunSIAFI="0687"
-if cMun=="1100288":
-  xMun="ROLIM DE MOURA"
+if xMun="ROLIM DE MOURA":
+  cMun=="1100288"
   cMunSIAFI="0029"
-if cMun=="1100296":
-  xMun="SANTA LUZIA D OESTE"
+if xMun="SANTA LUZIA D OESTE":
+  cMun=="1100296"
   cMunSIAFI="0043"
-if cMun=="1101484":
-  xMun="SAO FELIPE D OESTE"
+if xMun="SAO FELIPE D OESTE":
+  cMun=="1101484"
   cMunSIAFI="0018"
-if cMun=="1101492":
-  xMun="SAO FRANCISCO DO GUAPORE"
+if xMun="SAO FRANCISCO DO GUAPORE":
+  cMun=="1101492"
   cMunSIAFI="0020"
-if cMun=="1100320":
-  xMun="SAO MIGUEL DO GUAPORE"
+if xMun="SAO MIGUEL DO GUAPORE":
+  cMun=="1100320"
   cMunSIAFI="0045"
-if cMun=="1101500":
-  xMun="SERINGUEIRAS"
+if xMun="SERINGUEIRAS":
+  cMun=="1101500"
   cMunSIAFI="0699"
-if cMun=="1101559":
-  xMun="TEIXEIROPOLIS"
+if xMun="TEIXEIROPOLIS":
+  cMun=="1101559"
   cMunSIAFI="0022"
-if cMun=="1101609":
-  xMun="THEOBROMA"
+if xMun="THEOBROMA":
+  cMun=="1101609"
   cMunSIAFI="0975"
-if cMun=="1101708":
-  xMun="URUPA"
+if xMun="URUPA":
+  cMun=="1101708"
   cMunSIAFI="0977"
-if cMun=="1101757":
-  xMun="VALE DO ANARI"
+if xMun="VALE DO ANARI":
+  cMun=="1101757"
   cMunSIAFI="0024"
-if cMun=="1101807":
-  xMun="VALE DO PARAISO"
+if xMun="VALE DO PARAISO":
+  cMun=="1101807"
   cMunSIAFI="0979"
-if cMun=="1100304":
-  xMun="VILHENA"
+if xMun="VILHENA":
+  cMun=="1100304"
   cMunSIAFI="0013"
-if cMun=="1400050":
-  xMun="ALTO ALEGRE"
+if xMun="ALTO ALEGRE":
+  cMun=="1400050"
   cMunSIAFI="0305"
-if cMun=="1400027":
-  xMun="AMAJARI"
+if xMun="AMAJARI":
+  cMun=="1400027"
   cMunSIAFI="0026"
-if cMun=="1400100":
-  xMun="BOA VISTA"
+if xMun="BOA VISTA":
+  cMun=="1400100"
   cMunSIAFI="0301"
-if cMun=="1400159":
-  xMun="BONFIM"
+if xMun="BONFIM":
+  cMun=="1400159"
   cMunSIAFI="0307"
-if cMun=="1400175":
-  xMun="CANTA"
+if xMun="CANTA":
+  cMun=="1400175"
   cMunSIAFI="0028"
-if cMun=="1400209":
-  xMun="CARACARAI"
+if xMun="CARACARAI":
+  cMun=="1400209"
   cMunSIAFI="0303"
-if cMun=="1400233":
-  xMun="CAROEBE"
+if xMun="CAROEBE":
+  cMun=="1400233"
   cMunSIAFI="0030"
-if cMun=="1400282":
-  xMun="IRACEMA"
+if xMun="IRACEMA":
+  cMun=="1400282"
   cMunSIAFI="0032"
-if cMun=="1400308":
-  xMun="MUCAJAI"
+if xMun="MUCAJAI":
+  cMun=="1400308"
   cMunSIAFI="0309"
-if cMun=="1400407":
-  xMun="NORMANDIA"
+if xMun="NORMANDIA":
+  cMun=="1400407"
   cMunSIAFI="0311"
-if cMun=="1400456":
-  xMun="PACARAIMA"
+if xMun="PACARAIMA":
+  cMun=="1400456"
   cMunSIAFI="0034"
-if cMun=="1400472":
-  xMun="RORAINOPOLIS"
+if xMun="RORAINOPOLIS":
+  cMun=="1400472"
   cMunSIAFI="0036"
-if cMun=="1400506":
-  xMun="SAO JOAO DA BALIZA"
+if xMun="SAO JOAO DA BALIZA":
+  cMun=="1400506"
   cMunSIAFI="0313"
-if cMun=="1400605":
-  xMun="SAO LUIZ"
+if xMun="SAO LUIZ":
+  cMun=="1400605"
   cMunSIAFI="0315"
-if cMun=="1400704":
-  xMun="UIRAMUTA"
+if xMun="UIRAMUTA":
+  cMun=="1400704"
   cMunSIAFI="0038"
-if cMun=="4300034":
-  xMun="ACEGUA"
+if xMun="ACEGUA":
+  cMun=="4300034"
   cMunSIAFI="1118"
-if cMun=="4300059":
-  xMun="AGUA SANTA"
+if xMun="AGUA SANTA":
+  cMun=="4300059"
   cMunSIAFI="8499"
-if cMun=="4300109":
-  xMun="AGUDO"
+if xMun="AGUDO":
+  cMun=="4300109"
   cMunSIAFI="8501"
-if cMun=="4300208":
-  xMun="AJURICABA"
+if xMun="AJURICABA":
+  cMun=="4300208"
   cMunSIAFI="8503"
-if cMun=="4300307":
-  xMun="ALECRIM"
+if xMun="ALECRIM":
+  cMun=="4300307"
   cMunSIAFI="8505"
-if cMun=="4300406":
-  xMun="ALEGRETE"
+if xMun="ALEGRETE":
+  cMun=="4300406"
   cMunSIAFI="8507"
-if cMun=="4300455":
-  xMun="ALEGRIA"
+if xMun="ALEGRIA":
+  cMun=="4300455"
   cMunSIAFI="8497"
-if cMun=="4300471":
-  xMun="ALMIRANTE TAMANDARE DO SUL"
+if xMun="ALMIRANTE TAMANDARE DO SUL":
+  cMun=="4300471"
   cMunSIAFI="1120"
-if cMun=="4300505":
-  xMun="ALPESTRE"
+if xMun="ALPESTRE":
+  cMun=="4300505"
   cMunSIAFI="8509"
-if cMun=="4300554":
-  xMun="ALTO ALEGRE"
+if xMun="ALTO ALEGRE":
+  cMun=="4300554"
   cMunSIAFI="8495"
-if cMun=="4300570":
-  xMun="ALTO FELIZ"
+if xMun="ALTO FELIZ":
+  cMun=="4300570"
   cMunSIAFI="6045"
-if cMun=="4300604":
-  xMun="ALVORADA"
+if xMun="ALVORADA":
+  cMun=="4300604"
   cMunSIAFI="8511"
-if cMun=="4300638":
-  xMun="AMARAL FERRADOR"
+if xMun="AMARAL FERRADOR":
+  cMun=="4300638"
   cMunSIAFI="8493"
-if cMun=="4300646":
-  xMun="AMETISTA DO SUL"
+if xMun="AMETISTA DO SUL":
+  cMun=="4300646"
   cMunSIAFI="5969"
-if cMun=="4300661":
-  xMun="ANDRE DA ROCHA"
+if xMun="ANDRE DA ROCHA":
+  cMun=="4300661"
   cMunSIAFI="8491"
-if cMun=="4300703":
-  xMun="ANTA GORDA"
+if xMun="ANTA GORDA":
+  cMun=="4300703"
   cMunSIAFI="8513"
-if cMun=="4300802":
-  xMun="ANTONIO PRADO"
+if xMun="ANTONIO PRADO":
+  cMun=="4300802"
   cMunSIAFI="8515"
-if cMun=="4300851":
-  xMun="ARAMBARE"
+if xMun="ARAMBARE":
+  cMun=="4300851"
   cMunSIAFI="5779"
-if cMun=="4300877":
-  xMun="ARARICA"
+if xMun="ARARICA":
+  cMun=="4300877"
   cMunSIAFI="0952"
-if cMun=="4300901":
-  xMun="ARATIBA"
+if xMun="ARATIBA":
+  cMun=="4300901"
   cMunSIAFI="8517"
-if cMun=="4301008":
-  xMun="ARROIO DO MEIO"
+if xMun="ARROIO DO MEIO":
+  cMun=="4301008"
   cMunSIAFI="8519"
-if cMun=="4301073":
-  xMun="ARROIO DO PADRE"
+if xMun="ARROIO DO PADRE":
+  cMun=="4301073"
   cMunSIAFI="1122"
-if cMun=="4301057":
-  xMun="ARROIO DO SAL"
+if xMun="ARROIO DO SAL":
+  cMun=="4301057"
   cMunSIAFI="8489"
-if cMun=="4301206":
-  xMun="ARROIO DO TIGRE"
+if xMun="ARROIO DO TIGRE":
+  cMun=="4301206"
   cMunSIAFI="8523"
-if cMun=="4301107":
-  xMun="ARROIO DOS RATOS"
+if xMun="ARROIO DOS RATOS":
+  cMun=="4301107"
   cMunSIAFI="8521"
-if cMun=="4301305":
-  xMun="ARROIO GRANDE"
+if xMun="ARROIO GRANDE":
+  cMun=="4301305"
   cMunSIAFI="8525"
-if cMun=="4301404":
-  xMun="ARVOREZINHA"
+if xMun="ARVOREZINHA":
+  cMun=="4301404"
   cMunSIAFI="8527"
-if cMun=="4301503":
-  xMun="AUGUSTO PESTANA"
+if xMun="AUGUSTO PESTANA":
+  cMun=="4301503"
   cMunSIAFI="8529"
-if cMun=="4301552":
-  xMun="AUREA"
+if xMun="AUREA":
+  cMun=="4301552"
   cMunSIAFI="8487"
-if cMun=="4301602":
-  xMun="BAGE"
+if xMun="BAGE":
+  cMun=="4301602"
   cMunSIAFI="8531"
-if cMun=="4301636":
-  xMun="BALNEARIO PINHAL"
+if xMun="BALNEARIO PINHAL":
+  cMun=="4301636"
   cMunSIAFI="0954"
-if cMun=="4301651":
-  xMun="BARAO"
+if xMun="BARAO":
+  cMun=="4301651"
   cMunSIAFI="8485"
-if cMun=="4301701":
-  xMun="BARAO DE COTEGIPE"
+if xMun="BARAO DE COTEGIPE":
+  cMun=="4301701"
   cMunSIAFI="8533"
-if cMun=="4301750":
-  xMun="BARAO DO TRIUNFO"
+if xMun="BARAO DO TRIUNFO":
+  cMun=="4301750"
   cMunSIAFI="5771"
-if cMun=="4301859":
-  xMun="BARRA DO GUARITA"
+if xMun="BARRA DO GUARITA":
+  cMun=="4301859"
   cMunSIAFI="6069"
-if cMun=="4301875":
-  xMun="BARRA DO QUARAI"
+if xMun="BARRA DO QUARAI":
+  cMun=="4301875"
   cMunSIAFI="0956"
-if cMun=="4301909":
-  xMun="BARRA DO RIBEIRO"
+if xMun="BARRA DO RIBEIRO":
+  cMun=="4301909"
   cMunSIAFI="8537"
-if cMun=="4301925":
-  xMun="BARRA DO RIO AZUL"
+if xMun="BARRA DO RIO AZUL":
+  cMun=="4301925"
   cMunSIAFI="5959"
-if cMun=="4301958":
-  xMun="BARRA FUNDA"
+if xMun="BARRA FUNDA":
+  cMun=="4301958"
   cMunSIAFI="5943"
-if cMun=="4301800":
-  xMun="BARRACAO"
+if xMun="BARRACAO":
+  cMun=="4301800"
   cMunSIAFI="8535"
-if cMun=="4302006":
-  xMun="BARROS CASSAL"
+if xMun="BARROS CASSAL":
+  cMun=="4302006"
   cMunSIAFI="8539"
-if cMun=="4302055":
-  xMun="BENJAMIN CONSTANT DO SUL"
+if xMun="BENJAMIN CONSTANT DO SUL":
+  cMun=="4302055"
   cMunSIAFI="0958"
-if cMun=="4302105":
-  xMun="BENTO GONCALVES"
+if xMun="BENTO GONCALVES":
+  cMun=="4302105"
   cMunSIAFI="8541"
-if cMun=="4302154":
-  xMun="BOA VISTA DAS MISSÃ•ES"
+if xMun="BOA VISTA DAS MISSÃ•ES":
+  cMun=="4302154"
   cMunSIAFI="5981"
-if cMun=="4302204":
-  xMun="BOA VISTA DO BURICA"
+if xMun="BOA VISTA DO BURICA":
+  cMun=="4302204"
   cMunSIAFI="8543"
-if cMun=="4302220":
-  xMun="BOA VISTA DO CADEADO"
+if xMun="BOA VISTA DO CADEADO":
+  cMun=="4302220"
   cMunSIAFI="1124"
-if cMun=="4302238":
-  xMun="BOA VISTA DO INCRA"
+if xMun="BOA VISTA DO INCRA":
+  cMun=="4302238"
   cMunSIAFI="1126"
-if cMun=="4302253":
-  xMun="BOA VISTA DO SUL"
+if xMun="BOA VISTA DO SUL":
+  cMun=="4302253"
   cMunSIAFI="0960"
-if cMun=="4302303":
-  xMun="BOM JESUS"
+if xMun="BOM JESUS":
+  cMun=="4302303"
   cMunSIAFI="8545"
-if cMun=="4302352":
-  xMun="BOM PRINCIPIO"
+if xMun="BOM PRINCIPIO":
+  cMun=="4302352"
   cMunSIAFI="9823"
-if cMun=="4302378":
-  xMun="BOM PROGRESSO"
+if xMun="BOM PROGRESSO":
+  cMun=="4302378"
   cMunSIAFI="6071"
-if cMun=="4302402":
-  xMun="BOM RETIRO DO SUL"
+if xMun="BOM RETIRO DO SUL":
+  cMun=="4302402"
   cMunSIAFI="8547"
-if cMun=="4302451":
-  xMun="BOQUEIRAO DO LEAO"
+if xMun="BOQUEIRAO DO LEAO":
+  cMun=="4302451"
   cMunSIAFI="8483"
-if cMun=="4302501":
-  xMun="BOSSOROCA"
+if xMun="BOSSOROCA":
+  cMun=="4302501"
   cMunSIAFI="8549"
-if cMun=="4302584":
-  xMun="BOZANO"
+if xMun="BOZANO":
+  cMun=="4302584"
   cMunSIAFI="1128"
-if cMun=="4302600":
-  xMun="BRAGA"
+if xMun="BRAGA":
+  cMun=="4302600"
   cMunSIAFI="8551"
-if cMun=="4302659":
-  xMun="BROCHIER"
+if xMun="BROCHIER":
+  cMun=="4302659"
   cMunSIAFI="8449"
-if cMun=="4302709":
-  xMun="BUTIA"
+if xMun="BUTIA":
+  cMun=="4302709"
   cMunSIAFI="8553"
-if cMun=="4302808":
-  xMun="CACAPAVA DO SUL"
+if xMun="CACAPAVA DO SUL":
+  cMun=="4302808"
   cMunSIAFI="8555"
-if cMun=="4302907":
-  xMun="CACEQUI"
+if xMun="CACEQUI":
+  cMun=="4302907"
   cMunSIAFI="8557"
-if cMun=="4303004":
-  xMun="CACHOEIRA DO SUL"
+if xMun="CACHOEIRA DO SUL":
+  cMun=="4303004"
   cMunSIAFI="8559"
-if cMun=="4303103":
-  xMun="CACHOEIRINHA"
+if xMun="CACHOEIRINHA":
+  cMun=="4303103"
   cMunSIAFI="8561"
-if cMun=="4303202":
-  xMun="CACIQUE DOBLE"
+if xMun="CACIQUE DOBLE":
+  cMun=="4303202"
   cMunSIAFI="8563"
-if cMun=="4303301":
-  xMun="CAIBATE"
+if xMun="CAIBATE":
+  cMun=="4303301"
   cMunSIAFI="8565"
-if cMun=="4303400":
-  xMun="CAICARA"
+if xMun="CAICARA":
+  cMun=="4303400"
   cMunSIAFI="8567"
-if cMun=="4303509":
-  xMun="CAMAQUA"
+if xMun="CAMAQUA":
+  cMun=="4303509"
   cMunSIAFI="8569"
-if cMun=="4303558":
-  xMun="CAMARGO"
+if xMun="CAMARGO":
+  cMun=="4303558"
   cMunSIAFI="8447"
-if cMun=="4303608":
-  xMun="CAMBARA DO SUL"
+if xMun="CAMBARA DO SUL":
+  cMun=="4303608"
   cMunSIAFI="8571"
-if cMun=="4303673":
-  xMun="CAMPESTRE DA SERRA"
+if xMun="CAMPESTRE DA SERRA":
+  cMun=="4303673"
   cMunSIAFI="6013"
-if cMun=="4303707":
-  xMun="CAMPINA DAS MISSÃ•ES"
+if xMun="CAMPINA DAS MISSÃ•ES":
+  cMun=="4303707"
   cMunSIAFI="8573"
-if cMun=="4303806":
-  xMun="CAMPINAS DO SUL"
+if xMun="CAMPINAS DO SUL":
+  cMun=="4303806"
   cMunSIAFI="8575"
-if cMun=="4303905":
-  xMun="CAMPO BOM"
+if xMun="CAMPO BOM":
+  cMun=="4303905"
   cMunSIAFI="8577"
-if cMun=="4304002":
-  xMun="CAMPO NOVO"
+if xMun="CAMPO NOVO":
+  cMun=="4304002"
   cMunSIAFI="8579"
-if cMun=="4304101":
-  xMun="CAMPOS BORGES"
+if xMun="CAMPOS BORGES":
+  cMun=="4304101"
   cMunSIAFI="8445"
-if cMun=="4304200":
-  xMun="CANDELARIA"
+if xMun="CANDELARIA":
+  cMun=="4304200"
   cMunSIAFI="8581"
-if cMun=="4304309":
-  xMun="CANDIDO GODOI"
+if xMun="CANDIDO GODOI":
+  cMun=="4304309"
   cMunSIAFI="8583"
-if cMun=="4304358":
-  xMun="CANDIOTA"
+if xMun="CANDIOTA":
+  cMun=="4304358"
   cMunSIAFI="6083"
-if cMun=="4304408":
-  xMun="CANELA"
+if xMun="CANELA":
+  cMun=="4304408"
   cMunSIAFI="8585"
-if cMun=="4304507":
-  xMun="CANGUCU"
+if xMun="CANGUCU":
+  cMun=="4304507"
   cMunSIAFI="8587"
-if cMun=="4304606":
-  xMun="CANOAS"
+if xMun="CANOAS":
+  cMun=="4304606"
   cMunSIAFI="8589"
-if cMun=="4304614":
-  xMun="CANUDOS DO VALE"
+if xMun="CANUDOS DO VALE":
+  cMun=="4304614"
   cMunSIAFI="1130"
-if cMun=="4304622":
-  xMun="CAPAO BONITO DO SUL"
+if xMun="CAPAO BONITO DO SUL":
+  cMun=="4304622"
   cMunSIAFI="1132"
-if cMun=="4304630":
-  xMun="CAPAO DA CANOA"
+if xMun="CAPAO DA CANOA":
+  cMun=="4304630"
   cMunSIAFI="8915"
-if cMun=="4304655":
-  xMun="CAPAO DO CIPO"
+if xMun="CAPAO DO CIPO":
+  cMun=="4304655"
   cMunSIAFI="1134"
-if cMun=="4304663":
-  xMun="CAPAO DO LEAO"
+if xMun="CAPAO DO LEAO":
+  cMun=="4304663"
   cMunSIAFI="8973"
-if cMun=="4304689":
-  xMun="CAPELA DE SANTANA"
+if xMun="CAPELA DE SANTANA":
+  cMun=="4304689"
   cMunSIAFI="8443"
-if cMun=="4304697":
-  xMun="CAPITAO"
+if xMun="CAPITAO":
+  cMun=="4304697"
   cMunSIAFI="6025"
-if cMun=="4304671":
-  xMun="CAPIVARI DO SUL"
+if xMun="CAPIVARI DO SUL":
+  cMun=="4304671"
   cMunSIAFI="0962"
-if cMun=="4304713":
-  xMun="CARAA"
+if xMun="CARAA":
+  cMun=="4304713"
   cMunSIAFI="0964"
-if cMun=="4304705":
-  xMun="CARAZINHO"
+if xMun="CARAZINHO":
+  cMun=="4304705"
   cMunSIAFI="8591"
-if cMun=="4304804":
-  xMun="CARLOS BARBOSA"
+if xMun="CARLOS BARBOSA":
+  cMun=="4304804"
   cMunSIAFI="8593"
-if cMun=="4304853":
-  xMun="CARLOS GOMES"
+if xMun="CARLOS GOMES":
+  cMun=="4304853"
   cMunSIAFI="5961"
-if cMun=="4304903":
-  xMun="CASCA"
+if xMun="CASCA":
+  cMun=="4304903"
   cMunSIAFI="8595"
-if cMun=="4304952":
-  xMun="CASEIROS"
+if xMun="CASEIROS":
+  cMun=="4304952"
   cMunSIAFI="8441"
-if cMun=="4305009":
-  xMun="CATUIPE"
+if xMun="CATUIPE":
+  cMun=="4305009"
   cMunSIAFI="8597"
-if cMun=="4305108":
-  xMun="CAXIAS DO SUL"
+if xMun="CAXIAS DO SUL":
+  cMun=="4305108"
   cMunSIAFI="8599"
-if cMun=="4305116":
-  xMun="CENTENARIO"
+if xMun="CENTENARIO":
+  cMun=="4305116"
   cMunSIAFI="5963"
-if cMun=="4305124":
-  xMun="CERRITO"
+if xMun="CERRITO":
+  cMun=="4305124"
   cMunSIAFI="0966"
-if cMun=="4305132":
-  xMun="CERRO BRANCO"
+if xMun="CERRO BRANCO":
+  cMun=="4305132"
   cMunSIAFI="8439"
-if cMun=="4305157":
-  xMun="CERRO GRANDE"
+if xMun="CERRO GRANDE":
+  cMun=="4305157"
   cMunSIAFI="8437"
-if cMun=="4305173":
-  xMun="CERRO GRANDE DO SUL"
+if xMun="CERRO GRANDE DO SUL":
+  cMun=="4305173"
   cMunSIAFI="8435"
-if cMun=="4305207":
-  xMun="CERRO LARGO"
+if xMun="CERRO LARGO":
+  cMun=="4305207"
   cMunSIAFI="8601"
-if cMun=="4305306":
-  xMun="CHAPADA"
+if xMun="CHAPADA":
+  cMun=="4305306"
   cMunSIAFI="8603"
-if cMun=="4305355":
-  xMun="CHARQUEADAS"
+if xMun="CHARQUEADAS":
+  cMun=="4305355"
   cMunSIAFI="8693"
-if cMun=="4305371":
-  xMun="CHARRUA"
+if xMun="CHARRUA":
+  cMun=="4305371"
   cMunSIAFI="5965"
-if cMun=="4305405":
-  xMun="CHIAPETTA"
+if xMun="CHIAPETTA":
+  cMun=="4305405"
   cMunSIAFI="8605"
-if cMun=="4305439":
-  xMun="CHUI"
+if xMun="CHUI":
+  cMun=="4305439"
   cMunSIAFI="0968"
-if cMun=="4305447":
-  xMun="CHUVISCA"
+if xMun="CHUVISCA":
+  cMun=="4305447"
   cMunSIAFI="0970"
-if cMun=="4305454":
-  xMun="CIDREIRA"
+if xMun="CIDREIRA":
+  cMun=="4305454"
   cMunSIAFI="8433"
-if cMun=="4305504":
-  xMun="CIRIACO"
+if xMun="CIRIACO":
+  cMun=="4305504"
   cMunSIAFI="8607"
-if cMun=="4305587":
-  xMun="COLINAS"
+if xMun="COLINAS":
+  cMun=="4305587"
   cMunSIAFI="6029"
-if cMun=="4305603":
-  xMun="COLORADO"
+if xMun="COLORADO":
+  cMun=="4305603"
   cMunSIAFI="8609"
-if cMun=="4305702":
-  xMun="CONDOR"
+if xMun="CONDOR":
+  cMun=="4305702"
   cMunSIAFI="8611"
-if cMun=="4305801":
-  xMun="CONSTANTINA"
+if xMun="CONSTANTINA":
+  cMun=="4305801"
   cMunSIAFI="8613"
-if cMun=="4305835":
-  xMun="COQUEIRO BAIXO"
+if xMun="COQUEIRO BAIXO":
+  cMun=="4305835"
   cMunSIAFI="1136"
-if cMun=="4305850":
-  xMun="COQUEIROS DO SUL"
+if xMun="COQUEIROS DO SUL":
+  cMun=="4305850"
   cMunSIAFI="5945"
-if cMun=="4305871":
-  xMun="CORONEL BARROS"
+if xMun="CORONEL BARROS":
+  cMun=="4305871"
   cMunSIAFI="6055"
-if cMun=="4305900":
-  xMun="CORONEL BICACO"
+if xMun="CORONEL BICACO":
+  cMun=="4305900"
   cMunSIAFI="8615"
-if cMun=="4305934":
-  xMun="CORONEL PILAR"
+if xMun="CORONEL PILAR":
+  cMun=="4305934"
   cMunSIAFI="1138"
-if cMun=="4305959":
-  xMun="COTIPORA"
+if xMun="COTIPORA":
+  cMun=="4305959"
   cMunSIAFI="8977"
-if cMun=="4305975":
-  xMun="COXILHA"
+if xMun="COXILHA":
+  cMun=="4305975"
   cMunSIAFI="5797"
-if cMun=="4306007":
-  xMun="CRISSIUMAL"
+if xMun="CRISSIUMAL":
+  cMun=="4306007"
   cMunSIAFI="8617"
-if cMun=="4306056":
-  xMun="CRISTAL"
+if xMun="CRISTAL":
+  cMun=="4306056"
   cMunSIAFI="8431"
-if cMun=="4306072":
-  xMun="CRISTAL DO SUL"
+if xMun="CRISTAL DO SUL":
+  cMun=="4306072"
   cMunSIAFI="0972"
-if cMun=="4306106":
-  xMun="CRUZ ALTA"
+if xMun="CRUZ ALTA":
+  cMun=="4306106"
   cMunSIAFI="8619"
-if cMun=="4306130":
-  xMun="CRUZALTENSE"
+if xMun="CRUZALTENSE":
+  cMun=="4306130"
   cMunSIAFI="1140"
-if cMun=="4306205":
-  xMun="CRUZEIRO DO SUL"
+if xMun="CRUZEIRO DO SUL":
+  cMun=="4306205"
   cMunSIAFI="8621"
-if cMun=="4306304":
-  xMun="DAVID CANABARRO"
+if xMun="DAVID CANABARRO":
+  cMun=="4306304"
   cMunSIAFI="8623"
-if cMun=="4306320":
-  xMun="DERRUBADAS"
+if xMun="DERRUBADAS":
+  cMun=="4306320"
   cMunSIAFI="6073"
-if cMun=="4306353":
-  xMun="DEZESSEIS DE NOVEMBRO"
+if xMun="DEZESSEIS DE NOVEMBRO":
+  cMun=="4306353"
   cMunSIAFI="8429"
-if cMun=="4306379":
-  xMun="DILERMANDO DE AGUIAR"
+if xMun="DILERMANDO DE AGUIAR":
+  cMun=="4306379"
   cMunSIAFI="0974"
-if cMun=="4306403":
-  xMun="DOIS IRMAOS"
+if xMun="DOIS IRMAOS":
+  cMun=="4306403"
   cMunSIAFI="8625"
-if cMun=="4306429":
-  xMun="DOIS IRMAOS DAS MISSÃ•ES"
+if xMun="DOIS IRMAOS DAS MISSÃ•ES":
+  cMun=="4306429"
   cMunSIAFI="5971"
-if cMun=="4306452":
-  xMun="DOIS LAJEADOS"
+if xMun="DOIS LAJEADOS":
+  cMun=="4306452"
   cMunSIAFI="8427"
-if cMun=="4306502":
-  xMun="DOM FELICIANO"
+if xMun="DOM FELICIANO":
+  cMun=="4306502"
   cMunSIAFI="8627"
-if cMun=="4306601":
-  xMun="DOM PEDRITO"
+if xMun="DOM PEDRITO":
+  cMun=="4306601"
   cMunSIAFI="8629"
-if cMun=="4306551":
-  xMun="DOM PEDRO DE ALCANTARA"
+if xMun="DOM PEDRO DE ALCANTARA":
+  cMun=="4306551"
   cMunSIAFI="0976"
-if cMun=="4306700":
-  xMun="DONA FRANCISCA"
+if xMun="DONA FRANCISCA":
+  cMun=="4306700"
   cMunSIAFI="8631"
-if cMun=="4306734":
-  xMun="DOUTOR MAURICIO CARDOSO"
+if xMun="DOUTOR MAURICIO CARDOSO":
+  cMun=="4306734"
   cMunSIAFI="8425"
-if cMun=="4306759":
-  xMun="DOUTOR RICARDO"
+if xMun="DOUTOR RICARDO":
+  cMun=="4306759"
   cMunSIAFI="0978"
-if cMun=="4306767":
-  xMun="ELDORADO DO SUL"
+if xMun="ELDORADO DO SUL":
+  cMun=="4306767"
   cMunSIAFI="8423"
-if cMun=="4306809":
-  xMun="ENCANTADO"
+if xMun="ENCANTADO":
+  cMun=="4306809"
   cMunSIAFI="8633"
-if cMun=="4306908":
-  xMun="ENCRUZILHADA DO SUL"
+if xMun="ENCRUZILHADA DO SUL":
+  cMun=="4306908"
   cMunSIAFI="8635"
-if cMun=="4306924":
-  xMun="ENGENHO VELHO"
+if xMun="ENGENHO VELHO":
+  cMun=="4306924"
   cMunSIAFI="5947"
-if cMun=="4306957":
-  xMun="ENTRE RIOS DO SUL"
+if xMun="ENTRE RIOS DO SUL":
+  cMun=="4306957"
   cMunSIAFI="8421"
-if cMun=="4306932":
-  xMun="ENTRE-IJUIS"
+if xMun="ENTRE-IJUIS":
+  cMun=="4306932"
   cMunSIAFI="8419"
-if cMun=="4306973":
-  xMun="EREBANGO"
+if xMun="EREBANGO":
+  cMun=="4306973"
   cMunSIAFI="8417"
-if cMun=="4307005":
-  xMun="ERECHIM"
+if xMun="ERECHIM":
+  cMun=="4307005"
   cMunSIAFI="8637"
-if cMun=="4307054":
-  xMun="ERNESTINA"
+if xMun="ERNESTINA":
+  cMun=="4307054"
   cMunSIAFI="8415"
-if cMun=="4307203":
-  xMun="ERVAL GRANDE"
+if xMun="ERVAL GRANDE":
+  cMun=="4307203"
   cMunSIAFI="8641"
-if cMun=="4307302":
-  xMun="ERVAL SECO"
+if xMun="ERVAL SECO":
+  cMun=="4307302"
   cMunSIAFI="8643"
-if cMun=="4307401":
-  xMun="ESMERALDA"
+if xMun="ESMERALDA":
+  cMun=="4307401"
   cMunSIAFI="8645"
-if cMun=="4307450":
-  xMun="ESPERANCA DO SUL"
+if xMun="ESPERANCA DO SUL":
+  cMun=="4307450"
   cMunSIAFI="0980"
-if cMun=="4307500":
-  xMun="ESPUMOSO"
+if xMun="ESPUMOSO":
+  cMun=="4307500"
   cMunSIAFI="8647"
-if cMun=="4307559":
-  xMun="ESTACAO"
+if xMun="ESTACAO":
+  cMun=="4307559"
   cMunSIAFI="7301"
-if cMun=="4307609":
-  xMun="ESTANCIA VELHA"
+if xMun="ESTANCIA VELHA":
+  cMun=="4307609"
   cMunSIAFI="8649"
-if cMun=="4307708":
-  xMun="ESTEIO"
+if xMun="ESTEIO":
+  cMun=="4307708"
   cMunSIAFI="8651"
-if cMun=="4307807":
-  xMun="ESTRELA"
+if xMun="ESTRELA":
+  cMun=="4307807"
   cMunSIAFI="8653"
-if cMun=="4307815":
-  xMun="ESTRELA VELHA"
+if xMun="ESTRELA VELHA":
+  cMun=="4307815"
   cMunSIAFI="0982"
-if cMun=="4307831":
-  xMun="EUGÃŠNIO DE CASTRO"
+if xMun="EUGÃŠNIO DE CASTRO":
+  cMun=="4307831"
   cMunSIAFI="8413"
-if cMun=="4307864":
-  xMun="FAGUNDES VARELA"
+if xMun="FAGUNDES VARELA":
+  cMun=="4307864"
   cMunSIAFI="8411"
-if cMun=="4307906":
-  xMun="FARROUPILHA"
+if xMun="FARROUPILHA":
+  cMun=="4307906"
   cMunSIAFI="8655"
-if cMun=="4308003":
-  xMun="FAXINAL DO SOTURNO"
+if xMun="FAXINAL DO SOTURNO":
+  cMun=="4308003"
   cMunSIAFI="8657"
-if cMun=="4308052":
-  xMun="FAXINALZINHO"
+if xMun="FAXINALZINHO":
+  cMun=="4308052"
   cMunSIAFI="8409"
-if cMun=="4308078":
-  xMun="FAZENDA VILANOVA"
+if xMun="FAZENDA VILANOVA":
+  cMun=="4308078"
   cMunSIAFI="0984"
-if cMun=="4308102":
-  xMun="FELIZ"
+if xMun="FELIZ":
+  cMun=="4308102"
   cMunSIAFI="8659"
-if cMun=="4308201":
-  xMun="FLORES DA CUNHA"
+if xMun="FLORES DA CUNHA":
+  cMun=="4308201"
   cMunSIAFI="8661"
-if cMun=="4308250":
-  xMun="FLORIANO PEIXOTO"
+if xMun="FLORIANO PEIXOTO":
+  cMun=="4308250"
   cMunSIAFI="0986"
-if cMun=="4308300":
-  xMun="FONTOURA XAVIER"
+if xMun="FONTOURA XAVIER":
+  cMun=="4308300"
   cMunSIAFI="8663"
-if cMun=="4308409":
-  xMun="FORMIGUEIRO"
+if xMun="FORMIGUEIRO":
+  cMun=="4308409"
   cMunSIAFI="8665"
-if cMun=="4308433":
-  xMun="FORQUETINHA"
+if xMun="FORQUETINHA":
+  cMun=="4308433"
   cMunSIAFI="1142"
-if cMun=="4308458":
-  xMun="FORTALEZA DOS VALOS"
+if xMun="FORTALEZA DOS VALOS":
+  cMun=="4308458"
   cMunSIAFI="9827"
-if cMun=="4308508":
-  xMun="FREDERICO WESTPHALEN"
+if xMun="FREDERICO WESTPHALEN":
+  cMun=="4308508"
   cMunSIAFI="8667"
-if cMun=="4308607":
-  xMun="GARIBALDI"
+if xMun="GARIBALDI":
+  cMun=="4308607"
   cMunSIAFI="8669"
-if cMun=="4308656":
-  xMun="GARRUCHOS"
+if xMun="GARRUCHOS":
+  cMun=="4308656"
   cMunSIAFI="6081"
-if cMun=="4308706":
-  xMun="GAURAMA"
+if xMun="GAURAMA":
+  cMun=="4308706"
   cMunSIAFI="8671"
-if cMun=="4308805":
-  xMun="GENERAL CAMARA"
+if xMun="GENERAL CAMARA":
+  cMun=="4308805"
   cMunSIAFI="8673"
-if cMun=="4308854":
-  xMun="GENTIL"
+if xMun="GENTIL":
+  cMun=="4308854"
   cMunSIAFI="5799"
-if cMun=="4308904":
-  xMun="GETULIO VARGAS"
+if xMun="GETULIO VARGAS":
+  cMun=="4308904"
   cMunSIAFI="8677"
-if cMun=="4309001":
-  xMun="GIRUA"
+if xMun="GIRUA":
+  cMun=="4309001"
   cMunSIAFI="8679"
-if cMun=="4309050":
-  xMun="GLORINHA"
+if xMun="GLORINHA":
+  cMun=="4309050"
   cMunSIAFI="8407"
-if cMun=="4309100":
-  xMun="GRAMADO"
+if xMun="GRAMADO":
+  cMun=="4309100"
   cMunSIAFI="8681"
-if cMun=="4309126":
-  xMun="GRAMADO DOS LOUREIROS"
+if xMun="GRAMADO DOS LOUREIROS":
+  cMun=="4309126"
   cMunSIAFI="5949"
-if cMun=="4309159":
-  xMun="GRAMADO XAVIER"
+if xMun="GRAMADO XAVIER":
+  cMun=="4309159"
   cMunSIAFI="5763"
-if cMun=="4309209":
-  xMun="GRAVATAI"
+if xMun="GRAVATAI":
+  cMun=="4309209"
   cMunSIAFI="8683"
-if cMun=="4309258":
-  xMun="GUABIJU"
+if xMun="GUABIJU":
+  cMun=="4309258"
   cMunSIAFI="8405"
-if cMun=="4309308":
-  xMun="GUAIBA"
+if xMun="GUAIBA":
+  cMun=="4309308"
   cMunSIAFI="8685"
-if cMun=="4309407":
-  xMun="GUAPORE"
+if xMun="GUAPORE":
+  cMun=="4309407"
   cMunSIAFI="8687"
-if cMun=="4309506":
-  xMun="GUARANI DAS MISSÃ•ES"
+if xMun="GUARANI DAS MISSÃ•ES":
+  cMun=="4309506"
   cMunSIAFI="8689"
-if cMun=="4309555":
-  xMun="HARMONIA"
+if xMun="HARMONIA":
+  cMun=="4309555"
   cMunSIAFI="8403"
-if cMun=="4307104":
-  xMun="HERVAL"
+if xMun="HERVAL":
+  cMun=="4307104"
   cMunSIAFI="8639"
-if cMun=="4309571":
-  xMun="HERVEIRAS"
+if xMun="HERVEIRAS":
+  cMun=="4309571"
   cMunSIAFI="0988"
-if cMun=="4309605":
-  xMun="HORIZONTINA"
+if xMun="HORIZONTINA":
+  cMun=="4309605"
   cMunSIAFI="8691"
-if cMun=="4309654":
-  xMun="HULHA NEGRA"
+if xMun="HULHA NEGRA":
+  cMun=="4309654"
   cMunSIAFI="6085"
-if cMun=="4309704":
-  xMun="HUMAITA"
+if xMun="HUMAITA":
+  cMun=="4309704"
   cMunSIAFI="8695"
-if cMun=="4309753":
-  xMun="IBARAMA"
+if xMun="IBARAMA":
+  cMun=="4309753"
   cMunSIAFI="8401"
-if cMun=="4309803":
-  xMun="IBIACA"
+if xMun="IBIACA":
+  cMun=="4309803"
   cMunSIAFI="8697"
-if cMun=="4309902":
-  xMun="IBIRAIARAS"
+if xMun="IBIRAIARAS":
+  cMun=="4309902"
   cMunSIAFI="8699"
-if cMun=="4309951":
-  xMun="IBIRAPUITA"
+if xMun="IBIRAPUITA":
+  cMun=="4309951"
   cMunSIAFI="7299"
-if cMun=="4310009":
-  xMun="IBIRUBA"
+if xMun="IBIRUBA":
+  cMun=="4310009"
   cMunSIAFI="8701"
-if cMun=="4310108":
-  xMun="IGREJINHA"
+if xMun="IGREJINHA":
+  cMun=="4310108"
   cMunSIAFI="8703"
-if cMun=="4310207":
-  xMun="IJUI"
+if xMun="IJUI":
+  cMun=="4310207"
   cMunSIAFI="8705"
-if cMun=="4310306":
-  xMun="ILOPOLIS"
+if xMun="ILOPOLIS":
+  cMun=="4310306"
   cMunSIAFI="8707"
-if cMun=="4310330":
-  xMun="IMBE"
+if xMun="IMBE":
+  cMun=="4310330"
   cMunSIAFI="7297"
-if cMun=="4310363":
-  xMun="IMIGRANTE"
+if xMun="IMIGRANTE":
+  cMun=="4310363"
   cMunSIAFI="7295"
-if cMun=="4310405":
-  xMun="INDEPENDÃŠNCIA"
+if xMun="INDEPENDÃŠNCIA":
+  cMun=="4310405"
   cMunSIAFI="8709"
-if cMun=="4310413":
-  xMun="INHACORA"
+if xMun="INHACORA":
+  cMun=="4310413"
   cMunSIAFI="6051"
-if cMun=="4310439":
-  xMun="IPÃŠ"
+if xMun="IPÃŠ":
+  cMun=="4310439"
   cMunSIAFI="8399"
-if cMun=="4310462":
-  xMun="IPIRANGA DO SUL"
+if xMun="IPIRANGA DO SUL":
+  cMun=="4310462"
   cMunSIAFI="7399"
-if cMun=="4310504":
-  xMun="IRAI"
+if xMun="IRAI":
+  cMun=="4310504"
   cMunSIAFI="8711"
-if cMun=="4310538":
-  xMun="ITAARA"
+if xMun="ITAARA":
+  cMun=="4310538"
   cMunSIAFI="0990"
-if cMun=="4310553":
-  xMun="ITACURUBI"
+if xMun="ITACURUBI":
+  cMun=="4310553"
   cMunSIAFI="7397"
-if cMun=="4310579":
-  xMun="ITAPUCA"
+if xMun="ITAPUCA":
+  cMun=="4310579"
   cMunSIAFI="6027"
-if cMun=="4310603":
-  xMun="ITAQUI"
+if xMun="ITAQUI":
+  cMun=="4310603"
   cMunSIAFI="8713"
-if cMun=="4310652":
-  xMun="ITATI"
+if xMun="ITATI":
+  cMun=="4310652"
   cMunSIAFI="1144"
-if cMun=="4310702":
-  xMun="ITATIBA DO SUL"
+if xMun="ITATIBA DO SUL":
+  cMun=="4310702"
   cMunSIAFI="8715"
-if cMun=="4310751":
-  xMun="IVORA"
+if xMun="IVORA":
+  cMun=="4310751"
   cMunSIAFI="7395"
-if cMun=="4310801":
-  xMun="IVOTI"
+if xMun="IVOTI":
+  cMun=="4310801"
   cMunSIAFI="8717"
-if cMun=="4310850":
-  xMun="JABOTICABA"
+if xMun="JABOTICABA":
+  cMun=="4310850"
   cMunSIAFI="7393"
-if cMun=="4310876":
-  xMun="JACUIZINHO"
+if xMun="JACUIZINHO":
+  cMun=="4310876"
   cMunSIAFI="1146"
-if cMun=="4310900":
-  xMun="JACUTINGA"
+if xMun="JACUTINGA":
+  cMun=="4310900"
   cMunSIAFI="8719"
-if cMun=="4311007":
-  xMun="JAGUARAO"
+if xMun="JAGUARAO":
+  cMun=="4311007"
   cMunSIAFI="8721"
-if cMun=="4311106":
-  xMun="JAGUARI"
+if xMun="JAGUARI":
+  cMun=="4311106"
   cMunSIAFI="8723"
-if cMun=="4311122":
-  xMun="JAQUIRANA"
+if xMun="JAQUIRANA":
+  cMun=="4311122"
   cMunSIAFI="7391"
-if cMun=="4311130":
-  xMun="JARI"
+if xMun="JARI":
+  cMun=="4311130"
   cMunSIAFI="0992"
-if cMun=="4311155":
-  xMun="JOIA"
+if xMun="JOIA":
+  cMun=="4311155"
   cMunSIAFI="9829"
-if cMun=="4311205":
-  xMun="JULIO DE CASTILHOS"
+if xMun="JULIO DE CASTILHOS":
+  cMun=="4311205"
   cMunSIAFI="8725"
-if cMun=="4311239":
-  xMun="LAGOA BONITA DO SUL"
+if xMun="LAGOA BONITA DO SUL":
+  cMun=="4311239"
   cMunSIAFI="1148"
-if cMun=="4311270":
-  xMun="LAGOA DOS TRÃŠS CANTOS"
+if xMun="LAGOA DOS TRÃŠS CANTOS":
+  cMun=="4311270"
   cMunSIAFI="5951"
-if cMun=="4311304":
-  xMun="LAGOA VERMELHA"
+if xMun="LAGOA VERMELHA":
+  cMun=="4311304"
   cMunSIAFI="8727"
-if cMun=="4311254":
-  xMun="LAGOAO"
+if xMun="LAGOAO":
+  cMun=="4311254"
   cMunSIAFI="7389"
-if cMun=="4311403":
-  xMun="LAJEADO"
+if xMun="LAJEADO":
+  cMun=="4311403"
   cMunSIAFI="8729"
-if cMun=="4311429":
-  xMun="LAJEADO DO BUGRE"
+if xMun="LAJEADO DO BUGRE":
+  cMun=="4311429"
   cMunSIAFI="5983"
-if cMun=="4311502":
-  xMun="LAVRAS DO SUL"
+if xMun="LAVRAS DO SUL":
+  cMun=="4311502"
   cMunSIAFI="8731"
-if cMun=="4311601":
-  xMun="LIBERATO SALZANO"
+if xMun="LIBERATO SALZANO":
+  cMun=="4311601"
   cMunSIAFI="8733"
-if cMun=="4311627":
-  xMun="LINDOLFO COLLOR"
+if xMun="LINDOLFO COLLOR":
+  cMun=="4311627"
   cMunSIAFI="6017"
-if cMun=="4311643":
-  xMun="LINHA NOVA"
+if xMun="LINHA NOVA":
+  cMun=="4311643"
   cMunSIAFI="6047"
-if cMun=="4311718":
-  xMun="MACAMBARA"
+if xMun="MACAMBARA":
+  cMun=="4311718"
   cMunSIAFI="0994"
-if cMun=="4311700":
-  xMun="MACHADINHO"
+if xMun="MACHADINHO":
+  cMun=="4311700"
   cMunSIAFI="8735"
-if cMun=="4311734":
-  xMun="MAMPITUBA"
+if xMun="MAMPITUBA":
+  cMun=="4311734"
   cMunSIAFI="0996"
-if cMun=="4311759":
-  xMun="MANOEL VIANA"
+if xMun="MANOEL VIANA":
+  cMun=="4311759"
   cMunSIAFI="6079"
-if cMun=="4311775":
-  xMun="MAQUINE"
+if xMun="MAQUINE":
+  cMun=="4311775"
   cMunSIAFI="5783"
-if cMun=="4311791":
-  xMun="MARATA"
+if xMun="MARATA":
+  cMun=="4311791"
   cMunSIAFI="6039"
-if cMun=="4311809":
-  xMun="MARAU"
+if xMun="MARAU":
+  cMun=="4311809"
   cMunSIAFI="8737"
-if cMun=="4311908":
-  xMun="MARCELINO RAMOS"
+if xMun="MARCELINO RAMOS":
+  cMun=="4311908"
   cMunSIAFI="8739"
-if cMun=="4311981":
-  xMun="MARIANA PIMENTEL"
+if xMun="MARIANA PIMENTEL":
+  cMun=="4311981"
   cMunSIAFI="5759"
-if cMun=="4312005":
-  xMun="MARIANO MORO"
+if xMun="MARIANO MORO":
+  cMun=="4312005"
   cMunSIAFI="8741"
-if cMun=="4312054":
-  xMun="MARQUES DE SOUZA"
+if xMun="MARQUES DE SOUZA":
+  cMun=="4312054"
   cMunSIAFI="0998"
-if cMun=="4312104":
-  xMun="MATA"
+if xMun="MATA":
+  cMun=="4312104"
   cMunSIAFI="8743"
-if cMun=="4312138":
-  xMun="MATO CASTELHANO"
+if xMun="MATO CASTELHANO":
+  cMun=="4312138"
   cMunSIAFI="5931"
-if cMun=="4312153":
-  xMun="MATO LEITAO"
+if xMun="MATO LEITAO":
+  cMun=="4312153"
   cMunSIAFI="6031"
-if cMun=="4312179":
-  xMun="MATO QUEIMADO"
+if xMun="MATO QUEIMADO":
+  cMun=="4312179"
   cMunSIAFI="1150"
-if cMun=="4312203":
-  xMun="MAXIMILIANO DE ALMEIDA"
+if xMun="MAXIMILIANO DE ALMEIDA":
+  cMun=="4312203"
   cMunSIAFI="8745"
-if cMun=="4312252":
-  xMun="MINAS DO LEAO"
+if xMun="MINAS DO LEAO":
+  cMun=="4312252"
   cMunSIAFI="5773"
-if cMun=="4312302":
-  xMun="MIRAGUAI"
+if xMun="MIRAGUAI":
+  cMun=="4312302"
   cMunSIAFI="8747"
-if cMun=="4312351":
-  xMun="MONTAURI"
+if xMun="MONTAURI":
+  cMun=="4312351"
   cMunSIAFI="7387"
-if cMun=="4312377":
-  xMun="MONTE ALEGRE DOS CAMPOS"
+if xMun="MONTE ALEGRE DOS CAMPOS":
+  cMun=="4312377"
   cMunSIAFI="1000"
-if cMun=="4312385":
-  xMun="MONTE BELO DO SUL"
+if xMun="MONTE BELO DO SUL":
+  cMun=="4312385"
   cMunSIAFI="5993"
-if cMun=="4312401":
-  xMun="MONTENEGRO"
+if xMun="MONTENEGRO":
+  cMun=="4312401"
   cMunSIAFI="8749"
-if cMun=="4312427":
-  xMun="MORMACO"
+if xMun="MORMACO":
+  cMun=="4312427"
   cMunSIAFI="5933"
-if cMun=="4312443":
-  xMun="MORRINHOS DO SUL"
+if xMun="MORRINHOS DO SUL":
+  cMun=="4312443"
   cMunSIAFI="5775"
-if cMun=="4312450":
-  xMun="MORRO REDONDO"
+if xMun="MORRO REDONDO":
+  cMun=="4312450"
   cMunSIAFI="7385"
-if cMun=="4312476":
-  xMun="MORRO REUTER"
+if xMun="MORRO REUTER":
+  cMun=="4312476"
   cMunSIAFI="6019"
-if cMun=="4312500":
-  xMun="MOSTARDAS"
+if xMun="MOSTARDAS":
+  cMun=="4312500"
   cMunSIAFI="8751"
-if cMun=="4312609":
-  xMun="MUCUM"
+if xMun="MUCUM":
+  cMun=="4312609"
   cMunSIAFI="8753"
-if cMun=="4312617":
-  xMun="MUITOS CAPÃ•ES"
+if xMun="MUITOS CAPÃ•ES":
+  cMun=="4312617"
   cMunSIAFI="1002"
-if cMun=="4312625":
-  xMun="MULITERNO"
+if xMun="MULITERNO":
+  cMun=="4312625"
   cMunSIAFI="5935"
-if cMun=="4312658":
-  xMun="NAO-ME-TOQUE"
+if xMun="NAO-ME-TOQUE":
+  cMun=="4312658"
   cMunSIAFI="8755"
-if cMun=="4312674":
-  xMun="NICOLAU VERGUEIRO"
+if xMun="NICOLAU VERGUEIRO":
+  cMun=="4312674"
   cMunSIAFI="5937"
-if cMun=="4312708":
-  xMun="NONOAI"
+if xMun="NONOAI":
+  cMun=="4312708"
   cMunSIAFI="8757"
-if cMun=="4312757":
-  xMun="NOVA ALVORADA"
+if xMun="NOVA ALVORADA":
+  cMun=="4312757"
   cMunSIAFI="7383"
-if cMun=="4312807":
-  xMun="NOVA ARACA"
+if xMun="NOVA ARACA":
+  cMun=="4312807"
   cMunSIAFI="8759"
-if cMun=="4312906":
-  xMun="NOVA BASSANO"
+if xMun="NOVA BASSANO":
+  cMun=="4312906"
   cMunSIAFI="8761"
-if cMun=="4312955":
-  xMun="NOVA BOA VISTA"
+if xMun="NOVA BOA VISTA":
+  cMun=="4312955"
   cMunSIAFI="5953"
-if cMun=="4313003":
-  xMun="NOVA BRESCIA"
+if xMun="NOVA BRESCIA":
+  cMun=="4313003"
   cMunSIAFI="8763"
-if cMun=="4313011":
-  xMun="NOVA CANDELARIA"
+if xMun="NOVA CANDELARIA":
+  cMun=="4313011"
   cMunSIAFI="1004"
-if cMun=="4313037":
-  xMun="NOVA ESPERANCA DO SUL"
+if xMun="NOVA ESPERANCA DO SUL":
+  cMun=="4313037"
   cMunSIAFI="7381"
-if cMun=="4313060":
-  xMun="NOVA HARTZ"
+if xMun="NOVA HARTZ":
+  cMun=="4313060"
   cMunSIAFI="7379"
-if cMun=="4313086":
-  xMun="NOVA PADUA"
+if xMun="NOVA PADUA":
+  cMun=="4313086"
   cMunSIAFI="5991"
-if cMun=="4313102":
-  xMun="NOVA PALMA"
+if xMun="NOVA PALMA":
+  cMun=="4313102"
   cMunSIAFI="8765"
-if cMun=="4313201":
-  xMun="NOVA PETROPOLIS"
+if xMun="NOVA PETROPOLIS":
+  cMun=="4313201"
   cMunSIAFI="8767"
-if cMun=="4313300":
-  xMun="NOVA PRATA"
+if xMun="NOVA PRATA":
+  cMun=="4313300"
   cMunSIAFI="8769"
-if cMun=="4313334":
-  xMun="NOVA RAMADA"
+if xMun="NOVA RAMADA":
+  cMun=="4313334"
   cMunSIAFI="1006"
-if cMun=="4313359":
-  xMun="NOVA ROMA DO SUL"
+if xMun="NOVA ROMA DO SUL":
+  cMun=="4313359"
   cMunSIAFI="7377"
-if cMun=="4313375":
-  xMun="NOVA SANTA RITA"
+if xMun="NOVA SANTA RITA":
+  cMun=="4313375"
   cMunSIAFI="5757"
-if cMun=="4313490":
-  xMun="NOVO BARREIRO"
+if xMun="NOVO BARREIRO":
+  cMun=="4313490"
   cMunSIAFI="5985"
-if cMun=="4313391":
-  xMun="NOVO CABRAIS"
+if xMun="NOVO CABRAIS":
+  cMun=="4313391"
   cMunSIAFI="1008"
-if cMun=="4313409":
-  xMun="NOVO HAMBURGO"
+if xMun="NOVO HAMBURGO":
+  cMun=="4313409"
   cMunSIAFI="8771"
-if cMun=="4313425":
-  xMun="NOVO MACHADO"
+if xMun="NOVO MACHADO":
+  cMun=="4313425"
   cMunSIAFI="6057"
-if cMun=="4313441":
-  xMun="NOVO TIRADENTES"
+if xMun="NOVO TIRADENTES":
+  cMun=="4313441"
   cMunSIAFI="5973"
-if cMun=="4313466":
-  xMun="NOVO XINGU"
+if xMun="NOVO XINGU":
+  cMun=="4313466"
   cMunSIAFI="1152"
-if cMun=="4313508":
-  xMun="OSORIO"
+if xMun="OSORIO":
+  cMun=="4313508"
   cMunSIAFI="8773"
-if cMun=="4313607":
-  xMun="PAIM FILHO"
+if xMun="PAIM FILHO":
+  cMun=="4313607"
   cMunSIAFI="8775"
-if cMun=="4313656":
-  xMun="PALMARES DO SUL"
+if xMun="PALMARES DO SUL":
+  cMun=="4313656"
   cMunSIAFI="8967"
-if cMun=="4313706":
-  xMun="PALMEIRA DAS MISSÃ•ES"
+if xMun="PALMEIRA DAS MISSÃ•ES":
+  cMun=="4313706"
   cMunSIAFI="8777"
-if cMun=="4313805":
-  xMun="PALMITINHO"
+if xMun="PALMITINHO":
+  cMun=="4313805"
   cMunSIAFI="8779"
-if cMun=="4313904":
-  xMun="PANAMBI"
+if xMun="PANAMBI":
+  cMun=="4313904"
   cMunSIAFI="8781"
-if cMun=="4313953":
-  xMun="PANTANO GRANDE"
+if xMun="PANTANO GRANDE":
+  cMun=="4313953"
   cMunSIAFI="7375"
-if cMun=="4314001":
-  xMun="PARAI"
+if xMun="PARAI":
+  cMun=="4314001"
   cMunSIAFI="8783"
-if cMun=="4314027":
-  xMun="PARAISO DO SUL"
+if xMun="PARAISO DO SUL":
+  cMun=="4314027"
   cMunSIAFI="7373"
-if cMun=="4314035":
-  xMun="PARECI NOVO"
+if xMun="PARECI NOVO":
+  cMun=="4314035"
   cMunSIAFI="6041"
-if cMun=="4314050":
-  xMun="PAROBE"
+if xMun="PAROBE":
+  cMun=="4314050"
   cMunSIAFI="9825"
-if cMun=="4314068":
-  xMun="PASSA SETE"
+if xMun="PASSA SETE":
+  cMun=="4314068"
   cMunSIAFI="1010"
-if cMun=="4314076":
-  xMun="PASSO DO SOBRADO"
+if xMun="PASSO DO SOBRADO":
+  cMun=="4314076"
   cMunSIAFI="5765"
-if cMun=="4314100":
-  xMun="PASSO FUNDO"
+if xMun="PASSO FUNDO":
+  cMun=="4314100"
   cMunSIAFI="8785"
-if cMun=="4314134":
-  xMun="PAULO BENTO"
+if xMun="PAULO BENTO":
+  cMun=="4314134"
   cMunSIAFI="1154"
-if cMun=="4314159":
-  xMun="PAVERAMA"
+if xMun="PAVERAMA":
+  cMun=="4314159"
   cMunSIAFI="7371"
-if cMun=="4314175":
-  xMun="PEDRAS ALTAS"
+if xMun="PEDRAS ALTAS":
+  cMun=="4314175"
   cMunSIAFI="1156"
-if cMun=="4314209":
-  xMun="PEDRO OSORIO"
+if xMun="PEDRO OSORIO":
+  cMun=="4314209"
   cMunSIAFI="8787"
-if cMun=="4314308":
-  xMun="PEJUCARA"
+if xMun="PEJUCARA":
+  cMun=="4314308"
   cMunSIAFI="8789"
-if cMun=="4314407":
-  xMun="PELOTAS"
+if xMun="PELOTAS":
+  cMun=="4314407"
   cMunSIAFI="8791"
-if cMun=="4314423":
-  xMun="PICADA CAFE"
+if xMun="PICADA CAFE":
+  cMun=="4314423"
   cMunSIAFI="6021"
-if cMun=="4314456":
-  xMun="PINHAL"
+if xMun="PINHAL":
+  cMun=="4314456"
   cMunSIAFI="7369"
-if cMun=="4314464":
-  xMun="PINHAL DA SERRA"
+if xMun="PINHAL DA SERRA":
+  cMun=="4314464"
   cMunSIAFI="1158"
-if cMun=="4314472":
-  xMun="PINHAL GRANDE"
+if xMun="PINHAL GRANDE":
+  cMun=="4314472"
   cMunSIAFI="5787"
-if cMun=="4314498":
-  xMun="PINHEIRINHO DO VALE"
+if xMun="PINHEIRINHO DO VALE":
+  cMun=="4314498"
   cMunSIAFI="5975"
-if cMun=="4314506":
-  xMun="PINHEIRO MACHADO"
+if xMun="PINHEIRO MACHADO":
+  cMun=="4314506"
   cMunSIAFI="8793"
-if cMun=="":
-  xMun="PINTO BANDEIRA"
-  cMunSIAFI="1160"
-if cMun=="4314555":
-  xMun="PIRAPO"
-  cMunSIAFI="7367"
-if cMun=="4314605":
-  xMun="PIRATINI"
+if ifTO BANDEIRA"
+  :cM nSIAFI="1160"  Mun=="":
+  xMuniif xMun="PIRAPO"
+  cMun:== 4314555":
+  cMuSIAFI="7367"
+if xMun="PIRATINI":
+  cMun=="4314605"
   cMunSIAFI="8795"
-if cMun=="4314704":
-  xMun="PLANALTO"
+if xMun="PLANALTO":
+  cMun=="4314704"
   cMunSIAFI="8797"
-if cMun=="4314753":
-  xMun="POCO DAS ANTAS"
+if xMun="POCO DAS ANTAS":
+  cMun=="4314753"
   cMunSIAFI="7365"
-if cMun=="4314779":
-  xMun="PONTAO"
+if xMun="PONTAO":
+  cMun=="4314779"
   cMunSIAFI="5939"
-if cMun=="4314787":
-  xMun="PONTE PRETA"
+if xMun="PONTE PRETA":
+  cMun=="4314787"
   cMunSIAFI="5967"
-if cMun=="4314803":
-  xMun="PORTAO"
+if xMun="PORTAO":
+  cMun=="4314803"
   cMunSIAFI="8799"
-if cMun=="4314902":
-  xMun="PORTO ALEGRE"
+if xMun="PORTO ALEGRE":
+  cMun=="4314902"
   cMunSIAFI="8801"
-if cMun=="4315008":
-  xMun="PORTO LUCENA"
+if xMun="PORTO LUCENA":
+  cMun=="4315008"
   cMunSIAFI="8803"
-if cMun=="4315057":
-  xMun="PORTO MAUA"
+if xMun="PORTO MAUA":
+  cMun=="4315057"
   cMunSIAFI="6065"
-if cMun=="4315073":
-  xMun="PORTO VERA CRUZ"
+if xMun="PORTO VERA CRUZ":
+  cMun=="4315073"
   cMunSIAFI="6067"
-if cMun=="4315107":
-  xMun="PORTO XAVIER"
+if xMun="PORTO XAVIER":
+  cMun=="4315107"
   cMunSIAFI="8805"
-if cMun=="4315131":
-  xMun="POUSO NOVO"
+if xMun="POUSO NOVO":
+  cMun=="4315131"
   cMunSIAFI="7363"
-if cMun=="4315149":
-  xMun="PRESIDENTE LUCENA"
+if xMun="PRESIDENTE LUCENA":
+  cMun=="4315149"
   cMunSIAFI="6023"
-if cMun=="4315156":
-  xMun="PROGRESSO"
+if xMun="PROGRESSO":
+  cMun=="4315156"
   cMunSIAFI="7361"
-if cMun=="4315172":
-  xMun="PROTASIO ALVES"
+if xMun="PROTASIO ALVES":
+  cMun=="4315172"
   cMunSIAFI="7359"
-if cMun=="4315206":
-  xMun="PUTINGA"
+if xMun="PUTINGA":
+  cMun=="4315206"
   cMunSIAFI="8807"
-if cMun=="4315305":
-  xMun="QUARAI"
+if xMun="QUARAI":
+  cMun=="4315305"
   cMunSIAFI="8809"
-if cMun=="4315313":
-  xMun="QUATRO IRMAOS"
+if xMun="QUATRO IRMAOS":
+  cMun=="4315313"
   cMunSIAFI="1162"
-if cMun=="4315321":
-  xMun="QUEVEDOS"
+if xMun="QUEVEDOS":
+  cMun=="4315321"
   cMunSIAFI="5789"
-if cMun=="4315354":
-  xMun="QUINZE DE NOVEMBRO"
+if xMun="QUINZE DE NOVEMBRO":
+  cMun=="4315354"
   cMunSIAFI="7357"
-if cMun=="4315404":
-  xMun="REDENTORA"
+if xMun="REDENTORA":
+  cMun=="4315404"
   cMunSIAFI="8811"
-if cMun=="4315453":
-  xMun="RELVADO"
+if xMun="RELVADO":
+  cMun=="4315453"
   cMunSIAFI="7355"
-if cMun=="4315503":
-  xMun="RESTINGA SECA"
+if xMun="RESTINGA SECA":
+  cMun=="4315503"
   cMunSIAFI="8813"
-if cMun=="4315552":
-  xMun="RIO DOS INDIOS"
+if xMun="RIO DOS INDIOS":
+  cMun=="4315552"
   cMunSIAFI="5955"
-if cMun=="4315602":
-  xMun="RIO GRANDE"
+if xMun="RIO GRANDE":
+  cMun=="4315602"
   cMunSIAFI="8815"
-if cMun=="4315701":
-  xMun="RIO PARDO"
+if xMun="RIO PARDO":
+  cMun=="4315701"
   cMunSIAFI="8817"
-if cMun=="4315750":
-  xMun="RIOZINHO"
+if xMun="RIOZINHO":
+  cMun=="4315750"
   cMunSIAFI="7353"
-if cMun=="4315800":
-  xMun="ROCA SALES"
+if xMun="ROCA SALES":
+  cMun=="4315800"
   cMunSIAFI="8819"
-if cMun=="4315909":
-  xMun="RODEIO BONITO"
+if xMun="RODEIO BONITO":
+  cMun=="4315909"
   cMunSIAFI="8821"
-if cMun=="4315958":
-  xMun="ROLADOR"
+if xMun="ROLADOR":
+  cMun=="4315958"
   cMunSIAFI="1164"
-if cMun=="4316006":
-  xMun="ROLANTE"
+if xMun="ROLANTE":
+  cMun=="4316006"
   cMunSIAFI="8823"
-if cMun=="4316105":
-  xMun="RONDA ALTA"
+if xMun="RONDA ALTA":
+  cMun=="4316105"
   cMunSIAFI="8825"
-if cMun=="4316204":
-  xMun="RONDINHA"
+if xMun="RONDINHA":
+  cMun=="4316204"
   cMunSIAFI="8827"
-if cMun=="4316303":
-  xMun="ROQUE GONZALES"
+if xMun="ROQUE GONZALES":
+  cMun=="4316303"
   cMunSIAFI="8829"
-if cMun=="4316402":
-  xMun="ROSARIO DO SUL"
+if xMun="ROSARIO DO SUL":
+  cMun=="4316402"
   cMunSIAFI="8831"
-if cMun=="4316428":
-  xMun="SAGRADA FAMILIA"
+if xMun="SAGRADA FAMILIA":
+  cMun=="4316428"
   cMunSIAFI="5987"
-if cMun=="4316436":
-  xMun="SALDANHA MARINHO"
+if xMun="SALDANHA MARINHO":
+  cMun=="4316436"
   cMunSIAFI="7339"
-if cMun=="4316451":
-  xMun="SALTO DO JACUI"
+if xMun="SALTO DO JACUI":
+  cMun=="4316451"
   cMunSIAFI="8975"
-if cMun=="4316477":
-  xMun="SALVADOR DAS MISSÃ•ES"
+if xMun="SALVADOR DAS MISSÃ•ES":
+  cMun=="4316477"
   cMunSIAFI="6061"
-if cMun=="4316501":
-  xMun="SALVADOR DO SUL"
+if xMun="SALVADOR DO SUL":
+  cMun=="4316501"
   cMunSIAFI="8833"
-if cMun=="4316600":
-  xMun="SANANDUVA"
+if xMun="SANANDUVA":
+  cMun=="4316600"
   cMunSIAFI="8835"
-if cMun=="4316709":
-  xMun="SANTA BARBARA DO SUL"
+if xMun="SANTA BARBARA DO SUL":
+  cMun=="4316709"
   cMunSIAFI="8837"
-if cMun=="4316733":
-  xMun="SANTA CECILIA DO SUL"
+if xMun="SANTA CECILIA DO SUL":
+  cMun=="4316733"
   cMunSIAFI="1166"
-if cMun=="4316758":
-  xMun="SANTA CLARA DO SUL"
+if xMun="SANTA CLARA DO SUL":
+  cMun=="4316758"
   cMunSIAFI="6033"
-if cMun=="4316808":
-  xMun="SANTA CRUZ DO SUL"
+if xMun="SANTA CRUZ DO SUL":
+  cMun=="4316808"
   cMunSIAFI="8839"
-if cMun=="4316972":
-  xMun="SANTA MARGARIDA DO SUL"
+if xMun="SANTA MARGARIDA DO SUL":
+  cMun=="4316972"
   cMunSIAFI="1168"
-if cMun=="4316907":
-  xMun="SANTA MARIA"
+if xMun="SANTA MARIA":
+  cMun=="4316907"
   cMunSIAFI="8841"
-if cMun=="4316956":
-  xMun="SANTA MARIA DO HERVAL"
+if xMun="SANTA MARIA DO HERVAL":
+  cMun=="4316956"
   cMunSIAFI="7337"
-if cMun=="4317202":
-  xMun="SANTA ROSA"
+if xMun="SANTA ROSA":
+  cMun=="4317202"
   cMunSIAFI="8847"
-if cMun=="4317251":
-  xMun="SANTA TEREZA"
+if xMun="SANTA TEREZA":
+  cMun=="4317251"
   cMunSIAFI="5995"
-if cMun=="4317301":
-  xMun="SANTA VITORIA DO PALMAR"
+if xMun="SANTA VITORIA DO PALMAR":
+  cMun=="4317301"
   cMunSIAFI="8849"
-if cMun=="4317004":
-  xMun="SANTANA DA BOA VISTA"
+if xMun="SANTANA DA BOA VISTA":
+  cMun=="4317004"
   cMunSIAFI="8843"
-if cMun=="4317103":
-  xMun="SANT ANA DO LIVRAMENTO"
+if xMun="SANT ANA DO LIVRAMENTO":
+  cMun=="4317103"
   cMunSIAFI="8845"
-if cMun=="4317400":
-  xMun="SANTIAGO"
+if xMun="SANTIAGO":
+  cMun=="4317400"
   cMunSIAFI="8851"
-if cMun=="4317509":
-  xMun="SANTO ANGELO"
+if xMun="SANTO ANGELO":
+  cMun=="4317509"
   cMunSIAFI="8853"
-if cMun=="4317608":
-  xMun="SANTO ANTONIO DA PATRULHA"
+if xMun="SANTO ANTONIO DA PATRULHA":
+  cMun=="4317608"
   cMunSIAFI="8855"
-if cMun=="4317707":
-  xMun="SANTO ANTONIO DAS MISSÃ•ES"
+if xMun="SANTO ANTONIO DAS MISSÃ•ES":
+  cMun=="4317707"
   cMunSIAFI="8857"
-if cMun=="4317558":
-  xMun="SANTO ANTONIO DO PALMA"
+if xMun="SANTO ANTONIO DO PALMA":
+  cMun=="4317558"
   cMunSIAFI="5941"
-if cMun=="4317756":
-  xMun="SANTO ANTONIO DO PLANALTO"
+if xMun="SANTO ANTONIO DO PLANALTO":
+  cMun=="4317756"
   cMunSIAFI="5957"
-if cMun=="4317806":
-  xMun="SANTO AUGUSTO"
+if xMun="SANTO AUGUSTO":
+  cMun=="4317806"
   cMunSIAFI="8859"
-if cMun=="4317905":
-  xMun="SANTO CRISTO"
+if xMun="SANTO CRISTO":
+  cMun=="4317905"
   cMunSIAFI="8861"
-if cMun=="4317954":
-  xMun="SANTO EXPEDITO DO SUL"
+if xMun="SANTO EXPEDITO DO SUL":
+  cMun=="4317954"
   cMunSIAFI="5977"
-if cMun=="4318002":
-  xMun="SAO BORJA"
+if xMun="SAO BORJA":
+  cMun=="4318002"
   cMunSIAFI="8863"
-if cMun=="4318051":
-  xMun="SAO DOMINGOS DO SUL"
+if xMun="SAO DOMINGOS DO SUL":
+  cMun=="4318051"
   cMunSIAFI="7351"
-if cMun=="4318101":
-  xMun="SAO FRANCISCO DE ASSIS"
+if xMun="SAO FRANCISCO DE ASSIS":
+  cMun=="4318101"
   cMunSIAFI="8865"
-if cMun=="4318200":
-  xMun="SAO FRANCISCO DE PAULA"
+if xMun="SAO FRANCISCO DE PAULA":
+  cMun=="4318200"
   cMunSIAFI="8867"
-if cMun=="4318309":
-  xMun="SAO GABRIEL"
+if xMun="SAO GABRIEL":
+  cMun=="4318309"
   cMunSIAFI="8869"
-if cMun=="4318408":
-  xMun="SAO JERONIMO"
+if xMun="SAO JERONIMO":
+  cMun=="4318408"
   cMunSIAFI="8871"
-if cMun=="4318424":
-  xMun="SAO JOAO DA URTIGA"
+if xMun="SAO JOAO DA URTIGA":
+  cMun=="4318424"
   cMunSIAFI="7349"
-if cMun=="4318432":
-  xMun="SAO JOAO DO POLÃŠSINE"
+if xMun="SAO JOAO DO POLÃŠSINE":
+  cMun=="4318432"
   cMunSIAFI="5791"
-if cMun=="4318440":
-  xMun="SAO JORGE"
+if xMun="SAO JORGE":
+  cMun=="4318440"
   cMunSIAFI="7347"
-if cMun=="4318457":
-  xMun="SAO JOSE DAS MISSÃ•ES"
+if xMun="SAO JOSE DAS MISSÃ•ES":
+  cMun=="4318457"
   cMunSIAFI="5989"
-if cMun=="4318465":
-  xMun="SAO JOSE DO HERVAL"
+if xMun="SAO JOSE DO HERVAL":
+  cMun=="4318465"
   cMunSIAFI="7345"
-if cMun=="4318481":
-  xMun="SAO JOSE DO HORTÃŠNCIO"
+if xMun="SAO JOSE DO HORTÃŠNCIO":
+  cMun=="4318481"
   cMunSIAFI="7343"
-if cMun=="4318499":
-  xMun="SAO JOSE DO INHACORA"
+if xMun="SAO JOSE DO INHACORA":
+  cMun=="4318499"
   cMunSIAFI="6059"
-if cMun=="4318507":
-  xMun="SAO JOSE DO NORTE"
+if xMun="SAO JOSE DO NORTE":
+  cMun=="4318507"
   cMunSIAFI="8873"
-if cMun=="4318606":
-  xMun="SAO JOSE DO OURO"
+if xMun="SAO JOSE DO OURO":
+  cMun=="4318606"
   cMunSIAFI="8875"
-if cMun=="4318614":
-  xMun="SAO JOSE DO SUL"
+if xMun="SAO JOSE DO SUL":
+  cMun=="4318614"
   cMunSIAFI="1170"
-if cMun=="4318622":
-  xMun="SAO JOSE DOS AUSENTES"
+if xMun="SAO JOSE DOS AUSENTES":
+  cMun=="4318622"
   cMunSIAFI="6015"
-if cMun=="4318705":
-  xMun="SAO LEOPOLDO"
+if xMun="SAO LEOPOLDO":
+  cMun=="4318705"
   cMunSIAFI="8877"
-if cMun=="4318804":
-  xMun="SAO LOURENCO DO SUL"
+if xMun="SAO LOURENCO DO SUL":
+  cMun=="4318804"
   cMunSIAFI="8879"
-if cMun=="4318903":
-  xMun="SAO LUIZ GONZAGA"
+if xMun="SAO LUIZ GONZAGA":
+  cMun=="4318903"
   cMunSIAFI="8881"
-if cMun=="4319000":
-  xMun="SAO MARCOS"
+if xMun="SAO MARCOS":
+  cMun=="4319000"
   cMunSIAFI="8883"
-if cMun=="4319109":
-  xMun="SAO MARTINHO"
+if xMun="SAO MARTINHO":
+  cMun=="4319109"
   cMunSIAFI="8885"
-if cMun=="4319125":
-  xMun="SAO MARTINHO DA SERRA"
+if xMun="SAO MARTINHO DA SERRA":
+  cMun=="4319125"
   cMunSIAFI="5793"
-if cMun=="4319158":
-  xMun="SAO MIGUEL DAS MISSÃ•ES"
+if xMun="SAO MIGUEL DAS MISSÃ•ES":
+  cMun=="4319158"
   cMunSIAFI="7341"
-if cMun=="4319208":
-  xMun="SAO NICOLAU"
+if xMun="SAO NICOLAU":
+  cMun=="4319208"
   cMunSIAFI="8887"
-if cMun=="4319307":
-  xMun="SAO PAULO DAS MISSÃ•ES"
+if xMun="SAO PAULO DAS MISSÃ•ES":
+  cMun=="4319307"
   cMunSIAFI="8889"
-if cMun=="4319356":
-  xMun="SAO PEDRO DA SERRA"
+if xMun="SAO PEDRO DA SERRA":
+  cMun=="4319356"
   cMunSIAFI="6043"
-if cMun=="4319364":
-  xMun="SAO PEDRO DAS MISSÃ•ES"
+if xMun="SAO PEDRO DAS MISSÃ•ES":
+  cMun=="4319364"
   cMunSIAFI="1172"
-if cMun=="4319372":
-  xMun="SAO PEDRO DO BUTIA"
+if xMun="SAO PEDRO DO BUTIA":
+  cMun=="4319372"
   cMunSIAFI="6063"
-if cMun=="4319406":
-  xMun="SAO PEDRO DO SUL"
+if xMun="SAO PEDRO DO SUL":
+  cMun=="4319406"
   cMunSIAFI="8891"
-if cMun=="4319505":
-  xMun="SAO SEBASTIAO DO CAI"
+if xMun="SAO SEBASTIAO DO CAI":
+  cMun=="4319505"
   cMunSIAFI="8893"
-if cMun=="4319604":
-  xMun="SAO SEPE"
+if xMun="SAO SEPE":
+  cMun=="4319604"
   cMunSIAFI="8895"
-if cMun=="4319703":
-  xMun="SAO VALENTIM"
+if xMun="SAO VALENTIM":
+  cMun=="4319703"
   cMunSIAFI="8897"
-if cMun=="4319711":
-  xMun="SAO VALENTIM DO SUL"
+if xMun="SAO VALENTIM DO SUL":
+  cMun=="4319711"
   cMunSIAFI="5997"
-if cMun=="4319737":
-  xMun="SAO VALERIO DO SUL"
+if xMun="SAO VALERIO DO SUL":
+  cMun=="4319737"
   cMunSIAFI="6075"
-if cMun=="4319752":
-  xMun="SAO VENDELINO"
+if xMun="SAO VENDELINO":
+  cMun=="4319752"
   cMunSIAFI="7293"
-if cMun=="4319802":
-  xMun="SAO VICENTE DO SUL"
+if xMun="SAO VICENTE DO SUL":
+  cMun=="4319802"
   cMunSIAFI="8675"
-if cMun=="4319901":
-  xMun="SAPIRANGA"
+if xMun="SAPIRANGA":
+  cMun=="4319901"
   cMunSIAFI="8899"
-if cMun=="4320008":
-  xMun="SAPUCAIA DO SUL"
+if xMun="SAPUCAIA DO SUL":
+  cMun=="4320008"
   cMunSIAFI="8901"
-if cMun=="4320107":
-  xMun="SARANDI"
+if xMun="SARANDI":
+  cMun=="4320107"
   cMunSIAFI="8903"
-if cMun=="4320206":
-  xMun="SEBERI"
+if xMun="SEBERI":
+  cMun=="4320206"
   cMunSIAFI="8905"
-if cMun=="4320230":
-  xMun="SEDE NOVA"
+if xMun="SEDE NOVA":
+  cMun=="4320230"
   cMunSIAFI="7335"
-if cMun=="4320263":
-  xMun="SEGREDO"
+if xMun="SEGREDO":
+  cMun=="4320263"
   cMunSIAFI="7317"
-if cMun=="4320305":
-  xMun="SELBACH"
+if xMun="SELBACH":
+  cMun=="4320305"
   cMunSIAFI="8907"
-if cMun=="4320321":
-  xMun="SENADOR SALGADO FILHO"
+if xMun="SENADOR SALGADO FILHO":
+  cMun=="4320321"
   cMunSIAFI="1012"
-if cMun=="4320354":
-  xMun="SENTINELA DO SUL"
+if xMun="SENTINELA DO SUL":
+  cMun=="4320354"
   cMunSIAFI="5781"
-if cMun=="4320404":
-  xMun="SERAFINA CORRÃŠA"
+if xMun="SERAFINA CORRÃŠA":
+  cMun=="4320404"
   cMunSIAFI="8909"
-if cMun=="4320453":
-  xMun="SERIO"
+if xMun="SERIO":
+  cMun=="4320453"
   cMunSIAFI="6035"
-if cMun=="4320503":
-  xMun="SERTAO"
+if xMun="SERTAO":
+  cMun=="4320503"
   cMunSIAFI="8911"
-if cMun=="4320552":
-  xMun="SERTAO SANTANA"
+if xMun="SERTAO SANTANA":
+  cMun=="4320552"
   cMunSIAFI="5761"
-if cMun=="4320578":
-  xMun="SETE DE SETEMBRO"
+if xMun="SETE DE SETEMBRO":
+  cMun=="4320578"
   cMunSIAFI="1014"
-if cMun=="4320602":
-  xMun="SEVERIANO DE ALMEIDA"
+if xMun="SEVERIANO DE ALMEIDA":
+  cMun=="4320602"
   cMunSIAFI="8913"
-if cMun=="4320651":
-  xMun="SILVEIRA MARTINS"
+if xMun="SILVEIRA MARTINS":
+  cMun=="4320651"
   cMunSIAFI="7315"
-if cMun=="4320677":
-  xMun="SINIMBU"
+if xMun="SINIMBU":
+  cMun=="4320677"
   cMunSIAFI="5767"
-if cMun=="4320701":
-  xMun="SOBRADINHO"
+if xMun="SOBRADINHO":
+  cMun=="4320701"
   cMunSIAFI="8917"
-if cMun=="4320800":
-  xMun="SOLEDADE"
+if xMun="SOLEDADE":
+  cMun=="4320800"
   cMunSIAFI="8919"
-if cMun=="4320859":
-  xMun="TABAI"
+if xMun="TABAI":
+  cMun=="4320859"
   cMunSIAFI="1016"
-if cMun=="4320909":
-  xMun="TAPEJARA"
+if xMun="TAPEJARA":
+  cMun=="4320909"
   cMunSIAFI="8921"
-if cMun=="4321006":
-  xMun="TAPERA"
+if xMun="TAPERA":
+  cMun=="4321006"
   cMunSIAFI="8923"
-if cMun=="4321105":
-  xMun="TAPES"
+if xMun="TAPES":
+  cMun=="4321105"
   cMunSIAFI="8925"
-if cMun=="4321204":
-  xMun="TAQUARA"
+if xMun="TAQUARA":
+  cMun=="4321204"
   cMunSIAFI="8927"
-if cMun=="4321303":
-  xMun="TAQUARI"
+if xMun="TAQUARI":
+  cMun=="4321303"
   cMunSIAFI="8929"
-if cMun=="4321329":
-  xMun="TAQUARUCU DO SUL"
+if xMun="TAQUARUCU DO SUL":
+  cMun=="4321329"
   cMunSIAFI="7313"
-if cMun=="4321352":
-  xMun="TAVARES"
+if xMun="TAVARES":
+  cMun=="4321352"
   cMunSIAFI="8971"
-if cMun=="4321402":
-  xMun="TENENTE PORTELA"
+if xMun="TENENTE PORTELA":
+  cMun=="4321402"
   cMunSIAFI="8931"
-if cMun=="4321436":
-  xMun="TERRA DE AREIA"
+if xMun="TERRA DE AREIA":
+  cMun=="4321436"
   cMunSIAFI="7333"
-if cMun=="4321451":
-  xMun="TEUTONIA"
+if xMun="TEUTONIA":
+  cMun=="4321451"
   cMunSIAFI="9821"
-if cMun=="4321469":
-  xMun="TIO HUGO"
+if xMun="TIO HUGO":
+  cMun=="4321469"
   cMunSIAFI="1174"
-if cMun=="4321477":
-  xMun="TIRADENTES DO SUL"
+if xMun="TIRADENTES DO SUL":
+  cMun=="4321477"
   cMunSIAFI="6077"
-if cMun=="4321493":
-  xMun="TOROPI"
+if xMun="TOROPI":
+  cMun=="4321493"
   cMunSIAFI="1018"
-if cMun=="4321501":
-  xMun="TORRES"
+if xMun="TORRES":
+  cMun=="4321501"
   cMunSIAFI="8933"
-if cMun=="4321600":
-  xMun="TRAMANDAI"
+if xMun="TRAMANDAI":
+  cMun=="4321600"
   cMunSIAFI="8935"
-if cMun=="4321626":
-  xMun="TRAVESSEIRO"
+if xMun="TRAVESSEIRO":
+  cMun=="4321626"
   cMunSIAFI="6037"
-if cMun=="4321634":
-  xMun="TRÃŠS ARROIOS"
+if xMun="TRÃŠS ARROIOS":
+  cMun=="4321634"
   cMunSIAFI="7331"
-if cMun=="4321667":
-  xMun="TRÃŠS CACHOEIRAS"
+if xMun="TRÃŠS CACHOEIRAS":
+  cMun=="4321667"
   cMunSIAFI="7329"
-if cMun=="4321709":
-  xMun="TRÃŠS COROAS"
+if xMun="TRÃŠS COROAS":
+  cMun=="4321709"
   cMunSIAFI="8937"
-if cMun=="4321808":
-  xMun="TRÃŠS DE MAIO"
+if xMun="TRÃŠS DE MAIO":
+  cMun=="4321808"
   cMunSIAFI="8939"
-if cMun=="4321832":
-  xMun="TRÃŠS FORQUILHAS"
+if xMun="TRÃŠS FORQUILHAS":
+  cMun=="4321832"
   cMunSIAFI="5777"
-if cMun=="4321857":
-  xMun="TRÃŠS PALMEIRAS"
+if xMun="TRÃŠS PALMEIRAS":
+  cMun=="4321857"
   cMunSIAFI="7327"
-if cMun=="4321907":
-  xMun="TRÃŠS PASSOS"
+if xMun="TRÃŠS PASSOS":
+  cMun=="4321907"
   cMunSIAFI="8941"
-if cMun=="4321956":
-  xMun="TRINDADE DO SUL"
+if xMun="TRINDADE DO SUL":
+  cMun=="4321956"
   cMunSIAFI="7325"
-if cMun=="4322004":
-  xMun="TRIUNFO"
+if xMun="TRIUNFO":
+  cMun=="4322004"
   cMunSIAFI="8943"
-if cMun=="4322103":
-  xMun="TUCUNDUVA"
+if xMun="TUCUNDUVA":
+  cMun=="4322103"
   cMunSIAFI="8945"
-if cMun=="4322152":
-  xMun="TUNAS"
+if xMun="TUNAS":
+  cMun=="4322152"
   cMunSIAFI="7323"
-if cMun=="4322186":
-  xMun="TUPANCI DO SUL"
+if xMun="TUPANCI DO SUL":
+  cMun=="4322186"
   cMunSIAFI="5979"
-if cMun=="4322202":
-  xMun="TUPANCIRETA"
+if xMun="TUPANCIRETA":
+  cMun=="4322202"
   cMunSIAFI="8947"
-if cMun=="4322251":
-  xMun="TUPANDI"
+if xMun="TUPANDI":
+  cMun=="4322251"
   cMunSIAFI="7321"
-if cMun=="4322301":
-  xMun="TUPARENDI"
+if xMun="TUPARENDI":
+  cMun=="4322301"
   cMunSIAFI="8949"
-if cMun=="4322327":
-  xMun="TURUCU"
+if xMun="TURUCU":
+  cMun=="4322327"
   cMunSIAFI="1020"
-if cMun=="4322343":
-  xMun="UBIRETAMA"
+if xMun="UBIRETAMA":
+  cMun=="4322343"
   cMunSIAFI="1022"
-if cMun=="4322350":
-  xMun="UNIAO DA SERRA"
+if xMun="UNIAO DA SERRA":
+  cMun=="4322350"
   cMunSIAFI="5999"
-if cMun=="4322376":
-  xMun="UNISTALDA"
+if xMun="UNISTALDA":
+  cMun=="4322376"
   cMunSIAFI="1024"
-if cMun=="4322400":
-  xMun="URUGUAIANA"
+if xMun="URUGUAIANA":
+  cMun=="4322400"
   cMunSIAFI="8951"
-if cMun=="4322509":
-  xMun="VACARIA"
+if xMun="VACARIA":
+  cMun=="4322509"
   cMunSIAFI="8953"
-if cMun=="4322533":
-  xMun="VALE DO SOL"
+if xMun="VALE DO SOL":
+  cMun=="4322533"
   cMunSIAFI="5769"
-if cMun=="4322541":
-  xMun="VALE REAL"
+if xMun="VALE REAL":
+  cMun=="4322541"
   cMunSIAFI="6049"
-if cMun=="4322525":
-  xMun="VALE VERDE"
+if xMun="VALE VERDE":
+  cMun=="4322525"
   cMunSIAFI="1026"
-if cMun=="4322558":
-  xMun="VANINI"
+if xMun="VANINI":
+  cMun=="4322558"
   cMunSIAFI="7319"
-if cMun=="4322608":
-  xMun="VENANCIO AIRES"
+if xMun="VENANCIO AIRES":
+  cMun=="4322608"
   cMunSIAFI="8955"
-if cMun=="4322707":
-  xMun="VERA CRUZ"
+if xMun="VERA CRUZ":
+  cMun=="4322707"
   cMunSIAFI="8957"
-if cMun=="4322806":
-  xMun="VERANOPOLIS"
+if xMun="VERANOPOLIS":
+  cMun=="4322806"
   cMunSIAFI="8959"
-if cMun=="4322855":
-  xMun="VESPASIANO CORREA"
+if xMun="VESPASIANO CORREA":
+  cMun=="4322855"
   cMunSIAFI="1028"
-if cMun=="4322905":
-  xMun="VIADUTOS"
+if xMun="VIADUTOS":
+  cMun=="4322905"
   cMunSIAFI="8961"
-if cMun=="4323002":
-  xMun="VIAMAO"
+if xMun="VIAMAO":
+  cMun=="4323002"
   cMunSIAFI="8963"
-if cMun=="4323101":
-  xMun="VICENTE DUTRA"
+if xMun="VICENTE DUTRA":
+  cMun=="4323101"
   cMunSIAFI="8965"
-if cMun=="4323200":
-  xMun="VICTOR GRAEFF"
+if xMun="VICTOR GRAEFF":
+  cMun=="4323200"
   cMunSIAFI="8969"
-if cMun=="4323309":
-  xMun="VILA FLORES"
+if xMun="VILA FLORES":
+  cMun=="4323309"
   cMunSIAFI="7311"
-if cMun=="4323358":
-  xMun="VILA LANGARO"
+if xMun="VILA LANGARO":
+  cMun=="4323358"
   cMunSIAFI="1030"
-if cMun=="4323408":
-  xMun="VILA MARIA"
+if xMun="VILA MARIA":
+  cMun=="4323408"
   cMunSIAFI="7309"
-if cMun=="4323457":
-  xMun="VILA NOVA DO SUL"
+if xMun="VILA NOVA DO SUL":
+  cMun=="4323457"
   cMunSIAFI="5795"
-if cMun=="4323507":
-  xMun="VISTA ALEGRE"
+if xMun="VISTA ALEGRE":
+  cMun=="4323507"
   cMunSIAFI="7307"
-if cMun=="4323606":
-  xMun="VISTA ALEGRE DO PRATA"
+if xMun="VISTA ALEGRE DO PRATA":
+  cMun=="4323606"
   cMunSIAFI="7305"
-if cMun=="4323705":
-  xMun="VISTA GAUCHA"
+if xMun="VISTA GAUCHA":
+  cMun=="4323705"
   cMunSIAFI="7303"
-if cMun=="4323754":
-  xMun="VITORIA DAS MISSÃ•ES"
+if xMun="VITORIA DAS MISSÃ•ES":
+  cMun=="4323754"
   cMunSIAFI="6053"
-if cMun=="4323770":
-  xMun="WESTFALIA"
+if xMun="WESTFALIA":
+  cMun=="4323770"
   cMunSIAFI="1176"
-if cMun=="4323804":
-  xMun="XANGRI-LA"
+if xMun="XANGRI-LA":
+  cMun=="4323804"
   cMunSIAFI="5785"
-if cMun=="4200051":
-  xMun="ABDON BATISTA"
+if xMun="ABDON BATISTA":
+  cMun=="4200051"
   cMunSIAFI="9939"
-if cMun=="4200101":
-  xMun="ABELARDO LUZ"
+if xMun="ABELARDO LUZ":
+  cMun=="4200101"
   cMunSIAFI="8001"
-if cMun=="4200200":
-  xMun="AGROLANDIA"
+if xMun="AGROLANDIA":
+  cMun=="4200200"
   cMunSIAFI="8003"
-if cMun=="4200309":
-  xMun="AGRONOMICA"
+if xMun="AGRONOMICA":
+  cMun=="4200309"
   cMunSIAFI="8005"
-if cMun=="4200408":
-  xMun="AGUA DOCE"
+if xMun="AGUA DOCE":
+  cMun=="4200408"
   cMunSIAFI="8007"
-if cMun=="4200507":
-  xMun="AGUAS DE CHAPECO"
+if xMun="AGUAS DE CHAPECO":
+  cMun=="4200507"
   cMunSIAFI="8009"
-if cMun=="4200556":
-  xMun="AGUAS FRIAS"
+if xMun="AGUAS FRIAS":
+  cMun=="4200556"
   cMunSIAFI="5577"
-if cMun=="4200606":
-  xMun="AGUAS MORNAS"
+if xMun="AGUAS MORNAS":
+  cMun=="4200606"
   cMunSIAFI="8011"
-if cMun=="4200705":
-  xMun="ALFREDO WAGNER"
+if xMun="ALFREDO WAGNER":
+  cMun=="4200705"
   cMunSIAFI="8013"
-if cMun=="4200754":
-  xMun="ALTO BELA VISTA"
+if xMun="ALTO BELA VISTA":
+  cMun=="4200754"
   cMunSIAFI="0886"
-if cMun=="4200804":
-  xMun="ANCHIETA"
+if xMun="ANCHIETA":
+  cMun=="4200804"
   cMunSIAFI="8015"
-if cMun=="4200903":
-  xMun="ANGELINA"
+if xMun="ANGELINA":
+  cMun=="4200903"
   cMunSIAFI="8017"
-if cMun=="4201000":
-  xMun="ANITA GARIBALDI"
+if xMun="ANITA GARIBALDI":
+  cMun=="4201000"
   cMunSIAFI="8019"
-if cMun=="4201109":
-  xMun="ANITAPOLIS"
+if xMun="ANITAPOLIS":
+  cMun=="4201109"
   cMunSIAFI="8021"
-if cMun=="4201208":
-  xMun="ANTONIO CARLOS"
+if xMun="ANTONIO CARLOS":
+  cMun=="4201208"
   cMunSIAFI="8023"
-if cMun=="4201257":
-  xMun="APIUNA"
+if xMun="APIUNA":
+  cMun=="4201257"
   cMunSIAFI="9941"
-if cMun=="4201273":
-  xMun="ARABUTA"
+if xMun="ARABUTA":
+  cMun=="4201273"
   cMunSIAFI="5597"
-if cMun=="4201307":
-  xMun="ARAQUARI"
+if xMun="ARAQUARI":
+  cMun=="4201307"
   cMunSIAFI="8025"
-if cMun=="4201406":
-  xMun="ARARANGUA"
+if xMun="ARARANGUA":
+  cMun=="4201406"
   cMunSIAFI="8027"
-if cMun=="4201505":
-  xMun="ARMAZEM"
+if xMun="ARMAZEM":
+  cMun=="4201505"
   cMunSIAFI="8029"
-if cMun=="4201604":
-  xMun="ARROIO TRINTA"
+if xMun="ARROIO TRINTA":
+  cMun=="4201604"
   cMunSIAFI="8031"
-if cMun=="4201653":
-  xMun="ARVOREDO"
+if xMun="ARVOREDO":
+  cMun=="4201653"
   cMunSIAFI="5599"
-if cMun=="4201703":
-  xMun="ASCURRA"
+if xMun="ASCURRA":
+  cMun=="4201703"
   cMunSIAFI="8033"
-if cMun=="4201802":
-  xMun="ATALANTA"
+if xMun="ATALANTA":
+  cMun=="4201802"
   cMunSIAFI="8035"
-if cMun=="4201901":
-  xMun="AURORA"
+if xMun="AURORA":
+  cMun=="4201901"
   cMunSIAFI="8037"
-if cMun=="4201950":
-  xMun="BALNEARIO ARROIO DO SILVA"
+if xMun="BALNEARIO ARROIO DO SILVA":
+  cMun=="4201950"
   cMunSIAFI="0888"
-if cMun=="4202057":
-  xMun="BALNEARIO BARRA DO SUL"
+if xMun="BALNEARIO BARRA DO SUL":
+  cMun=="4202057"
   cMunSIAFI="5549"
-if cMun=="4202008":
-  xMun="BALNEARIO CAMBORIU"
+if xMun="BALNEARIO CAMBORIU":
+  cMun=="4202008"
   cMunSIAFI="8039"
-if cMun=="4202073":
-  xMun="BALNEARIO GAIVOTA"
+if xMun="BALNEARIO GAIVOTA":
+  cMun=="4202073"
   cMunSIAFI="0890"
-if cMun=="4212809":
-  xMun="BALNEARIO PICARRAS"
+if xMun="BALNEARIO PICARRAS":
+  cMun=="4212809"
   cMunSIAFI="8251"
-if cMun=="4202081":
-  xMun="BANDEIRANTE"
+if xMun="BANDEIRANTE":
+  cMun=="4202081"
   cMunSIAFI="0892"
-if cMun=="4202099":
-  xMun="BARRA BONITA"
+if xMun="BARRA BONITA":
+  cMun=="4202099"
   cMunSIAFI="0894"
-if cMun=="4202107":
-  xMun="BARRA VELHA"
+if xMun="BARRA VELHA":
+  cMun=="4202107"
   cMunSIAFI="8041"
-if cMun=="4202131":
-  xMun="BELA VISTA DO TOLDO"
+if xMun="BELA VISTA DO TOLDO":
+  cMun=="4202131"
   cMunSIAFI="0896"
-if cMun=="4202156":
-  xMun="BELMONTE"
+if xMun="BELMONTE":
+  cMun=="4202156"
   cMunSIAFI="5745"
-if cMun=="4202206":
-  xMun="BENEDITO NOVO"
+if xMun="BENEDITO NOVO":
+  cMun=="4202206"
   cMunSIAFI="8043"
-if cMun=="4202305":
-  xMun="BIGUACU"
+if xMun="BIGUACU":
+  cMun=="4202305"
   cMunSIAFI="8045"
-if cMun=="4202404":
-  xMun="BLUMENAU"
+if xMun="BLUMENAU":
+  cMun=="4202404"
   cMunSIAFI="8047"
-if cMun=="4202438":
-  xMun="BOCAINA DO SUL"
+if xMun="BOCAINA DO SUL":
+  cMun=="4202438"
   cMunSIAFI="0898"
-if cMun=="4202503":
-  xMun="BOM JARDIM DA SERRA"
+if xMun="BOM JARDIM DA SERRA":
+  cMun=="4202503"
   cMunSIAFI="8389"
-if cMun=="4202537":
-  xMun="BOM JESUS"
+if xMun="BOM JESUS":
+  cMun=="4202537"
   cMunSIAFI="0900"
-if cMun=="4202578":
-  xMun="BOM JESUS DO OESTE"
+if xMun="BOM JESUS DO OESTE":
+  cMun=="4202578"
   cMunSIAFI="0902"
-if cMun=="4202602":
-  xMun="BOM RETIRO"
+if xMun="BOM RETIRO":
+  cMun=="4202602"
   cMunSIAFI="8049"
-if cMun=="4202453":
-  xMun="BOMBINHAS"
+if xMun="BOMBINHAS":
+  cMun=="4202453"
   cMunSIAFI="5537"
-if cMun=="4202701":
-  xMun="BOTUVERA"
+if xMun="BOTUVERA":
+  cMun=="4202701"
   cMunSIAFI="8051"
-if cMun=="4202800":
-  xMun="BRACO DO NORTE"
+if xMun="BRACO DO NORTE":
+  cMun=="4202800"
   cMunSIAFI="8053"
-if cMun=="4202859":
-  xMun="BRACO DO TROMBUDO"
+if xMun="BRACO DO TROMBUDO":
+  cMun=="4202859"
   cMunSIAFI="5557"
-if cMun=="4202875":
-  xMun="BRUNOPOLIS"
+if xMun="BRUNOPOLIS":
+  cMun=="4202875"
   cMunSIAFI="0904"
-if cMun=="4202909":
-  xMun="BRUSQUE"
+if xMun="BRUSQUE":
+  cMun=="4202909"
   cMunSIAFI="8055"
-if cMun=="4203006":
-  xMun="CACADOR"
+if xMun="CACADOR":
+  cMun=="4203006"
   cMunSIAFI="8057"
-if cMun=="4203105":
-  xMun="CAIBI"
+if xMun="CAIBI":
+  cMun=="4203105"
   cMunSIAFI="8059"
-if cMun=="4203154":
-  xMun="CALMON"
+if xMun="CALMON":
+  cMun=="4203154"
   cMunSIAFI="5553"
-if cMun=="4203204":
-  xMun="CAMBORIU"
+if xMun="CAMBORIU":
+  cMun=="4203204"
   cMunSIAFI="8061"
-if cMun=="4203303":
-  xMun="CAMPO ALEGRE"
+if xMun="CAMPO ALEGRE":
+  cMun=="4203303"
   cMunSIAFI="8063"
-if cMun=="4203402":
-  xMun="CAMPO BELO DO SUL"
+if xMun="CAMPO BELO DO SUL":
+  cMun=="4203402"
   cMunSIAFI="8065"
-if cMun=="4203501":
-  xMun="CAMPO ERÃŠ"
+if xMun="CAMPO ERÃŠ":
+  cMun=="4203501"
   cMunSIAFI="8067"
-if cMun=="4203600":
-  xMun="CAMPOS NOVOS"
+if xMun="CAMPOS NOVOS":
+  cMun=="4203600"
   cMunSIAFI="8069"
-if cMun=="4203709":
-  xMun="CANELINHA"
+if xMun="CANELINHA":
+  cMun=="4203709"
   cMunSIAFI="8071"
-if cMun=="4203808":
-  xMun="CANOINHAS"
+if xMun="CANOINHAS":
+  cMun=="4203808"
   cMunSIAFI="8073"
-if cMun=="4203253":
-  xMun="CAPAO ALTO"
+if xMun="CAPAO ALTO":
+  cMun=="4203253"
   cMunSIAFI="0906"
-if cMun=="4203907":
-  xMun="CAPINZAL"
+if xMun="CAPINZAL":
+  cMun=="4203907"
   cMunSIAFI="8075"
-if cMun=="4203956":
-  xMun="CAPIVARI DE BAIXO"
+if xMun="CAPIVARI DE BAIXO":
+  cMun=="4203956"
   cMunSIAFI="5545"
-if cMun=="4204004":
-  xMun="CATANDUVAS"
+if xMun="CATANDUVAS":
+  cMun=="4204004"
   cMunSIAFI="8077"
-if cMun=="4204103":
-  xMun="CAXAMBU DO SUL"
+if xMun="CAXAMBU DO SUL":
+  cMun=="4204103"
   cMunSIAFI="8079"
-if cMun=="4204152":
-  xMun="CELSO RAMOS"
+if xMun="CELSO RAMOS":
+  cMun=="4204152"
   cMunSIAFI="9943"
-if cMun=="4204178":
-  xMun="CERRO NEGRO"
+if xMun="CERRO NEGRO":
+  cMun=="4204178"
   cMunSIAFI="5567"
-if cMun=="4204194":
-  xMun="CHAPADAO DO LAGEADO"
+if xMun="CHAPADAO DO LAGEADO":
+  cMun=="4204194"
   cMunSIAFI="0908"
-if cMun=="4204202":
-  xMun="CHAPECO"
+if xMun="CHAPECO":
+  cMun=="4204202"
   cMunSIAFI="8081"
-if cMun=="4204251":
-  xMun="COCAL DO SUL"
+if xMun="COCAL DO SUL":
+  cMun=="4204251"
   cMunSIAFI="5543"
-if cMun=="4204301":
-  xMun="CONCORDIA"
+if xMun="CONCORDIA":
+  cMun=="4204301"
   cMunSIAFI="8083"
-if cMun=="4204350":
-  xMun="CORDILHEIRA ALTA"
+if xMun="CORDILHEIRA ALTA":
+  cMun=="4204350"
   cMunSIAFI="5579"
-if cMun=="4204400":
-  xMun="CORONEL FREITAS"
+if xMun="CORONEL FREITAS":
+  cMun=="4204400"
   cMunSIAFI="8085"
-if cMun=="4204459":
-  xMun="CORONEL MARTINS"
+if xMun="CORONEL MARTINS":
+  cMun=="4204459"
   cMunSIAFI="5735"
-if cMun=="4204558":
-  xMun="CORREIA PINTO"
+if xMun="CORREIA PINTO":
+  cMun=="4204558"
   cMunSIAFI="8395"
-if cMun=="4204509":
-  xMun="CORUPA"
+if xMun="CORUPA":
+  cMun=="4204509"
   cMunSIAFI="8087"
-if cMun=="4204608":
-  xMun="CRICIUMA"
+if xMun="CRICIUMA":
+  cMun=="4204608"
   cMunSIAFI="8089"
-if cMun=="4204707":
-  xMun="CUNHA PORA"
+if xMun="CUNHA PORA":
+  cMun=="4204707"
   cMunSIAFI="8091"
-if cMun=="4204756":
-  xMun="CUNHATAI"
+if xMun="CUNHATAI":
+  cMun=="4204756"
   cMunSIAFI="0910"
-if cMun=="4204806":
-  xMun="CURITIBANOS"
+if xMun="CURITIBANOS":
+  cMun=="4204806"
   cMunSIAFI="8093"
-if cMun=="4204905":
-  xMun="DESCANSO"
+if xMun="DESCANSO":
+  cMun=="4204905"
   cMunSIAFI="8095"
-if cMun=="4205001":
-  xMun="DIONISIO CERQUEIRA"
+if xMun="DIONISIO CERQUEIRA":
+  cMun=="4205001"
   cMunSIAFI="8097"
-if cMun=="4205100":
-  xMun="DONA EMMA"
+if xMun="DONA EMMA":
+  cMun=="4205100"
   cMunSIAFI="8099"
-if cMun=="4205159":
-  xMun="DOUTOR PEDRINHO"
+if xMun="DOUTOR PEDRINHO":
+  cMun=="4205159"
   cMunSIAFI="9945"
-if cMun=="4205175":
-  xMun="ENTRE RIOS"
+if xMun="ENTRE RIOS":
+  cMun=="4205175"
   cMunSIAFI="0912"
-if cMun=="4205191":
-  xMun="ERMO"
+if xMun="ERMO":
+  cMun=="4205191"
   cMunSIAFI="0914"
-if cMun=="4205209":
-  xMun="ERVAL VELHO"
+if xMun="ERVAL VELHO":
+  cMun=="4205209"
   cMunSIAFI="8101"
-if cMun=="4205308":
-  xMun="FAXINAL DOS GUEDES"
+if xMun="FAXINAL DOS GUEDES":
+  cMun=="4205308"
   cMunSIAFI="8103"
-if cMun=="4205357":
-  xMun="FLOR DO SERTAO"
+if xMun="FLOR DO SERTAO":
+  cMun=="4205357"
   cMunSIAFI="0916"
-if cMun=="4205407":
-  xMun="FLORIANOPOLIS"
+if xMun="FLORIANOPOLIS":
+  cMun=="4205407"
   cMunSIAFI="8105"
-if cMun=="4205431":
-  xMun="FORMOSA DO SUL"
+if xMun="FORMOSA DO SUL":
+  cMun=="4205431"
   cMunSIAFI="5581"
-if cMun=="4205456":
-  xMun="FORQUILHINHA"
+if xMun="FORQUILHINHA":
+  cMun=="4205456"
   cMunSIAFI="0973"
-if cMun=="4205506":
-  xMun="FRAIBURGO"
+if xMun="FRAIBURGO":
+  cMun=="4205506"
   cMunSIAFI="8107"
-if cMun=="4205555":
-  xMun="FREI ROGERIO"
+if xMun="FREI ROGERIO":
+  cMun=="4205555"
   cMunSIAFI="0918"
-if cMun=="4205605":
-  xMun="GALVAO"
+if xMun="GALVAO":
+  cMun=="4205605"
   cMunSIAFI="8109"
-if cMun=="4205704":
-  xMun="GAROPABA"
+if xMun="GAROPABA":
+  cMun=="4205704"
   cMunSIAFI="8113"
-if cMun=="4205803":
-  xMun="GARUVA"
+if xMun="GARUVA":
+  cMun=="4205803"
   cMunSIAFI="8115"
-if cMun=="4205902":
-  xMun="GASPAR"
+if xMun="GASPAR":
+  cMun=="4205902"
   cMunSIAFI="8117"
-if cMun=="4206009":
-  xMun="GOVERNADOR CELSO RAMOS"
+if xMun="GOVERNADOR CELSO RAMOS":
+  cMun=="4206009"
   cMunSIAFI="8111"
-if cMun=="4206108":
-  xMun="GRAO PARA"
+if xMun="GRAO PARA":
+  cMun=="4206108"
   cMunSIAFI="8119"
-if cMun=="4206207":
-  xMun="GRAVATAL"
+if xMun="GRAVATAL":
+  cMun=="4206207"
   cMunSIAFI="8121"
-if cMun=="4206306":
-  xMun="GUABIRUBA"
+if xMun="GUABIRUBA":
+  cMun=="4206306"
   cMunSIAFI="8123"
-if cMun=="4206405":
-  xMun="GUARACIABA"
+if xMun="GUARACIABA":
+  cMun=="4206405"
   cMunSIAFI="8125"
-if cMun=="4206504":
-  xMun="GUARAMIRIM"
+if xMun="GUARAMIRIM":
+  cMun=="4206504"
   cMunSIAFI="8127"
-if cMun=="4206603":
-  xMun="GUARUJA DO SUL"
+if xMun="GUARUJA DO SUL":
+  cMun=="4206603"
   cMunSIAFI="8129"
-if cMun=="4206652":
-  xMun="GUATAMBU"
+if xMun="GUATAMBU":
+  cMun=="4206652"
   cMunSIAFI="5583"
-if cMun=="4206702":
-  xMun="HERVAL D OESTE"
+if xMun="HERVAL D OESTE":
+  cMun=="4206702"
   cMunSIAFI="8131"
-if cMun=="4206751":
-  xMun="IBIAM"
+if xMun="IBIAM":
+  cMun=="4206751"
   cMunSIAFI="0920"
-if cMun=="4206801":
-  xMun="IBICARE"
+if xMun="IBICARE":
+  cMun=="4206801"
   cMunSIAFI="8133"
-if cMun=="4206900":
-  xMun="IBIRAMA"
+if xMun="IBIRAMA":
+  cMun=="4206900"
   cMunSIAFI="8135"
-if cMun=="4207007":
-  xMun="ICARA"
+if xMun="ICARA":
+  cMun=="4207007"
   cMunSIAFI="8137"
-if cMun=="4207106":
-  xMun="ILHOTA"
+if xMun="ILHOTA":
+  cMun=="4207106"
   cMunSIAFI="8139"
-if cMun=="4207205":
-  xMun="IMARUI"
+if xMun="IMARUI":
+  cMun=="4207205"
   cMunSIAFI="8141"
-if cMun=="4207304":
-  xMun="IMBITUBA"
+if xMun="IMBITUBA":
+  cMun=="4207304"
   cMunSIAFI="8143"
-if cMun=="4207403":
-  xMun="IMBUIA"
+if xMun="IMBUIA":
+  cMun=="4207403"
   cMunSIAFI="8145"
-if cMun=="4207502":
-  xMun="INDAIAL"
+if xMun="INDAIAL":
+  cMun=="4207502"
   cMunSIAFI="8147"
-if cMun=="4207577":
-  xMun="IOMERÃŠ"
+if xMun="IOMERÃŠ":
+  cMun=="4207577"
   cMunSIAFI="0922"
-if cMun=="4207601":
-  xMun="IPIRA"
+if xMun="IPIRA":
+  cMun=="4207601"
   cMunSIAFI="8149"
-if cMun=="4207650":
-  xMun="IPORA DO OESTE"
+if xMun="IPORA DO OESTE":
+  cMun=="4207650"
   cMunSIAFI="9951"
-if cMun=="4207684":
-  xMun="IPUACU"
+if xMun="IPUACU":
+  cMun=="4207684"
   cMunSIAFI="5737"
-if cMun=="4207700":
-  xMun="IPUMIRIM"
+if xMun="IPUMIRIM":
+  cMun=="4207700"
   cMunSIAFI="8151"
-if cMun=="4207759":
-  xMun="IRACEMINHA"
+if xMun="IRACEMINHA":
+  cMun=="4207759"
   cMunSIAFI="9953"
-if cMun=="4207809":
-  xMun="IRANI"
+if xMun="IRANI":
+  cMun=="4207809"
   cMunSIAFI="8153"
-if cMun=="4207858":
-  xMun="IRATI"
+if xMun="IRATI":
+  cMun=="4207858"
   cMunSIAFI="5585"
-if cMun=="4207908":
-  xMun="IRINEOPOLIS"
+if xMun="IRINEOPOLIS":
+  cMun=="4207908"
   cMunSIAFI="8155"
-if cMun=="4208005":
-  xMun="ITA"
+if xMun="ITA":
+  cMun=="4208005"
   cMunSIAFI="8157"
-if cMun=="4208104":
-  xMun="ITAIOPOLIS"
+if xMun="ITAIOPOLIS":
+  cMun=="4208104"
   cMunSIAFI="8159"
-if cMun=="4208203":
-  xMun="ITAJAI"
+if xMun="ITAJAI":
+  cMun=="4208203"
   cMunSIAFI="8161"
-if cMun=="4208302":
-  xMun="ITAPEMA"
+if xMun="ITAPEMA":
+  cMun=="4208302"
   cMunSIAFI="8163"
-if cMun=="4208401":
-  xMun="ITAPIRANGA"
+if xMun="ITAPIRANGA":
+  cMun=="4208401"
   cMunSIAFI="8165"
-if cMun=="4208450":
-  xMun="ITAPOA"
+if xMun="ITAPOA":
+  cMun=="4208450"
   cMunSIAFI="9985"
-if cMun=="4208500":
-  xMun="ITUPORANGA"
+if xMun="ITUPORANGA":
+  cMun=="4208500"
   cMunSIAFI="8167"
-if cMun=="4208609":
-  xMun="JABORA"
+if xMun="JABORA":
+  cMun=="4208609"
   cMunSIAFI="8169"
-if cMun=="4208708":
-  xMun="JACINTO MACHADO"
+if xMun="JACINTO MACHADO":
+  cMun=="4208708"
   cMunSIAFI="8171"
-if cMun=="4208807":
-  xMun="JAGUARUNA"
+if xMun="JAGUARUNA":
+  cMun=="4208807"
   cMunSIAFI="8173"
-if cMun=="4208906":
-  xMun="JARAGUA DO SUL"
+if xMun="JARAGUA DO SUL":
+  cMun=="4208906"
   cMunSIAFI="8175"
-if cMun=="4208955":
-  xMun="JARDINOPOLIS"
+if xMun="JARDINOPOLIS":
+  cMun=="4208955"
   cMunSIAFI="5587"
-if cMun=="4209003":
-  xMun="JOACABA"
+if xMun="JOACABA":
+  cMun=="4209003"
   cMunSIAFI="8177"
-if cMun=="4209102":
-  xMun="JOINVILLE"
+if xMun="JOINVILLE":
+  cMun=="4209102"
   cMunSIAFI="8179"
-if cMun=="4209151":
-  xMun="JOSE BOITEUX"
+if xMun="JOSE BOITEUX":
+  cMun=="4209151"
   cMunSIAFI="9957"
-if cMun=="4209177":
-  xMun="JUPIA"
+if xMun="JUPIA":
+  cMun=="4209177"
   cMunSIAFI="0924"
-if cMun=="4209201":
-  xMun="LACERDOPOLIS"
+if xMun="LACERDOPOLIS":
+  cMun=="4209201"
   cMunSIAFI="8181"
-if cMun=="4209300":
-  xMun="LAGES"
+if xMun="LAGES":
+  cMun=="4209300"
   cMunSIAFI="8183"
-if cMun=="4209409":
-  xMun="LAGUNA"
+if xMun="LAGUNA":
+  cMun=="4209409"
   cMunSIAFI="8185"
-if cMun=="4209458":
-  xMun="LAJEADO GRANDE"
+if xMun="LAJEADO GRANDE":
+  cMun=="4209458"
   cMunSIAFI="5739"
-if cMun=="4209508":
-  xMun="LAURENTINO"
+if xMun="LAURENTINO":
+  cMun=="4209508"
   cMunSIAFI="8187"
-if cMun=="4209607":
-  xMun="LAURO MULLER"
+if xMun="LAURO MULLER":
+  cMun=="4209607"
   cMunSIAFI="8189"
-if cMun=="4209706":
-  xMun="LEBON REGIS"
+if xMun="LEBON REGIS":
+  cMun=="4209706"
   cMunSIAFI="8191"
-if cMun=="4209805":
-  xMun="LEOBERTO LEAL"
+if xMun="LEOBERTO LEAL":
+  cMun=="4209805"
   cMunSIAFI="8193"
-if cMun=="4209854":
-  xMun="LINDOIA DO SUL"
+if xMun="LINDOIA DO SUL":
+  cMun=="4209854"
   cMunSIAFI="9961"
-if cMun=="4209904":
-  xMun="LONTRAS"
+if xMun="LONTRAS":
+  cMun=="4209904"
   cMunSIAFI="8195"
-if cMun=="4210001":
-  xMun="LUIZ ALVES"
+if xMun="LUIZ ALVES":
+  cMun=="4210001"
   cMunSIAFI="8197"
-if cMun=="4210035":
-  xMun="LUZERNA"
+if xMun="LUZERNA":
+  cMun=="4210035"
   cMunSIAFI="0926"
-if cMun=="4210050":
-  xMun="MACIEIRA"
+if xMun="MACIEIRA":
+  cMun=="4210050"
   cMunSIAFI="5575"
-if cMun=="4210100":
-  xMun="MAFRA"
+if xMun="MAFRA":
+  cMun=="4210100"
   cMunSIAFI="8199"
-if cMun=="4210209":
-  xMun="MAJOR GERCINO"
+if xMun="MAJOR GERCINO":
+  cMun=="4210209"
   cMunSIAFI="8201"
-if cMun=="4210308":
-  xMun="MAJOR VIEIRA"
+if xMun="MAJOR VIEIRA":
+  cMun=="4210308"
   cMunSIAFI="8203"
-if cMun=="4210407":
-  xMun="MARACAJA"
+if xMun="MARACAJA":
+  cMun=="4210407"
   cMunSIAFI="8391"
-if cMun=="4210506":
-  xMun="MARAVILHA"
+if xMun="MARAVILHA":
+  cMun=="4210506"
   cMunSIAFI="8205"
-if cMun=="4210555":
-  xMun="MAREMA"
+if xMun="MAREMA":
+  cMun=="4210555"
   cMunSIAFI="9963"
-if cMun=="4210605":
-  xMun="MASSARANDUBA"
+if xMun="MASSARANDUBA":
+  cMun=="4210605"
   cMunSIAFI="8207"
-if cMun=="4210704":
-  xMun="MATOS COSTA"
+if xMun="MATOS COSTA":
+  cMun=="4210704"
   cMunSIAFI="8209"
-if cMun=="4210803":
-  xMun="MELEIRO"
+if xMun="MELEIRO":
+  cMun=="4210803"
   cMunSIAFI="8211"
-if cMun=="4210852":
-  xMun="MIRIM DOCE"
+if xMun="MIRIM DOCE":
+  cMun=="4210852"
   cMunSIAFI="5559"
-if cMun=="4210902":
-  xMun="MODELO"
+if xMun="MODELO":
+  cMun=="4210902"
   cMunSIAFI="8213"
-if cMun=="4211009":
-  xMun="MONDAI"
+if xMun="MONDAI":
+  cMun=="4211009"
   cMunSIAFI="8215"
-if cMun=="4211058":
-  xMun="MONTE CARLO"
+if xMun="MONTE CARLO":
+  cMun=="4211058"
   cMunSIAFI="5561"
-if cMun=="4211108":
-  xMun="MONTE CASTELO"
+if xMun="MONTE CASTELO":
+  cMun=="4211108"
   cMunSIAFI="8217"
-if cMun=="4211207":
-  xMun="MORRO DA FUMACA"
+if xMun="MORRO DA FUMACA":
+  cMun=="4211207"
   cMunSIAFI="8219"
-if cMun=="4211256":
-  xMun="MORRO GRANDE"
+if xMun="MORRO GRANDE":
+  cMun=="4211256"
   cMunSIAFI="5539"
-if cMun=="4211306":
-  xMun="NAVEGANTES"
+if xMun="NAVEGANTES":
+  cMun=="4211306"
   cMunSIAFI="8221"
-if cMun=="4211405":
-  xMun="NOVA ERECHIM"
+if xMun="NOVA ERECHIM":
+  cMun=="4211405"
   cMunSIAFI="8223"
-if cMun=="4211454":
-  xMun="NOVA ITABERABA"
+if xMun="NOVA ITABERABA":
+  cMun=="4211454"
   cMunSIAFI="5589"
-if cMun=="4211504":
-  xMun="NOVA TRENTO"
+if xMun="NOVA TRENTO":
+  cMun=="4211504"
   cMunSIAFI="8225"
-if cMun=="4211603":
-  xMun="NOVA VENEZA"
+if xMun="NOVA VENEZA":
+  cMun=="4211603"
   cMunSIAFI="8227"
-if cMun=="4211652":
-  xMun="NOVO HORIZONTE"
+if xMun="NOVO HORIZONTE":
+  cMun=="4211652"
   cMunSIAFI="5591"
-if cMun=="4211702":
-  xMun="ORLEANS"
+if xMun="ORLEANS":
+  cMun=="4211702"
   cMunSIAFI="8229"
-if cMun=="4211751":
-  xMun="OTACILIO COSTA"
+if xMun="OTACILIO COSTA":
+  cMun=="4211751"
   cMunSIAFI="8397"
-if cMun=="4211801":
-  xMun="OURO"
+if xMun="OURO":
+  cMun=="4211801"
   cMunSIAFI="8231"
-if cMun=="4211850":
-  xMun="OURO VERDE"
+if xMun="OURO VERDE":
+  cMun=="4211850"
   cMunSIAFI="5741"
-if cMun=="4211876":
-  xMun="PAIAL"
+if xMun="PAIAL":
+  cMun=="4211876"
   cMunSIAFI="0928"
-if cMun=="4211892":
-  xMun="PAINEL"
+if xMun="PAINEL":
+  cMun=="4211892"
   cMunSIAFI="0930"
-if cMun=="4211900":
-  xMun="PALHOCA"
+if xMun="PALHOCA":
+  cMun=="4211900"
   cMunSIAFI="8233"
-if cMun=="4212007":
-  xMun="PALMA SOLA"
+if xMun="PALMA SOLA":
+  cMun=="4212007"
   cMunSIAFI="8235"
-if cMun=="4212056":
-  xMun="PALMEIRA"
+if xMun="PALMEIRA":
+  cMun=="4212056"
   cMunSIAFI="0932"
-if cMun=="4212106":
-  xMun="PALMITOS"
+if xMun="PALMITOS":
+  cMun=="4212106"
   cMunSIAFI="8237"
-if cMun=="4212205":
-  xMun="PAPANDUVA"
+if xMun="PAPANDUVA":
+  cMun=="4212205"
   cMunSIAFI="8239"
-if cMun=="4212239":
-  xMun="PARAISO"
+if xMun="PARAISO":
+  cMun=="4212239"
   cMunSIAFI="5747"
-if cMun=="4212254":
-  xMun="PASSO DE TORRES"
+if xMun="PASSO DE TORRES":
+  cMun=="4212254"
   cMunSIAFI="5541"
-if cMun=="4212270":
-  xMun="PASSOS MAIA"
+if xMun="PASSOS MAIA":
+  cMun=="4212270"
   cMunSIAFI="5743"
-if cMun=="4212304":
-  xMun="PAULO LOPES"
+if xMun="PAULO LOPES":
+  cMun=="4212304"
   cMunSIAFI="8241"
-if cMun=="4212403":
-  xMun="PEDRAS GRANDES"
+if xMun="PEDRAS GRANDES":
+  cMun=="4212403"
   cMunSIAFI="8243"
-if cMun=="4212502":
-  xMun="PENHA"
+if xMun="PENHA":
+  cMun=="4212502"
   cMunSIAFI="8245"
-if cMun=="4212601":
-  xMun="PERITIBA"
+if xMun="PERITIBA":
+  cMun=="4212601"
   cMunSIAFI="8247"
-if cMun=="4212700":
-  xMun="PETROLANDIA"
+if xMun="PETROLANDIA":
+  cMun=="4212700"
   cMunSIAFI="8249"
-if cMun=="4212908":
-  xMun="PINHALZINHO"
+if xMun="PINHALZINHO":
+  cMun=="4212908"
   cMunSIAFI="8253"
-if cMun=="4213005":
-  xMun="PINHEIRO PRETO"
+if xMun="PINHEIRO PRETO":
+  cMun=="4213005"
   cMunSIAFI="8255"
-if cMun=="4213104":
-  xMun="PIRATUBA"
+if xMun="PIRATUBA":
+  cMun=="4213104"
   cMunSIAFI="8257"
-if cMun=="4213153":
-  xMun="PLANALTO ALEGRE"
+if xMun="PLANALTO ALEGRE":
+  cMun=="4213153"
   cMunSIAFI="5593"
-if cMun=="4213203":
-  xMun="POMERODE"
+if xMun="POMERODE":
+  cMun=="4213203"
   cMunSIAFI="8259"
-if cMun=="4213302":
-  xMun="PONTE ALTA"
+if xMun="PONTE ALTA":
+  cMun=="4213302"
   cMunSIAFI="8261"
-if cMun=="4213351":
-  xMun="PONTE ALTA DO NORTE"
+if xMun="PONTE ALTA DO NORTE":
+  cMun=="4213351"
   cMunSIAFI="5569"
-if cMun=="4213401":
-  xMun="PONTE SERRADA"
+if xMun="PONTE SERRADA":
+  cMun=="4213401"
   cMunSIAFI="8263"
-if cMun=="4213500":
-  xMun="PORTO BELO"
+if xMun="PORTO BELO":
+  cMun=="4213500"
   cMunSIAFI="8265"
-if cMun=="4213609":
-  xMun="PORTO UNIAO"
+if xMun="PORTO UNIAO":
+  cMun=="4213609"
   cMunSIAFI="8267"
-if cMun=="4213708":
-  xMun="POUSO REDONDO"
+if xMun="POUSO REDONDO":
+  cMun=="4213708"
   cMunSIAFI="8269"
-if cMun=="4213807":
-  xMun="PRAIA GRANDE"
+if xMun="PRAIA GRANDE":
+  cMun=="4213807"
   cMunSIAFI="8271"
-if cMun=="4213906":
-  xMun="PRESIDENTE CASTELLO BRANCO"
+if xMun="PRESIDENTE CASTELLO BRANCO":
+  cMun=="4213906"
   cMunSIAFI="8273"
-if cMun=="4214003":
-  xMun="PRESIDENTE GETULIO"
+if xMun="PRESIDENTE GETULIO":
+  cMun=="4214003"
   cMunSIAFI="8275"
-if cMun=="4214102":
-  xMun="PRESIDENTE NEREU"
+if xMun="PRESIDENTE NEREU":
+  cMun=="4214102"
   cMunSIAFI="8277"
-if cMun=="4214151":
-  xMun="PRINCESA"
+if xMun="PRINCESA":
+  cMun=="4214151"
   cMunSIAFI="0934"
-if cMun=="4214201":
-  xMun="QUILOMBO"
+if xMun="QUILOMBO":
+  cMun=="4214201"
   cMunSIAFI="8279"
-if cMun=="4214300":
-  xMun="RANCHO QUEIMADO"
+if xMun="RANCHO QUEIMADO":
+  cMun=="4214300"
   cMunSIAFI="8281"
-if cMun=="4214409":
-  xMun="RIO DAS ANTAS"
+if xMun="RIO DAS ANTAS":
+  cMun=="4214409"
   cMunSIAFI="8283"
-if cMun=="4214508":
-  xMun="RIO DO CAMPO"
+if xMun="RIO DO CAMPO":
+  cMun=="4214508"
   cMunSIAFI="8285"
-if cMun=="4214607":
-  xMun="RIO DO OESTE"
+if xMun="RIO DO OESTE":
+  cMun=="4214607"
   cMunSIAFI="8287"
-if cMun=="4214805":
-  xMun="RIO DO SUL"
+if xMun="RIO DO SUL":
+  cMun=="4214805"
   cMunSIAFI="8291"
-if cMun=="4214706":
-  xMun="RIO DOS CEDROS"
+if xMun="RIO DOS CEDROS":
+  cMun=="4214706"
   cMunSIAFI="8289"
-if cMun=="4214904":
-  xMun="RIO FORTUNA"
+if xMun="RIO FORTUNA":
+  cMun=="4214904"
   cMunSIAFI="8293"
-if cMun=="4215000":
-  xMun="RIO NEGRINHO"
+if xMun="RIO NEGRINHO":
+  cMun=="4215000"
   cMunSIAFI="8295"
-if cMun=="4215059":
-  xMun="RIO RUFINO"
+if xMun="RIO RUFINO":
+  cMun=="4215059"
   cMunSIAFI="5571"
-if cMun=="4215075":
-  xMun="RIQUEZA"
+if xMun="RIQUEZA":
+  cMun=="4215075"
   cMunSIAFI="5749"
-if cMun=="4215109":
-  xMun="RODEIO"
+if xMun="RODEIO":
+  cMun=="4215109"
   cMunSIAFI="8297"
-if cMun=="4215208":
-  xMun="ROMELANDIA"
+if xMun="ROMELANDIA":
+  cMun=="4215208"
   cMunSIAFI="8299"
-if cMun=="4215307":
-  xMun="SALETE"
+if xMun="SALETE":
+  cMun=="4215307"
   cMunSIAFI="8301"
-if cMun=="4215356":
-  xMun="SALTINHO"
+if xMun="SALTINHO":
+  cMun=="4215356"
   cMunSIAFI="0936"
-if cMun=="4215406":
-  xMun="SALTO VELOSO"
+if xMun="SALTO VELOSO":
+  cMun=="4215406"
   cMunSIAFI="8303"
-if cMun=="4215455":
-  xMun="SANGAO"
+if xMun="SANGAO":
+  cMun=="4215455"
   cMunSIAFI="5547"
-if cMun=="4215505":
-  xMun="SANTA CECILIA"
+if xMun="SANTA CECILIA":
+  cMun=="4215505"
   cMunSIAFI="8305"
-if cMun=="4215554":
-  xMun="SANTA HELENA"
+if xMun="SANTA HELENA":
+  cMun=="4215554"
   cMunSIAFI="5751"
-if cMun=="4215604":
-  xMun="SANTA ROSA DE LIMA"
+if xMun="SANTA ROSA DE LIMA":
+  cMun=="4215604"
   cMunSIAFI="8307"
-if cMun=="4215653":
-  xMun="SANTA ROSA DO SUL"
+if xMun="SANTA ROSA DO SUL":
+  cMun=="4215653"
   cMunSIAFI="9967"
-if cMun=="4215679":
-  xMun="SANTA TEREZINHA"
+if xMun="SANTA TEREZINHA":
+  cMun=="4215679"
   cMunSIAFI="5555"
-if cMun=="4215687":
-  xMun="SANTA TEREZINHA DO PROGRESSO"
+if xMun="SANTA TEREZINHA DO PROGRESSO":
+  cMun=="4215687"
   cMunSIAFI="0938"
-if cMun=="4215695":
-  xMun="SANTIAGO DO SUL"
+if xMun="SANTIAGO DO SUL":
+  cMun=="4215695"
   cMunSIAFI="0940"
-if cMun=="4215703":
-  xMun="SANTO AMARO DA IMPERATRIZ"
+if xMun="SANTO AMARO DA IMPERATRIZ":
+  cMun=="4215703"
   cMunSIAFI="8309"
-if cMun=="4215802":
-  xMun="SAO BENTO DO SUL"
+if xMun="SAO BENTO DO SUL":
+  cMun=="4215802"
   cMunSIAFI="8311"
-if cMun=="4215752":
-  xMun="SAO BERNARDINO"
+if xMun="SAO BERNARDINO":
+  cMun=="4215752"
   cMunSIAFI="0942"
-if cMun=="4215901":
-  xMun="SAO BONIFACIO"
+if xMun="SAO BONIFACIO":
+  cMun=="4215901"
   cMunSIAFI="8313"
-if cMun=="4216008":
-  xMun="SAO CARLOS"
+if xMun="SAO CARLOS":
+  cMun=="4216008"
   cMunSIAFI="8315"
-if cMun=="4216057":
-  xMun="SAO CRISTOVAO DO SUL"
+if xMun="SAO CRISTOVAO DO SUL":
+  cMun=="4216057"
   cMunSIAFI="5573"
-if cMun=="4216107":
-  xMun="SAO DOMINGOS"
+if xMun="SAO DOMINGOS":
+  cMun=="4216107"
   cMunSIAFI="8317"
-if cMun=="4216206":
-  xMun="SAO FRANCISCO DO SUL"
+if xMun="SAO FRANCISCO DO SUL":
+  cMun=="4216206"
   cMunSIAFI="8319"
-if cMun=="4216305":
-  xMun="SAO JOAO BATISTA"
+if xMun="SAO JOAO BATISTA":
+  cMun=="4216305"
   cMunSIAFI="8321"
-if cMun=="4216354":
-  xMun="SAO JOAO DO ITAPERIU"
+if xMun="SAO JOAO DO ITAPERIU":
+  cMun=="4216354"
   cMunSIAFI="5551"
-if cMun=="4216255":
-  xMun="SAO JOAO DO OESTE"
+if xMun="SAO JOAO DO OESTE":
+  cMun=="4216255"
   cMunSIAFI="5753"
-if cMun=="4216404":
-  xMun="SAO JOAO DO SUL"
+if xMun="SAO JOAO DO SUL":
+  cMun=="4216404"
   cMunSIAFI="8323"
-if cMun=="4216503":
-  xMun="SAO JOAQUIM"
+if xMun="SAO JOAQUIM":
+  cMun=="4216503"
   cMunSIAFI="8325"
-if cMun=="4216602":
-  xMun="SAO JOSE"
+if xMun="SAO JOSE":
+  cMun=="4216602"
   cMunSIAFI="8327"
-if cMun=="4216701":
-  xMun="SAO JOSE DO CEDRO"
+if xMun="SAO JOSE DO CEDRO":
+  cMun=="4216701"
   cMunSIAFI="8329"
-if cMun=="4216800":
-  xMun="SAO JOSE DO CERRITO"
+if xMun="SAO JOSE DO CERRITO":
+  cMun=="4216800"
   cMunSIAFI="8331"
-if cMun=="4216909":
-  xMun="SAO LOURENCO DO OESTE"
+if xMun="SAO LOURENCO DO OESTE":
+  cMun=="4216909"
   cMunSIAFI="8333"
-if cMun=="4217006":
-  xMun="SAO LUDGERO"
+if xMun="SAO LUDGERO":
+  cMun=="4217006"
   cMunSIAFI="8335"
-if cMun=="4217105":
-  xMun="SAO MARTINHO"
+if xMun="SAO MARTINHO":
+  cMun=="4217105"
   cMunSIAFI="8337"
-if cMun=="4217154":
-  xMun="SAO MIGUEL DA BOA VISTA"
+if xMun="SAO MIGUEL DA BOA VISTA":
+  cMun=="4217154"
   cMunSIAFI="5755"
-if cMun=="4217204":
-  xMun="SAO MIGUEL DO OESTE"
+if xMun="SAO MIGUEL DO OESTE":
+  cMun=="4217204"
   cMunSIAFI="8339"
-if cMun=="4217253":
-  xMun="SAO PEDRO DE ALCANTARA"
+if xMun="SAO PEDRO DE ALCANTARA":
+  cMun=="4217253"
   cMunSIAFI="0944"
-if cMun=="4217303":
-  xMun="SAUDADES"
+if xMun="SAUDADES":
+  cMun=="4217303"
   cMunSIAFI="8341"
-if cMun=="4217402":
-  xMun="SCHROEDER"
+if xMun="SCHROEDER":
+  cMun=="4217402"
   cMunSIAFI="8343"
-if cMun=="4217501":
-  xMun="SEARA"
+if xMun="SEARA":
+  cMun=="4217501"
   cMunSIAFI="8345"
-if cMun=="4217550":
-  xMun="SERRA ALTA"
+if xMun="SERRA ALTA":
+  cMun=="4217550"
   cMunSIAFI="9989"
-if cMun=="4217600":
-  xMun="SIDEROPOLIS"
+if xMun="SIDEROPOLIS":
+  cMun=="4217600"
   cMunSIAFI="8347"
-if cMun=="4217709":
-  xMun="SOMBRIO"
+if xMun="SOMBRIO":
+  cMun=="4217709"
   cMunSIAFI="8349"
-if cMun=="4217758":
-  xMun="SUL BRASIL"
+if xMun="SUL BRASIL":
+  cMun=="4217758"
   cMunSIAFI="5595"
-if cMun=="4217808":
-  xMun="TAIO"
+if xMun="TAIO":
+  cMun=="4217808"
   cMunSIAFI="8351"
-if cMun=="4217907":
-  xMun="TANGARA"
+if xMun="TANGARA":
+  cMun=="4217907"
   cMunSIAFI="8353"
-if cMun=="4217956":
-  xMun="TIGRINHOS"
+if xMun="TIGRINHOS":
+  cMun=="4217956"
   cMunSIAFI="0946"
-if cMun=="4218004":
-  xMun="TIJUCAS"
+if xMun="TIJUCAS":
+  cMun=="4218004"
   cMunSIAFI="8355"
-if cMun=="4218103":
-  xMun="TIMBE DO SUL"
+if xMun="TIMBE DO SUL":
+  cMun=="4218103"
   cMunSIAFI="8393"
-if cMun=="4218202":
-  xMun="TIMBO"
+if xMun="TIMBO":
+  cMun=="4218202"
   cMunSIAFI="8357"
-if cMun=="4218251":
-  xMun="TIMBO GRANDE"
+if xMun="TIMBO GRANDE":
+  cMun=="4218251"
   cMunSIAFI="9971"
-if cMun=="4218301":
-  xMun="TRÃŠS BARRAS"
+if xMun="TRÃŠS BARRAS":
+  cMun=="4218301"
   cMunSIAFI="8359"
-if cMun=="4218350":
-  xMun="TREVISO"
+if xMun="TREVISO":
+  cMun=="4218350"
   cMunSIAFI="0948"
-if cMun=="4218400":
-  xMun="TREZE DE MAIO"
+if xMun="TREZE DE MAIO":
+  cMun=="4218400"
   cMunSIAFI="8361"
-if cMun=="4218509":
-  xMun="TREZE TILIAS"
+if xMun="TREZE TILIAS":
+  cMun=="4218509"
   cMunSIAFI="8363"
-if cMun=="4218608":
-  xMun="TROMBUDO CENTRAL"
+if xMun="TROMBUDO CENTRAL":
+  cMun=="4218608"
   cMunSIAFI="8365"
-if cMun=="4218707":
-  xMun="TUBARAO"
+if xMun="TUBARAO":
+  cMun=="4218707"
   cMunSIAFI="8367"
-if cMun=="4218756":
-  xMun="TUNAPOLIS"
+if xMun="TUNAPOLIS":
+  cMun=="4218756"
   cMunSIAFI="9991"
-if cMun=="4218806":
-  xMun="TURVO"
+if xMun="TURVO":
+  cMun=="4218806"
   cMunSIAFI="8369"
-if cMun=="4218855":
-  xMun="UNIAO DO OESTE"
+if xMun="UNIAO DO OESTE":
+  cMun=="4218855"
   cMunSIAFI="9973"
-if cMun=="4218905":
-  xMun="URUBICI"
+if xMun="URUBICI":
+  cMun=="4218905"
   cMunSIAFI="8371"
-if cMun=="4218954":
-  xMun="URUPEMA"
+if xMun="URUPEMA":
+  cMun=="4218954"
   cMunSIAFI="9975"
-if cMun=="4219002":
-  xMun="URUSSANGA"
+if xMun="URUSSANGA":
+  cMun=="4219002"
   cMunSIAFI="8373"
-if cMun=="4219101":
-  xMun="VARGEAO"
+if xMun="VARGEAO":
+  cMun=="4219101"
   cMunSIAFI="8375"
-if cMun=="4219150":
-  xMun="VARGEM"
+if xMun="VARGEM":
+  cMun=="4219150"
   cMunSIAFI="5563"
-if cMun=="4219176":
-  xMun="VARGEM BONITA"
+if xMun="VARGEM BONITA":
+  cMun=="4219176"
   cMunSIAFI="5565"
-if cMun=="4219200":
-  xMun="VIDAL RAMOS"
+if xMun="VIDAL RAMOS":
+  cMun=="4219200"
   cMunSIAFI="8377"
-if cMun=="4219309":
-  xMun="VIDEIRA"
+if xMun="VIDEIRA":
+  cMun=="4219309"
   cMunSIAFI="8379"
-if cMun=="4219358":
-  xMun="VITOR MEIRELES"
+if xMun="VITOR MEIRELES":
+  cMun=="4219358"
   cMunSIAFI="9977"
-if cMun=="4219408":
-  xMun="WITMARSUM"
+if xMun="WITMARSUM":
+  cMun=="4219408"
   cMunSIAFI="8381"
-if cMun=="4219507":
-  xMun="XANXERÃŠ"
+if xMun="XANXERÃŠ":
+  cMun=="4219507"
   cMunSIAFI="8383"
-if cMun=="4219606":
-  xMun="XAVANTINA"
+if xMun="XAVANTINA":
+  cMun=="4219606"
   cMunSIAFI="8385"
-if cMun=="4219705":
-  xMun="XAXIM"
+if xMun="XAXIM":
+  cMun=="4219705"
   cMunSIAFI="8387"
-if cMun=="4219853":
-  xMun="ZORTEA"
+if xMun="ZORTEA":
+  cMun=="4219853"
   cMunSIAFI="0950"
-if cMun=="2800100":
-  xMun="AMPARO DE SAO FRANCISCO"
+if xMun="AMPARO DE SAO FRANCISCO":
+  cMun=="2800100"
   cMunSIAFI="3101"
-if cMun=="2800209":
-  xMun="AQUIDABA"
+if xMun="AQUIDABA":
+  cMun=="2800209"
   cMunSIAFI="3103"
-if cMun=="2800308":
-  xMun="ARACAJU"
+if xMun="ARACAJU":
+  cMun=="2800308"
   cMunSIAFI="3105"
-if cMun=="2800407":
-  xMun="ARAUA"
+if xMun="ARAUA":
+  cMun=="2800407"
   cMunSIAFI="3107"
-if cMun=="2800506":
-  xMun="AREIA BRANCA"
+if xMun="AREIA BRANCA":
+  cMun=="2800506"
   cMunSIAFI="3109"
-if cMun=="2800605":
-  xMun="BARRA DOS COQUEIROS"
+if xMun="BARRA DOS COQUEIROS":
+  cMun=="2800605"
   cMunSIAFI="3111"
-if cMun=="2800670":
-  xMun="BOQUIM"
+if xMun="BOQUIM":
+  cMun=="2800670"
   cMunSIAFI="3115"
-if cMun=="2800704":
-  xMun="BREJO GRANDE"
+if xMun="BREJO GRANDE":
+  cMun=="2800704"
   cMunSIAFI="3113"
-if cMun=="2801009":
-  xMun="CAMPO DO BRITO"
+if xMun="CAMPO DO BRITO":
+  cMun=="2801009"
   cMunSIAFI="3119"
-if cMun=="2801108":
-  xMun="CANHOBA"
+if xMun="CANHOBA":
+  cMun=="2801108"
   cMunSIAFI="3121"
-if cMun=="2801207":
-  xMun="CANINDE DE SAO FRANCISCO"
+if xMun="CANINDE DE SAO FRANCISCO":
+  cMun=="2801207"
   cMunSIAFI="3123"
-if cMun=="2801306":
-  xMun="CAPELA"
+if xMun="CAPELA":
+  cMun=="2801306"
   cMunSIAFI="3125"
-if cMun=="2801405":
-  xMun="CARIRA"
+if xMun="CARIRA":
+  cMun=="2801405"
   cMunSIAFI="3127"
-if cMun=="2801504":
-  xMun="CARMOPOLIS"
+if xMun="CARMOPOLIS":
+  cMun=="2801504"
   cMunSIAFI="3129"
-if cMun=="2801603":
-  xMun="CEDRO DE SAO JOAO"
+if xMun="CEDRO DE SAO JOAO":
+  cMun=="2801603"
   cMunSIAFI="3131"
-if cMun=="2801702":
-  xMun="CRISTINAPOLIS"
+if xMun="CRISTINAPOLIS":
+  cMun=="2801702"
   cMunSIAFI="3133"
-if cMun=="2801900":
-  xMun="CUMBE"
+if xMun="CUMBE":
+  cMun=="2801900"
   cMunSIAFI="3137"
-if cMun=="2802007":
-  xMun="DIVINA PASTORA"
+if xMun="DIVINA PASTORA":
+  cMun=="2802007"
   cMunSIAFI="3139"
-if cMun=="2802106":
-  xMun="ESTANCIA"
+if xMun="ESTANCIA":
+  cMun=="2802106"
   cMunSIAFI="3141"
-if cMun=="2802205":
-  xMun="FEIRA NOVA"
+if xMun="FEIRA NOVA":
+  cMun=="2802205"
   cMunSIAFI="3143"
-if cMun=="2802304":
-  xMun="FREI PAULO"
+if xMun="FREI PAULO":
+  cMun=="2802304"
   cMunSIAFI="3145"
-if cMun=="2802403":
-  xMun="GARARU"
+if xMun="GARARU":
+  cMun=="2802403"
   cMunSIAFI="3149"
-if cMun=="2802502":
-  xMun="GENERAL MAYNARD"
+if xMun="GENERAL MAYNARD":
+  cMun=="2802502"
   cMunSIAFI="3147"
-if cMun=="2802601":
-  xMun="GRACHO CARDOSO"
+if xMun="GRACHO CARDOSO":
+  cMun=="2802601"
   cMunSIAFI="3151"
-if cMun=="2802700":
-  xMun="ILHA DAS FLORES"
+if xMun="ILHA DAS FLORES":
+  cMun=="2802700"
   cMunSIAFI="3153"
-if cMun=="2802809":
-  xMun="INDIAROBA"
+if xMun="INDIAROBA":
+  cMun=="2802809"
   cMunSIAFI="3155"
-if cMun=="2802908":
-  xMun="ITABAIANA"
+if xMun="ITABAIANA":
+  cMun=="2802908"
   cMunSIAFI="3157"
-if cMun=="2803005":
-  xMun="ITABAIANINHA"
+if xMun="ITABAIANINHA":
+  cMun=="2803005"
   cMunSIAFI="3159"
-if cMun=="2803104":
-  xMun="ITABI"
+if xMun="ITABI":
+  cMun=="2803104"
   cMunSIAFI="3161"
-if cMun=="2803203":
-  xMun="ITAPORANGA D AJUDA"
+if xMun="ITAPORANGA D AJUDA":
+  cMun=="2803203"
   cMunSIAFI="3163"
-if cMun=="2803302":
-  xMun="JAPARATUBA"
+if xMun="JAPARATUBA":
+  cMun=="2803302"
   cMunSIAFI="3165"
-if cMun=="2803401":
-  xMun="JAPOATA"
+if xMun="JAPOATA":
+  cMun=="2803401"
   cMunSIAFI="3167"
-if cMun=="2803500":
-  xMun="LAGARTO"
+if xMun="LAGARTO":
+  cMun=="2803500"
   cMunSIAFI="3169"
-if cMun=="2803609":
-  xMun="LARANJEIRAS"
+if xMun="LARANJEIRAS":
+  cMun=="2803609"
   cMunSIAFI="3171"
-if cMun=="2803708":
-  xMun="MACAMBIRA"
+if xMun="MACAMBIRA":
+  cMun=="2803708"
   cMunSIAFI="3173"
-if cMun=="2803807":
-  xMun="MALHADA DOS BOIS"
+if xMun="MALHADA DOS BOIS":
+  cMun=="2803807"
   cMunSIAFI="3175"
-if cMun=="2803906":
-  xMun="MALHADOR"
+if xMun="MALHADOR":
+  cMun=="2803906"
   cMunSIAFI="3177"
-if cMun=="2804003":
-  xMun="MARUIM"
+if xMun="MARUIM":
+  cMun=="2804003"
   cMunSIAFI="3179"
-if cMun=="2804102":
-  xMun="MOITA BONITA"
+if xMun="MOITA BONITA":
+  cMun=="2804102"
   cMunSIAFI="3181"
-if cMun=="2804201":
-  xMun="MONTE ALEGRE DE SERGIPE"
+if xMun="MONTE ALEGRE DE SERGIPE":
+  cMun=="2804201"
   cMunSIAFI="3183"
-if cMun=="2804300":
-  xMun="MURIBECA"
+if xMun="MURIBECA":
+  cMun=="2804300"
   cMunSIAFI="3185"
-if cMun=="2804409":
-  xMun="NEOPOLIS"
+if xMun="NEOPOLIS":
+  cMun=="2804409"
   cMunSIAFI="3187"
-if cMun=="2804458":
-  xMun="NOSSA SENHORA APARECIDA"
+if xMun="NOSSA SENHORA APARECIDA":
+  cMun=="2804458"
   cMunSIAFI="3135"
-if cMun=="2804508":
-  xMun="NOSSA SENHORA DA GLORIA"
+if xMun="NOSSA SENHORA DA GLORIA":
+  cMun=="2804508"
   cMunSIAFI="3189"
-if cMun=="2804607":
-  xMun="NOSSA SENHORA DAS DORES"
+if xMun="NOSSA SENHORA DAS DORES":
+  cMun=="2804607"
   cMunSIAFI="3191"
-if cMun=="2804706":
-  xMun="NOSSA SENHORA DE LOURDES"
+if xMun="NOSSA SENHORA DE LOURDES":
+  cMun=="2804706"
   cMunSIAFI="3193"
-if cMun=="2804805":
-  xMun="NOSSA SENHORA DO SOCORRO"
+if xMun="NOSSA SENHORA DO SOCORRO":
+  cMun=="2804805"
   cMunSIAFI="3195"
-if cMun=="2804904":
-  xMun="PACATUBA"
+if xMun="PACATUBA":
+  cMun=="2804904"
   cMunSIAFI="3197"
-if cMun=="2805000":
-  xMun="PEDRA MOLE"
+if xMun="PEDRA MOLE":
+  cMun=="2805000"
   cMunSIAFI="3199"
-if cMun=="2805109":
-  xMun="PEDRINHAS"
+if xMun="PEDRINHAS":
+  cMun=="2805109"
   cMunSIAFI="3201"
-if cMun=="2805208":
-  xMun="PINHAO"
+if xMun="PINHAO":
+  cMun=="2805208"
   cMunSIAFI="3203"
-if cMun=="2805307":
-  xMun="PIRAMBU"
+if xMun="PIRAMBU":
+  cMun=="2805307"
   cMunSIAFI="3205"
-if cMun=="2805406":
-  xMun="POCO REDONDO"
+if xMun="POCO REDONDO":
+  cMun=="2805406"
   cMunSIAFI="3207"
-if cMun=="2805505":
-  xMun="POCO VERDE"
+if xMun="POCO VERDE":
+  cMun=="2805505"
   cMunSIAFI="3209"
-if cMun=="2805604":
-  xMun="PORTO DA FOLHA"
+if xMun="PORTO DA FOLHA":
+  cMun=="2805604"
   cMunSIAFI="3211"
-if cMun=="2805703":
-  xMun="PROPRIA"
+if xMun="PROPRIA":
+  cMun=="2805703"
   cMunSIAFI="3213"
-if cMun=="2805802":
-  xMun="RIACHAO DO DANTAS"
+if xMun="RIACHAO DO DANTAS":
+  cMun=="2805802"
   cMunSIAFI="3215"
-if cMun=="2805901":
-  xMun="RIACHUELO"
+if xMun="RIACHUELO":
+  cMun=="2805901"
   cMunSIAFI="3217"
-if cMun=="2806008":
-  xMun="RIBEIROPOLIS"
+if xMun="RIBEIROPOLIS":
+  cMun=="2806008"
   cMunSIAFI="3219"
-if cMun=="2806107":
-  xMun="ROSARIO DO CATETE"
+if xMun="ROSARIO DO CATETE":
+  cMun=="2806107"
   cMunSIAFI="3221"
-if cMun=="2806206":
-  xMun="SALGADO"
+if xMun="SALGADO":
+  cMun=="2806206"
   cMunSIAFI="3223"
-if cMun=="2806305":
-  xMun="SANTA LUZIA DO ITANHY"
+if xMun="SANTA LUZIA DO ITANHY":
+  cMun=="2806305"
   cMunSIAFI="3225"
-if cMun=="2806503":
-  xMun="SANTA ROSA DE LIMA"
+if xMun="SANTA ROSA DE LIMA":
+  cMun=="2806503"
   cMunSIAFI="3229"
-if cMun=="2806404":
-  xMun="SANTANA DO SAO FRANCISCO"
+if xMun="SANTANA DO SAO FRANCISCO":
+  cMun=="2806404"
   cMunSIAFI="2647"
-if cMun=="2806602":
-  xMun="SANTO AMARO DAS BROTAS"
+if xMun="SANTO AMARO DAS BROTAS":
+  cMun=="2806602"
   cMunSIAFI="3231"
-if cMun=="2806701":
-  xMun="SAO CRISTOVAO"
+if xMun="SAO CRISTOVAO":
+  cMun=="2806701"
   cMunSIAFI="3233"
-if cMun=="2806800":
-  xMun="SAO DOMINGOS"
+if xMun="SAO DOMINGOS":
+  cMun=="2806800"
   cMunSIAFI="3235"
-if cMun=="2806909":
-  xMun="SAO FRANCISCO"
+if xMun="SAO FRANCISCO":
+  cMun=="2806909"
   cMunSIAFI="3237"
-if cMun=="2807006":
-  xMun="SAO MIGUEL DO ALEIXO"
+if xMun="SAO MIGUEL DO ALEIXO":
+  cMun=="2807006"
   cMunSIAFI="3239"
-if cMun=="2807105":
-  xMun="SIMAO DIAS"
+if xMun="SIMAO DIAS":
+  cMun=="2807105"
   cMunSIAFI="3241"
-if cMun=="2807204":
-  xMun="SIRIRI"
+if xMun="SIRIRI":
+  cMun=="2807204"
   cMunSIAFI="3243"
-if cMun=="2807303":
-  xMun="TELHA"
+if xMun="TELHA":
+  cMun=="2807303"
   cMunSIAFI="3245"
-if cMun=="2807402":
-  xMun="TOBIAS BARRETO"
+if xMun="TOBIAS BARRETO":
+  cMun=="2807402"
   cMunSIAFI="3247"
-if cMun=="2807501":
-  xMun="TOMAR DO GERU"
+if xMun="TOMAR DO GERU":
+  cMun=="2807501"
   cMunSIAFI="3249"
-if cMun=="2807600":
-  xMun="UMBAUBA"
+if xMun="UMBAUBA":
+  cMun=="2807600"
   cMunSIAFI="3251"
-if cMun=="3500105":
-  xMun="ADAMANTINA"
+if xMun="ADAMANTINA":
+  cMun=="3500105"
   cMunSIAFI="6101"
-if cMun=="3500204":
-  xMun="ADOLFO"
+if xMun="ADOLFO":
+  cMun=="3500204"
   cMunSIAFI="6103"
-if cMun=="3500303":
-  xMun="AGUAI"
+if xMun="AGUAI":
+  cMun=="3500303"
   cMunSIAFI="6105"
-if cMun=="3500402":
-  xMun="AGUAS DA PRATA"
+if xMun="AGUAS DA PRATA":
+  cMun=="3500402"
   cMunSIAFI="6107"
-if cMun=="3500501":
-  xMun="AGUAS DE LINDOIA"
+if xMun="AGUAS DE LINDOIA":
+  cMun=="3500501"
   cMunSIAFI="6109"
-if cMun=="3500550":
-  xMun="AGUAS DE SANTA BARBARA"
+if xMun="AGUAS DE SANTA BARBARA":
+  cMun=="3500550"
   cMunSIAFI="7019"
-if cMun=="3500600":
-  xMun="AGUAS DE SAO PEDRO"
+if xMun="AGUAS DE SAO PEDRO":
+  cMun=="3500600"
   cMunSIAFI="6111"
-if cMun=="3500709":
-  xMun="AGUDOS"
+if xMun="AGUDOS":
+  cMun=="3500709"
   cMunSIAFI="6113"
-if cMun=="3500758":
-  xMun="ALAMBARI"
+if xMun="ALAMBARI":
+  cMun=="3500758"
   cMunSIAFI="2995"
-if cMun=="3500808":
-  xMun="ALFREDO MARCONDES"
+if xMun="ALFREDO MARCONDES":
+  cMun=="3500808"
   cMunSIAFI="6115"
-if cMun=="3500907":
-  xMun="ALTAIR"
+if xMun="ALTAIR":
+  cMun=="3500907"
   cMunSIAFI="6117"
-if cMun=="3501004":
-  xMun="ALTINOPOLIS"
+if xMun="ALTINOPOLIS":
+  cMun=="3501004"
   cMunSIAFI="6119"
-if cMun=="3501103":
-  xMun="ALTO ALEGRE"
+if xMun="ALTO ALEGRE":
+  cMun=="3501103"
   cMunSIAFI="6121"
-if cMun=="3501152":
-  xMun="ALUMINIO"
+if xMun="ALUMINIO":
+  cMun=="3501152"
   cMunSIAFI="3065"
-if cMun=="3501202":
-  xMun="ALVARES FLORENCE"
+if xMun="ALVARES FLORENCE":
+  cMun=="3501202"
   cMunSIAFI="6123"
-if cMun=="3501301":
-  xMun="ALVARES MACHADO"
+if xMun="ALVARES MACHADO":
+  cMun=="3501301"
   cMunSIAFI="6125"
-if cMun=="3501400":
-  xMun="ALVARO DE CARVALHO"
+if xMun="ALVARO DE CARVALHO":
+  cMun=="3501400"
   cMunSIAFI="6127"
-if cMun=="3501509":
-  xMun="ALVINLANDIA"
+if xMun="ALVINLANDIA":
+  cMun=="3501509"
   cMunSIAFI="6129"
-if cMun=="3501608":
-  xMun="AMERICANA"
+if xMun="AMERICANA":
+  cMun=="3501608"
   cMunSIAFI="6131"
-if cMun=="3501707":
-  xMun="AMERICO BRASILIENSE"
+if xMun="AMERICO BRASILIENSE":
+  cMun=="3501707"
   cMunSIAFI="6133"
-if cMun=="3501806":
-  xMun="AMERICO DE CAMPOS"
+if xMun="AMERICO DE CAMPOS":
+  cMun=="3501806"
   cMunSIAFI="6135"
-if cMun=="3501905":
-  xMun="AMPARO"
+if xMun="AMPARO":
+  cMun=="3501905"
   cMunSIAFI="6137"
-if cMun=="3502002":
-  xMun="ANALANDIA"
+if xMun="ANALANDIA":
+  cMun=="3502002"
   cMunSIAFI="6139"
-if cMun=="3502101":
-  xMun="ANDRADINA"
+if xMun="ANDRADINA":
+  cMun=="3502101"
   cMunSIAFI="6141"
-if cMun=="3502200":
-  xMun="ANGATUBA"
+if xMun="ANGATUBA":
+  cMun=="3502200"
   cMunSIAFI="6143"
-if cMun=="3502309":
-  xMun="ANHEMBI"
+if xMun="ANHEMBI":
+  cMun=="3502309"
   cMunSIAFI="6145"
-if cMun=="3502408":
-  xMun="ANHUMAS"
+if xMun="ANHUMAS":
+  cMun=="3502408"
   cMunSIAFI="6147"
-if cMun=="3502507":
-  xMun="APARECIDA"
+if xMun="APARECIDA":
+  cMun=="3502507"
   cMunSIAFI="6149"
-if cMun=="3502606":
-  xMun="APARECIDA D OESTE"
+if xMun="APARECIDA D OESTE":
+  cMun=="3502606"
   cMunSIAFI="6151"
-if cMun=="3502705":
-  xMun="APIAI"
+if xMun="APIAI":
+  cMun=="3502705"
   cMunSIAFI="6153"
-if cMun=="3502754":
-  xMun="ARACARIGUAMA"
+if xMun="ARACARIGUAMA":
+  cMun=="3502754"
   cMunSIAFI="3067"
-if cMun=="3502804":
-  xMun="ARACATUBA"
+if xMun="ARACATUBA":
+  cMun=="3502804"
   cMunSIAFI="6155"
-if cMun=="3502903":
-  xMun="ARACOIABA DA SERRA"
+if xMun="ARACOIABA DA SERRA":
+  cMun=="3502903"
   cMunSIAFI="6157"
-if cMun=="3503000":
-  xMun="ARAMINA"
+if xMun="ARAMINA":
+  cMun=="3503000"
   cMunSIAFI="6159"
-if cMun=="3503109":
-  xMun="ARANDU"
+if xMun="ARANDU":
+  cMun=="3503109"
   cMunSIAFI="6161"
-if cMun=="3503158":
-  xMun="ARAPEI"
+if xMun="ARAPEI":
+  cMun=="3503158"
   cMunSIAFI="2991"
-if cMun=="3503208":
-  xMun="ARARAQUARA"
+if xMun="ARARAQUARA":
+  cMun=="3503208"
   cMunSIAFI="6163"
-if cMun=="3503307":
-  xMun="ARARAS"
+if xMun="ARARAS":
+  cMun=="3503307"
   cMunSIAFI="6165"
-if cMun=="3503356":
-  xMun="ARCO-IRIS"
+if xMun="ARCO-IRIS":
+  cMun=="3503356"
   cMunSIAFI="0790"
-if cMun=="3503406":
-  xMun="AREALVA"
+if xMun="AREALVA":
+  cMun=="3503406"
   cMunSIAFI="6167"
-if cMun=="3503505":
-  xMun="AREIAS"
+if xMun="AREIAS":
+  cMun=="3503505"
   cMunSIAFI="6169"
-if cMun=="3503604":
-  xMun="AREIOPOLIS"
+if xMun="AREIOPOLIS":
+  cMun=="3503604"
   cMunSIAFI="6171"
-if cMun=="3503703":
-  xMun="ARIRANHA"
+if xMun="ARIRANHA":
+  cMun=="3503703"
   cMunSIAFI="6173"
-if cMun=="3503802":
-  xMun="ARTUR NOGUEIRA"
+if xMun="ARTUR NOGUEIRA":
+  cMun=="3503802"
   cMunSIAFI="6175"
-if cMun=="3503901":
-  xMun="ARUJA"
+if xMun="ARUJA":
+  cMun=="3503901"
   cMunSIAFI="6177"
-if cMun=="3503950":
-  xMun="ASPASIA"
+if xMun="ASPASIA":
+  cMun=="3503950"
   cMunSIAFI="2981"
-if cMun=="3504008":
-  xMun="ASSIS"
+if xMun="ASSIS":
+  cMun=="3504008"
   cMunSIAFI="6179"
-if cMun=="3504107":
-  xMun="ATIBAIA"
+if xMun="ATIBAIA":
+  cMun=="3504107"
   cMunSIAFI="6181"
-if cMun=="3504206":
-  xMun="AURIFLAMA"
+if xMun="AURIFLAMA":
+  cMun=="3504206"
   cMunSIAFI="6183"
-if cMun=="3504305":
-  xMun="AVAI"
+if xMun="AVAI":
+  cMun=="3504305"
   cMunSIAFI="6185"
-if cMun=="3504404":
-  xMun="AVANHANDAVA"
+if xMun="AVANHANDAVA":
+  cMun=="3504404"
   cMunSIAFI="6187"
-if cMun=="3504503":
-  xMun="AVARE"
+if xMun="AVARE":
+  cMun=="3504503"
   cMunSIAFI="6189"
-if cMun=="3504602":
-  xMun="BADY BASSITT"
+if xMun="BADY BASSITT":
+  cMun=="3504602"
   cMunSIAFI="6191"
-if cMun=="3504701":
-  xMun="BALBINOS"
+if xMun="BALBINOS":
+  cMun=="3504701"
   cMunSIAFI="6193"
-if cMun=="3504800":
-  xMun="BALSAMO"
+if xMun="BALSAMO":
+  cMun=="3504800"
   cMunSIAFI="6195"
-if cMun=="3504909":
-  xMun="BANANAL"
+if xMun="BANANAL":
+  cMun=="3504909"
   cMunSIAFI="6197"
-if cMun=="3505005":
-  xMun="BARAO DE ANTONINA"
+if xMun="BARAO DE ANTONINA":
+  cMun=="3505005"
   cMunSIAFI="6201"
-if cMun=="3505104":
-  xMun="BARBOSA"
+if xMun="BARBOSA":
+  cMun=="3505104"
   cMunSIAFI="6199"
-if cMun=="3505203":
-  xMun="BARIRI"
+if xMun="BARIRI":
+  cMun=="3505203"
   cMunSIAFI="6203"
-if cMun=="3505302":
-  xMun="BARRA BONITA"
+if xMun="BARRA BONITA":
+  cMun=="3505302"
   cMunSIAFI="6205"
-if cMun=="3505351":
-  xMun="BARRA DO CHAPEU"
+if xMun="BARRA DO CHAPEU":
+  cMun=="3505351"
   cMunSIAFI="2997"
-if cMun=="3505401":
-  xMun="BARRA DO TURVO"
+if xMun="BARRA DO TURVO":
+  cMun=="3505401"
   cMunSIAFI="6207"
-if cMun=="3505500":
-  xMun="BARRETOS"
+if xMun="BARRETOS":
+  cMun=="3505500"
   cMunSIAFI="6209"
-if cMun=="3505609":
-  xMun="BARRINHA"
+if xMun="BARRINHA":
+  cMun=="3505609"
   cMunSIAFI="6211"
-if cMun=="3505708":
-  xMun="BARUERI"
+if xMun="BARUERI":
+  cMun=="3505708"
   cMunSIAFI="6213"
-if cMun=="3505807":
-  xMun="BASTOS"
+if xMun="BASTOS":
+  cMun=="3505807"
   cMunSIAFI="6215"
-if cMun=="3505906":
-  xMun="BATATAIS"
+if xMun="BATATAIS":
+  cMun=="3505906"
   cMunSIAFI="6217"
-if cMun=="3506003":
-  xMun="BAURU"
+if xMun="BAURU":
+  cMun=="3506003"
   cMunSIAFI="6219"
-if cMun=="3506102":
-  xMun="BEBEDOURO"
+if xMun="BEBEDOURO":
+  cMun=="3506102"
   cMunSIAFI="6221"
-if cMun=="3506201":
-  xMun="BENTO DE ABREU"
+if xMun="BENTO DE ABREU":
+  cMun=="3506201"
   cMunSIAFI="6223"
-if cMun=="3506300":
-  xMun="BERNARDINO DE CAMPOS"
+if xMun="BERNARDINO DE CAMPOS":
+  cMun=="3506300"
   cMunSIAFI="6225"
-if cMun=="3506359":
-  xMun="BERTIOGA"
+if xMun="BERTIOGA":
+  cMun=="3506359"
   cMunSIAFI="2965"
-if cMun=="3506409":
-  xMun="BILAC"
+if xMun="BILAC":
+  cMun=="3506409"
   cMunSIAFI="6227"
-if cMun=="3506508":
-  xMun="BIRIGUI"
+if xMun="BIRIGUI":
+  cMun=="3506508"
   cMunSIAFI="6229"
-if cMun=="3506607":
-  xMun="BIRITIBA-MIRIM"
+if xMun="BIRITIBA-MIRIM":
+  cMun=="3506607"
   cMunSIAFI="6231"
-if cMun=="3506706":
-  xMun="BOA ESPERANCA DO SUL"
+if xMun="BOA ESPERANCA DO SUL":
+  cMun=="3506706"
   cMunSIAFI="6233"
-if cMun=="3506805":
-  xMun="BOCAINA"
+if xMun="BOCAINA":
+  cMun=="3506805"
   cMunSIAFI="6235"
-if cMun=="3506904":
-  xMun="BOFETE"
+if xMun="BOFETE":
+  cMun=="3506904"
   cMunSIAFI="6237"
-if cMun=="3507001":
-  xMun="BOITUVA"
+if xMun="BOITUVA":
+  cMun=="3507001"
   cMunSIAFI="6239"
-if cMun=="3507100":
-  xMun="BOM JESUS DOS PERDÃ•ES"
+if xMun="BOM JESUS DOS PERDÃ•ES":
+  cMun=="3507100"
   cMunSIAFI="6241"
-if cMun=="3507159":
-  xMun="BOM SUCESSO DE ITARARE"
+if xMun="BOM SUCESSO DE ITARARE":
+  cMun=="3507159"
   cMunSIAFI="3059"
-if cMun=="3507209":
-  xMun="BORA"
+if xMun="BORA":
+  cMun=="3507209"
   cMunSIAFI="6243"
-if cMun=="3507308":
-  xMun="BORACEIA"
+if xMun="BORACEIA":
+  cMun=="3507308"
   cMunSIAFI="6245"
-if cMun=="3507407":
-  xMun="BORBOREMA"
+if xMun="BORBOREMA":
+  cMun=="3507407"
   cMunSIAFI="6247"
-if cMun=="3507456":
-  xMun="BOREBI"
+if xMun="BOREBI":
+  cMun=="3507456"
   cMunSIAFI="7247"
-if cMun=="3507506":
-  xMun="BOTUCATU"
+if xMun="BOTUCATU":
+  cMun=="3507506"
   cMunSIAFI="6249"
-if cMun=="3507605":
-  xMun="BRAGANCA PAULISTA"
+if xMun="BRAGANCA PAULISTA":
+  cMun=="3507605"
   cMunSIAFI="6251"
-if cMun=="3507704":
-  xMun="BRAUNA"
+if xMun="BRAUNA":
+  cMun=="3507704"
   cMunSIAFI="6255"
-if cMun=="3507753":
-  xMun="BREJO ALEGRE"
+if xMun="BREJO ALEGRE":
+  cMun=="3507753"
   cMunSIAFI="0792"
-if cMun=="3507803":
-  xMun="BRODOWSKI"
+if xMun="BRODOWSKI":
+  cMun=="3507803"
   cMunSIAFI="6257"
-if cMun=="3507902":
-  xMun="BROTAS"
+if xMun="BROTAS":
+  cMun=="3507902"
   cMunSIAFI="6259"
-if cMun=="3508009":
-  xMun="BURI"
+if xMun="BURI":
+  cMun=="3508009"
   cMunSIAFI="6261"
-if cMun=="3508108":
-  xMun="BURITAMA"
+if xMun="BURITAMA":
+  cMun=="3508108"
   cMunSIAFI="6263"
-if cMun=="3508207":
-  xMun="BURITIZAL"
+if xMun="BURITIZAL":
+  cMun=="3508207"
   cMunSIAFI="6265"
-if cMun=="3508306":
-  xMun="CABRALIA PAULISTA"
+if xMun="CABRALIA PAULISTA":
+  cMun=="3508306"
   cMunSIAFI="6267"
-if cMun=="3508405":
-  xMun="CABREUVA"
+if xMun="CABREUVA":
+  cMun=="3508405"
   cMunSIAFI="6269"
-if cMun=="3508504":
-  xMun="CACAPAVA"
+if xMun="CACAPAVA":
+  cMun=="3508504"
   cMunSIAFI="6271"
-if cMun=="3508603":
-  xMun="CACHOEIRA PAULISTA"
+if xMun="CACHOEIRA PAULISTA":
+  cMun=="3508603"
   cMunSIAFI="6273"
-if cMun=="3508702":
-  xMun="CACONDE"
+if xMun="CACONDE":
+  cMun=="3508702"
   cMunSIAFI="6275"
-if cMun=="3508801":
-  xMun="CAFELANDIA"
+if xMun="CAFELANDIA":
+  cMun=="3508801"
   cMunSIAFI="6277"
-if cMun=="3508900":
-  xMun="CAIABU"
+if xMun="CAIABU":
+  cMun=="3508900"
   cMunSIAFI="6279"
-if cMun=="3509007":
-  xMun="CAIEIRAS"
+if xMun="CAIEIRAS":
+  cMun=="3509007"
   cMunSIAFI="6281"
-if cMun=="3509106":
-  xMun="CAIUA"
+if xMun="CAIUA":
+  cMun=="3509106"
   cMunSIAFI="6283"
-if cMun=="3509205":
-  xMun="CAJAMAR"
+if xMun="CAJAMAR":
+  cMun=="3509205"
   cMunSIAFI="6285"
-if cMun=="3509254":
-  xMun="CAJATI"
+if xMun="CAJATI":
+  cMun=="3509254"
   cMunSIAFI="2967"
-if cMun=="3509304":
-  xMun="CAJOBI"
+if xMun="CAJOBI":
+  cMun=="3509304"
   cMunSIAFI="6287"
-if cMun=="3509403":
-  xMun="CAJURU"
+if xMun="CAJURU":
+  cMun=="3509403"
   cMunSIAFI="6289"
-if cMun=="3509452":
-  xMun="CAMPINA DO MONTE ALEGRE"
+if xMun="CAMPINA DO MONTE ALEGRE":
+  cMun=="3509452"
   cMunSIAFI="2999"
-if cMun=="3509502":
-  xMun="CAMPINAS"
+if xMun="CAMPINAS":
+  cMun=="3509502"
   cMunSIAFI="6291"
-if cMun=="3509601":
-  xMun="CAMPO LIMPO PAULISTA"
+if xMun="CAMPO LIMPO PAULISTA":
+  cMun=="3509601"
   cMunSIAFI="6293"
-if cMun=="3509700":
-  xMun="CAMPOS DO JORDAO"
+if xMun="CAMPOS DO JORDAO":
+  cMun=="3509700"
   cMunSIAFI="6295"
-if cMun=="3509809":
-  xMun="CAMPOS NOVOS PAULISTA"
+if xMun="CAMPOS NOVOS PAULISTA":
+  cMun=="3509809"
   cMunSIAFI="6297"
-if cMun=="3509908":
-  xMun="CANANEIA"
+if xMun="CANANEIA":
+  cMun=="3509908"
   cMunSIAFI="6299"
-if cMun=="3509957":
-  xMun="CANAS"
+if xMun="CANAS":
+  cMun=="3509957"
   cMunSIAFI="0794"
-if cMun=="3510005":
-  xMun="CANDIDO MOTA"
+if xMun="CANDIDO MOTA":
+  cMun=="3510005"
   cMunSIAFI="6301"
-if cMun=="3510104":
-  xMun="CANDIDO RODRIGUES"
+if xMun="CANDIDO RODRIGUES":
+  cMun=="3510104"
   cMunSIAFI="6303"
-if cMun=="3510153":
-  xMun="CANITAR"
+if xMun="CANITAR":
+  cMun=="3510153"
   cMunSIAFI="2947"
-if cMun=="3510203":
-  xMun="CAPAO BONITO"
+if xMun="CAPAO BONITO":
+  cMun=="3510203"
   cMunSIAFI="6305"
-if cMun=="3510302":
-  xMun="CAPELA DO ALTO"
+if xMun="CAPELA DO ALTO":
+  cMun=="3510302"
   cMunSIAFI="6307"
-if cMun=="3510401":
-  xMun="CAPIVARI"
+if xMun="CAPIVARI":
+  cMun=="3510401"
   cMunSIAFI="6309"
-if cMun=="3510500":
-  xMun="CARAGUATATUBA"
+if xMun="CARAGUATATUBA":
+  cMun=="3510500"
   cMunSIAFI="6311"
-if cMun=="3510609":
-  xMun="CARAPICUIBA"
+if xMun="CARAPICUIBA":
+  cMun=="3510609"
   cMunSIAFI="6313"
-if cMun=="3510708":
-  xMun="CARDOSO"
+if xMun="CARDOSO":
+  cMun=="3510708"
   cMunSIAFI="6315"
-if cMun=="3510807":
-  xMun="CASA BRANCA"
+if xMun="CASA BRANCA":
+  cMun=="3510807"
   cMunSIAFI="6317"
-if cMun=="3510906":
-  xMun="CASSIA DOS COQUEIROS"
+if xMun="CASSIA DOS COQUEIROS":
+  cMun=="3510906"
   cMunSIAFI="6319"
-if cMun=="3511003":
-  xMun="CASTILHO"
+if xMun="CASTILHO":
+  cMun=="3511003"
   cMunSIAFI="6321"
-if cMun=="3511102":
-  xMun="CATANDUVA"
+if xMun="CATANDUVA":
+  cMun=="3511102"
   cMunSIAFI="6323"
-if cMun=="3511201":
-  xMun="CATIGUA"
+if xMun="CATIGUA":
+  cMun=="3511201"
   cMunSIAFI="6325"
-if cMun=="3511300":
-  xMun="CEDRAL"
+if xMun="CEDRAL":
+  cMun=="3511300"
   cMunSIAFI="6327"
-if cMun=="3511409":
-  xMun="CERQUEIRA CESAR"
+if xMun="CERQUEIRA CESAR":
+  cMun=="3511409"
   cMunSIAFI="6329"
-if cMun=="3511508":
-  xMun="CERQUILHO"
+if xMun="CERQUILHO":
+  cMun=="3511508"
   cMunSIAFI="6331"
-if cMun=="3511607":
-  xMun="CESARIO LANGE"
+if xMun="CESARIO LANGE":
+  cMun=="3511607"
   cMunSIAFI="6333"
-if cMun=="3511706":
-  xMun="CHARQUEADA"
+if xMun="CHARQUEADA":
+  cMun=="3511706"
   cMunSIAFI="6335"
-if cMun=="3557204":
-  xMun="CHAVANTES"
+if xMun="CHAVANTES":
+  cMun=="3557204"
   cMunSIAFI="6337"
-if cMun=="3511904":
-  xMun="CLEMENTINA"
+if xMun="CLEMENTINA":
+  cMun=="3511904"
   cMunSIAFI="6339"
-if cMun=="3512001":
-  xMun="COLINA"
+if xMun="COLINA":
+  cMun=="3512001"
   cMunSIAFI="6341"
-if cMun=="3512100":
-  xMun="COLOMBIA"
+if xMun="COLOMBIA":
+  cMun=="3512100"
   cMunSIAFI="6343"
-if cMun=="3512209":
-  xMun="CONCHAL"
+if xMun="CONCHAL":
+  cMun=="3512209"
   cMunSIAFI="6345"
-if cMun=="3512308":
-  xMun="CONCHAS"
+if xMun="CONCHAS":
+  cMun=="3512308"
   cMunSIAFI="6347"
-if cMun=="3512407":
-  xMun="CORDEIROPOLIS"
+if xMun="CORDEIROPOLIS":
+  cMun=="3512407"
   cMunSIAFI="6349"
-if cMun=="3512506":
-  xMun="COROADOS"
+if xMun="COROADOS":
+  cMun=="3512506"
   cMunSIAFI="6351"
-if cMun=="3512605":
-  xMun="CORONEL MACEDO"
+if xMun="CORONEL MACEDO":
+  cMun=="3512605"
   cMunSIAFI="6353"
-if cMun=="3512704":
-  xMun="CORUMBATAI"
+if xMun="CORUMBATAI":
+  cMun=="3512704"
   cMunSIAFI="6355"
-if cMun=="3512803":
-  xMun="COSMOPOLIS"
+if xMun="COSMOPOLIS":
+  cMun=="3512803"
   cMunSIAFI="6357"
-if cMun=="3512902":
-  xMun="COSMORAMA"
+if xMun="COSMORAMA":
+  cMun=="3512902"
   cMunSIAFI="6359"
-if cMun=="3513009":
-  xMun="COTIA"
+if xMun="COTIA":
+  cMun=="3513009"
   cMunSIAFI="6361"
-if cMun=="3513108":
-  xMun="CRAVINHOS"
+if xMun="CRAVINHOS":
+  cMun=="3513108"
   cMunSIAFI="6363"
-if cMun=="3513207":
-  xMun="CRISTAIS PAULISTA"
+if xMun="CRISTAIS PAULISTA":
+  cMun=="3513207"
   cMunSIAFI="6365"
-if cMun=="3513306":
-  xMun="CRUZALIA"
+if xMun="CRUZALIA":
+  cMun=="3513306"
   cMunSIAFI="6367"
-if cMun=="3513405":
-  xMun="CRUZEIRO"
+if xMun="CRUZEIRO":
+  cMun=="3513405"
   cMunSIAFI="6369"
-if cMun=="3513504":
-  xMun="CUBATAO"
+if xMun="CUBATAO":
+  cMun=="3513504"
   cMunSIAFI="6371"
-if cMun=="3513603":
-  xMun="CUNHA"
+if xMun="CUNHA":
+  cMun=="3513603"
   cMunSIAFI="6373"
-if cMun=="3513702":
-  xMun="DESCALVADO"
+if xMun="DESCALVADO":
+  cMun=="3513702"
   cMunSIAFI="6375"
-if cMun=="3513801":
-  xMun="DIADEMA"
+if xMun="DIADEMA":
+  cMun=="3513801"
   cMunSIAFI="6377"
-if cMun=="3513850":
-  xMun="DIRCE REIS"
+if xMun="DIRCE REIS":
+  cMun=="3513850"
   cMunSIAFI="7249"
-if cMun=="3513900":
-  xMun="DIVINOLANDIA"
+if xMun="DIVINOLANDIA":
+  cMun=="3513900"
   cMunSIAFI="6379"
-if cMun=="3514007":
-  xMun="DOBRADA"
+if xMun="DOBRADA":
+  cMun=="3514007"
   cMunSIAFI="6381"
-if cMun=="3514106":
-  xMun="DOIS CORREGOS"
+if xMun="DOIS CORREGOS":
+  cMun=="3514106"
   cMunSIAFI="6383"
-if cMun=="3514205":
-  xMun="DOLCINOPOLIS"
+if xMun="DOLCINOPOLIS":
+  cMun=="3514205"
   cMunSIAFI="6385"
-if cMun=="3514304":
-  xMun="DOURADO"
+if xMun="DOURADO":
+  cMun=="3514304"
   cMunSIAFI="6387"
-if cMun=="3514403":
-  xMun="DRACENA"
+if xMun="DRACENA":
+  cMun=="3514403"
   cMunSIAFI="6389"
-if cMun=="3514502":
-  xMun="DUARTINA"
+if xMun="DUARTINA":
+  cMun=="3514502"
   cMunSIAFI="6391"
-if cMun=="3514601":
-  xMun="DUMONT"
+if xMun="DUMONT":
+  cMun=="3514601"
   cMunSIAFI="6393"
-if cMun=="3514700":
-  xMun="ECHAPORA"
+if xMun="ECHAPORA":
+  cMun=="3514700"
   cMunSIAFI="6395"
-if cMun=="3514809":
-  xMun="ELDORADO"
+if xMun="ELDORADO":
+  cMun=="3514809"
   cMunSIAFI="6397"
-if cMun=="3514908":
-  xMun="ELIAS FAUSTO"
+if xMun="ELIAS FAUSTO":
+  cMun=="3514908"
   cMunSIAFI="6399"
-if cMun=="3514924":
-  xMun="ELISIARIO"
+if xMun="ELISIARIO":
+  cMun=="3514924"
   cMunSIAFI="2975"
-if cMun=="3514957":
-  xMun="EMBAUBA"
+if xMun="EMBAUBA":
+  cMun=="3514957"
   cMunSIAFI="7251"
-if cMun=="3515004":
-  xMun="EMBU DAS ARTES"
+if xMun="EMBU DAS ARTES":
+  cMun=="3515004"
   cMunSIAFI="6401"
-if cMun=="3515103":
-  xMun="EMBU-GUACU"
+if xMun="EMBU-GUACU":
+  cMun=="3515103"
   cMunSIAFI="6403"
-if cMun=="3515129":
-  xMun="EMILIANOPOLIS"
+if xMun="EMILIANOPOLIS":
+  cMun=="3515129"
   cMunSIAFI="2961"
-if cMun=="3515152":
-  xMun="ENGENHEIRO COELHO"
+if xMun="ENGENHEIRO COELHO":
+  cMun=="3515152"
   cMunSIAFI="2949"
-if cMun=="3515186":
-  xMun="ESPIRITO SANTO DO PINHAL"
+if xMun="ESPIRITO SANTO DO PINHAL":
+  cMun=="3515186"
   cMunSIAFI="6865"
-if cMun=="3515194":
-  xMun="ESPIRITO SANTO DO TURVO"
+if xMun="ESPIRITO SANTO DO TURVO":
+  cMun=="3515194"
   cMunSIAFI="7253"
-if cMun=="3552106":
-  xMun="SOCORRO"
+if xMun="SOCORRO":
+  cMun=="3552106"
   cMunSIAFI="7143"
-if cMun=="3557303":
-  xMun="ESTIVA GERBI"
+if xMun="ESTIVA GERBI":
+  cMun=="3557303"
   cMunSIAFI="2959"
-if cMun=="3515301":
-  xMun="ESTRELA DO NORTE"
+if xMun="ESTRELA DO NORTE":
+  cMun=="3515301"
   cMunSIAFI="6407"
-if cMun=="3515202":
-  xMun="ESTRELA D OESTE"
+if xMun="ESTRELA D OESTE":
+  cMun=="3515202"
   cMunSIAFI="6405"
-if cMun=="3515350":
-  xMun="EUCLIDES DA CUNHA PAULISTA"
+if xMun="EUCLIDES DA CUNHA PAULISTA":
+  cMun=="3515350"
   cMunSIAFI="7255"
-if cMun=="3515400":
-  xMun="FARTURA"
+if xMun="FARTURA":
+  cMun=="3515400"
   cMunSIAFI="6409"
-if cMun=="3515608":
-  xMun="FERNANDO PRESTES"
+if xMun="FERNANDO PRESTES":
+  cMun=="3515608"
   cMunSIAFI="6413"
-if cMun=="3515509":
-  xMun="FERNANDOPOLIS"
+if xMun="FERNANDOPOLIS":
+  cMun=="3515509"
   cMunSIAFI="6411"
-if cMun=="3515657":
-  xMun="FERNAO"
+if xMun="FERNAO":
+  cMun=="3515657"
   cMunSIAFI="0796"
-if cMun=="3515707":
-  xMun="FERRAZ DE VASCONCELOS"
+if xMun="FERRAZ DE VASCONCELOS":
+  cMun=="3515707"
   cMunSIAFI="6415"
-if cMun=="3515806":
-  xMun="FLORA RICA"
+if xMun="FLORA RICA":
+  cMun=="3515806"
   cMunSIAFI="6417"
-if cMun=="3515905":
-  xMun="FLOREAL"
+if xMun="FLOREAL":
+  cMun=="3515905"
   cMunSIAFI="6419"
-if cMun=="3516002":
-  xMun="FLORIDA PAULISTA"
+if xMun="FLORIDA PAULISTA":
+  cMun=="3516002"
   cMunSIAFI="6421"
-if cMun=="3516101":
-  xMun="FLORINIA"
+if xMun="FLORINIA":
+  cMun=="3516101"
   cMunSIAFI="6423"
-if cMun=="3516200":
-  xMun="FRANCA"
+if xMun="FRANCA":
+  cMun=="3516200"
   cMunSIAFI="6425"
-if cMun=="3516309":
-  xMun="FRANCISCO MORATO"
+if xMun="FRANCISCO MORATO":
+  cMun=="3516309"
   cMunSIAFI="6427"
-if cMun=="3516408":
-  xMun="FRANCO DA ROCHA"
+if xMun="FRANCO DA ROCHA":
+  cMun=="3516408"
   cMunSIAFI="6429"
-if cMun=="3516507":
-  xMun="GABRIEL MONTEIRO"
+if xMun="GABRIEL MONTEIRO":
+  cMun=="3516507"
   cMunSIAFI="6431"
-if cMun=="3516606":
-  xMun="GALIA"
+if xMun="GALIA":
+  cMun=="3516606"
   cMunSIAFI="6433"
-if cMun=="3516705":
-  xMun="GARCA"
+if xMun="GARCA":
+  cMun=="3516705"
   cMunSIAFI="6435"
-if cMun=="3516804":
-  xMun="GASTAO VIDIGAL"
+if xMun="GASTAO VIDIGAL":
+  cMun=="3516804"
   cMunSIAFI="6437"
-if cMun=="3516853":
-  xMun="GAVIAO PEIXOTO"
+if xMun="GAVIAO PEIXOTO":
+  cMun=="3516853"
   cMunSIAFI="0798"
-if cMun=="3516903":
-  xMun="GENERAL SALGADO"
+if xMun="GENERAL SALGADO":
+  cMun=="3516903"
   cMunSIAFI="6439"
-if cMun=="3517000":
-  xMun="GETULINA"
+if xMun="GETULINA":
+  cMun=="3517000"
   cMunSIAFI="6441"
-if cMun=="3517109":
-  xMun="GLICERIO"
+if xMun="GLICERIO":
+  cMun=="3517109"
   cMunSIAFI="6443"
-if cMun=="3517208":
-  xMun="GUAICARA"
+if xMun="GUAICARA":
+  cMun=="3517208"
   cMunSIAFI="6445"
-if cMun=="3517307":
-  xMun="GUAIMBÃŠ"
+if xMun="GUAIMBÃŠ":
+  cMun=="3517307"
   cMunSIAFI="6447"
-if cMun=="3517406":
-  xMun="GUAIRA"
+if xMun="GUAIRA":
+  cMun=="3517406"
   cMunSIAFI="6449"
-if cMun=="3517505":
-  xMun="GUAPIACU"
+if xMun="GUAPIACU":
+  cMun=="3517505"
   cMunSIAFI="6451"
-if cMun=="3517604":
-  xMun="GUAPIARA"
+if xMun="GUAPIARA":
+  cMun=="3517604"
   cMunSIAFI="6453"
-if cMun=="3517703":
-  xMun="GUARA"
+if xMun="GUARA":
+  cMun=="3517703"
   cMunSIAFI="6455"
-if cMun=="3517802":
-  xMun="GUARACAI"
+if xMun="GUARACAI":
+  cMun=="3517802"
   cMunSIAFI="6457"
-if cMun=="3517901":
-  xMun="GUARACI"
+if xMun="GUARACI":
+  cMun=="3517901"
   cMunSIAFI="6459"
-if cMun=="3518008":
-  xMun="GUARANI D OESTE"
+if xMun="GUARANI D OESTE":
+  cMun=="3518008"
   cMunSIAFI="6461"
-if cMun=="3518107":
-  xMun="GUARANTA"
+if xMun="GUARANTA":
+  cMun=="3518107"
   cMunSIAFI="6463"
-if cMun=="3518206":
-  xMun="GUARARAPES"
+if xMun="GUARARAPES":
+  cMun=="3518206"
   cMunSIAFI="6465"
-if cMun=="3518305":
-  xMun="GUARAREMA"
+if xMun="GUARAREMA":
+  cMun=="3518305"
   cMunSIAFI="6467"
-if cMun=="3518404":
-  xMun="GUARATINGUETA"
+if xMun="GUARATINGUETA":
+  cMun=="3518404"
   cMunSIAFI="6469"
-if cMun=="3518503":
-  xMun="GUAREI"
+if xMun="GUAREI":
+  cMun=="3518503"
   cMunSIAFI="6471"
-if cMun=="3518602":
-  xMun="GUARIBA"
+if xMun="GUARIBA":
+  cMun=="3518602"
   cMunSIAFI="6473"
-if cMun=="3518701":
-  xMun="GUARUJA"
+if xMun="GUARUJA":
+  cMun=="3518701"
   cMunSIAFI="6475"
-if cMun=="3518800":
-  xMun="GUARULHOS"
+if xMun="GUARULHOS":
+  cMun=="3518800"
   cMunSIAFI="6477"
-if cMun=="3518859":
-  xMun="GUATAPARA"
+if xMun="GUATAPARA":
+  cMun=="3518859"
   cMunSIAFI="7257"
-if cMun=="3518909":
-  xMun="GUZOLANDIA"
+if xMun="GUZOLANDIA":
+  cMun=="3518909"
   cMunSIAFI="6479"
-if cMun=="3519006":
-  xMun="HERCULANDIA"
+if xMun="HERCULANDIA":
+  cMun=="3519006"
   cMunSIAFI="6481"
-if cMun=="3519055":
-  xMun="HOLAMBRA"
+if xMun="HOLAMBRA":
+  cMun=="3519055"
   cMunSIAFI="2953"
-if cMun=="3519071":
-  xMun="HORTOLANDIA"
+if xMun="HORTOLANDIA":
+  cMun=="3519071"
   cMunSIAFI="2951"
-if cMun=="3519105":
-  xMun="IACANGA"
+if xMun="IACANGA":
+  cMun=="3519105"
   cMunSIAFI="6483"
-if cMun=="3519204":
-  xMun="IACRI"
+if xMun="IACRI":
+  cMun=="3519204"
   cMunSIAFI="6485"
-if cMun=="3519253":
-  xMun="IARAS"
+if xMun="IARAS":
+  cMun=="3519253"
   cMunSIAFI="7259"
-if cMun=="3519303":
-  xMun="IBATE"
+if xMun="IBATE":
+  cMun=="3519303"
   cMunSIAFI="6487"
-if cMun=="3519402":
-  xMun="IBIRA"
+if xMun="IBIRA":
+  cMun=="3519402"
   cMunSIAFI="6489"
-if cMun=="3519501":
-  xMun="IBIRAREMA"
+if xMun="IBIRAREMA":
+  cMun=="3519501"
   cMunSIAFI="6491"
-if cMun=="3519600":
-  xMun="IBITINGA"
+if xMun="IBITINGA":
+  cMun=="3519600"
   cMunSIAFI="6493"
-if cMun=="3519709":
-  xMun="IBIUNA"
+if xMun="IBIUNA":
+  cMun=="3519709"
   cMunSIAFI="6495"
-if cMun=="3519808":
-  xMun="ICEM"
+if xMun="ICEM":
+  cMun=="3519808"
   cMunSIAFI="6497"
-if cMun=="3519907":
-  xMun="IEPÃŠ"
+if xMun="IEPÃŠ":
+  cMun=="3519907"
   cMunSIAFI="6499"
-if cMun=="3520004":
-  xMun="IGARACU DO TIETÃŠ"
+if xMun="IGARACU DO TIETÃŠ":
+  cMun=="3520004"
   cMunSIAFI="6501"
-if cMun=="3520103":
-  xMun="IGARAPAVA"
+if xMun="IGARAPAVA":
+  cMun=="3520103"
   cMunSIAFI="6503"
-if cMun=="3520202":
-  xMun="IGARATA"
+if xMun="IGARATA":
+  cMun=="3520202"
   cMunSIAFI="6505"
-if cMun=="3520301":
-  xMun="IGUAPE"
+if xMun="IGUAPE":
+  cMun=="3520301"
   cMunSIAFI="6507"
-if cMun=="3520426":
-  xMun="ILHA COMPRIDA"
+if xMun="ILHA COMPRIDA":
+  cMun=="3520426"
   cMunSIAFI="2969"
-if cMun=="3520442":
-  xMun="ILHA SOLTEIRA"
+if xMun="ILHA SOLTEIRA":
+  cMun=="3520442"
   cMunSIAFI="2943"
-if cMun=="3520400":
-  xMun="ILHABELA"
+if xMun="ILHABELA":
+  cMun=="3520400"
   cMunSIAFI="6509"
-if cMun=="3520509":
-  xMun="INDAIATUBA"
+if xMun="INDAIATUBA":
+  cMun=="3520509"
   cMunSIAFI="6511"
-if cMun=="3520608":
-  xMun="INDIANA"
+if xMun="INDIANA":
+  cMun=="3520608"
   cMunSIAFI="6513"
-if cMun=="3520707":
-  xMun="INDIAPORA"
+if xMun="INDIAPORA":
+  cMun=="3520707"
   cMunSIAFI="6515"
-if cMun=="3520806":
-  xMun="INUBIA PAULISTA"
+if xMun="INUBIA PAULISTA":
+  cMun=="3520806"
   cMunSIAFI="6517"
-if cMun=="3520905":
-  xMun="IPAUSSU"
+if xMun="IPAUSSU":
+  cMun=="3520905"
   cMunSIAFI="6519"
-if cMun=="3521002":
-  xMun="IPERO"
+if xMun="IPERO":
+  cMun=="3521002"
   cMunSIAFI="6521"
-if cMun=="3521101":
-  xMun="IPEUNA"
+if xMun="IPEUNA":
+  cMun=="3521101"
   cMunSIAFI="6523"
-if cMun=="3521150":
-  xMun="IPIGUA"
+if xMun="IPIGUA":
+  cMun=="3521150"
   cMunSIAFI="0800"
-if cMun=="3521200":
-  xMun="IPORANGA"
+if xMun="IPORANGA":
+  cMun=="3521200"
   cMunSIAFI="6525"
-if cMun=="3521309":
-  xMun="IPUA"
+if xMun="IPUA":
+  cMun=="3521309"
   cMunSIAFI="6527"
-if cMun=="3521408":
-  xMun="IRACEMAPOLIS"
+if xMun="IRACEMAPOLIS":
+  cMun=="3521408"
   cMunSIAFI="6529"
-if cMun=="3521507":
-  xMun="IRAPUA"
+if xMun="IRAPUA":
+  cMun=="3521507"
   cMunSIAFI="6531"
-if cMun=="3521606":
-  xMun="IRAPURU"
+if xMun="IRAPURU":
+  cMun=="3521606"
   cMunSIAFI="6533"
-if cMun=="3521705":
-  xMun="ITABERA"
+if xMun="ITABERA":
+  cMun=="3521705"
   cMunSIAFI="6535"
-if cMun=="3521804":
-  xMun="ITAI"
+if xMun="ITAI":
+  cMun=="3521804"
   cMunSIAFI="6537"
-if cMun=="3521903":
-  xMun="ITAJOBI"
+if xMun="ITAJOBI":
+  cMun=="3521903"
   cMunSIAFI="6539"
-if cMun=="3522000":
-  xMun="ITAJU"
+if xMun="ITAJU":
+  cMun=="3522000"
   cMunSIAFI="6541"
-if cMun=="3522109":
-  xMun="ITANHAEM"
+if xMun="ITANHAEM":
+  cMun=="3522109"
   cMunSIAFI="6543"
-if cMun=="3522158":
-  xMun="ITAOCA"
+if xMun="ITAOCA":
+  cMun=="3522158"
   cMunSIAFI="3053"
-if cMun=="3522208":
-  xMun="ITAPECERICA DA SERRA"
+if xMun="ITAPECERICA DA SERRA":
+  cMun=="3522208"
   cMunSIAFI="6545"
-if cMun=="3522307":
-  xMun="ITAPETININGA"
+if xMun="ITAPETININGA":
+  cMun=="3522307"
   cMunSIAFI="6547"
-if cMun=="3522406":
-  xMun="ITAPEVA"
+if xMun="ITAPEVA":
+  cMun=="3522406"
   cMunSIAFI="6549"
-if cMun=="3522505":
-  xMun="ITAPEVI"
+if xMun="ITAPEVI":
+  cMun=="3522505"
   cMunSIAFI="6551"
-if cMun=="3522604":
-  xMun="ITAPIRA"
+if xMun="ITAPIRA":
+  cMun=="3522604"
   cMunSIAFI="6553"
-if cMun=="3522653":
-  xMun="ITAPIRAPUA PAULISTA"
+if xMun="ITAPIRAPUA PAULISTA":
+  cMun=="3522653"
   cMunSIAFI="3055"
-if cMun=="3522703":
-  xMun="ITAPOLIS"
+if xMun="ITAPOLIS":
+  cMun=="3522703"
   cMunSIAFI="6555"
-if cMun=="3522802":
-  xMun="ITAPORANGA"
+if xMun="ITAPORANGA":
+  cMun=="3522802"
   cMunSIAFI="6557"
-if cMun=="3522901":
-  xMun="ITAPUI"
+if xMun="ITAPUI":
+  cMun=="3522901"
   cMunSIAFI="6559"
-if cMun=="3523008":
-  xMun="ITAPURA"
+if xMun="ITAPURA":
+  cMun=="3523008"
   cMunSIAFI="6561"
-if cMun=="3523107":
-  xMun="ITAQUAQUECETUBA"
+if xMun="ITAQUAQUECETUBA":
+  cMun=="3523107"
   cMunSIAFI="6563"
-if cMun=="3523206":
-  xMun="ITARARE"
+if xMun="ITARARE":
+  cMun=="3523206"
   cMunSIAFI="6565"
-if cMun=="3523305":
-  xMun="ITARIRI"
+if xMun="ITARIRI":
+  cMun=="3523305"
   cMunSIAFI="6567"
-if cMun=="3523404":
-  xMun="ITATIBA"
+if xMun="ITATIBA":
+  cMun=="3523404"
   cMunSIAFI="6569"
-if cMun=="3523503":
-  xMun="ITATINGA"
+if xMun="ITATINGA":
+  cMun=="3523503"
   cMunSIAFI="6571"
-if cMun=="3523602":
-  xMun="ITIRAPINA"
+if xMun="ITIRAPINA":
+  cMun=="3523602"
   cMunSIAFI="6573"
-if cMun=="3523701":
-  xMun="ITIRAPUA"
+if xMun="ITIRAPUA":
+  cMun=="3523701"
   cMunSIAFI="6575"
-if cMun=="3523800":
-  xMun="ITOBI"
+if xMun="ITOBI":
+  cMun=="3523800"
   cMunSIAFI="6577"
-if cMun=="3523909":
-  xMun="ITU"
+if xMun="ITU":
+  cMun=="3523909"
   cMunSIAFI="6579"
-if cMun=="3524006":
-  xMun="ITUPEVA"
+if xMun="ITUPEVA":
+  cMun=="3524006"
   cMunSIAFI="6581"
-if cMun=="3524105":
-  xMun="ITUVERAVA"
+if xMun="ITUVERAVA":
+  cMun=="3524105"
   cMunSIAFI="6583"
-if cMun=="3524204":
-  xMun="JABORANDI"
+if xMun="JABORANDI":
+  cMun=="3524204"
   cMunSIAFI="6585"
-if cMun=="3524303":
-  xMun="JABOTICABAL"
+if xMun="JABOTICABAL":
+  cMun=="3524303"
   cMunSIAFI="6587"
-if cMun=="3524402":
-  xMun="JACAREI"
+if xMun="JACAREI":
+  cMun=="3524402"
   cMunSIAFI="6589"
-if cMun=="3524501":
-  xMun="JACI"
+if xMun="JACI":
+  cMun=="3524501"
   cMunSIAFI="6591"
-if cMun=="3524600":
-  xMun="JACUPIRANGA"
+if xMun="JACUPIRANGA":
+  cMun=="3524600"
   cMunSIAFI="6593"
-if cMun=="3524709":
-  xMun="JAGUARIUNA"
+if xMun="JAGUARIUNA":
+  cMun=="3524709"
   cMunSIAFI="6595"
-if cMun=="3524808":
-  xMun="JALES"
+if xMun="JALES":
+  cMun=="3524808"
   cMunSIAFI="6597"
-if cMun=="3524907":
-  xMun="JAMBEIRO"
+if xMun="JAMBEIRO":
+  cMun=="3524907"
   cMunSIAFI="6599"
-if cMun=="3525003":
-  xMun="JANDIRA"
+if xMun="JANDIRA":
+  cMun=="3525003"
   cMunSIAFI="6601"
-if cMun=="3525102":
-  xMun="JARDINOPOLIS"
+if xMun="JARDINOPOLIS":
+  cMun=="3525102"
   cMunSIAFI="6603"
-if cMun=="3525201":
-  xMun="JARINU"
+if xMun="JARINU":
+  cMun=="3525201"
   cMunSIAFI="6605"
-if cMun=="3525300":
-  xMun="JAU"
+if xMun="JAU":
+  cMun=="3525300"
   cMunSIAFI="6607"
-if cMun=="3525409":
-  xMun="JERIQUARA"
+if xMun="JERIQUARA":
+  cMun=="3525409"
   cMunSIAFI="6609"
-if cMun=="3525508":
-  xMun="JOANOPOLIS"
+if xMun="JOANOPOLIS":
+  cMun=="3525508"
   cMunSIAFI="6611"
-if cMun=="3525607":
-  xMun="JOAO RAMALHO"
+if xMun="JOAO RAMALHO":
+  cMun=="3525607"
   cMunSIAFI="6613"
-if cMun=="3525706":
-  xMun="JOSE BONIFACIO"
+if xMun="JOSE BONIFACIO":
+  cMun=="3525706"
   cMunSIAFI="6615"
-if cMun=="3525805":
-  xMun="JULIO MESQUITA"
+if xMun="JULIO MESQUITA":
+  cMun=="3525805"
   cMunSIAFI="6617"
-if cMun=="3525854":
-  xMun="JUMIRIM"
+if xMun="JUMIRIM":
+  cMun=="3525854"
   cMunSIAFI="0802"
-if cMun=="3525904":
-  xMun="JUNDIAI"
+if xMun="JUNDIAI":
+  cMun=="3525904"
   cMunSIAFI="6619"
-if cMun=="3526001":
-  xMun="JUNQUEIROPOLIS"
+if xMun="JUNQUEIROPOLIS":
+  cMun=="3526001"
   cMunSIAFI="6621"
-if cMun=="3526100":
-  xMun="JUQUIA"
+if xMun="JUQUIA":
+  cMun=="3526100"
   cMunSIAFI="6623"
-if cMun=="3526209":
-  xMun="JUQUITIBA"
+if xMun="JUQUITIBA":
+  cMun=="3526209"
   cMunSIAFI="6625"
-if cMun=="3526308":
-  xMun="LAGOINHA"
+if xMun="LAGOINHA":
+  cMun=="3526308"
   cMunSIAFI="6627"
-if cMun=="3526407":
-  xMun="LARANJAL PAULISTA"
+if xMun="LARANJAL PAULISTA":
+  cMun=="3526407"
   cMunSIAFI="6629"
-if cMun=="3526506":
-  xMun="LAVINIA"
+if xMun="LAVINIA":
+  cMun=="3526506"
   cMunSIAFI="6631"
-if cMun=="3526605":
-  xMun="LAVRINHAS"
+if xMun="LAVRINHAS":
+  cMun=="3526605"
   cMunSIAFI="6633"
-if cMun=="3526704":
-  xMun="LEME"
+if xMun="LEME":
+  cMun=="3526704"
   cMunSIAFI="6635"
-if cMun=="3526803":
-  xMun="LENCOIS PAULISTA"
+if xMun="LENCOIS PAULISTA":
+  cMun=="3526803"
   cMunSIAFI="6637"
-if cMun=="3526902":
-  xMun="LIMEIRA"
+if xMun="LIMEIRA":
+  cMun=="3526902"
   cMunSIAFI="6639"
-if cMun=="3527009":
-  xMun="LINDOIA"
+if xMun="LINDOIA":
+  cMun=="3527009"
   cMunSIAFI="6641"
-if cMun=="3527108":
-  xMun="LINS"
+if xMun="LINS":
+  cMun=="3527108"
   cMunSIAFI="6643"
-if cMun=="3527207":
-  xMun="LORENA"
+if xMun="LORENA":
+  cMun=="3527207"
   cMunSIAFI="6645"
-if cMun=="3527256":
-  xMun="LOURDES"
+if xMun="LOURDES":
+  cMun=="3527256"
   cMunSIAFI="2937"
-if cMun=="3527306":
-  xMun="LOUVEIRA"
+if xMun="LOUVEIRA":
+  cMun=="3527306"
   cMunSIAFI="6647"
-if cMun=="3527405":
-  xMun="LUCELIA"
+if xMun="LUCELIA":
+  cMun=="3527405"
   cMunSIAFI="6649"
-if cMun=="3527504":
-  xMun="LUCIANOPOLIS"
+if xMun="LUCIANOPOLIS":
+  cMun=="3527504"
   cMunSIAFI="6651"
-if cMun=="3527603":
-  xMun="LUIS ANTONIO"
+if xMun="LUIS ANTONIO":
+  cMun=="3527603"
   cMunSIAFI="6653"
-if cMun=="3527702":
-  xMun="LUIZIANIA"
+if xMun="LUIZIANIA":
+  cMun=="3527702"
   cMunSIAFI="6655"
-if cMun=="3527801":
-  xMun="LUPERCIO"
+if xMun="LUPERCIO":
+  cMun=="3527801"
   cMunSIAFI="6657"
-if cMun=="3527900":
-  xMun="LUTECIA"
+if xMun="LUTECIA":
+  cMun=="3527900"
   cMunSIAFI="6659"
-if cMun=="3528007":
-  xMun="MACATUBA"
+if xMun="MACATUBA":
+  cMun=="3528007"
   cMunSIAFI="6661"
-if cMun=="3528106":
-  xMun="MACAUBAL"
+if xMun="MACAUBAL":
+  cMun=="3528106"
   cMunSIAFI="6663"
-if cMun=="3528205":
-  xMun="MACEDONIA"
+if xMun="MACEDONIA":
+  cMun=="3528205"
   cMunSIAFI="6665"
-if cMun=="3528304":
-  xMun="MAGDA"
+if xMun="MAGDA":
+  cMun=="3528304"
   cMunSIAFI="6667"
-if cMun=="3528403":
-  xMun="MAIRINQUE"
+if xMun="MAIRINQUE":
+  cMun=="3528403"
   cMunSIAFI="6669"
-if cMun=="3528502":
-  xMun="MAIRIPORA"
+if xMun="MAIRIPORA":
+  cMun=="3528502"
   cMunSIAFI="6671"
-if cMun=="3528601":
-  xMun="MANDURI"
+if xMun="MANDURI":
+  cMun=="3528601"
   cMunSIAFI="6673"
-if cMun=="3528700":
-  xMun="MARABA PAULISTA"
+if xMun="MARABA PAULISTA":
+  cMun=="3528700"
   cMunSIAFI="6675"
-if cMun=="3528809":
-  xMun="MARACAI"
+if xMun="MARACAI":
+  cMun=="3528809"
   cMunSIAFI="6677"
-if cMun=="3528858":
-  xMun="MARAPOAMA"
+if xMun="MARAPOAMA":
+  cMun=="3528858"
   cMunSIAFI="2977"
-if cMun=="3528908":
-  xMun="MARIAPOLIS"
+if xMun="MARIAPOLIS":
+  cMun=="3528908"
   cMunSIAFI="6679"
-if cMun=="3529005":
-  xMun="MARILIA"
+if xMun="MARILIA":
+  cMun=="3529005"
   cMunSIAFI="6681"
-if cMun=="3529104":
-  xMun="MARINOPOLIS"
+if xMun="MARINOPOLIS":
+  cMun=="3529104"
   cMunSIAFI="6683"
-if cMun=="3529203":
-  xMun="MARTINOPOLIS"
+if xMun="MARTINOPOLIS":
+  cMun=="3529203"
   cMunSIAFI="6685"
-if cMun=="3529302":
-  xMun="MATAO"
+if xMun="MATAO":
+  cMun=="3529302"
   cMunSIAFI="6687"
-if cMun=="3529401":
-  xMun="MAUA"
+if xMun="MAUA":
+  cMun=="3529401"
   cMunSIAFI="6689"
-if cMun=="3529500":
-  xMun="MENDONCA"
+if xMun="MENDONCA":
+  cMun=="3529500"
   cMunSIAFI="6691"
-if cMun=="3529609":
-  xMun="MERIDIANO"
+if xMun="MERIDIANO":
+  cMun=="3529609"
   cMunSIAFI="6693"
-if cMun=="3529658":
-  xMun="MESOPOLIS"
+if xMun="MESOPOLIS":
+  cMun=="3529658"
   cMunSIAFI="2983"
-if cMun=="3529708":
-  xMun="MIGUELOPOLIS"
+if xMun="MIGUELOPOLIS":
+  cMun=="3529708"
   cMunSIAFI="6695"
-if cMun=="3529807":
-  xMun="MINEIROS DO TIETÃŠ"
+if xMun="MINEIROS DO TIETÃŠ":
+  cMun=="3529807"
   cMunSIAFI="6697"
-if cMun=="3530003":
-  xMun="MIRA ESTRELA"
+if xMun="MIRA ESTRELA":
+  cMun=="3530003"
   cMunSIAFI="6701"
-if cMun=="3529906":
-  xMun="MIRACATU"
+if xMun="MIRACATU":
+  cMun=="3529906"
   cMunSIAFI="6699"
-if cMun=="3530102":
-  xMun="MIRANDOPOLIS"
+if xMun="MIRANDOPOLIS":
+  cMun=="3530102"
   cMunSIAFI="6703"
-if cMun=="3530201":
-  xMun="MIRANTE DO PARANAPANEMA"
+if xMun="MIRANTE DO PARANAPANEMA":
+  cMun=="3530201"
   cMunSIAFI="6705"
-if cMun=="3530300":
-  xMun="MIRASSOL"
+if xMun="MIRASSOL":
+  cMun=="3530300"
   cMunSIAFI="6707"
-if cMun=="3530409":
-  xMun="MIRASSOLANDIA"
+if xMun="MIRASSOLANDIA":
+  cMun=="3530409"
   cMunSIAFI="6709"
-if cMun=="3530508":
-  xMun="MOCOCA"
+if xMun="MOCOCA":
+  cMun=="3530508"
   cMunSIAFI="6711"
-if cMun=="3530607":
-  xMun="MOGI DAS CRUZES"
+if xMun="MOGI DAS CRUZES":
+  cMun=="3530607"
   cMunSIAFI="6713"
-if cMun=="3530706":
-  xMun="MOGI GUACU"
+if xMun="MOGI GUACU":
+  cMun=="3530706"
   cMunSIAFI="6715"
-if cMun=="3530805":
-  xMun="MOJI MIRIM"
+if xMun="MOJI MIRIM":
+  cMun=="3530805"
   cMunSIAFI="6717"
-if cMun=="3530805":
-  xMun="MOGI MIRIM"
+if xMun="MOGI MIRIM":
+  cMun=="3530805"
   cMunSIAFI="6717"
-if cMun=="3530904":
-  xMun="MOMBUCA"
+if xMun="MOMBUCA":
+  cMun=="3530904"
   cMunSIAFI="6719"
-if cMun=="3531001":
-  xMun="MONCÃ•ES"
+if xMun="MONCÃ•ES":
+  cMun=="3531001"
   cMunSIAFI="6721"
-if cMun=="3531100":
-  xMun="MONGAGUA"
+if xMun="MONGAGUA":
+  cMun=="3531100"
   cMunSIAFI="6723"
-if cMun=="3531209":
-  xMun="MONTE ALEGRE DO SUL"
+if xMun="MONTE ALEGRE DO SUL":
+  cMun=="3531209"
   cMunSIAFI="6725"
-if cMun=="3531308":
-  xMun="MONTE ALTO"
+if xMun="MONTE ALTO":
+  cMun=="3531308"
   cMunSIAFI="6727"
-if cMun=="3531407":
-  xMun="MONTE APRAZIVEL"
+if xMun="MONTE APRAZIVEL":
+  cMun=="3531407"
   cMunSIAFI="6729"
-if cMun=="3531506":
-  xMun="MONTE AZUL PAULISTA"
+if xMun="MONTE AZUL PAULISTA":
+  cMun=="3531506"
   cMunSIAFI="6731"
-if cMun=="3531605":
-  xMun="MONTE CASTELO"
+if xMun="MONTE CASTELO":
+  cMun=="3531605"
   cMunSIAFI="6733"
-if cMun=="3531803":
-  xMun="MONTE MOR"
+if xMun="MONTE MOR":
+  cMun=="3531803"
   cMunSIAFI="6737"
-if cMun=="3531704":
-  xMun="MONTEIRO LOBATO"
+if xMun="MONTEIRO LOBATO":
+  cMun=="3531704"
   cMunSIAFI="6735"
-if cMun=="3531902":
-  xMun="MORRO AGUDO"
+if xMun="MORRO AGUDO":
+  cMun=="3531902"
   cMunSIAFI="6739"
-if cMun=="3532009":
-  xMun="MORUNGABA"
+if xMun="MORUNGABA":
+  cMun=="3532009"
   cMunSIAFI="6741"
-if cMun=="3532058":
-  xMun="MOTUCA"
+if xMun="MOTUCA":
+  cMun=="3532058"
   cMunSIAFI="7263"
-if cMun=="3532108":
-  xMun="MURUTINGA DO SUL"
+if xMun="MURUTINGA DO SUL":
+  cMun=="3532108"
   cMunSIAFI="6743"
-if cMun=="3532157":
-  xMun="NANTES"
+if xMun="NANTES":
+  cMun=="3532157"
   cMunSIAFI="0804"
-if cMun=="3532207":
-  xMun="NARANDIBA"
+if xMun="NARANDIBA":
+  cMun=="3532207"
   cMunSIAFI="6745"
-if cMun=="3532306":
-  xMun="NATIVIDADE DA SERRA"
+if xMun="NATIVIDADE DA SERRA":
+  cMun=="3532306"
   cMunSIAFI="6747"
-if cMun=="3532405":
-  xMun="NAZARE PAULISTA"
+if xMun="NAZARE PAULISTA":
+  cMun=="3532405"
   cMunSIAFI="6749"
-if cMun=="3532504":
-  xMun="NEVES PAULISTA"
+if xMun="NEVES PAULISTA":
+  cMun=="3532504"
   cMunSIAFI="6751"
-if cMun=="3532603":
-  xMun="NHANDEARA"
+if xMun="NHANDEARA":
+  cMun=="3532603"
   cMunSIAFI="6753"
-if cMun=="3532702":
-  xMun="NIPOA"
+if xMun="NIPOA":
+  cMun=="3532702"
   cMunSIAFI="6755"
-if cMun=="3532801":
-  xMun="NOVA ALIANCA"
+if xMun="NOVA ALIANCA":
+  cMun=="3532801"
   cMunSIAFI="6757"
-if cMun=="3532827":
-  xMun="NOVA CAMPINA"
+if xMun="NOVA CAMPINA":
+  cMun=="3532827"
   cMunSIAFI="3061"
-if cMun=="3532843":
-  xMun="NOVA CANAA PAULISTA"
+if xMun="NOVA CANAA PAULISTA":
+  cMun=="3532843"
   cMunSIAFI="2985"
-if cMun=="3532868":
-  xMun="NOVA CASTILHO"
+if xMun="NOVA CASTILHO":
+  cMun=="3532868"
   cMunSIAFI="0806"
-if cMun=="3532900":
-  xMun="NOVA EUROPA"
+if xMun="NOVA EUROPA":
+  cMun=="3532900"
   cMunSIAFI="6759"
-if cMun=="3533007":
-  xMun="NOVA GRANADA"
+if xMun="NOVA GRANADA":
+  cMun=="3533007"
   cMunSIAFI="6761"
-if cMun=="3533106":
-  xMun="NOVA GUATAPORANGA"
+if xMun="NOVA GUATAPORANGA":
+  cMun=="3533106"
   cMunSIAFI="6763"
-if cMun=="3533205":
-  xMun="NOVA INDEPENDÃŠNCIA"
+if xMun="NOVA INDEPENDÃŠNCIA":
+  cMun=="3533205"
   cMunSIAFI="6765"
-if cMun=="3533304":
-  xMun="NOVA LUZITANIA"
+if xMun="NOVA LUZITANIA":
+  cMun=="3533304"
   cMunSIAFI="6767"
-if cMun=="3533403":
-  xMun="NOVA ODESSA"
+if xMun="NOVA ODESSA":
+  cMun=="3533403"
   cMunSIAFI="6769"
-if cMun=="3533254":
-  xMun="NOVAIS"
+if xMun="NOVAIS":
+  cMun=="3533254"
   cMunSIAFI="2979"
-if cMun=="3533502":
-  xMun="NOVO HORIZONTE"
+if xMun="NOVO HORIZONTE":
+  cMun=="3533502"
   cMunSIAFI="6771"
-if cMun=="3533601":
-  xMun="NUPORANGA"
+if xMun="NUPORANGA":
+  cMun=="3533601"
   cMunSIAFI="6773"
-if cMun=="3533700":
-  xMun="OCAUCU"
+if xMun="OCAUCU":
+  cMun=="3533700"
   cMunSIAFI="6775"
-if cMun=="3533809":
-  xMun="OLEO"
+if xMun="OLEO":
+  cMun=="3533809"
   cMunSIAFI="6777"
-if cMun=="3533908":
-  xMun="OLIMPIA"
+if xMun="OLIMPIA":
+  cMun=="3533908"
   cMunSIAFI="6779"
-if cMun=="3534005":
-  xMun="ONDA VERDE"
+if xMun="ONDA VERDE":
+  cMun=="3534005"
   cMunSIAFI="6781"
-if cMun=="3534104":
-  xMun="ORIENTE"
+if xMun="ORIENTE":
+  cMun=="3534104"
   cMunSIAFI="6783"
-if cMun=="3534203":
-  xMun="ORINDIUVA"
+if xMun="ORINDIUVA":
+  cMun=="3534203"
   cMunSIAFI="6785"
-if cMun=="3534302":
-  xMun="ORLANDIA"
+if xMun="ORLANDIA":
+  cMun=="3534302"
   cMunSIAFI="6787"
-if cMun=="3534401":
-  xMun="OSASCO"
+if xMun="OSASCO":
+  cMun=="3534401"
   cMunSIAFI="6789"
-if cMun=="3534500":
-  xMun="OSCAR BRESSANE"
+if xMun="OSCAR BRESSANE":
+  cMun=="3534500"
   cMunSIAFI="6791"
-if cMun=="3534609":
-  xMun="OSVALDO CRUZ"
+if xMun="OSVALDO CRUZ":
+  cMun=="3534609"
   cMunSIAFI="6793"
-if cMun=="3534708":
-  xMun="OURINHOS"
+if xMun="OURINHOS":
+  cMun=="3534708"
   cMunSIAFI="6795"
-if cMun=="3534807":
-  xMun="OURO VERDE"
+if xMun="OURO VERDE":
+  cMun=="3534807"
   cMunSIAFI="6797"
-if cMun=="3534757":
-  xMun="OUROESTE"
+if xMun="OUROESTE":
+  cMun=="3534757"
   cMunSIAFI="0808"
-if cMun=="3534906":
-  xMun="PACAEMBU"
+if xMun="PACAEMBU":
+  cMun=="3534906"
   cMunSIAFI="6799"
-if cMun=="3535002":
-  xMun="PALESTINA"
+if xMun="PALESTINA":
+  cMun=="3535002"
   cMunSIAFI="6801"
-if cMun=="3535101":
-  xMun="PALMARES PAULISTA"
+if xMun="PALMARES PAULISTA":
+  cMun=="3535101"
   cMunSIAFI="6803"
-if cMun=="3535200":
-  xMun="PALMEIRA D OESTE"
+if xMun="PALMEIRA D OESTE":
+  cMun=="3535200"
   cMunSIAFI="6805"
-if cMun=="3535309":
-  xMun="PALMITAL"
+if xMun="PALMITAL":
+  cMun=="3535309"
   cMunSIAFI="6807"
-if cMun=="3535408":
-  xMun="PANORAMA"
+if xMun="PANORAMA":
+  cMun=="3535408"
   cMunSIAFI="6809"
-if cMun=="3535507":
-  xMun="PARAGUACU PAULISTA"
+if xMun="PARAGUACU PAULISTA":
+  cMun=="3535507"
   cMunSIAFI="6811"
-if cMun=="3535606":
-  xMun="PARAIBUNA"
+if xMun="PARAIBUNA":
+  cMun=="3535606"
   cMunSIAFI="6813"
-if cMun=="3535705":
-  xMun="PARAISO"
+if xMun="PARAISO":
+  cMun=="3535705"
   cMunSIAFI="6815"
-if cMun=="3535804":
-  xMun="PARANAPANEMA"
+if xMun="PARANAPANEMA":
+  cMun=="3535804"
   cMunSIAFI="6817"
-if cMun=="3535903":
-  xMun="PARANAPUA"
+if xMun="PARANAPUA":
+  cMun=="3535903"
   cMunSIAFI="6819"
-if cMun=="3536000":
-  xMun="PARAPUA"
+if xMun="PARAPUA":
+  cMun=="3536000"
   cMunSIAFI="6821"
-if cMun=="3536109":
-  xMun="PARDINHO"
+if xMun="PARDINHO":
+  cMun=="3536109"
   cMunSIAFI="6823"
-if cMun=="3536208":
-  xMun="PARIQUERA-ACU"
+if xMun="PARIQUERA-ACU":
+  cMun=="3536208"
   cMunSIAFI="6825"
-if cMun=="3536257":
-  xMun="PARISI"
+if xMun="PARISI":
+  cMun=="3536257"
   cMunSIAFI="2989"
-if cMun=="3536307":
-  xMun="PATROCINIO PAULISTA"
+if xMun="PATROCINIO PAULISTA":
+  cMun=="3536307"
   cMunSIAFI="6827"
-if cMun=="3536406":
-  xMun="PAULICEIA"
+if xMun="PAULICEIA":
+  cMun=="3536406"
   cMunSIAFI="6829"
-if cMun=="3536505":
-  xMun="PAULINIA"
+if xMun="PAULINIA":
+  cMun=="3536505"
   cMunSIAFI="6831"
-if cMun=="3536570":
-  xMun="PAULISTANIA"
+if xMun="PAULISTANIA":
+  cMun=="3536570"
   cMunSIAFI="0810"
-if cMun=="3536604":
-  xMun="PAULO DE FARIA"
+if xMun="PAULO DE FARIA":
+  cMun=="3536604"
   cMunSIAFI="6833"
-if cMun=="3536703":
-  xMun="PEDERNEIRAS"
+if xMun="PEDERNEIRAS":
+  cMun=="3536703"
   cMunSIAFI="6835"
-if cMun=="3536802":
-  xMun="PEDRA BELA"
+if xMun="PEDRA BELA":
+  cMun=="3536802"
   cMunSIAFI="6837"
-if cMun=="3536901":
-  xMun="PEDRANOPOLIS"
+if xMun="PEDRANOPOLIS":
+  cMun=="3536901"
   cMunSIAFI="6839"
-if cMun=="3537008":
-  xMun="PEDREGULHO"
+if xMun="PEDREGULHO":
+  cMun=="3537008"
   cMunSIAFI="6841"
-if cMun=="3537107":
-  xMun="PEDREIRA"
+if xMun="PEDREIRA":
+  cMun=="3537107"
   cMunSIAFI="6843"
-if cMun=="3537156":
-  xMun="PEDRINHAS PAULISTA"
+if xMun="PEDRINHAS PAULISTA":
+  cMun=="3537156"
   cMunSIAFI="2963"
-if cMun=="3537206":
-  xMun="PEDRO DE TOLEDO"
+if xMun="PEDRO DE TOLEDO":
+  cMun=="3537206"
   cMunSIAFI="6845"
-if cMun=="3537305":
-  xMun="PENAPOLIS"
+if xMun="PENAPOLIS":
+  cMun=="3537305"
   cMunSIAFI="6847"
-if cMun=="3537404":
-  xMun="PEREIRA BARRETO"
+if xMun="PEREIRA BARRETO":
+  cMun=="3537404"
   cMunSIAFI="6849"
-if cMun=="3537503":
-  xMun="PEREIRAS"
+if xMun="PEREIRAS":
+  cMun=="3537503"
   cMunSIAFI="6851"
-if cMun=="3537602":
-  xMun="PERUIBE"
+if xMun="PERUIBE":
+  cMun=="3537602"
   cMunSIAFI="6853"
-if cMun=="3537701":
-  xMun="PIACATU"
+if xMun="PIACATU":
+  cMun=="3537701"
   cMunSIAFI="6855"
-if cMun=="3537800":
-  xMun="PIEDADE"
+if xMun="PIEDADE":
+  cMun=="3537800"
   cMunSIAFI="6857"
-if cMun=="3537909":
-  xMun="PILAR DO SUL"
+if xMun="PILAR DO SUL":
+  cMun=="3537909"
   cMunSIAFI="6859"
-if cMun=="3538006":
-  xMun="PINDAMONHANGABA"
+if xMun="PINDAMONHANGABA":
+  cMun=="3538006"
   cMunSIAFI="6861"
-if cMun=="3538105":
-  xMun="PINDORAMA"
+if xMun="PINDORAMA":
+  cMun=="3538105"
   cMunSIAFI="6863"
-if cMun=="3538204":
-  xMun="PINHALZINHO"
+if xMun="PINHALZINHO":
+  cMun=="3538204"
   cMunSIAFI="6867"
-if cMun=="3538303":
-  xMun="PIQUEROBI"
+if xMun="PIQUEROBI":
+  cMun=="3538303"
   cMunSIAFI="6869"
-if cMun=="3538501":
-  xMun="PIQUETE"
+if xMun="PIQUETE":
+  cMun=="3538501"
   cMunSIAFI="6871"
-if cMun=="3538600":
-  xMun="PIRACAIA"
+if xMun="PIRACAIA":
+  cMun=="3538600"
   cMunSIAFI="6873"
-if cMun=="3538709":
-  xMun="PIRACICABA"
+if xMun="PIRACICABA":
+  cMun=="3538709"
   cMunSIAFI="6875"
-if cMun=="3538808":
-  xMun="PIRAJU"
+if xMun="PIRAJU":
+  cMun=="3538808"
   cMunSIAFI="6877"
-if cMun=="3538907":
-  xMun="PIRAJUI"
+if xMun="PIRAJUI":
+  cMun=="3538907"
   cMunSIAFI="6879"
-if cMun=="3539004":
-  xMun="PIRANGI"
+if xMun="PIRANGI":
+  cMun=="3539004"
   cMunSIAFI="6881"
-if cMun=="3539103":
-  xMun="PIRAPORA DO BOM JESUS"
+if xMun="PIRAPORA DO BOM JESUS":
+  cMun=="3539103"
   cMunSIAFI="6883"
-if cMun=="3539202":
-  xMun="PIRAPOZINHO"
+if xMun="PIRAPOZINHO":
+  cMun=="3539202"
   cMunSIAFI="6885"
-if cMun=="3539301":
-  xMun="PIRASSUNUNGA"
+if xMun="PIRASSUNUNGA":
+  cMun=="3539301"
   cMunSIAFI="6887"
-if cMun=="3539400":
-  xMun="PIRATININGA"
+if xMun="PIRATININGA":
+  cMun=="3539400"
   cMunSIAFI="6889"
-if cMun=="3539509":
-  xMun="PITANGUEIRAS"
+if xMun="PITANGUEIRAS":
+  cMun=="3539509"
   cMunSIAFI="6891"
-if cMun=="3539608":
-  xMun="PLANALTO"
+if xMun="PLANALTO":
+  cMun=="3539608"
   cMunSIAFI="6893"
-if cMun=="3539707":
-  xMun="PLATINA"
+if xMun="PLATINA":
+  cMun=="3539707"
   cMunSIAFI="6895"
-if cMun=="3539806":
-  xMun="POA"
+if xMun="POA":
+  cMun=="3539806"
   cMunSIAFI="6897"
-if cMun=="3539905":
-  xMun="POLONI"
+if xMun="POLONI":
+  cMun=="3539905"
   cMunSIAFI="6899"
-if cMun=="3540002":
-  xMun="POMPEIA"
+if xMun="POMPEIA":
+  cMun=="3540002"
   cMunSIAFI="6901"
-if cMun=="3540101":
-  xMun="PONGAI"
+if xMun="PONGAI":
+  cMun=="3540101"
   cMunSIAFI="6903"
-if cMun=="3540200":
-  xMun="PONTAL"
+if xMun="PONTAL":
+  cMun=="3540200"
   cMunSIAFI="6905"
-if cMun=="3540259":
-  xMun="PONTALINDA"
+if xMun="PONTALINDA":
+  cMun=="3540259"
   cMunSIAFI="2987"
-if cMun=="3540309":
-  xMun="PONTES GESTAL"
+if xMun="PONTES GESTAL":
+  cMun=="3540309"
   cMunSIAFI="6907"
-if cMun=="3540408":
-  xMun="POPULINA"
+if xMun="POPULINA":
+  cMun=="3540408"
   cMunSIAFI="6909"
-if cMun=="3540507":
-  xMun="PORANGABA"
+if xMun="PORANGABA":
+  cMun=="3540507"
   cMunSIAFI="6911"
-if cMun=="3540606":
-  xMun="PORTO FELIZ"
+if xMun="PORTO FELIZ":
+  cMun=="3540606"
   cMunSIAFI="6913"
-if cMun=="3540705":
-  xMun="PORTO FERREIRA"
+if xMun="PORTO FERREIRA":
+  cMun=="3540705"
   cMunSIAFI="6915"
-if cMun=="3540754":
-  xMun="POTIM"
+if xMun="POTIM":
+  cMun=="3540754"
   cMunSIAFI="2993"
-if cMun=="3540804":
-  xMun="POTIRENDABA"
+if xMun="POTIRENDABA":
+  cMun=="3540804"
   cMunSIAFI="6917"
-if cMun=="3540853":
-  xMun="PRACINHA"
+if xMun="PRACINHA":
+  cMun=="3540853"
   cMunSIAFI="0812"
-if cMun=="3540903":
-  xMun="PRADOPOLIS"
+if xMun="PRADOPOLIS":
+  cMun=="3540903"
   cMunSIAFI="6919"
-if cMun=="3541000":
-  xMun="PRAIA GRANDE"
+if xMun="PRAIA GRANDE":
+  cMun=="3541000"
   cMunSIAFI="6921"
-if cMun=="3541059":
-  xMun="PRATANIA"
+if xMun="PRATANIA":
+  cMun=="3541059"
   cMunSIAFI="0814"
-if cMun=="3541109":
-  xMun="PRESIDENTE ALVES"
+if xMun="PRESIDENTE ALVES":
+  cMun=="3541109"
   cMunSIAFI="6923"
-if cMun=="3541208":
-  xMun="PRESIDENTE BERNARDES"
+if xMun="PRESIDENTE BERNARDES":
+  cMun=="3541208"
   cMunSIAFI="6925"
-if cMun=="3541307":
-  xMun="PRESIDENTE EPITACIO"
+if xMun="PRESIDENTE EPITACIO":
+  cMun=="3541307"
   cMunSIAFI="6927"
-if cMun=="3541406":
-  xMun="PRESIDENTE PRUDENTE"
+if xMun="PRESIDENTE PRUDENTE":
+  cMun=="3541406"
   cMunSIAFI="6929"
-if cMun=="3541505":
-  xMun="PRESIDENTE VENCESLAU"
+if xMun="PRESIDENTE VENCESLAU":
+  cMun=="3541505"
   cMunSIAFI="6931"
-if cMun=="3541604":
-  xMun="PROMISSAO"
+if xMun="PROMISSAO":
+  cMun=="3541604"
   cMunSIAFI="6933"
-if cMun=="3541653":
-  xMun="QUADRA"
+if xMun="QUADRA":
+  cMun=="3541653"
   cMunSIAFI="0816"
-if cMun=="3541703":
-  xMun="QUATA"
+if xMun="QUATA":
+  cMun=="3541703"
   cMunSIAFI="6935"
-if cMun=="3541802":
-  xMun="QUEIROZ"
+if xMun="QUEIROZ":
+  cMun=="3541802"
   cMunSIAFI="6937"
-if cMun=="3541901":
-  xMun="QUELUZ"
+if xMun="QUELUZ":
+  cMun=="3541901"
   cMunSIAFI="6939"
-if cMun=="3542008":
-  xMun="QUINTANA"
+if xMun="QUINTANA":
+  cMun=="3542008"
   cMunSIAFI="6941"
-if cMun=="3542107":
-  xMun="RAFARD"
+if xMun="RAFARD":
+  cMun=="3542107"
   cMunSIAFI="6943"
-if cMun=="3542206":
-  xMun="RANCHARIA"
+if xMun="RANCHARIA":
+  cMun=="3542206"
   cMunSIAFI="6945"
-if cMun=="3542305":
-  xMun="REDENCAO DA SERRA"
+if xMun="REDENCAO DA SERRA":
+  cMun=="3542305"
   cMunSIAFI="6947"
-if cMun=="3542404":
-  xMun="REGENTE FEIJO"
+if xMun="REGENTE FEIJO":
+  cMun=="3542404"
   cMunSIAFI="6949"
-if cMun=="3542503":
-  xMun="REGINOPOLIS"
+if xMun="REGINOPOLIS":
+  cMun=="3542503"
   cMunSIAFI="6951"
-if cMun=="3542602":
-  xMun="REGISTRO"
+if xMun="REGISTRO":
+  cMun=="3542602"
   cMunSIAFI="6953"
-if cMun=="3542701":
-  xMun="RESTINGA"
+if xMun="RESTINGA":
+  cMun=="3542701"
   cMunSIAFI="6955"
-if cMun=="3542800":
-  xMun="RIBEIRA"
+if xMun="RIBEIRA":
+  cMun=="3542800"
   cMunSIAFI="6957"
-if cMun=="3542909":
-  xMun="RIBEIRAO BONITO"
+if xMun="RIBEIRAO BONITO":
+  cMun=="3542909"
   cMunSIAFI="6959"
-if cMun=="3543006":
-  xMun="RIBEIRAO BRANCO"
+if xMun="RIBEIRAO BRANCO":
+  cMun=="3543006"
   cMunSIAFI="6961"
-if cMun=="3543105":
-  xMun="RIBEIRAO CORRENTE"
+if xMun="RIBEIRAO CORRENTE":
+  cMun=="3543105"
   cMunSIAFI="6963"
-if cMun=="3543204":
-  xMun="RIBEIRAO DO SUL"
+if xMun="RIBEIRAO DO SUL":
+  cMun=="3543204"
   cMunSIAFI="6965"
-if cMun=="3543238":
-  xMun="RIBEIRAO DOS INDIOS"
+if xMun="RIBEIRAO DOS INDIOS":
+  cMun=="3543238"
   cMunSIAFI="0818"
-if cMun=="3543253":
-  xMun="RIBEIRAO GRANDE"
+if xMun="RIBEIRAO GRANDE":
+  cMun=="3543253"
   cMunSIAFI="3057"
-if cMun=="3543303":
-  xMun="RIBEIRAO PIRES"
+if xMun="RIBEIRAO PIRES":
+  cMun=="3543303"
   cMunSIAFI="6967"
-if cMun=="3543402":
-  xMun="RIBEIRAO PRETO"
+if xMun="RIBEIRAO PRETO":
+  cMun=="3543402"
   cMunSIAFI="6969"
-if cMun=="3543600":
-  xMun="RIFAINA"
+if xMun="RIFAINA":
+  cMun=="3543600"
   cMunSIAFI="6973"
-if cMun=="3543709":
-  xMun="RINCAO"
+if xMun="RINCAO":
+  cMun=="3543709"
   cMunSIAFI="6975"
-if cMun=="3543808":
-  xMun="RINOPOLIS"
+if xMun="RINOPOLIS":
+  cMun=="3543808"
   cMunSIAFI="6977"
-if cMun=="3543907":
-  xMun="RIO CLARO"
+if xMun="RIO CLARO":
+  cMun=="3543907"
   cMunSIAFI="6979"
-if cMun=="3544004":
-  xMun="RIO DAS PEDRAS"
+if xMun="RIO DAS PEDRAS":
+  cMun=="3544004"
   cMunSIAFI="6981"
-if cMun=="3544103":
-  xMun="RIO GRANDE DA SERRA"
+if xMun="RIO GRANDE DA SERRA":
+  cMun=="3544103"
   cMunSIAFI="6983"
-if cMun=="3544202":
-  xMun="RIOLANDIA"
+if xMun="RIOLANDIA":
+  cMun=="3544202"
   cMunSIAFI="6985"
-if cMun=="3543501":
-  xMun="RIVERSUL"
+if xMun="RIVERSUL":
+  cMun=="3543501"
   cMunSIAFI="6971"
-if cMun=="3544251":
-  xMun="ROSANA"
+if xMun="ROSANA":
+  cMun=="3544251"
   cMunSIAFI="7265"
-if cMun=="3544301":
-  xMun="ROSEIRA"
+if xMun="ROSEIRA":
+  cMun=="3544301"
   cMunSIAFI="6987"
-if cMun=="3544400":
-  xMun="RUBIACEA"
+if xMun="RUBIACEA":
+  cMun=="3544400"
   cMunSIAFI="6989"
-if cMun=="3544509":
-  xMun="RUBINEIA"
+if xMun="RUBINEIA":
+  cMun=="3544509"
   cMunSIAFI="6991"
-if cMun=="3544608":
-  xMun="SABINO"
+if xMun="SABINO":
+  cMun=="3544608"
   cMunSIAFI="6993"
-if cMun=="3544707":
-  xMun="SAGRES"
+if xMun="SAGRES":
+  cMun=="3544707"
   cMunSIAFI="6995"
-if cMun=="3544806":
-  xMun="SALES"
+if xMun="SALES":
+  cMun=="3544806"
   cMunSIAFI="6997"
-if cMun=="3544905":
-  xMun="SALES OLIVEIRA"
+if xMun="SALES OLIVEIRA":
+  cMun=="3544905"
   cMunSIAFI="6999"
-if cMun=="3545001":
-  xMun="SALESOPOLIS"
+if xMun="SALESOPOLIS":
+  cMun=="3545001"
   cMunSIAFI="7001"
-if cMun=="3545100":
-  xMun="SALMOURAO"
+if xMun="SALMOURAO":
+  cMun=="3545100"
   cMunSIAFI="7003"
-if cMun=="3545159":
-  xMun="SALTINHO"
+if xMun="SALTINHO":
+  cMun=="3545159"
   cMunSIAFI="5445"
-if cMun=="3545209":
-  xMun="SALTO"
+if xMun="SALTO":
+  cMun=="3545209"
   cMunSIAFI="7005"
-if cMun=="3545308":
-  xMun="SALTO DE PIRAPORA"
+if xMun="SALTO DE PIRAPORA":
+  cMun=="3545308"
   cMunSIAFI="7007"
-if cMun=="3545407":
-  xMun="SALTO GRANDE"
+if xMun="SALTO GRANDE":
+  cMun=="3545407"
   cMunSIAFI="7009"
-if cMun=="3545506":
-  xMun="SANDOVALINA"
+if xMun="SANDOVALINA":
+  cMun=="3545506"
   cMunSIAFI="7011"
-if cMun=="3545605":
-  xMun="SANTA ADELIA"
+if xMun="SANTA ADELIA":
+  cMun=="3545605"
   cMunSIAFI="7013"
-if cMun=="3545704":
-  xMun="SANTA ALBERTINA"
+if xMun="SANTA ALBERTINA":
+  cMun=="3545704"
   cMunSIAFI="7015"
-if cMun=="3545803":
-  xMun="SANTA BARBARA D OESTE"
+if xMun="SANTA BARBARA D OESTE":
+  cMun=="3545803"
   cMunSIAFI="7017"
-if cMun=="3546009":
-  xMun="SANTA BRANCA"
+if xMun="SANTA BRANCA":
+  cMun=="3546009"
   cMunSIAFI="7021"
-if cMun=="3546108":
-  xMun="SANTA CLARA D OESTE"
+if xMun="SANTA CLARA D OESTE":
+  cMun=="3546108"
   cMunSIAFI="7023"
-if cMun=="3546207":
-  xMun="SANTA CRUZ DA CONCEICAO"
+if xMun="SANTA CRUZ DA CONCEICAO":
+  cMun=="3546207"
   cMunSIAFI="7025"
-if cMun=="3546256":
-  xMun="SANTA CRUZ DA ESPERANCA"
+if xMun="SANTA CRUZ DA ESPERANCA":
+  cMun=="3546256"
   cMunSIAFI="0820"
-if cMun=="3546306":
-  xMun="SANTA CRUZ DAS PALMEIRAS"
+if xMun="SANTA CRUZ DAS PALMEIRAS":
+  cMun=="3546306"
   cMunSIAFI="7027"
-if cMun=="3546405":
-  xMun="SANTA CRUZ DO RIO PARDO"
+if xMun="SANTA CRUZ DO RIO PARDO":
+  cMun=="3546405"
   cMunSIAFI="7029"
-if cMun=="3546504":
-  xMun="SANTA ERNESTINA"
+if xMun="SANTA ERNESTINA":
+  cMun=="3546504"
   cMunSIAFI="7031"
-if cMun=="3546603":
-  xMun="SANTA FE DO SUL"
+if xMun="SANTA FE DO SUL":
+  cMun=="3546603"
   cMunSIAFI="7033"
-if cMun=="3546702":
-  xMun="SANTA GERTRUDES"
+if xMun="SANTA GERTRUDES":
+  cMun=="3546702"
   cMunSIAFI="7035"
-if cMun=="3546801":
-  xMun="SANTA ISABEL"
+if xMun="SANTA ISABEL":
+  cMun=="3546801"
   cMunSIAFI="7037"
-if cMun=="3546900":
-  xMun="SANTA LUCIA"
+if xMun="SANTA LUCIA":
+  cMun=="3546900"
   cMunSIAFI="7039"
-if cMun=="3547007":
-  xMun="SANTA MARIA DA SERRA"
+if xMun="SANTA MARIA DA SERRA":
+  cMun=="3547007"
   cMunSIAFI="7041"
-if cMun=="3547106":
-  xMun="SANTA MERCEDES"
+if xMun="SANTA MERCEDES":
+  cMun=="3547106"
   cMunSIAFI="7043"
-if cMun=="3547502":
-  xMun="SANTA RITA DO PASSA QUATRO"
+if xMun="SANTA RITA DO PASSA QUATRO":
+  cMun=="3547502"
   cMunSIAFI="7051"
-if cMun=="3547403":
-  xMun="SANTA RITA D OESTE"
+if xMun="SANTA RITA D OESTE":
+  cMun=="3547403"
   cMunSIAFI="7049"
-if cMun=="3547601":
-  xMun="SANTA ROSA DE VITERBO"
+if xMun="SANTA ROSA DE VITERBO":
+  cMun=="3547601"
   cMunSIAFI="7053"
-if cMun=="3547650":
-  xMun="SANTA SALETE"
+if xMun="SANTA SALETE":
+  cMun=="3547650"
   cMunSIAFI="0822"
-if cMun=="3547205":
-  xMun="SANTANA DA PONTE PENSA"
+if xMun="SANTANA DA PONTE PENSA":
+  cMun=="3547205"
   cMunSIAFI="7045"
-if cMun=="3547304":
-  xMun="SANTANA DE PARNAIBA"
+if xMun="SANTANA DE PARNAIBA":
+  cMun=="3547304"
   cMunSIAFI="7047"
-if cMun=="3547700":
-  xMun="SANTO ANASTACIO"
+if xMun="SANTO ANASTACIO":
+  cMun=="3547700"
   cMunSIAFI="7055"
-if cMun=="3547809":
-  xMun="SANTO ANDRE"
+if xMun="SANTO ANDRE":
+  cMun=="3547809"
   cMunSIAFI="7057"
-if cMun=="3547908":
-  xMun="SANTO ANTONIO DA ALEGRIA"
+if xMun="SANTO ANTONIO DA ALEGRIA":
+  cMun=="3547908"
   cMunSIAFI="7059"
-if cMun=="3548005":
-  xMun="SANTO ANTONIO DE POSSE"
+if xMun="SANTO ANTONIO DE POSSE":
+  cMun=="3548005"
   cMunSIAFI="7061"
-if cMun=="3548054":
-  xMun="SANTO ANTONIO DO ARACANGUA"
+if xMun="SANTO ANTONIO DO ARACANGUA":
+  cMun=="3548054"
   cMunSIAFI="2939"
-if cMun=="3548104":
-  xMun="SANTO ANTONIO DO JARDIM"
+if xMun="SANTO ANTONIO DO JARDIM":
+  cMun=="3548104"
   cMunSIAFI="7063"
-if cMun=="3548203":
-  xMun="SANTO ANTONIO DO PINHAL"
+if xMun="SANTO ANTONIO DO PINHAL":
+  cMun=="3548203"
   cMunSIAFI="7065"
-if cMun=="3548302":
-  xMun="SANTO EXPEDITO"
+if xMun="SANTO EXPEDITO":
+  cMun=="3548302"
   cMunSIAFI="7067"
-if cMun=="3548401":
-  xMun="SANTOPOLIS DO AGUAPEI"
+if xMun="SANTOPOLIS DO AGUAPEI":
+  cMun=="3548401"
   cMunSIAFI="7069"
-if cMun=="3548500":
-  xMun="SANTOS"
+if xMun="SANTOS":
+  cMun=="3548500"
   cMunSIAFI="7071"
-if cMun=="3548609":
-  xMun="SAO BENTO DO SAPUCAI"
+if xMun="SAO BENTO DO SAPUCAI":
+  cMun=="3548609"
   cMunSIAFI="7073"
-if cMun=="3548708":
-  xMun="SAO BERNARDO DO CAMPO"
+if xMun="SAO BERNARDO DO CAMPO":
+  cMun=="3548708"
   cMunSIAFI="7075"
-if cMun=="3548807":
-  xMun="SAO CAETANO DO SUL"
+if xMun="SAO CAETANO DO SUL":
+  cMun=="3548807"
   cMunSIAFI="7077"
-if cMun=="3548906":
-  xMun="SAO CARLOS"
+if xMun="SAO CARLOS":
+  cMun=="3548906"
   cMunSIAFI="7079"
-if cMun=="3549003":
-  xMun="SAO FRANCISCO"
+if xMun="SAO FRANCISCO":
+  cMun=="3549003"
   cMunSIAFI="7081"
-if cMun=="3549102":
-  xMun="SAO JOAO DA BOA VISTA"
+if xMun="SAO JOAO DA BOA VISTA":
+  cMun=="3549102"
   cMunSIAFI="7083"
-if cMun=="3549201":
-  xMun="SAO JOAO DAS DUAS PONTES"
+if xMun="SAO JOAO DAS DUAS PONTES":
+  cMun=="3549201"
   cMunSIAFI="7085"
-if cMun=="3549250":
-  xMun="SAO JOAO DE IRACEMA"
+if xMun="SAO JOAO DE IRACEMA":
+  cMun=="3549250"
   cMunSIAFI="2941"
-if cMun=="3549300":
-  xMun="SAO JOAO DO PAU D ALHO"
+if xMun="SAO JOAO DO PAU D ALHO":
+  cMun=="3549300"
   cMunSIAFI="7087"
-if cMun=="3549409":
-  xMun="SAO JOAQUIM DA BARRA"
+if xMun="SAO JOAQUIM DA BARRA":
+  cMun=="3549409"
   cMunSIAFI="7089"
-if cMun=="3549508":
-  xMun="SAO JOSE DA BELA VISTA"
+if xMun="SAO JOSE DA BELA VISTA":
+  cMun=="3549508"
   cMunSIAFI="7091"
-if cMun=="3549607":
-  xMun="SAO JOSE DO BARREIRO"
+if xMun="SAO JOSE DO BARREIRO":
+  cMun=="3549607"
   cMunSIAFI="7093"
-if cMun=="3549706":
-  xMun="SAO JOSE DO RIO PARDO"
+if xMun="SAO JOSE DO RIO PARDO":
+  cMun=="3549706"
   cMunSIAFI="7095"
-if cMun=="3549805":
-  xMun="SAO JOSE DO RIO PRETO"
+if xMun="SAO JOSE DO RIO PRETO":
+  cMun=="3549805"
   cMunSIAFI="7097"
-if cMun=="3549904":
-  xMun="SAO JOSE DOS CAMPOS"
+if xMun="SAO JOSE DOS CAMPOS":
+  cMun=="3549904"
   cMunSIAFI="7099"
-if cMun=="3549953":
-  xMun="SAO LOURENCO DA SERRA"
+if xMun="SAO LOURENCO DA SERRA":
+  cMun=="3549953"
   cMunSIAFI="5447"
-if cMun=="3550001":
-  xMun="SAO LUIS DO PARAITINGA"
+if xMun="SAO LUIS DO PARAITINGA":
+  cMun=="3550001"
   cMunSIAFI="7101"
-if cMun=="3550100":
-  xMun="SAO MANUEL"
+if xMun="SAO MANUEL":
+  cMun=="3550100"
   cMunSIAFI="7103"
-if cMun=="3550209":
-  xMun="SAO MIGUEL ARCANJO"
+if xMun="SAO MIGUEL ARCANJO":
+  cMun=="3550209"
   cMunSIAFI="7105"
-if cMun=="3550308":
-  xMun="SAO PAULO"
+if xMun="SAO PAULO":
+  cMun=="3550308"
   cMunSIAFI="7107"
-if cMun=="3550407":
-  xMun="SAO PEDRO"
+if xMun="SAO PEDRO":
+  cMun=="3550407"
   cMunSIAFI="7109"
-if cMun=="3550506":
-  xMun="SAO PEDRO DO TURVO"
+if xMun="SAO PEDRO DO TURVO":
+  cMun=="3550506"
   cMunSIAFI="7111"
-if cMun=="3550605":
-  xMun="SAO ROQUE"
+if xMun="SAO ROQUE":
+  cMun=="3550605"
   cMunSIAFI="7113"
-if cMun=="3550704":
-  xMun="SAO SEBASTIAO"
+if xMun="SAO SEBASTIAO":
+  cMun=="3550704"
   cMunSIAFI="7115"
-if cMun=="3550803":
-  xMun="SAO SEBASTIAO DA GRAMA"
+if xMun="SAO SEBASTIAO DA GRAMA":
+  cMun=="3550803"
   cMunSIAFI="7117"
-if cMun=="3550902":
-  xMun="SAO SIMAO"
+if xMun="SAO SIMAO":
+  cMun=="3550902"
   cMunSIAFI="7119"
-if cMun=="3551009":
-  xMun="SAO VICENTE"
+if xMun="SAO VICENTE":
+  cMun=="3551009"
   cMunSIAFI="7121"
-if cMun=="3551108":
-  xMun="SARAPUI"
+if xMun="SARAPUI":
+  cMun=="3551108"
   cMunSIAFI="7123"
-if cMun=="3551207":
-  xMun="SARUTAIA"
+if xMun="SARUTAIA":
+  cMun=="3551207"
   cMunSIAFI="7125"
-if cMun=="3551306":
-  xMun="SEBASTIANOPOLIS DO SUL"
+if xMun="SEBASTIANOPOLIS DO SUL":
+  cMun=="3551306"
   cMunSIAFI="7127"
-if cMun=="3551405":
-  xMun="SERRA AZUL"
+if xMun="SERRA AZUL":
+  cMun=="3551405"
   cMunSIAFI="7129"
-if cMun=="3551603":
-  xMun="SERRA NEGRA"
+if xMun="SERRA NEGRA":
+  cMun=="3551603"
   cMunSIAFI="7133"
-if cMun=="3551504":
-  xMun="SERRANA"
+if xMun="SERRANA":
+  cMun=="3551504"
   cMunSIAFI="7131"
-if cMun=="3551702":
-  xMun="SERTAOZINHO"
+if xMun="SERTAOZINHO":
+  cMun=="3551702"
   cMunSIAFI="7135"
-if cMun=="3551801":
-  xMun="SETE BARRAS"
+if xMun="SETE BARRAS":
+  cMun=="3551801"
   cMunSIAFI="7137"
-if cMun=="3551900":
-  xMun="SEVERINIA"
+if xMun="SEVERINIA":
+  cMun=="3551900"
   cMunSIAFI="7139"
-if cMun=="3552007":
-  xMun="SILVEIRAS"
+if xMun="SILVEIRAS":
+  cMun=="3552007"
   cMunSIAFI="7141"
-if cMun=="3552205":
-  xMun="SOROCABA"
+if xMun="SOROCABA":
+  cMun=="3552205"
   cMunSIAFI="7145"
-if cMun=="3552304":
-  xMun="SUD MENNUCCI"
+if xMun="SUD MENNUCCI":
+  cMun=="3552304"
   cMunSIAFI="7147"
-if cMun=="3552403":
-  xMun="SUMARE"
+if xMun="SUMARE":
+  cMun=="3552403"
   cMunSIAFI="7149"
-if cMun=="3552551":
-  xMun="SUZANAPOLIS"
+if xMun="SUZANAPOLIS":
+  cMun=="3552551"
   cMunSIAFI="2945"
-if cMun=="3552502":
-  xMun="SUZANO"
+if xMun="SUZANO":
+  cMun=="3552502"
   cMunSIAFI="7151"
-if cMun=="3552601":
-  xMun="TABAPUA"
+if xMun="TABAPUA":
+  cMun=="3552601"
   cMunSIAFI="7153"
-if cMun=="3552700":
-  xMun="TABATINGA"
+if xMun="TABATINGA":
+  cMun=="3552700"
   cMunSIAFI="7155"
-if cMun=="3552809":
-  xMun="TABOAO DA SERRA"
+if xMun="TABOAO DA SERRA":
+  cMun=="3552809"
   cMunSIAFI="7157"
-if cMun=="3552908":
-  xMun="TACIBA"
+if xMun="TACIBA":
+  cMun=="3552908"
   cMunSIAFI="7159"
-if cMun=="3553005":
-  xMun="TAGUAI"
+if xMun="TAGUAI":
+  cMun=="3553005"
   cMunSIAFI="7161"
-if cMun=="3553104":
-  xMun="TAIACU"
+if xMun="TAIACU":
+  cMun=="3553104"
   cMunSIAFI="7163"
-if cMun=="3553203":
-  xMun="TAIUVA"
+if xMun="TAIUVA":
+  cMun=="3553203"
   cMunSIAFI="7165"
-if cMun=="3553302":
-  xMun="TAMBAU"
+if xMun="TAMBAU":
+  cMun=="3553302"
   cMunSIAFI="7167"
-if cMun=="3553401":
-  xMun="TANABI"
+if xMun="TANABI":
+  cMun=="3553401"
   cMunSIAFI="7169"
-if cMun=="3553500":
-  xMun="TAPIRAI"
+if xMun="TAPIRAI":
+  cMun=="3553500"
   cMunSIAFI="7171"
-if cMun=="3553609":
-  xMun="TAPIRATIBA"
+if xMun="TAPIRATIBA":
+  cMun=="3553609"
   cMunSIAFI="7173"
-if cMun=="3553658":
-  xMun="TAQUARAL"
+if xMun="TAQUARAL":
+  cMun=="3553658"
   cMunSIAFI="0824"
-if cMun=="3553708":
-  xMun="TAQUARITINGA"
+if xMun="TAQUARITINGA":
+  cMun=="3553708"
   cMunSIAFI="7175"
-if cMun=="3553807":
-  xMun="TAQUARITUBA"
+if xMun="TAQUARITUBA":
+  cMun=="3553807"
   cMunSIAFI="7177"
-if cMun=="3553856":
-  xMun="TAQUARIVAI"
+if xMun="TAQUARIVAI":
+  cMun=="3553856"
   cMunSIAFI="3063"
-if cMun=="3553906":
-  xMun="TARABAI"
+if xMun="TARABAI":
+  cMun=="3553906"
   cMunSIAFI="7179"
-if cMun=="3553955":
-  xMun="TARUMA"
+if xMun="TARUMA":
+  cMun=="3553955"
   cMunSIAFI="7267"
-if cMun=="3554003":
-  xMun="TATUI"
+if xMun="TATUI":
+  cMun=="3554003"
   cMunSIAFI="7181"
-if cMun=="3554102":
-  xMun="TAUBATE"
+if xMun="TAUBATE":
+  cMun=="3554102"
   cMunSIAFI="7183"
-if cMun=="3554201":
-  xMun="TEJUPA"
+if xMun="TEJUPA":
+  cMun=="3554201"
   cMunSIAFI="7185"
-if cMun=="3554300":
-  xMun="TEODORO SAMPAIO"
+if xMun="TEODORO SAMPAIO":
+  cMun=="3554300"
   cMunSIAFI="7187"
-if cMun=="3554409":
-  xMun="TERRA ROXA"
+if xMun="TERRA ROXA":
+  cMun=="3554409"
   cMunSIAFI="7189"
-if cMun=="3554508":
-  xMun="TIETÃŠ"
+if xMun="TIETÃŠ":
+  cMun=="3554508"
   cMunSIAFI="7191"
-if cMun=="3554607":
-  xMun="TIMBURI"
+if xMun="TIMBURI":
+  cMun=="3554607"
   cMunSIAFI="7193"
-if cMun=="3554656":
-  xMun="TORRE DE PEDRA"
+if xMun="TORRE DE PEDRA":
+  cMun=="3554656"
   cMunSIAFI="3227"
-if cMun=="3554706":
-  xMun="TORRINHA"
+if xMun="TORRINHA":
+  cMun=="3554706"
   cMunSIAFI="7195"
-if cMun=="3554755":
-  xMun="TRABIJU"
+if xMun="TRABIJU":
+  cMun=="3554755"
   cMunSIAFI="0826"
-if cMun=="3554805":
-  xMun="TREMEMBE"
+if xMun="TREMEMBE":
+  cMun=="3554805"
   cMunSIAFI="7197"
-if cMun=="3554904":
-  xMun="TRÃŠS FRONTEIRAS"
+if xMun="TRÃŠS FRONTEIRAS":
+  cMun=="3554904"
   cMunSIAFI="7199"
-if cMun=="3554953":
-  xMun="TUIUTI"
+if xMun="TUIUTI":
+  cMun=="3554953"
   cMunSIAFI="2955"
-if cMun=="3555000":
-  xMun="TUPA"
+if xMun="TUPA":
+  cMun=="3555000"
   cMunSIAFI="7201"
-if cMun=="3555109":
-  xMun="TUPI PAULISTA"
+if xMun="TUPI PAULISTA":
+  cMun=="3555109"
   cMunSIAFI="7203"
-if cMun=="3555208":
-  xMun="TURIUBA"
+if xMun="TURIUBA":
+  cMun=="3555208"
   cMunSIAFI="7205"
-if cMun=="3555307":
-  xMun="TURMALINA"
+if xMun="TURMALINA":
+  cMun=="3555307"
   cMunSIAFI="7207"
-if cMun=="3555356":
-  xMun="UBARANA"
+if xMun="UBARANA":
+  cMun=="3555356"
   cMunSIAFI="2971"
-if cMun=="3555406":
-  xMun="UBATUBA"
+if xMun="UBATUBA":
+  cMun=="3555406"
   cMunSIAFI="7209"
-if cMun=="3555505":
-  xMun="UBIRAJARA"
+if xMun="UBIRAJARA":
+  cMun=="3555505"
   cMunSIAFI="7211"
-if cMun=="3555604":
-  xMun="UCHOA"
+if xMun="UCHOA":
+  cMun=="3555604"
   cMunSIAFI="7213"
-if cMun=="3555703":
-  xMun="UNIAO PAULISTA"
+if xMun="UNIAO PAULISTA":
+  cMun=="3555703"
   cMunSIAFI="7215"
-if cMun=="3555802":
-  xMun="URANIA"
+if xMun="URANIA":
+  cMun=="3555802"
   cMunSIAFI="7217"
-if cMun=="3555901":
-  xMun="URU"
+if xMun="URU":
+  cMun=="3555901"
   cMunSIAFI="7219"
-if cMun=="3556008":
-  xMun="URUPÃŠS"
+if xMun="URUPÃŠS":
+  cMun=="3556008"
   cMunSIAFI="7221"
-if cMun=="3556107":
-  xMun="VALENTIM GENTIL"
+if xMun="VALENTIM GENTIL":
+  cMun=="3556107"
   cMunSIAFI="7223"
-if cMun=="3556206":
-  xMun="VALINHOS"
+if xMun="VALINHOS":
+  cMun=="3556206"
   cMunSIAFI="7225"
-if cMun=="3556305":
-  xMun="VALPARAISO"
+if xMun="VALPARAISO":
+  cMun=="3556305"
   cMunSIAFI="7227"
-if cMun=="3556354":
-  xMun="VARGEM"
+if xMun="VARGEM":
+  cMun=="3556354"
   cMunSIAFI="2957"
-if cMun=="3556404":
-  xMun="VARGEM GRANDE DO SUL"
+if xMun="VARGEM GRANDE DO SUL":
+  cMun=="3556404"
   cMunSIAFI="7231"
-if cMun=="3556453":
-  xMun="VARGEM GRANDE PAULISTA"
+if xMun="VARGEM GRANDE PAULISTA":
+  cMun=="3556453"
   cMunSIAFI="7273"
-if cMun=="3556503":
-  xMun="VARZEA PAULISTA"
+if xMun="VARZEA PAULISTA":
+  cMun=="3556503"
   cMunSIAFI="7233"
-if cMun=="3556602":
-  xMun="VERA CRUZ"
+if xMun="VERA CRUZ":
+  cMun=="3556602"
   cMunSIAFI="7235"
-if cMun=="3556701":
-  xMun="VINHEDO"
+if xMun="VINHEDO":
+  cMun=="3556701"
   cMunSIAFI="7237"
-if cMun=="3556800":
-  xMun="VIRADOURO"
+if xMun="VIRADOURO":
+  cMun=="3556800"
   cMunSIAFI="7239"
-if cMun=="3556909":
-  xMun="VISTA ALEGRE DO ALTO"
+if xMun="VISTA ALEGRE DO ALTO":
+  cMun=="3556909"
   cMunSIAFI="7241"
-if cMun=="3556958":
-  xMun="VITORIA BRASIL"
+if xMun="VITORIA BRASIL":
+  cMun=="3556958"
   cMunSIAFI="0828"
-if cMun=="3557006":
-  xMun="VOTORANTIM"
+if xMun="VOTORANTIM":
+  cMun=="3557006"
   cMunSIAFI="7243"
-if cMun=="3557105":
-  xMun="VOTUPORANGA"
+if xMun="VOTUPORANGA":
+  cMun=="3557105"
   cMunSIAFI="7245"
-if cMun=="3557154":
-  xMun="ZACARIAS"
+if xMun="ZACARIAS":
+  cMun=="3557154"
   cMunSIAFI="2973"
-if cMun=="1700251":
-  xMun="ABREULANDIA"
+if xMun="ABREULANDIA":
+  cMun=="1700251"
   cMunSIAFI="0337"
-if cMun=="1700301":
-  xMun="AGUIARNOPOLIS"
+if xMun="AGUIARNOPOLIS":
+  cMun=="1700301"
   cMunSIAFI="0072"
-if cMun=="1700350":
-  xMun="ALIANCA DO TOCANTINS"
+if xMun="ALIANCA DO TOCANTINS":
+  cMun=="1700350"
   cMunSIAFI="9441"
-if cMun=="1700400":
-  xMun="ALMAS"
+if xMun="ALMAS":
+  cMun=="1700400"
   cMunSIAFI="9207"
-if cMun=="1700707":
-  xMun="ALVORADA"
+if xMun="ALVORADA":
+  cMun=="1700707"
   cMunSIAFI="9213"
-if cMun=="1701002":
-  xMun="ANANAS"
+if xMun="ANANAS":
+  cMun=="1701002"
   cMunSIAFI="9219"
-if cMun=="1701051":
-  xMun="ANGICO"
+if xMun="ANGICO":
+  cMun=="1701051"
   cMunSIAFI="0165"
-if cMun=="1701101":
-  xMun="APARECIDA DO RIO NEGRO"
+if xMun="APARECIDA DO RIO NEGRO":
+  cMun=="1701101"
   cMunSIAFI="9713"
-if cMun=="1701309":
-  xMun="ARAGOMINAS"
+if xMun="ARAGOMINAS":
+  cMun=="1701309"
   cMunSIAFI="0167"
-if cMun=="1701903":
-  xMun="ARAGUACEMA"
+if xMun="ARAGUACEMA":
+  cMun=="1701903"
   cMunSIAFI="9237"
-if cMun=="1702000":
-  xMun="ARAGUACU"
+if xMun="ARAGUACU":
+  cMun=="1702000"
   cMunSIAFI="9239"
-if cMun=="1702109":
-  xMun="ARAGUAINA"
+if xMun="ARAGUAINA":
+  cMun=="1702109"
   cMunSIAFI="9241"
-if cMun=="1702158":
-  xMun="ARAGUANA"
+if xMun="ARAGUANA":
+  cMun=="1702158"
   cMunSIAFI="0169"
-if cMun=="1702208":
-  xMun="ARAGUATINS"
+if xMun="ARAGUATINS":
+  cMun=="1702208"
   cMunSIAFI="9243"
-if cMun=="1702307":
-  xMun="ARAPOEMA"
+if xMun="ARAPOEMA":
+  cMun=="1702307"
   cMunSIAFI="9245"
-if cMun=="1702406":
-  xMun="ARRAIAS"
+if xMun="ARRAIAS":
+  cMun=="1702406"
   cMunSIAFI="9247"
-if cMun=="1702554":
-  xMun="AUGUSTINOPOLIS"
+if xMun="AUGUSTINOPOLIS":
+  cMun=="1702554"
   cMunSIAFI="9685"
-if cMun=="1702703":
-  xMun="AURORA DO TOCANTINS"
+if xMun="AURORA DO TOCANTINS":
+  cMun=="1702703"
   cMunSIAFI="9253"
-if cMun=="1702901":
-  xMun="AXIXA DO TOCANTINS"
+if xMun="AXIXA DO TOCANTINS":
+  cMun=="1702901"
   cMunSIAFI="9257"
-if cMun=="1703008":
-  xMun="BABACULANDIA"
+if xMun="BABACULANDIA":
+  cMun=="1703008"
   cMunSIAFI="9259"
-if cMun=="1703057":
-  xMun="BANDEIRANTES DO TOCANTINS"
+if xMun="BANDEIRANTES DO TOCANTINS":
+  cMun=="1703057"
   cMunSIAFI="0074"
-if cMun=="1703073":
-  xMun="BARRA DO OURO"
+if xMun="BARRA DO OURO":
+  cMun=="1703073"
   cMunSIAFI="0076"
-if cMun=="1703107":
-  xMun="BARROLANDIA"
+if xMun="BARROLANDIA":
+  cMun=="1703107"
   cMunSIAFI="9693"
-if cMun=="1703206":
-  xMun="BERNARDO SAYAO"
+if xMun="BERNARDO SAYAO":
+  cMun=="1703206"
   cMunSIAFI="9695"
-if cMun=="1703305":
-  xMun="BOM JESUS DO TOCANTINS"
+if xMun="BOM JESUS DO TOCANTINS":
+  cMun=="1703305"
   cMunSIAFI="0341"
-if cMun=="1703602":
-  xMun="BRASILANDIA DO TOCANTINS"
+if xMun="BRASILANDIA DO TOCANTINS":
+  cMun=="1703602"
   cMunSIAFI="0339"
-if cMun=="1703701":
-  xMun="BREJINHO DE NAZARE"
+if xMun="BREJINHO DE NAZARE":
+  cMun=="1703701"
   cMunSIAFI="9273"
-if cMun=="1703800":
-  xMun="BURITI DO TOCANTINS"
+if xMun="BURITI DO TOCANTINS":
+  cMun=="1703800"
   cMunSIAFI="9715"
-if cMun=="1703826":
-  xMun="CACHOEIRINHA"
+if xMun="CACHOEIRINHA":
+  cMun=="1703826"
   cMunSIAFI="0171"
-if cMun=="1703842":
-  xMun="CAMPOS LINDOS"
+if xMun="CAMPOS LINDOS":
+  cMun=="1703842"
   cMunSIAFI="0173"
-if cMun=="1703867":
-  xMun="CARIRI DO TOCANTINS"
+if xMun="CARIRI DO TOCANTINS":
+  cMun=="1703867"
   cMunSIAFI="0327"
-if cMun=="1703883":
-  xMun="CARMOLANDIA"
+if xMun="CARMOLANDIA":
+  cMun=="1703883"
   cMunSIAFI="0175"
-if cMun=="1703891":
-  xMun="CARRASCO BONITO"
+if xMun="CARRASCO BONITO":
+  cMun=="1703891"
   cMunSIAFI="0177"
-if cMun=="1703909":
-  xMun="CASEARA"
+if xMun="CASEARA":
+  cMun=="1703909"
   cMunSIAFI="9717"
-if cMun=="1704105":
-  xMun="CENTENARIO"
+if xMun="CENTENARIO":
+  cMun=="1704105"
   cMunSIAFI="0343"
-if cMun=="1705102":
-  xMun="CHAPADA DA NATIVIDADE"
+if xMun="CHAPADA DA NATIVIDADE":
+  cMun=="1705102"
   cMunSIAFI="0080"
-if cMun=="1704600":
-  xMun="CHAPADA DE AREIA"
+if xMun="CHAPADA DE AREIA":
+  cMun=="1704600"
   cMunSIAFI="0078"
-if cMun=="1705508":
-  xMun="COLINAS DO TOCANTINS"
+if xMun="COLINAS DO TOCANTINS":
+  cMun=="1705508"
   cMunSIAFI="9311"
-if cMun=="1716703":
-  xMun="COLMEIA"
+if xMun="COLMEIA":
+  cMun=="1716703"
   cMunSIAFI="9529"
-if cMun=="1705557":
-  xMun="COMBINADO"
+if xMun="COMBINADO":
+  cMun=="1705557"
   cMunSIAFI="9697"
-if cMun=="1705607":
-  xMun="CONCEICAO DO TOCANTINS"
+if xMun="CONCEICAO DO TOCANTINS":
+  cMun=="1705607"
   cMunSIAFI="9313"
-if cMun=="1706001":
-  xMun="COUTO MAGALHAES"
+if xMun="COUTO MAGALHAES":
+  cMun=="1706001"
   cMunSIAFI="9321"
-if cMun=="1706100":
-  xMun="CRISTALANDIA"
+if xMun="CRISTALANDIA":
+  cMun=="1706100"
   cMunSIAFI="9323"
-if cMun=="1706258":
-  xMun="CRIXAS DO TOCANTINS"
+if xMun="CRIXAS DO TOCANTINS":
+  cMun=="1706258"
   cMunSIAFI="0082"
-if cMun=="1706506":
-  xMun="DARCINOPOLIS"
+if xMun="DARCINOPOLIS":
+  cMun=="1706506"
   cMunSIAFI="0179"
-if cMun=="1707009":
-  xMun="DIANOPOLIS"
+if xMun="DIANOPOLIS":
+  cMun=="1707009"
   cMunSIAFI="9341"
-if cMun=="1707108":
-  xMun="DIVINOPOLIS DO TOCANTINS"
+if xMun="DIVINOPOLIS DO TOCANTINS":
+  cMun=="1707108"
   cMunSIAFI="9719"
-if cMun=="1707207":
-  xMun="DOIS IRMAOS DO TOCANTINS"
+if xMun="DOIS IRMAOS DO TOCANTINS":
+  cMun=="1707207"
   cMunSIAFI="9345"
-if cMun=="1707306":
-  xMun="DUERE"
+if xMun="DUERE":
+  cMun=="1707306"
   cMunSIAFI="9347"
-if cMun=="1707405":
-  xMun="ESPERANTINA"
+if xMun="ESPERANTINA":
+  cMun=="1707405"
   cMunSIAFI="0181"
-if cMun=="1707553":
-  xMun="FATIMA"
+if xMun="FATIMA":
+  cMun=="1707553"
   cMunSIAFI="9683"
-if cMun=="1707652":
-  xMun="FIGUEIROPOLIS"
+if xMun="FIGUEIROPOLIS":
+  cMun=="1707652"
   cMunSIAFI="9667"
-if cMun=="1707702":
-  xMun="FILADELFIA"
+if xMun="FILADELFIA":
+  cMun=="1707702"
   cMunSIAFI="9355"
-if cMun=="1708205":
-  xMun="FORMOSO DO ARAGUAIA"
+if xMun="FORMOSO DO ARAGUAIA":
+  cMun=="1708205"
   cMunSIAFI="9365"
-if cMun=="1708254":
-  xMun="FORTALEZA DO TABOCAO"
+if xMun="FORTALEZA DO TABOCAO":
+  cMun=="1708254"
   cMunSIAFI="0345"
-if cMun=="1708304":
-  xMun="GOIANORTE"
+if xMun="GOIANORTE":
+  cMun=="1708304"
   cMunSIAFI="9699"
-if cMun=="1709005":
-  xMun="GOIATINS"
+if xMun="GOIATINS":
+  cMun=="1709005"
   cMunSIAFI="9533"
-if cMun=="1709302":
-  xMun="GUARAI"
+if xMun="GUARAI":
+  cMun=="1709302"
   cMunSIAFI="9627"
-if cMun=="1709500":
-  xMun="GURUPI"
+if xMun="GURUPI":
+  cMun=="1709500"
   cMunSIAFI="9385"
-if cMun=="1709807":
-  xMun="IPUEIRAS"
+if xMun="IPUEIRAS":
+  cMun=="1709807"
   cMunSIAFI="0084"
-if cMun=="1710508":
-  xMun="ITACAJA"
+if xMun="ITACAJA":
+  cMun=="1710508"
   cMunSIAFI="9405"
-if cMun=="1710706":
-  xMun="ITAGUATINS"
+if xMun="ITAGUATINS":
+  cMun=="1710706"
   cMunSIAFI="9409"
-if cMun=="1710904":
-  xMun="ITAPIRATINS"
+if xMun="ITAPIRATINS":
+  cMun=="1710904"
   cMunSIAFI="0347"
-if cMun=="1711100":
-  xMun="ITAPORA DO TOCANTINS"
+if xMun="ITAPORA DO TOCANTINS":
+  cMun=="1711100"
   cMunSIAFI="9417"
-if cMun=="1711506":
-  xMun="JAU DO TOCANTINS"
+if xMun="JAU DO TOCANTINS":
+  cMun=="1711506"
   cMunSIAFI="0329"
-if cMun=="1711803":
-  xMun="JUARINA"
+if xMun="JUARINA":
+  cMun=="1711803"
   cMunSIAFI="0349"
-if cMun=="1711902":
-  xMun="LAGOA DA CONFUSAO"
+if xMun="LAGOA DA CONFUSAO":
+  cMun=="1711902"
   cMunSIAFI="0367"
-if cMun=="1711951":
-  xMun="LAGOA DO TOCANTINS"
+if xMun="LAGOA DO TOCANTINS":
+  cMun=="1711951"
   cMunSIAFI="0353"
-if cMun=="1712009":
-  xMun="LAJEADO"
+if xMun="LAJEADO":
+  cMun=="1712009"
   cMunSIAFI="0351"
-if cMun=="1712157":
-  xMun="LAVANDEIRA"
+if xMun="LAVANDEIRA":
+  cMun=="1712157"
   cMunSIAFI="0086"
-if cMun=="1712405":
-  xMun="LIZARDA"
+if xMun="LIZARDA":
+  cMun=="1712405"
   cMunSIAFI="9569"
-if cMun=="1712454":
-  xMun="LUZINOPOLIS"
+if xMun="LUZINOPOLIS":
+  cMun=="1712454"
   cMunSIAFI="0088"
-if cMun=="1712504":
-  xMun="MARIANOPOLIS DO TOCANTINS"
+if xMun="MARIANOPOLIS DO TOCANTINS":
+  cMun=="1712504"
   cMunSIAFI="9711"
-if cMun=="1712702":
-  xMun="MATEIROS"
+if xMun="MATEIROS":
+  cMun=="1712702"
   cMunSIAFI="0317"
-if cMun=="1712801":
-  xMun="MAURILANDIA DO TOCANTINS"
+if xMun="MAURILANDIA DO TOCANTINS":
+  cMun=="1712801"
   cMunSIAFI="0183"
-if cMun=="1713205":
-  xMun="MIRACEMA DO TOCANTINS"
+if xMun="MIRACEMA DO TOCANTINS":
+  cMun=="1713205"
   cMunSIAFI="9461"
-if cMun=="1713304":
-  xMun="MIRANORTE"
+if xMun="MIRANORTE":
+  cMun=="1713304"
   cMunSIAFI="9463"
-if cMun=="1713601":
-  xMun="MONTE DO CARMO"
+if xMun="MONTE DO CARMO":
+  cMun=="1713601"
   cMunSIAFI="9469"
-if cMun=="1713700":
-  xMun="MONTE SANTO DO TOCANTINS"
+if xMun="MONTE SANTO DO TOCANTINS":
+  cMun=="1713700"
   cMunSIAFI="0090"
-if cMun=="1713957":
-  xMun="MURICILANDIA"
+if xMun="MURICILANDIA":
+  cMun=="1713957"
   cMunSIAFI="0187"
-if cMun=="1714203":
-  xMun="NATIVIDADE"
+if xMun="NATIVIDADE":
+  cMun=="1714203"
   cMunSIAFI="9481"
-if cMun=="1714302":
-  xMun="NAZARE"
+if xMun="NAZARE":
+  cMun=="1714302"
   cMunSIAFI="9483"
-if cMun=="1714880":
-  xMun="NOVA OLINDA"
+if xMun="NOVA OLINDA":
+  cMun=="1714880"
   cMunSIAFI="9663"
-if cMun=="1715002":
-  xMun="NOVA ROSALANDIA"
+if xMun="NOVA ROSALANDIA":
+  cMun=="1715002"
   cMunSIAFI="9721"
-if cMun=="1715101":
-  xMun="NOVO ACORDO"
+if xMun="NOVO ACORDO":
+  cMun=="1715101"
   cMunSIAFI="9499"
-if cMun=="1715150":
-  xMun="NOVO ALEGRE"
+if xMun="NOVO ALEGRE":
+  cMun=="1715150"
   cMunSIAFI="9703"
-if cMun=="1715259":
-  xMun="NOVO JARDIM"
+if xMun="NOVO JARDIM":
+  cMun=="1715259"
   cMunSIAFI="0321"
-if cMun=="1715507":
-  xMun="OLIVEIRA DE FATIMA"
+if xMun="OLIVEIRA DE FATIMA":
+  cMun=="1715507"
   cMunSIAFI="0092"
-if cMun=="1721000":
-  xMun="PALMAS"
+if xMun="PALMAS":
+  cMun=="1721000"
   cMunSIAFI="9733"
-if cMun=="1715705":
-  xMun="PALMEIRANTE"
+if xMun="PALMEIRANTE":
+  cMun=="1715705"
   cMunSIAFI="0189"
-if cMun=="1713809":
-  xMun="PALMEIRAS DO TOCANTINS"
+if xMun="PALMEIRAS DO TOCANTINS":
+  cMun=="1713809"
   cMunSIAFI="0185"
-if cMun=="1715754":
-  xMun="PALMEIROPOLIS"
+if xMun="PALMEIROPOLIS":
+  cMun=="1715754"
   cMunSIAFI="9649"
-if cMun=="1716109":
-  xMun="PARAISO DO TOCANTINS"
+if xMun="PARAISO DO TOCANTINS":
+  cMun=="1716109"
   cMunSIAFI="9519"
-if cMun=="1716208":
-  xMun="PARANA"
+if xMun="PARANA":
+  cMun=="1716208"
   cMunSIAFI="9521"
-if cMun=="1716307":
-  xMun="PAU D ARCO"
+if xMun="PAU D ARCO":
+  cMun=="1716307"
   cMunSIAFI="0191"
-if cMun=="1716505":
-  xMun="PEDRO AFONSO"
+if xMun="PEDRO AFONSO":
+  cMun=="1716505"
   cMunSIAFI="9525"
-if cMun=="1716604":
-  xMun="PEIXE"
+if xMun="PEIXE":
+  cMun=="1716604"
   cMunSIAFI="9527"
-if cMun=="1716653":
-  xMun="PEQUIZEIRO"
+if xMun="PEQUIZEIRO":
+  cMun=="1716653"
   cMunSIAFI="9705"
-if cMun=="1717008":
-  xMun="PINDORAMA DO TOCANTINS"
+if xMun="PINDORAMA DO TOCANTINS":
+  cMun=="1717008"
   cMunSIAFI="9537"
-if cMun=="1717206":
-  xMun="PIRAQUÃŠ"
+if xMun="PIRAQUÃŠ":
+  cMun=="1717206"
   cMunSIAFI="0355"
-if cMun=="1717503":
-  xMun="PIUM"
+if xMun="PIUM":
+  cMun=="1717503"
   cMunSIAFI="9547"
-if cMun=="1717800":
-  xMun="PONTE ALTA DO BOM JESUS"
+if xMun="PONTE ALTA DO BOM JESUS":
+  cMun=="1717800"
   cMunSIAFI="9551"
-if cMun=="1717909":
-  xMun="PONTE ALTA DO TOCANTINS"
+if xMun="PONTE ALTA DO TOCANTINS":
+  cMun=="1717909"
   cMunSIAFI="9553"
-if cMun=="1718006":
-  xMun="PORTO ALEGRE DO TOCANTINS"
+if xMun="PORTO ALEGRE DO TOCANTINS":
+  cMun=="1718006"
   cMunSIAFI="9723"
-if cMun=="1718204":
-  xMun="PORTO NACIONAL"
+if xMun="PORTO NACIONAL":
+  cMun=="1718204"
   cMunSIAFI="9559"
-if cMun=="1718303":
-  xMun="PRAIA NORTE"
+if xMun="PRAIA NORTE":
+  cMun=="1718303"
   cMunSIAFI="9725"
-if cMun=="1718402":
-  xMun="PRESIDENTE KENNEDY"
+if xMun="PRESIDENTE KENNEDY":
+  cMun=="1718402"
   cMunSIAFI="9629"
-if cMun=="1718451":
-  xMun="PUGMIL"
+if xMun="PUGMIL":
+  cMun=="1718451"
   cMunSIAFI="0094"
-if cMun=="1718501":
-  xMun="RECURSOLANDIA"
+if xMun="RECURSOLANDIA":
+  cMun=="1718501"
   cMunSIAFI="0357"
-if cMun=="1718550":
-  xMun="RIACHINHO"
+if xMun="RIACHINHO":
+  cMun=="1718550"
   cMunSIAFI="0193"
-if cMun=="1718659":
-  xMun="RIO DA CONCEICAO"
+if xMun="RIO DA CONCEICAO":
+  cMun=="1718659"
   cMunSIAFI="0323"
-if cMun=="1718709":
-  xMun="RIO DOS BOIS"
+if xMun="RIO DOS BOIS":
+  cMun=="1718709"
   cMunSIAFI="0359"
-if cMun=="1718758":
-  xMun="RIO SONO"
+if xMun="RIO SONO":
+  cMun=="1718758"
   cMunSIAFI="9679"
-if cMun=="1718808":
-  xMun="SAMPAIO"
+if xMun="SAMPAIO":
+  cMun=="1718808"
   cMunSIAFI="9727"
-if cMun=="1718840":
-  xMun="SANDOLANDIA"
+if xMun="SANDOLANDIA":
+  cMun=="1718840"
   cMunSIAFI="0331"
-if cMun=="1718865":
-  xMun="SANTA FE DO ARAGUAIA"
+if xMun="SANTA FE DO ARAGUAIA":
+  cMun=="1718865"
   cMunSIAFI="0195"
-if cMun=="1718881":
-  xMun="SANTA MARIA DO TOCANTINS"
+if xMun="SANTA MARIA DO TOCANTINS":
+  cMun=="1718881"
   cMunSIAFI="0361"
-if cMun=="1718899":
-  xMun="SANTA RITA DO TOCANTINS"
+if xMun="SANTA RITA DO TOCANTINS":
+  cMun=="1718899"
   cMunSIAFI="0096"
-if cMun=="1718907":
-  xMun="SANTA ROSA DO TOCANTINS"
+if xMun="SANTA ROSA DO TOCANTINS":
+  cMun=="1718907"
   cMunSIAFI="9729"
-if cMun=="1719004":
-  xMun="SANTA TEREZA DO TOCANTINS"
+if xMun="SANTA TEREZA DO TOCANTINS":
+  cMun=="1719004"
   cMunSIAFI="9731"
-if cMun=="1720002":
-  xMun="SANTA TEREZINHA DO TOCANTINS"
+if xMun="SANTA TEREZINHA DO TOCANTINS":
+  cMun=="1720002"
   cMunSIAFI="0098"
-if cMun=="1720101":
-  xMun="SAO BENTO DO TOCANTINS"
+if xMun="SAO BENTO DO TOCANTINS":
+  cMun=="1720101"
   cMunSIAFI="0197"
-if cMun=="1720150":
-  xMun="SAO FELIX DO TOCANTINS"
+if xMun="SAO FELIX DO TOCANTINS":
+  cMun=="1720150"
   cMunSIAFI="0363"
-if cMun=="1720200":
-  xMun="SAO MIGUEL DO TOCANTINS"
+if xMun="SAO MIGUEL DO TOCANTINS":
+  cMun=="1720200"
   cMunSIAFI="0199"
-if cMun=="1720259":
-  xMun="SAO SALVADOR DO TOCANTINS"
+if xMun="SAO SALVADOR DO TOCANTINS":
+  cMun=="1720259"
   cMunSIAFI="0333"
-if cMun=="1720309":
-  xMun="SAO SEBASTIAO DO TOCANTINS"
+if xMun="SAO SEBASTIAO DO TOCANTINS":
+  cMun=="1720309"
   cMunSIAFI="9603"
-if cMun=="1720499":
-  xMun="SAO VALERIO"
+if xMun="SAO VALERIO":
+  cMun=="1720499"
   cMunSIAFI="9691"
-if cMun=="1720655":
-  xMun="SILVANOPOLIS"
+if xMun="SILVANOPOLIS":
+  cMun=="1720655"
   cMunSIAFI="9659"
-if cMun=="1720804":
-  xMun="SITIO NOVO DO TOCANTINS"
+if xMun="SITIO NOVO DO TOCANTINS":
+  cMun=="1720804"
   cMunSIAFI="9613"
-if cMun=="1720853":
-  xMun="SUCUPIRA"
+if xMun="SUCUPIRA":
+  cMun=="1720853"
   cMunSIAFI="0335"
-if cMun=="1720903":
-  xMun="TAGUATINGA"
+if xMun="TAGUATINGA":
+  cMun=="1720903"
   cMunSIAFI="9615"
-if cMun=="1720937":
-  xMun="TAIPAS DO TOCANTINS"
+if xMun="TAIPAS DO TOCANTINS":
+  cMun=="1720937"
   cMunSIAFI="0325"
-if cMun=="1720978":
-  xMun="TALISMA"
+if xMun="TALISMA":
+  cMun=="1720978"
   cMunSIAFI="0100"
-if cMun=="1721109":
-  xMun="TOCANTINIA"
+if xMun="TOCANTINIA":
+  cMun=="1721109"
   cMunSIAFI="9619"
-if cMun=="1721208":
-  xMun="TOCANTINOPOLIS"
+if xMun="TOCANTINOPOLIS":
+  cMun=="1721208"
   cMunSIAFI="9621"
-if cMun=="1721257":
-  xMun="TUPIRAMA"
+if xMun="TUPIRAMA":
+  cMun=="1721257"
   cMunSIAFI="0102"
-if cMun=="1721307":
-  xMun="TUPIRATINS"
+if xMun="TUPIRATINS":
+  cMun=="1721307"
   cMunSIAFI="0365"
-if cMun=="1722081":
-  xMun="WANDERLANDIA"
+if xMun="WANDERLANDIA":
+  cMun=="1722081"
   cMunSIAFI="9665"
-if cMun=="1722107":
-  xMun="XAMBIOA"
+if xMun="XAMBIOA":
+  cMun=="1722107"
   cMunSIAFI="9643"
-if cMun=="9999999":
-  xMun="EXTERIOR"
+if xMun="EXTERIOR":
+  cMun=="9999999"
   cUF="99"
   cMunSIAFI="999999"
