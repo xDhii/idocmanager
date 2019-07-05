@@ -5,7 +5,7 @@ from subprocess import Popen
 from config import criar_pasta, messages
 
 ## Mensagem inicial ##
-messages.limpar_tela() 
+messages.limpar_tela()
 messages.mensageminicial()
 
 ##  Opções de países disponíveis
@@ -16,7 +16,7 @@ print()
 print('Qual País você deseja acessar?')
 opt = input('Digite a letra correspondente ao País: ')
 opt = opt.lower()
-while opt not in ('a', 'b', 'c'): # Loop até a seleção de algum País disponível
+while opt not in ('a', 'b', 'c', 'd', 'z'): # Loop até a seleção de algum País disponível
     print()
     print('\033[91m Hmm... A opção digitada não existe \033[0m')
     opt = input('Tente novamente: ')
@@ -29,6 +29,8 @@ if opt == "c":
     from country import Uruguay
 if opt == "d":
     from country import Argentina
+if opt == "z":
+    import resetfolio
 
 from process import sendtovm
 

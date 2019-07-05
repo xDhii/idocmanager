@@ -22,14 +22,17 @@ serie = '{message:{fill}{align}{width}}'.format(
    width=3,
 )
 
-## Input do folio ##
-folio = input('Digite o FOLIO do documento: ')
-folio = folio.upper()
-while len(folio) >= 10:
-    print()
-    print ('\033[91mOops! O número do documento deve conter no maximo 9 dígitos!')
-    folio = input('\033[0mDigite novamente o FOLIO do documento com o maximo de 9 DÍGITOS: ')
-    print()
+## Calcula folio + 1 ##
+f = open('folio.txt', 'r+')
+folio = f.read()
+folio = int(folio) + 1
+f.close()
+
+## Salva novo folio no TXT ##
+f = open('folio.txt', 'w')
+print(folio, file=f)
+f.close()
+
 folio = '{message:{fill}{align}{width}}'.format(
    message = (folio) ,
    fill='0',

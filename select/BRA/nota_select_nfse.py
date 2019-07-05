@@ -22,14 +22,17 @@ serie = '{message:{fill}{align}{width}}'.format(
    width=5,
 )
 
-## Input do rps do documento ##
-rps = input('Digite o RPS do documento: ')
-rps = rps.upper()
-while len(rps) >= 16:
-    print()
-    print ('\033[91mOpa! O RPS do documento deve ter no maximo 15 dígitos!')
-    rps = input('\033[0mDigite novamente o RPS do documento com o maximo de 15 DÍGITOS: ')
-    print()
+## Calcula folio + 1 ##
+f = open('rps.txt', 'r+')
+rps = f.read()
+rps = int(rps) + 1
+f.close()
+
+## Salva novo folio no TXT ##
+f = open('rps.txt', 'w')
+print(rps, file=f)
+f.close()
+
 rps = '{message:{fill}{align}{width}}'.format(
    message = (rps) ,
    fill=' ',

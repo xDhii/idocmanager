@@ -7,7 +7,7 @@ def limpar_tela():
 def mensageminicial():
     print('\033[91m Atenção: Todas as empresas devem estar configuradas como SAPKFQ! \033[0m')
     print()
-    print("\033[1;30;47m        Criador de IDOC v0.3.72 (beta)              \033[0m")
+    print("\033[1;30;47m        Criador de IDOC v0.3.85 (beta)              \033[0m")
     print()
     print('\33[1;37;40m Está faltando alguma empresa ou tipo de documento?  \033[0m')
     print('\33[1;37;40m Me avise: adriano.valumin@sovos.com                 \033[0m')
@@ -17,10 +17,11 @@ def mensageminicial():
 def paises_disponiveis():
     print('\033[1m Países Disponíveis para criação de IDOC \033[0m')
     print()
-    print('\033[1;30;47m A \033[0m - \033[4mBrasil      \033[0m')
-    print('\033[1;30;47m B \033[0m - \033[4mMéxico      \033[0m')
-    print('\033[1;30;47m C \033[0m - \033[4mUruguay     \033[0m')
-    print('\033[1;30;47m D \033[0m - \033[4mArgentina   \033[0m')
+    print('\033[1;30;47m A \033[0m - \033[4mBrasil          \033[0m')
+    print('\033[1;30;47m B \033[0m - \033[4mMéxico          \033[0m')
+    print('\033[1;30;47m C \033[0m - \033[4mUruguay         \033[0m')
+    print('\033[1;30;47m D \033[0m - \033[4mArgentina       \033[0m')
+    print('\033[1;30;47m Z \033[0m - \033[4mZerar Folios    \033[0m')
 
 def empresas_nfse():
     print()
