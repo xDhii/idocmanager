@@ -8,13 +8,13 @@ messages.limpar_tela()
 messages.mensageminicial()
 
 ## Calcula folio + 1 ##
-f = open('folio.txt', 'r+')
+f = open('select/ARG/folio.txt', 'r+')
 folio = f.read()
 folio = int(folio) + 1
 f.close()
 
 ## Salva novo folio no TXT ##
-f = open('folio.txt', 'w')
+f = open('select/ARG/folio.txt', 'w')
 print(folio, file=f)
 f.close()
 

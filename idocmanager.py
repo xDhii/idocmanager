@@ -2,7 +2,7 @@
 import os, sys
 sys.path.append('../idocmanager')
 from subprocess import Popen
-from config import criar_pasta, messages
+from config import criar_pasta, messages, autofoliocheck
 
 ## Mensagem inicial ##
 messages.limpar_tela()
@@ -54,7 +54,7 @@ if recomecar in ("s", "sim", "yes"):
         p = Popen("python " + filename, shell=True)
     if os.name == 'java':
         print('Foi mal, ainda nao implementei para sistemas Java')
-    sys.exit("Reiniciando processo, aguarde...")
+#    sys.exit("Reiniciando processo, aguarde...")
 ## Encerrar o processo ##
 if recomecar in ("n", "nao", "não", "no"):
-    sys.exit()
+    print("Ok, finalizando...")

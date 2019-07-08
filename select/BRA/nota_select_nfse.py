@@ -8,13 +8,14 @@ messages.limpar_tela()
 messages.mensageminicial()
 
 ## Input da série do documento ##
-serie = input('Digite a SÉRIE do documento: ')
-serie = serie.upper()
-while len(serie) >= 6:
-    print()
-    print ('\033[91mOpa! a Série do documento deve ter no maximo 6 dígitos!')
-    serie = input('\033[0mDigite novamente a SÉRIE do documento com o maximo de 6 DÍGITOS: ')
-    print()
+# serie = input('Digite a SÉRIE do documento: ')
+# serie = serie.upper()
+# while len(serie) >= 6:
+#     print()
+#     print ('\033[91mOpa! a Série do documento deve ter no maximo 6 dígitos!')
+#     serie = input('\033[0mDigite novamente a SÉRIE do documento com o maximo de 6 DÍGITOS: ')
+#     print()
+serie = 7
 serie = '{message:{fill}{align}{width}}'.format(
    message = (serie) ,
    fill=' ',
@@ -23,13 +24,13 @@ serie = '{message:{fill}{align}{width}}'.format(
 )
 
 ## Calcula folio + 1 ##
-f = open('rps.txt', 'r+')
+f = open('select/BRA/rps.txt', 'r+')
 rps = f.read()
 rps = int(rps) + 1
 f.close()
 
 ## Salva novo folio no TXT ##
-f = open('rps.txt', 'w')
+f = open('select/BRA/rps.txt', 'w')
 print(rps, file=f)
 f.close()
 

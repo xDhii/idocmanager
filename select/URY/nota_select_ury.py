@@ -23,13 +23,13 @@ serie = '{message:{fill}{align}{width}}'.format(
 )
 
 ## Calcula folio + 1 ##
-f = open('folio.txt', 'r+')
+f = open('select/URY/folio.txt', 'r+')
 folio = f.read()
 folio = int(folio) + 1
 f.close()
 
 ## Salva novo folio no TXT ##
-f = open('folio.txt', 'w')
+f = open('select/URY/folio.txt', 'w')
 print(folio, file=f)
 f.close()
 folio = '{message:{fill}{align}{width}}'.format(
