@@ -12,7 +12,6 @@ messages.mensageminicial()
 messages.paises_disponiveis()
 
 ##  Seleção dos países
-print()
 print('Qual País você deseja acessar?')
 opt = input('Digite a letra correspondente ao País: ')
 opt = opt.lower()

@@ -5,7 +5,7 @@ sys.path.insert(0, './config')
 import datareal
 ## Navegar ate a pasta de selecao e importar os arquivos ##
 sys.path.insert(0, './select/BRA')
-import empresas_nfse, nota_select_nfse, estados, municipios
+import empresas_nfse, nota_select_nfse
 
 f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
 print('EDI_DC40  6000000000018161852731 3012  ZKFBC_NFSE_COMPNFSE                                         ZKFBC_NFSE                                       SAPKFQ    LS  P60600                                                                                               KFCBTF0002LS  TRUSTFILES                                                                                           '+ str(datareal.datacompleta) +'103754                                                                                                                '+ str(datareal.datacompleta) +'103754      ', file=f)
