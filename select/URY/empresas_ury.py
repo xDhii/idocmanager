@@ -16,7 +16,7 @@ opt = opt.lower()
 while opt not in ('a', 'b', 'c'):
     print('\033[91mHmm... Não entendi sua resposta')
     opt = input('\033[0mDigite novamente a letra correspondente a empresa: ')
-    opt = opt.lower()    
+    opt = opt.lower()
 if opt == "a":
     xnome = "Sovos Uruguay (McCain) [121, 122, 123, 124]"
     rut = "080003530017"
