@@ -10,3 +10,4 @@ def createFolder(directory):
         print('\033[91mNão foi possível criar a pasta IDOC.')
         print('\033[0m')
 createFolder('./idoc/')
+createFolder('./logs/')

@@ -49,8 +49,8 @@ def empresas_nfe():
     print()
     print('Lista de empresas cadastradas:')
     print()
-    print('\033[1;30;47m A \033[0m - \033[4mInvoiceware             SP  - 24492961000129 \033[0m')
-    print('\033[1;30;47m B \033[0m - \033[4mPaperless               SP  - 10726059000115 \033[0m')
+    print('\033[1;30;47m A \033[0m - \033[4mInvoiceware     SP  - 24492961000129 \033[0m')
+    print('\033[1;30;47m B \033[0m - \033[4mPaperless       SP  - 10726059000115 \033[0m')
     print()
     print('Certo, e qual das empresas acima deseja utilizar no IDOC?')
 
