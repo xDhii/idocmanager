@@ -1,8 +1,9 @@
 ## Tipos de documento do Brasil ##
-import os, sys
+import os, sys, time
 sys.path.append('../idocmanager')
 from subprocess import Popen
 from config import criar_pasta, messages, autofoliocheck
+
 
 ## Mensagem inicial ##
 messages.limpar_tela()
@@ -24,8 +25,10 @@ if opt == "a":
     from country import Argentina
     ## Define variável para geração do log ##
     country = "Argentina"
+    document = Argentina.document
 if opt == "b":
     from country import Brasil
+    document = Brasil.document
     ## Define variável para geração do log ##
     country = "Brazil"
 if opt == "c":
@@ -40,6 +43,11 @@ if opt == "z":
     import resetfolio
 
 from process import sendtovm
+
+def variaveis():
+    document = document
+    country = country
+
 from config import log_generate
 ## Opção de reiniciar o processo
 recomecar = input('Deseja criar um novo documento? Digite S ou N: ')
@@ -57,7 +65,7 @@ if recomecar in ("s", "sim", "yes"):
     ## Reiniciar processo no Linux ##
     if os.name == 'posix':
         filename = sys.argv[0]
-        print("Reiniciando ")
+        print("Reiniciando... ")
         p = Popen("python " + filename, shell=True)
     if os.name == 'java':
         print('Foi mal, ainda nao implementei para sistemas Java')
@@ -65,3 +73,4 @@ if recomecar in ("s", "sim", "yes"):
 ## Encerrar o processo ##
 if recomecar in ("n", "nao", "não", "no"):
     print("Ok, finalizando...")
+    time.sleep(3)

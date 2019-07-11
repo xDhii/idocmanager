@@ -25,5 +25,7 @@ while opt not in ('a', 'b'):
 
 if opt == "a":
     import BRA_NFE
+    document = "BRA_NFE"
 if opt == "b":
     import BRA_NFSE
+    document = "BRA_NFSE"

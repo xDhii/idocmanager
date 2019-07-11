@@ -1,4 +1,9 @@
-import datetime
+import datetime, sys
+sys.path.append('../idocmanager')
+from idocmanager import country, document
+
+
+f = open('idocmanager.py', 'r')
 date_time = datetime.datetime.now()
 
 date = date_time.date()  # Retorna a data
@@ -30,8 +35,9 @@ datacompletabarra = str(ano)+'/'+str(mes)+'/'+str(dia)
 horacompleta = str(horas)+str(minutos)+str(segundos)
 horacompletaseparada = str(horas)+':'+str(minutos)+':'+str(segundos)
 
-
 f = open('./logs/log_'+ str(datacompleta) +'.txt', 'a+')
 
 f.write('Some document was generated at '+ str(horacompletaseparada) +' on '+ str(datacompletabarra) +'\n')
+f.write('It was generated '+ str(variaveis.document) + ' for '+ str(variaveis.country) +'\n')
+f.write('\n')
 f.close()

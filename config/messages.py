@@ -1,6 +1,5 @@
 ## Mensagem de todas as telas ##
 import os, sys, shutil
-
 def limpar_tela():
     os.system('cls' if os.name == 'nt' else 'clear')
 

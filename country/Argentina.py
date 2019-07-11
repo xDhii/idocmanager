@@ -29,13 +29,19 @@ while opt not in ('a', 'b'):
 
 if opt == "a":
     import ARG_Exportation_Invoice_WithCUITDestino
+    document = "ARG_Exportation_Invoice_WithCUITDestino"
 if opt == "b":
     import ARG_Exportation_Invoice_WithoutCUITDestino
+    document = "ARG_Exportation_Invoice_WithoutCUITDestino"
 if opt == "c":
     import ARG_Local_Invoice_MTX_CAEA
+    document = "ARG_Local_Invoice_MTX_CAEA"
 if opt == "d":
     import ARG_Local_Invoice_MTX
+    document = "ARG_Local_Invoice_MTX"
 if opt == "e":
     import ARG_Local_Invoice_MTXCAECAEA
+    document = "ARG_Local_Invoice_MTXCAECAEA"
 if opt == "f":
     import ARG_Local_Invoice
+    document = "ARG_Local_Invoice"
