@@ -124,9 +124,6 @@ if opt == "o":
     xuf = "SP"
     xcep = "11015900"
 
-## Definir estado e municipio ##
-import estados, municipios
-
 ## Ajustar o tamanho da tag xnome para 115 caracteres ##
 xnome = '{message:{fill}{align}{width}}'.format(
    message = (xnome) ,
@@ -143,5 +140,5 @@ inscxmun = '{message:{fill}{align}{width}}'.format(
    width=15,
 )
 
-f.write('CNPJ: '+ cnpj + 'IE: '+ inscxmun + xnome)
+f.write('CNPJ: '+ cnpj + '      IE: '+ inscxmun +'      '+ xnome)
 f.close()

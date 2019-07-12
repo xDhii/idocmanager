@@ -55,5 +55,5 @@ rfc = '{message:{fill}{align}{width}}'.format(
    width=20,
 )
 
-f.write(rfc + xnome)
+f.write(rfc +'      '+ xnome)
 f.close()

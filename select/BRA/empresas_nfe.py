@@ -34,5 +34,5 @@ xnome = '{message:{fill}{align}{width}}'.format(
    width=60,
 )
 
-f.write(cnpj + xnome)
+f.write(cnpj +'     '+ xnome)
 f.close()

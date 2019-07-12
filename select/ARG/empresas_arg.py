@@ -39,5 +39,5 @@ cuit = '{message:{fill}{align}{width}}'.format(
    width=11,
 )
 
-f.write(cuit + xnome)
+f.write(cuit +'      '+ xnome)
 f.close()

@@ -34,14 +34,9 @@ f = open('select/BRA/rps.txt', 'w')
 print(rps, file=f)
 f.close()
 
-## Saves the generated folio to LOG ##
-f = open('bin/folio.log', 'w')
-f.write(rps)
-f.close()
-
 rps = '{message:{fill}{align}{width}}'.format(
    message = (rps) ,
-   fill=' ',
+   fill='0',
    align='>',
    width=15,
 )
@@ -53,3 +48,8 @@ docnum = '{message:{fill}{align}{width}}'.format(
    align='>',
    width=20,
 )
+
+## Saves the generated folio to LOG ##
+f = open('bin/folio.log', 'w')
+print(rps, file=f)
+f.close()

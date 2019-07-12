@@ -42,5 +42,5 @@ rut = '{message:{fill}{align}{width}}'.format(
    width=30,
 )
 
-f.write(rut + xnome)
+f.write(rut +'      '+ xnome)
 f.close()
