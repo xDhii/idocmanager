@@ -1,11 +1,7 @@
 import datetime, sys
-sys.path.append('../idocmanager')
-import idocmanager.variaveis
 
-
-f = open('idocmanager.py', 'r')
+## Time Config ##
 date_time = datetime.datetime.now()
-
 date = date_time.date()  # Retorna a data
 time = date_time.time()  # Retorna a hora
 horacomex = time.hour - 5# Retorna a horas atrasada
@@ -16,7 +12,7 @@ ano = date.year          # Retorna o ano
 mes = date.month         # Retorna o mes
 dia = date.day           # Retorna o dia
 
-## Ajuste de caracteres para 2 ##
+## Character Adjustment ##
 mes = '{message:{fill}{align}{width}}'.format(
 message = (mes) ,
 fill='0',
@@ -30,14 +26,25 @@ align='>',
 width=2,
 )
 
+## Full time and date config ##
 datacompleta = str(ano)+str(mes)+str(dia)
 datacompletabarra = str(ano)+'/'+str(mes)+'/'+str(dia)
 horacompleta = str(horas)+str(minutos)+str(segundos)
 horacompletaseparada = str(horas)+':'+str(minutos)+':'+str(segundos)
 
-f = open('./logs/log_'+ str(datacompleta) +'.txt', 'a+')
+## Capture generated Country information ##
+f = open('bin/country.log', 'r')
+country = f.read()
+f.close()
 
-f.write('Some document was generated at '+ str(horacompletaseparada) +' on '+ str(datacompletabarra) +'\n')
-f.write('It was generated '+ str(variaveis.document) + ' for '+ str(variaveis.country) +'\n')
+## Capture generated document type information ##
+f = open('bin/document.log', 'r')
+document = f.read()
+f.close()
+
+## Create, write and close the log ##
+f = open('./logs/log_'+ str(datacompleta) +'.txt', 'a+')
+f.write('A document was generated at '+ str(horacompletaseparada) +' on '+ str(datacompletabarra) +'\n')
+f.write('       -It was generated '+ str(document) +' for '+ str(country) +'\n')
 f.write('\n')
 f.close()

@@ -2,7 +2,10 @@
 import os, sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/config")
 import messages
-
+f = open('bin/country.log', 'w')
+f.write('Brasil')
+f.close()
+f = open('bin/document.log', 'w')
 ## Mensagem inicial ##
 messages.limpar_tela()
 messages.mensageminicial()
@@ -24,8 +27,11 @@ while opt not in ('a', 'b'):
     opt = opt.lower()
 
 if opt == "a":
+    document = "Brazil NFe"
     import BRA_NFE
-    document = "BRA_NFE"
 if opt == "b":
+    document = "Brazil NFSe"
     import BRA_NFSE
-    document = "BRA_NFSE"
+
+f.write(document)
+f.close()

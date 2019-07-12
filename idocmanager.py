@@ -23,30 +23,16 @@ while opt not in ('a', 'b', 'c', 'd', 'z'): # Loop até a seleção de algum Pa�
 
 if opt == "a":
     from country import Argentina
-    ## Define variável para geração do log ##
-    country = "Argentina"
-    document = Argentina.document
 if opt == "b":
     from country import Brasil
-    document = Brasil.document
-    ## Define variável para geração do log ##
-    country = "Brazil"
 if opt == "c":
     from country import Mexico
-    ## Define variável para geração do log ##
-    country = "México"
 if opt == "d":
     from country import Uruguay
-    ## Define variável para geração do log ##
-    country = "Uruguay"
 if opt == "z":
     import resetfolio
 
 from process import sendtovm
-
-def variaveis():
-    document = document
-    country = country
 
 from config import log_generate
 ## Opção de reiniciar o processo
