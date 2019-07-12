@@ -1,6 +1,6 @@
 import datetime, sys
 sys.path.append('../idocmanager')
-from idocmanager import country, document
+import idocmanager.variaveis
 
 
 f = open('idocmanager.py', 'r')
