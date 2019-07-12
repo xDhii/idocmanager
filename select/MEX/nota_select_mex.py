@@ -18,6 +18,12 @@ f.close()
 f = open('select/MEX/folio.txt', 'w')
 print(folio, file=f)
 f.close()
+
+## Saves the generated folio to LOG ##
+f = open('bin/folio.log', 'w')
+f.write(folio)
+f.close()
+
 folio = '{message:{fill}{align}{width}}'.format(
    message = (folio) ,
    fill='0',

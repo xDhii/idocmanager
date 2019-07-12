@@ -2,7 +2,7 @@
 import os, sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/config")
 import messages
-
+f = open('bin/companycode.log', 'w')
 ## Mensagem inicial ##
 messages.limpar_tela()
 messages.mensageminicial()
@@ -142,3 +142,6 @@ inscxmun = '{message:{fill}{align}{width}}'.format(
    align='<',
    width=15,
 )
+
+f.write('CNPJ: '+ cnpj + 'IE: '+ inscxmun + xnome)
+f.close()

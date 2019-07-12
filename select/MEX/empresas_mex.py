@@ -2,7 +2,7 @@
 import os, sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/config")
 import messages
-
+f = open('bin/companycode.log', 'w')
 ## Mensagem inicial ##
 messages.limpar_tela()
 messages.mensageminicial()
@@ -16,7 +16,7 @@ opt = opt.lower()
 while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g'):
     print('\033[91mHmm... Não entendi sua resposta')
     opt = input('\033[0mDigite novamente a letra correspondente a empresa: ')
-    opt = opt.lower()    
+    opt = opt.lower()
 if opt == "a":
     xnome = "Sovos Mexico Inbound (CHEP)"
     rfc = "CME940118F7A"
@@ -55,3 +55,5 @@ rfc = '{message:{fill}{align}{width}}'.format(
    width=20,
 )
 
+f.write(rfc + xnome)
+f.close()

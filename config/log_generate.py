@@ -42,9 +42,15 @@ f = open('bin/document.log', 'r')
 document = f.read()
 f.close()
 
+## Capture generated document type information ##
+f = open('bin/folio.log', 'r')
+folio = f.read()
+f.close()
+
 ## Create, write and close the log ##
 f = open('./logs/log_'+ str(datacompleta) +'.txt', 'a+')
 f.write('A document was generated at '+ str(horacompletaseparada) +' on '+ str(datacompletabarra) +'\n')
-f.write('       -It was generated '+ str(document) +' for '+ str(country) +'\n')
+f.write('       It was generated '+ str(document) +' for '+ str(country) +'\n')
+f.write('       Folio: '+ str(folio) +'\n')
 f.write('\n')
 f.close()

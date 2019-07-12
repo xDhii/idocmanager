@@ -2,7 +2,7 @@
 import os, sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/config")
 import messages
-
+f = open('bin/companycode.log', 'w')
 ## Mensagem inicial ##
 messages.limpar_tela()
 messages.mensageminicial()
@@ -24,7 +24,6 @@ if opt == "b":
     xnome = "Sovos Argentina (Philips) - Local MTX"
     cuit = "30503747533"
 
-
 ## Ajustar o tamanho da tag xnome para 255 caracteres ##
 xnome = '{message:{fill}{align}{width}}'.format(
    message = (xnome) ,
@@ -40,3 +39,5 @@ cuit = '{message:{fill}{align}{width}}'.format(
    width=11,
 )
 
+f.write(cuit + xnome)
+f.close()
