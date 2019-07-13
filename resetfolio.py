@@ -1,4 +1,4 @@
-import os, sys, time
+import os, sys, shutil, time
 zerar = 0
 ## ARG ##
 f = open('./select/ARG/folio.txt', 'w')
@@ -39,6 +39,9 @@ if cleanlog in ('Y', 'y'):
     f = open('bin/folio.log', 'w')
     f.write('\n')
     f.close()
+    shutil.rmtree('logs/')
+    shutil.rmtree('idoc/')
+    from config import criar_pasta
     print('Everything is clear!')
 else:
     print('I did not understand your answer...')
