@@ -12,7 +12,7 @@ messages.mensageminicial()
 ## Voltar para a pasta de documentos do Brasil ##
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/country/documents/MEX")
 ## Opçoes de documentos disponiveis ##
-print('Documentos disponíveis: ')
+print('Available documents: ')
 print()
 print('\033[1;30;47m A \033[0m - \033[4mMEX - CDFI Detallist e Addenda              \033[0m')
 print('\033[1;30;47m B \033[0m - \033[4mMEX - CFDI 33 Comex                         \033[0m')
