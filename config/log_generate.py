@@ -25,6 +25,24 @@ fill='0',
 align='>',
 width=2,
 )
+horas = '{message:{fill}{align}{width}}'.format(
+message = (horas) ,
+fill='0',
+align='>',
+width=2,
+)
+minutos = '{message:{fill}{align}{width}}'.format(
+message = (minutos) ,
+fill='0',
+align='>',
+width=2,
+)
+segundos = '{message:{fill}{align}{width}}'.format(
+message = (segundos) ,
+fill='0',
+align='>',
+width=2,
+)
 
 ## Full time and date config ##
 datacompleta = str(ano)+str(mes)+str(dia)

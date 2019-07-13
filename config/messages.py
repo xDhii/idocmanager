@@ -24,7 +24,7 @@ def paises_disponiveis():
 
 def empresas_nfse():
     print()
-    print('Availble companies:')
+    print('Available companies:')
     print()
     print('\033[1;30;47m A \033[0m - \033[4mMicrosoft MST   RJ - CNPJ:60316817000286  I.M:01819925 \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mMicrosoft MST   RJ - CNPJ:60316817000286  I.M:30677173 \033[0m')
@@ -46,7 +46,7 @@ def empresas_nfse():
 
 def empresas_nfe():
     print()
-    print('Availble companies:')
+    print('Available companies:')
     print()
     print('\033[1;30;47m A \033[0m - \033[4mInvoiceware     SP  - 24492961000129 \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mPaperless       SP  - 10726059000115 \033[0m')
@@ -55,7 +55,7 @@ def empresas_nfe():
 
 def empresas_ury():
     print()
-    print('Availble companies:')
+    print('Available companies:')
     print()
     print('\033[1;30;47m A \033[0m - \033[4mSovos Uruguay (McCain)      - 080003530017 \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mDSM                         - 214580250019 \033[0m')
@@ -65,7 +65,7 @@ def empresas_ury():
 
 def empresas_mex():
     print()
-    print('Availble companies:')
+    print('Available companies:')
     print()
     print('\033[1;30;47m A \033[0m - \033[4mSovos Mexico Inbound (CHEP)     - CME940118F7A \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mWeWork - MX - QA                - ALA151026V8A \033[0m')
@@ -79,7 +79,7 @@ def empresas_mex():
 
 def empresas_arg():
     print()
-    print('Availble companies:')
+    print('Available companies:')
     print()
     print('\033[1;30;47m A \033[0m - \033[4mSovos Argentina (Rockwell)              - 30681463999 \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mSovos Argentina (Philips) - Local MTX   - 30503747533 \033[0m')
