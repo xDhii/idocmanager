@@ -41,6 +41,6 @@ if cleanlog in ('Y', 'y'):
     f.close()
     print('Everything is clear!')
 else:
-    print('I do not understood your answer...')
+    print('I did not understand your answer...')
     print('I will not touch your logs.')
 time.sleep(5)
