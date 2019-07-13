@@ -15,6 +15,7 @@ messages.paises_disponiveis()
 print('Which Country do you want to access?')
 opt = input('Enter the letter corresponding to the Country: ')
 opt = opt.lower()
+
 while opt not in ('a', 'b', 'c', 'd', 'z'): # Loop até a seleção de algum País disponível
     print()
     print('\033[91m Hmm... The option you entered does not exist \033[0m')
@@ -30,7 +31,6 @@ if opt == "d":
     from country import Uruguay
 if opt == "z":
     from process import resetfolio
-    goto
 
 from process import sendtovm
 from config import log_generate
@@ -46,8 +46,8 @@ while restart not in ('y', 'n'):
 if restart == "y":
     ## Reiniciar processo no Windows ##
     if os.name == 'nt':
-        p = Popen("python " + filename, shell=True)
-        # os.startfile(sys.argv[0])
+        # p = Popen("python " + filename, shell=True)
+        os.startfile(sys.argv[0])
     ## Reiniciar processo no Linux ##
     if os.name == 'posix':
         filename = sys.argv[0]
@@ -57,6 +57,6 @@ if restart == "y":
         print('My bad, not yet implemented for Java systems')
 #    sys.exit("Reiniciando processo, aguarde...")
 ## Encerrar o processo ##
-if restart in ("n", "nao", "não", "no"):
+if restart == "n":
     print("Ok, exiting...")
     time.sleep(3)

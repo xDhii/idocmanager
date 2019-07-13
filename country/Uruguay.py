@@ -24,13 +24,13 @@ print('\033[1;30;47m G \033[0m - \033[4mURY - 211 Factura (for failure)         
 print('\033[1;30;47m H \033[0m - \033[4mURY - 211 Factura                            \033[0m')
 
 print()
-    print('Got it. What kind of document do you want to create?')
-    opt = input('Enter the letter corresponding to the document type: ')
+print('Got it. What kind of document do you want to create?')
+opt = input('Enter the letter corresponding to the document type: ')
+opt = opt.lower()
+while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'):
+    print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
+    opt = input("Let's try again. Enter the corresponding letter: ")
     opt = opt.lower()
-    while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'):
-        print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
-        opt = input("Let's try again. Enter the corresponding letter: ")
-        opt = opt.lower()
 
 if opt == "a":
     document = "Uruguay Ticket (101)"
