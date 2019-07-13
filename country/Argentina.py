@@ -22,13 +22,7 @@ print('\033[1;30;47m E \033[0m - \033[4mARG - Local Invoice MTX CAE & CAEA\033[0
 print('\033[1;30;47m F \033[0m - \033[4mARG - Local Invoice\033[0m')
 
 print()
-print('Entendido. Qual tipo de documento você deseja criar?')
-opt = input('Digite a letra correspondente ao tipo de documento: ')
-opt = opt.lower()
-while opt not in ('a', 'b', 'c', 'd', 'e', 'f'):
-    print('\033[91mHmm... Não entendi qual o documento voce quer gerar')
-    opt = input('\033[0mVamos tentar novamente. Digite a letra correspondente ao tipo de documento: ')
-    opt = opt.lower()
+messages.document_select()
 
 if opt == "a":
     document = "Argentina Exportation Invoice"

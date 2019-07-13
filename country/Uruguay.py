@@ -24,13 +24,7 @@ print('\033[1;30;47m G \033[0m - \033[4mURY - 211 Factura (for failure)         
 print('\033[1;30;47m H \033[0m - \033[4mURY - 211 Factura                            \033[0m')
 
 print()
-print('Entendido. Qual tipo de documento você deseja criar?')
-opt = input('Digite a letra correspondente ao tipo de documento: ')
-opt = opt.lower()
-while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'):
-    print('\033[91mHmm... Não entendi qual o documento voce quer gerar')
-    opt = input('\033[0mVamos tentar novamente. Digite a letra correspondente ao tipo de documento: ')
-    opt = opt.lower()
+messages.document_select()
 
 if opt == "a":
     document = "Uruguay Ticket (101)"

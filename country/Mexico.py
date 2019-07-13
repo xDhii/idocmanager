@@ -27,13 +27,7 @@ print('\033[1;30;47m J \033[0m - \033[4mMEX - CFDI 33 Standard com Série       
 print('\033[1;30;47m K \033[0m - \033[4mMEX - CFDI Pagos                            \033[0m')
 
 print()
-print('Entendido. Qual tipo de documento você deseja criar?')
-opt = input('Digite a letra correspondente ao tipo de documento: ')
-opt = opt.lower()
-while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k'):
-    print('\033[91mHmm... Não entendi qual o documento voce quer gerar')
-    opt = input('\033[0mVamos tentar novamente. Digite a letra correspondente ao tipo de documento: ')
-    opt = opt.lower()
+messages.document_select()
 
 if opt == "a":
     document = "México CFDI (Detallista and Addenda)"

@@ -18,13 +18,7 @@ print('\033[1;30;47m A \033[0m - \033[4mBRA - NFe       \033[0m')
 print('\033[1;30;47m B \033[0m - \033[4mBRA - NFSe (BUG)\033[0m')
 
 print()
-print('Entendido. Qual tipo de documento você deseja criar?')
-opt = input('Digite a letra correspondente ao tipo de documento: ')
-opt = opt.lower()
-while opt not in ('a', 'b'):
-    print('\033[91m Hmm... Não entendi qual o documento voce quer gerar \033[0m')
-    opt = input('Vamos tentar novamente. Digite a letra correspondente ao tipo de documento: ')
-    opt = opt.lower()
+messages.document_select()
 
 if opt == "a":
     document = "Brazil NFe"

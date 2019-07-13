@@ -4,11 +4,11 @@ def limpar_tela():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def mensageminicial():
-    print('\033[91m Atenção: All companies must be configured as SAPKFQ!        \033[0m')
+    print('\033[91m IMPORTANT: All companies must be configured as SAPKFQ!        \033[0m')
     print()
     print("\033[1;30;47m            IDOC CREATOR v0.4.15 (beta)                 \033[0m")
     print()
-    print('\33[1;37;40m Is any company or document missing? Contact us:         \033[0m')
+    print('\33[1;37;40m Is any company or document missing? Any BUG? Contact us:         \033[0m')
     print('\33[1;37;40m adriano.valumin@sovos.com / tayna.blasques@sovos.com    \033[0m')
     print()
     print()
@@ -20,7 +20,17 @@ def paises_disponiveis():
     print('\033[1;30;47m B \033[0m - \033[4mBrasil          \033[0m')
     print('\033[1;30;47m C \033[0m - \033[4mMéxico          \033[0m')
     print('\033[1;30;47m D \033[0m - \033[4mUruguay         \033[0m')
-    print('\033[1;30;47m Z \033[0m - \033[4mZerar Folios    \033[0m')
+    print('\033[1;30;47m Z \033[0m - \033[4mReset Folios    \033[0m')
+
+def document_select():
+    print('Entendido. Qual tipo de documento você deseja criar?')
+    opt = input('Digite a letra correspondente ao tipo de documento: ')
+    opt = opt.lower()
+    while opt not in ('a', 'b'):
+        print('\033[91m Hmm... Não entendi qual o documento voce quer gerar \033[0m')
+        opt = input('Vamos tentar novamente. Digite a letra correspondente ao tipo de documento: ')
+        opt = opt.lower()
+
 
 def empresas_nfse():
     print()
