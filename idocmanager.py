@@ -46,8 +46,8 @@ while restart not in ('y', 'n'):
 if restart == "y":
     ## Reiniciar processo no Windows ##
     if os.name == 'nt':
-        # p = Popen("python " + filename, shell=True)
-        os.startfile(sys.argv[0])
+        p = Popen("python " + filename, shell=True)
+        # os.startfile(sys.argv[0])
     ## Reiniciar processo no Linux ##
     if os.name == 'posix':
         filename = sys.argv[0]
