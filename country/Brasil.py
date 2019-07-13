@@ -15,7 +15,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/
 print('Available documents: ')
 print()
 print('\033[1;30;47m A \033[0m - \033[4mBRA - NFe       \033[0m')
-print('\033[1;30;47m B \033[0m - \033[4mBRA - NFSe (BUG)\033[0m')
+print('\033[1;30;47m B \033[0m - \033[4mBRA - NFSe      \033[0m')
 
 print()
 messages.document_select()

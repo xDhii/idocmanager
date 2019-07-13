@@ -11,11 +11,11 @@ messages.mensageminicial()
 messages.empresas_nfse()
 
 ## Input e seleção da empresa ##
-opt = input('Digite a letra correspondente a empresa: ')
+opt = input('Enter the letter corresponding to a company: ')
 opt = opt.lower()
 while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o'):
-    print('\033[91mHmm... Não entendi sua resposta')
-    opt = input('\033[0mDigite novamente a letra correspondente a empresa: ')
+    print('\033[91mHmm... I did not understand your answer')
+    opt = input('\033[0m Reenter the letter corresponding to a company: ')
     opt = opt.lower()
 
 if opt == "a":

@@ -4,7 +4,7 @@ import datetime, sys
 date_time = datetime.datetime.now()
 date = date_time.date()  # Retorna a data
 time = date_time.time()  # Retorna a hora
-horacomex = time.hour - 5# Retorna a horas atrasada
+horacomex = time.hour - 5# Retorna a hora atrasada
 horas = time.hour        # Retorna a hora
 minutos = time.minute    # Retorna os minutos
 segundos = time.second   # Retorna os segundos

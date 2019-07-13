@@ -27,8 +27,8 @@ def document_select():
     opt = input('Digite a letra correspondente ao tipo de documento: ')
     opt = opt.lower()
     while opt not in ('a', 'b'):
-        print('\033[91m Hmm... Não entendi qual o documento voce quer gerar \033[0m')
-        opt = input('Vamos tentar novamente. Digite a letra correspondente ao tipo de documento: ')
+        print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
+        opt = input("Let's try again. Enter the corresponding letter: ")
         opt = opt.lower()
 
 
@@ -107,7 +107,7 @@ def tryagain():
     print()
     print()
     try:
-        print('\033[93m This process can take up to 30 seconds ... \033[0m')
+        print('\033[93m This process can take up to 15 seconds ... \033[0m')
         print()
         shutil.move('idoc/outbound.idoc', '//invqasrv'+ str(vmdestino) +'.corp.sovos.local/c$/TF/Queues/IDOCReceiver')
         limpar_tela()
