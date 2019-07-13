@@ -1,4 +1,10 @@
 import os, sys, shutil, time
+from config import messages
+
+## Mensagem inicial ##
+messages.limpar_tela()
+messages.mensageminicial()
+
 zerar = 0
 ## ARG ##
 f = open('./select/ARG/folio.txt', 'w')
@@ -22,10 +28,12 @@ print(zerar, file=f)
 f.close()
 
 print('Okay, all the folios was reseted.')
+print()
 print('Do you want to clean all the log files?')
 cleanlog = input('Y to clean or N to leave: ')
 cleanlog = cleanlog.lower()
-if cleanlog in ('Y', 'y'):
+print()
+if cleanlog == 'y':
     print('Roger that!')
     f = open('bin/companycode.log', 'w')
     f.write('\n')
@@ -43,6 +51,8 @@ if cleanlog in ('Y', 'y'):
     shutil.rmtree('idoc/')
     from config import criar_pasta
     print('Everything is clear!')
+elif cleanlog == 'n':
+    print('Okay, bye bye.')
 else:
     print('I did not understand your answer...')
     print('I will not touch your logs.')

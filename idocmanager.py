@@ -4,7 +4,6 @@ sys.path.append('../idocmanager')
 from subprocess import Popen
 from config import criar_pasta, messages, autofoliocheck
 
-
 ## Mensagem inicial ##
 messages.limpar_tela()
 messages.mensageminicial()
@@ -30,7 +29,8 @@ if opt == "c":
 if opt == "d":
     from country import Uruguay
 if opt == "z":
-    import resetfolio
+    from process import resetfolio
+    goto
 
 from process import sendtovm
 from config import log_generate
