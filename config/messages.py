@@ -22,16 +22,6 @@ def paises_disponiveis():
     print('\033[1;30;47m D \033[0m - \033[4mUruguay         \033[0m')
     print('\033[1;30;47m Z \033[0m - \033[4mReset Folios    \033[0m')
 
-def document_select():
-    print('Entendido. Qual tipo de documento você deseja criar?')
-    opt = input('Digite a letra correspondente ao tipo de documento: ')
-    opt = opt.lower()
-    while opt not in ('a', 'b'):
-        print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
-        opt = input("Let's try again. Enter the corresponding letter: ")
-        opt = opt.lower()
-
-
 def empresas_nfse():
     print()
     print('Available companies:')

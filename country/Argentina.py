@@ -22,7 +22,13 @@ print('\033[1;30;47m E \033[0m - \033[4mARG - Local Invoice MTX CAE & CAEA\033[0
 print('\033[1;30;47m F \033[0m - \033[4mARG - Local Invoice\033[0m')
 
 print()
-messages.document_select()
+    print('Got it. What kind of document do you want to create?')
+    opt = input('Enter the letter corresponding to the document type: ')
+    opt = opt.lower()
+    while opt not in ('a', 'b', 'c', 'd', 'e', 'f'):
+        print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
+        opt = input("Let's try again. Enter the corresponding letter: ")
+        opt = opt.lower()
 
 if opt == "a":
     document = "Argentina Exportation Invoice"

@@ -27,7 +27,13 @@ print('\033[1;30;47m J \033[0m - \033[4mMEX - CFDI 33 Standard com Série       
 print('\033[1;30;47m K \033[0m - \033[4mMEX - CFDI Pagos                            \033[0m')
 
 print()
-messages.document_select()
+    print('Got it. What kind of document do you want to create?')
+    opt = input('Enter the letter corresponding to the document type: ')
+    opt = opt.lower()
+    while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k'):
+        print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
+        opt = input("Let's try again. Enter the corresponding letter: ")
+        opt = opt.lower()
 
 if opt == "a":
     document = "México CFDI (Detallista and Addenda)"
