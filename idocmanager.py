@@ -31,6 +31,7 @@ if opt == "d":
     from country import Uruguay
 if opt == "z":
     from process import resetfolio
+    sys.exit()
 
 from process import sendtovm
 from config import log_generate
@@ -46,8 +47,7 @@ while restart not in ('y', 'n'):
 if restart == "y":
     ## Reiniciar processo no Windows ##
     if os.name == 'nt':
-        p = Popen("python " + filename, shell=True)
-        # os.startfile(sys.argv[0])
+        os.system("start /B start cmd.exe @cmd /k python idocmanager.py")
     ## Reiniciar processo no Linux ##
     if os.name == 'posix':
         filename = sys.argv[0]
@@ -60,3 +60,4 @@ if restart == "y":
 if restart == "n":
     print("Ok, exiting...")
     time.sleep(3)
+    sys.exit()

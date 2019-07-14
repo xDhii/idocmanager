@@ -49,7 +49,6 @@ if cleanlog == 'y':
     f.close()
     shutil.rmtree('logs/')
     shutil.rmtree('idoc/')
-    from config import criar_pasta
     print('Everything is clear!')
 elif cleanlog == 'n':
     print('Okay, bye bye.')
