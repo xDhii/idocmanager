@@ -34,3 +34,7 @@ A document was generated at 18:44:39 on 2019/07/16
        It was generated Brazil NFe (Brasil)
        Folio: 000000003
        Company: 24492961000129Invoiceware SP                                              
+A document was generated at 18:51:21 on 2019/07/16
+       It was generated Brazil NFe (Brasil)
+       Folio: 000000008
+       Company: 24492961000129Invoiceware SP                                              

@@ -9,7 +9,7 @@ conn = pyodbc.connect('DRIVER={ODBC Driver 11 for SQL Server};SERVER=INVQASRV19;
 
 def select_DocumentID():
     cursor = conn.cursor()
-    cursor.execute("select TOP 1 * from TFDocument where OwnerSearchCode='"+str(companycode)+"'")
+    cursor.execute("select top 5 statusdescription from TFDocumentHistoryFlow where documentid = (select top 1 documentid from TFDocument where OwnerSearchCode ='"+companycode+"' order by CreationDate desc)")
     for row in cursor:
         print(row)
 
