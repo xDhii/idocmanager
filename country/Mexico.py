@@ -10,7 +10,7 @@ f = open('bin/document.log', 'w')
 messages.limpar_tela()
 messages.mensageminicial()
 ## Voltar para a pasta de documentos do Brasil ##
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/country/documents/MEX")
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/country/documents")
 ## Opçoes de documentos disponiveis ##
 print('Available documents: ')
 print()
@@ -37,37 +37,37 @@ while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k'):
 
 if opt == "a":
     document = "México CFDI (Detallista and Addenda)"
-    import MEX_cfdi_detallista_and_addenda
+    from documents import MEX_cfdi_detallista_and_addenda
 if opt == "b":
     document = "México CFDI (Comex)"
-    import MEX_cfdi33_comex
+    from documents import MEX_cfdi33_comex
 if opt == "c":
     document = "México CFDI (Comex without Addenda)"
-    import MEX_cfdi33_comex_noaddenda
+    from documents import MEX_cfdi33_comex_noaddenda
 if opt == "d":
     document = "México CFDI Standard"
-    import MEX_cfdi33_standard
+    from documents import MEX_cfdi33_standard
 if opt == "e":
     document = "México CFDI Standard (Type E)"
-    import MEX_Standard_Type_E
+    from documents import MEX_Standard_Type_E
 if opt == "f":
     document = "México CFDI Standard )Type P)"
-    import MEX_Standard_Type_P
+    from documents import MEX_Standard_Type_P
 if opt == "g":
     document = "México CFDI Standard (Type T)"
-    import MEX_Standard_Type_T
+    from documents import MEX_Standard_Type_T
 if opt == "h":
     document = "México CFDI (Standart without Addenda)"
-    import MEX_cfdi33_standard_addendastep1_without_addenda
+    from documents import MEX_cfdi33_standard_addendastep1_without_addenda
 if opt == "i":
     document = "México CFDI (Standard with Addenda)"
-    import MEX_cfdi33_standard_addendastep2addenda
+    from documents import MEX_cfdi33_standard_addendastep2addenda
 if opt == "j":
     document = "México CFDI (Standard with Serie)"
-    import MEX_cfdi33_standard_serie
+    from documents import MEX_cfdi33_standard_serie
 if opt == "k":
     document = "México CFDI (Pagos)"
-    import MEX_cfdi33_pagos
+    from documents import MEX_cfdi33_pagos
 
 f.write(document)
 f.close()
