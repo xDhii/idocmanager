@@ -11,6 +11,7 @@ messages.limpar_tela()
 messages.mensageminicial()
 ## Voltar para a pasta de documentos do Brasil ##
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/country/documents")
+import documents
 ## Opçoes de documentos disponiveis ##
 print('Available documents: ')
 print()
@@ -28,10 +29,10 @@ while opt not in ('a', 'b'):
 
 if opt == "a":
     document = "Brazil NFe"
-    from documents import BRA_NFE
+    documents.BRA_NFE()
 if opt == "b":
     document = "Brazil NFSe"
-    from documents import BRA_NFSE
+    documents.BRA_NFSE()
 
 f.write(document)
 f.close()

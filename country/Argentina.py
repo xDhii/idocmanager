@@ -37,19 +37,19 @@ if opt == "a":
     # from documents import ARG_Exportation_Invoice_WithCUITDestino
 if opt == "b":
     document = "Argentina Exportation Invoice"
-    from documents import ARG_Exportation_Invoice_WithoutCUITDestino
+    documents.ARG_Exportation_Invoice_WithoutCUITDestino
 if opt == "c":
     document = "Argentina Local Invoice MTX CAEA"
-    from documents import ARG_Local_Invoice_MTX_CAEA
+    documents.ARG_Local_Invoice_MTX_CAEA
 if opt == "d":
     document = "Argentina Local Invoice MTX"
-    from documents import ARG_Local_Invoice_MTX
+    documents.ARG_Local_Invoice_MTX
 if opt == "e":
     document = "Argentina Local Invoice MTX CAE & CAEA"
-    from documents import ARG_Local_Invoice_MTXCAECAEA
+    documents.ARG_Local_Invoice_MTXCAECAEA
 if opt == "f":
     document = "Argentina Local Invoice"
-    from documents import ARG_Local_Invoice
+    documents.ARG_Local_Invoice
 
 f.write(document)
 f.close()
