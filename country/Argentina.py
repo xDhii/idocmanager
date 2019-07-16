@@ -34,22 +34,21 @@ while opt not in ('a', 'b', 'c', 'd', 'e', 'f'):
 if opt == "a":
     document = "Argentina Exportation Invoice"
     documents.ARG_Exportation_Invoice_WithCUITDestino()
-    # from documents import ARG_Exportation_Invoice_WithCUITDestino
 if opt == "b":
     document = "Argentina Exportation Invoice"
-    documents.ARG_Exportation_Invoice_WithoutCUITDestino
+    documents.ARG_Exportation_Invoice_WithoutCUITDestino()
 if opt == "c":
     document = "Argentina Local Invoice MTX CAEA"
-    documents.ARG_Local_Invoice_MTX_CAEA
+    documents.ARG_Local_Invoice_MTX_CAEA()
 if opt == "d":
     document = "Argentina Local Invoice MTX"
-    documents.ARG_Local_Invoice_MTX
+    documents.ARG_Local_Invoice_MTX()
 if opt == "e":
     document = "Argentina Local Invoice MTX CAE & CAEA"
-    documents.ARG_Local_Invoice_MTXCAECAEA
+    documents.ARG_Local_Invoice_MTXCAECAEA()
 if opt == "f":
     document = "Argentina Local Invoice"
-    documents.ARG_Local_Invoice
+    documents.ARG_Local_Invoice()
 
 f.write(document)
 f.close()
