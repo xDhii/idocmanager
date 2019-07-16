@@ -35,12 +35,6 @@ segundos = '{message:{fill}{align}{width}}'.format(
    align='>',
    width=2,
 )
-ano = '{message:{fill}{align}{width}}'.format(
-   message = (ano) ,
-   fill='20',
-   align='>',
-   width=4,
-)
 mes = '{message:{fill}{align}{width}}'.format(
    message = (mes) ,
    fill='0',
