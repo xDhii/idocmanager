@@ -6,7 +6,7 @@ def limpar_tela():
 def mensageminicial():
     print('\033[91m IMPORTANT: All companies must be configured as SAPKFQ!        \033[0m')
     print()
-    print("\033[1;30;47m            IDOC CREATOR v0.4.15 (beta)                 \033[0m")
+    print("\033[1;30;47m            IDOC CREATOR v0.4.31 (beta)                 \033[0m")
     print()
     print('\33[1;37;40m Is any company or document missing? Any BUG? Contact us:         \033[0m')
     print('\33[1;37;40m adriano.valumin@sovos.com / tayna.blasques@sovos.com    \033[0m')
