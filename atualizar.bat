@@ -10,6 +10,7 @@ echo .
 
 
 git init
-git pull https://github.com/xDhii/idocmanager.git
+git clone https://github.com/xDhii/idocmanager.git
 
-echo Okay ;)
+echo Okay, finished ;)
+pause

@@ -55,7 +55,7 @@ if restart == "y":
         p = Popen("python " + filename, shell=True)
     if os.name == 'java':
         print('My bad, not yet implemented for Java systems')
-#    sys.exit("Reiniciando processo, aguarde...")
+    sys.exit()
 ## Encerrar o processo ##
 if restart == "n":
     print("Ok, exiting...")

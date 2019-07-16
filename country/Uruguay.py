@@ -10,7 +10,8 @@ f = open('bin/document.log', 'w')
 messages.limpar_tela()
 messages.mensageminicial()
 ## Voltar para a pasta de documentos do Brasil ##
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/country/documents/URY")
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/country/documents")
+import documents
 ## Opçoes de documentos disponiveis ##
 print('Available documents: ')
 print()
@@ -34,28 +35,28 @@ while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'):
 
 if opt == "a":
     document = "Uruguay Ticket (101)"
-    import URY_101ticket
+    documents.URY_101ticket()
 if opt == "b":
     document = "Uruguay Factura (111)"
-    import URY_111factura
+    documents.URY_111factura()
 if opt == "c":
     document = "Uruguay Factura Exportacion (121)"
-    import URY_121facturaexportacion
+    documents.URY_121facturaexportacion()
 if opt == "d":
     document = "Uruguay Factura Nota Credito(122)"
-    import URY_122facturanotacredito
+    documents.URY_122facturanotacredito()
 if opt == "e":
     document = "Uruguay Factura Nota Debito (123)"
-    import URY_123facturanotadebito
+    documents.URY_123facturanotadebito()
 if opt == "f":
     document = "Uruguay Eremito Exportacion (124)"
-    import URY_124eremitoexportacion
+    documents.URY_124eremitoexportacion()
 if opt == "g":
     document = "Uruguay Factura (for Failure)"
-    import URY_211errorce
+    documents.URY_211errorce()
 if opt == "h":
     document = "Uruguay Factura (211)"
-    import URY_211factura
+    documents.URY_211factura()
 
 f.write(document)
 f.close()
