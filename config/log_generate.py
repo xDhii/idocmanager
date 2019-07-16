@@ -65,15 +65,21 @@ f = open('bin/folio.log', 'r')
 folio = f.read()
 f.close()
 
-## Capture generated Company Code and Company Name ##
+## Capture generated Company Code ##
 f = open('bin/companycode.log', 'r')
 companycode = f.read()
 f.close()
+
+## Capture generated Company Name ##
+f = open('bin/companyname.log', 'r')
+companyname = f.read()
+f.close()
+
 
 ## Create, write and close the log ##
 f = open('./logs/log_'+ str(datacompleta) +'.txt', 'a+')
 f.write('A document was generated at '+ str(horacompletaseparada) +' on '+ str(datacompletabarra) +'\n')
 f.write('       It was generated '+ str(document) +' ('+ str(country) +')\n')
 f.write('       Folio: '+ str(folio))
-f.write('       Company: '+ str(companycode) +'\n')
+f.write('       Company: '+ str(companycode) + str(companyname) +'\n')
 f.close()
