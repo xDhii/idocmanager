@@ -2,7 +2,7 @@
 import os, sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/config")
 import messages
-f = open('bin/companycode.log', 'w')
+
 ## Mensagem inicial ##
 messages.limpar_tela()
 messages.mensageminicial()
@@ -38,6 +38,9 @@ cuit = '{message:{fill}{align}{width}}'.format(
    align='<',
    width=11,
 )
-
-f.write(cuit +'      '+ xnome)
+f = open('bin/companycode.log', 'w')
+f.write(cuit)
+f.close()
+f = open('bin/companyname.log', 'w')
+f.write(xnome)
 f.close()
