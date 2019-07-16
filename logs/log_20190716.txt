@@ -26,3 +26,7 @@ A document was generated at 16:27:55 on 2019/07/16
        It was generated Argentina Exportation Invoice (Argentina)
        Folio: 000000000000008
        Company: 30681463999      Sovos Argentina (Rockwell)                                                                                                                                                                              
+A document was generated at 18:35:38 on 2019/07/16
+       It was generated Brazil NFe (Brasil)
+       Folio: 000000002
+       Company: 24492961000129Invoiceware SP                                              

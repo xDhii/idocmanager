@@ -35,7 +35,42 @@ segundos = '{message:{fill}{align}{width}}'.format(
    align='>',
    width=2,
 )
-
+ano = '{message:{fill}{align}{width}}'.format(
+   message = (ano) ,
+   fill='20',
+   align='>',
+   width=4,
+)
+mes = '{message:{fill}{align}{width}}'.format(
+   message = (mes) ,
+   fill='0',
+   align='>',
+   width=2,
+)
+dia = '{message:{fill}{align}{width}}'.format(
+   message = (dia) ,
+   fill='0',
+   align='>',
+   width=2,
+)
+horas = '{message:{fill}{align}{width}}'.format(
+   message = (horas) ,
+   fill='0',
+   align='>',
+   width=2,
+)
+minutos = '{message:{fill}{align}{width}}'.format(
+   message = (minutos) ,
+   fill='0',
+   align='>',
+   width=2,
+)
+segundos = '{message:{fill}{align}{width}}'.format(
+   message = (segundos) ,
+   fill='0',
+   align='>',
+   width=2,
+)
 datacompleta = str(ano)+str(mes)+str(dia)
 datacompletaseparada = str(ano)+'-'+str(mes)+'-'+str(dia)
 datacompletabarra = str(ano)+'/'+str(mes)+'/'+str(dia)
