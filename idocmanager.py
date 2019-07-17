@@ -3,6 +3,7 @@ import os, sys, time
 sys.path.append('../idocmanager')
 from subprocess import Popen
 from config import criar_pasta, messages, autofoliocheck
+from country import countries
 
 ## Mensagem inicial ##
 messages.limpar_tela()
@@ -22,13 +23,13 @@ while opt not in ('a', 'b', 'c', 'd', 'z'): # Loop até a seleção de algum Pa�
     opt = input("Let's try again: ")
 
 if opt == "a":
-    from country import Argentina
+    countries.Argentina()
 if opt == "b":
-    from country import Brasil
+    countries.Brasil()
 if opt == "c":
-    from country import Mexico
+    countries.Mexico()
 if opt == "d":
-    from country import Uruguay
+    countries.Uruguay()
 if opt == "z":
     from process import resetfolio
     sys.exit()
