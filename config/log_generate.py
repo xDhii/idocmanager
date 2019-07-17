@@ -75,6 +75,11 @@ f = open('bin/companyname.log', 'r')
 companyname = f.read()
 f.close()
 
+## Capture the VM that was used ##
+f = open('bin/vm.log', 'r')
+vmdestino = f.read()
+f.close()
+
 
 ## Create, write and close the log ##
 f = open('./logs/log_'+ str(datacompleta) +'.txt', 'a+')
@@ -82,4 +87,8 @@ f.write('A document was generated at '+ str(horacompletaseparada) +' on '+ str(d
 f.write('       It was generated '+ str(document) +' ('+ str(country) +')\n')
 f.write('       Folio: '+ str(folio))
 f.write('       Company: '+ str(companycode) +'     '+ str(companyname) +'\n')
+if vmdestino == 'NOPE':
+    f.write('       The document was only saved and not sent to VM directly. \n')
+else:
+    f.write('       The VM used was the '+ str(vmdestino) +'\n')
 f.close()
