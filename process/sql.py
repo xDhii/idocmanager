@@ -4,7 +4,8 @@ pyodbc.drivers()
 f = open('bin/companycode.log', 'r')
 companycode = f.read()
 f.close()
-
+## Clean the CompanyCode ##
+companycode = companycode.translate({ord(i):None for i in "(),;:'!@#$'"})
 ## SQL Connection ##
 conn = pyodbc.connect('DRIVER={ODBC Driver 11 for SQL Server};SERVER=INVQASRV19;DATABASE=TFSAASCSDAILY;UID=tfuser;PWD=tfuser')
 
@@ -27,7 +28,7 @@ documentid = f.read()
 f.close()
 
 ## Clean the DocumentID ##
-documentid = documentid.translate(None, "'(),")
+documentid = documentid.translate({ord(i):None for i in "(),;:'!@#$'"})
 
 ## Get the 5 last DocumentStatus from the StatusDescription (Got from the CompanyCode) ##
 def  select_DocumentStatus():
