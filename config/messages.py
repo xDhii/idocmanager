@@ -86,7 +86,6 @@ def empresas_arg():
     print()
     print('Right, and which of the above companies you want to use in IDOC?')
 
-
 def tryagain():
     print("Right, let's send the document to VM")
     vmdestino = input ('Type for which VM you want to send the IDOC: ')
@@ -105,6 +104,9 @@ def tryagain():
         print('\033[92m All right! IDOC Sent! \033[0m')
         print('\033[92m Check the process on VM Portal. \033[0m')
         print()
+        f = open('./bin/vm.log', 'w')
+        print('INVQASRV'+vmdestino, file=f)
+        f.close()
     except (shutil.Error, OSError, IOError):
         limpar_tela()
         mensageminicial()
@@ -126,8 +128,14 @@ def tryagain():
                 print('\033[92m All right! IDOC Sent! \033[0m')
                 print('\033[92m Check the process on VM Portal. \033[0m')
                 print()
+                f = open('./bin/vm.log', 'w')
+                print('INVQASRV'+vmdestino, file=f)
+                f.close()
             except (shutil.Error, OSError, IOError):
                 tryagain()
         if tentarnovamente in ("n"):
             print()
             print('\033[92m Ok! The generated document is inside the IDOC folder ;) \033[0m')
+            f = open('./bin/vm.log', 'w')
+            print('NOPE', file=f)
+            f.close()
