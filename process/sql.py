@@ -1,13 +1,24 @@
 import pyodbc
+from config import relatedvm
 pyodbc.drivers()
 ## Capture generated Company Code ##
 f = open('bin/companycode.log', 'r')
 companycode = f.read()
 f.close()
+## Run the method to check VM and DB used ##
+relatedvm.findserver
+## Check the VM Used ##
+f = open('bin/vmserver.log', 'r')
+vmserver = f.read()
+f.close()
+## Check the DB Used ##
+f = open('bin/database.log', 'r')
+database = f.read()
+f.close()
 ## Clean the CompanyCode ##
 companycode = companycode.translate({ord(i):None for i in "(),;:'!@#$'"})
 ## SQL Connection ##
-conn = pyodbc.connect('DRIVER={ODBC Driver 11 for SQL Server};SERVER=INVQASRV19;DATABASE=TFSAASCSDAILY;UID=tfuser;PWD=tfuser')
+conn = pyodbc.connect('DRIVER={ODBC Driver 11 for SQL Server};SERVER=INVQASRV'+vmserver+';DATABASE='+database+';UID=tfuser;PWD=tfuser')
 
 ## Get the last DocumentID from the CompanyCode ##
 def select_DocumentID():

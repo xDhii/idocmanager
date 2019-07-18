@@ -28,7 +28,7 @@ if enviaridoc == 'y':
 if enviaridoc == 'n':
     print()
     print('\033[92m Ok! The document is in the IDOC Folder ;) \033[0m')
-    f = open('./bin/vm.log', 'w')
+    f = open('./bin/vmclient.log', 'w')
     print('NOPE', file=f)
     f.close()
 print('\033[0m')
