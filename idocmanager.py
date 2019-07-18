@@ -8,7 +8,6 @@ from country import countries
 ## Mensagem inicial ##
 messages.limpar_tela()
 messages.mensageminicial()
-updater_creator.create_updater()
 
 ##  Opções de países disponíveis
 messages.paises_disponiveis()
@@ -31,6 +30,10 @@ if opt == "c":
     countries.Mexico()
 if opt == "d":
     countries.Uruguay()
+if opt == "x":
+    updater_creator.create_updater()
+    os.system("start /B start cmd.exe @cmd /k Updater.bat")
+    sys.exit()
 if opt == "z":
     from process import resetfolio
     sys.exit()
