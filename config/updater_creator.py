@@ -38,4 +38,5 @@ def create_updater():
     f.write(' \n')
     f.write('echo Okay, finished ;)\n')
     f.write('pause\n')
+    f.write('del Updater.bat /Q/F/S > NUL\n')
     f.close
