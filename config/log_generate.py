@@ -76,7 +76,7 @@ companyname = f.read()
 f.close()
 
 ## Capture the VM that was used ##
-f = open('bin/vm.log', 'r')
+f = open('bin/vmclient.log', 'r')
 vmdestino = f.read()
 f.close()
 

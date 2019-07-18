@@ -106,7 +106,7 @@ def tryagain():
         print('\033[92m Check the process on VM Portal. \033[0m')
         print()
         f = open('./bin/vmclient.log', 'w')
-        print(vmdestino, file=f)
+        f.write(vmdestino)
         f.close()
     except (shutil.Error, OSError, IOError):
         limpar_tela()

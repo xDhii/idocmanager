@@ -1,4 +1,5 @@
-import pyodbc
+import pyodbc, sys
+sys.path.append('../idocmanager')
 from config import relatedvm
 pyodbc.drivers()
 ## Capture generated Company Code ##
@@ -6,13 +7,13 @@ f = open('bin/companycode.log', 'r')
 companycode = f.read()
 f.close()
 ## Run the method to check VM and DB used ##
-relatedvm.findserver
+# relatedvm.findserver
 ## Check the VM Used ##
 f = open('bin/vmserver.log', 'r')
 vmserver = f.read()
 f.close()
 ## Check the DB Used ##
-f = open('bin/database.log', 'r')
+f = open('./bin/database.log', 'r')
 database = f.read()
 f.close()
 ## Clean the CompanyCode ##
@@ -26,9 +27,10 @@ def select_DocumentID():
     cursor.execute("select top 1 documentid from TFDocument where OwnerSearchCode ='"+companycode+"' order by CreationDate desc")
     for row in cursor:
         f = open('bin/documentid.log', 'w')
-        print(row, file=f)
+        documentid = str(row)
+        documentid = documentid.translate({ord(i):None for i in "(),;:'!@#$'"})
+        f.write(documentid)
         f.close()
-        print(row)
 
 ## Run the method above to get the DocumentID ##
 select_DocumentID()

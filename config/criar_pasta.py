@@ -11,3 +11,4 @@ def createFolder(directory):
         print('\033[0m')
 createFolder('./idoc/')
 createFolder('./logs/')
+createFolder('./bin/')
