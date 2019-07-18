@@ -17,7 +17,7 @@ print('Which Country do you want to access?')
 opt = input('Enter the letter corresponding to the Country: ')
 opt = opt.lower()
 
-while opt not in ('a', 'b', 'c', 'd', 'z'): # Loop até a seleção de algum País disponível
+while opt not in ('a', 'b', 'c', 'd', 'x', 'z'): # Loop até a seleção de algum País disponível
     print()
     print('\033[91m Hmm... The option you entered does not exist \033[0m')
     opt = input("Let's try again: ")
