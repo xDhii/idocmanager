@@ -6,9 +6,7 @@ pyodbc.drivers()
 f = open('bin/companycode.log', 'r')
 companycode = f.read()
 f.close()
-## Run the method to check VM and DB used ##
-# relatedvm.findserver
-## Check the VM Used ##
+## Check the VM Used and Get the server ##
 f = open('bin/vmserver.log', 'r')
 vmserver = f.read()
 f.close()
@@ -20,14 +18,14 @@ f.close()
 companycode = companycode.translate({ord(i):None for i in "(),;:'!@#$'"})
 ## SQL Connection ##
 conn = pyodbc.connect('DRIVER={ODBC Driver 11 for SQL Server};SERVER=INVQASRV'+vmserver+';DATABASE='+database+';UID=tfuser;PWD=tfuser')
-
 ## Get the last DocumentID from the CompanyCode ##
 def select_DocumentID():
     cursor = conn.cursor()
     cursor.execute("select top 1 documentid from TFDocument where OwnerSearchCode ='"+companycode+"' order by CreationDate desc")
     for row in cursor:
-        f = open('bin/documentid.log', 'w')
+        f = open('./bin/documentid.log', 'w')
         documentid = str(row)
+        ## Clean the DocumentID removing the unwanted characters ##
         documentid = documentid.translate({ord(i):None for i in "(),;:'!@#$'"})
         f.write(documentid)
         f.close()
@@ -35,24 +33,26 @@ def select_DocumentID():
 ## Run the method above to get the DocumentID ##
 select_DocumentID()
 
-## Define DocumentID from the table as variable ##
-f = open('bin/documentid.log', 'r')
-documentid = f.read()
-f.close()
-
-## Clean the DocumentID ##
-documentid = documentid.translate({ord(i):None for i in "(),;:'!@#$'"})
-
 ## Get the 5 last DocumentStatus from the StatusDescription (Got from the CompanyCode) ##
 def  select_DocumentStatus():
     cursor = conn.cursor()
     cursor.execute("select top 5 StatusDescription from TFDocument where documentid ='"+documentid+"' order by CreationDate desc")
     for row in cursor:
-        f = open('bin/documentstatus.log', 'w')
-        print(row, file=f)
+        f = open('./bin/documentstatus.log', 'w')
+        documentstatus = str(row)
+        ## Clean the DocumentID removing the unwanted characters ##
+        f.write(documentstatus)
+        # documentstatus = documentstatus.translate({ord(i):None for i in "(),;:'!@#$'"})
         f.close()
-        print(row)
+
 
 ## Run the method above to get the Document Status ##
 select_DocumentStatus()
 
+f = open('./bin/documentstatus.log', 'r')
+# x = open('./logs')
+print('       '+f.readline(), file=f)
+print('       '+f.readline())
+print('       '+f.readline())
+print('       '+f.readline())
+print('       '+f.readline())

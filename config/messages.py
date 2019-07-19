@@ -138,5 +138,5 @@ def tryagain():
             print()
             print('\033[92m Ok! The generated document is inside the IDOC folder ;) \033[0m')
             f = open('./bin/vmclient.log', 'w')
-            print('NOPE', file=f)
+            f.write('NOPE')
             f.close()
