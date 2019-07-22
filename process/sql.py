@@ -38,7 +38,7 @@ def select_DocumentID():
 ## Run the method above to get the DocumentID ##
 select_DocumentID()
 
-## Get the 5 last DocumentStatus from the StatusDescription (Got from the CompanyCode) ##
+## Get the last DocumentStatus from the StatusDescription (Got from the CompanyCode) ##
 def  select_DocumentStatus_client():
         cursor = conn_client.cursor()
         cursor.execute("select top 1 StatusDescription from TFDocument where documentid ='"+documentid+"' order by CreationDate desc")
