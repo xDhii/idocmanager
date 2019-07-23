@@ -5,7 +5,7 @@ try:
     print('File found!')
 except FileNotFoundError:
     f = open('./select/ARG/folio.txt', 'w')
-    print('0', file=f)
+    f.write('0')
     f.close()
     print("File not found!")
     print("A new file was created")
@@ -16,7 +16,7 @@ try:
     print('File found!')
 except FileNotFoundError:
     f = open('./select/BRA/folio.txt', 'w')
-    print('0', file=f)
+    f.write('0')
     f.close()
     print("File not found!")
     print("A new file was created")
@@ -27,7 +27,7 @@ try:
     print('File found!')
 except FileNotFoundError:
     f = open('./select/BRA/rps.txt', 'w')
-    print('0', file=f)
+    f.write('0')
     f.close()
     print("File not found!")
     print("A new file was created")
@@ -38,7 +38,7 @@ try:
     print('File found!')
 except FileNotFoundError:
     f = open('./select/MEX/folio.txt', 'w')
-    print('0', file=f)
+    f.write('0')
     f.close()
     print("File not found!")
     print("A new file was created")
@@ -49,7 +49,18 @@ try:
     print('File found!')
 except FileNotFoundError:
     f = open('./select/URY/folio.txt', 'w')
-    print('0', file=f)
+    f.write('0')
+    f.close()
+    print("File not found!")
+    print("A new file was created")
+## Check Folio Chile
+try:
+    f = open('./select/CHL/folio.txt')
+    f.close()
+    print('File found!')
+except FileNotFoundError:
+    f = open('./select/CHL/folio.txt', 'w')
+    f.write('0')
     f.close()
     print("File not found!")
     print("A new file was created")
