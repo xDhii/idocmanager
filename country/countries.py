@@ -215,3 +215,34 @@ def Uruguay():
     f = open('bin/document.log', 'w')
     f.write(document)
     f.close()
+def Chile():
+    ## Mensagem inicial ##
+    messages.limpar_tela()
+    messages.mensageminicial()
+    ## Voltar para a pasta de documentos do Chile ##
+    sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/country/documents")
+    import documents
+    ## Opçoes de documentos disponiveis ##
+    print('Available documents: ')
+    print()
+    print('\033[1;30;47m A \033[0m - \033[4mCHL - DTE                            \033[0m')
+
+    print()
+    print('Got it. What kind of document do you want to create?')
+    opt = input('Enter the letter corresponding to the document type: ')
+    opt = opt.lower()
+    while opt not in ('a'):
+        print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
+        opt = input("Let's try again. Enter the corresponding letter: ")
+        opt = opt.lower()
+
+    if opt == "a":
+        document = "Chile DTE"
+        documents.CHL_dte()
+
+    f = open('./bin/country.log', 'w')
+    f.write('Chile')
+    f.close()
+    f = open('./bin/document.log', 'w')
+    f.write(document)
+    f.close()
