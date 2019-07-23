@@ -76,7 +76,7 @@ companyname = f.read()
 f.close()
 
 ## Capture the VM that was used ##
-f = open('bin/vm.log', 'r')
+f = open('bin/vmclient.log', 'r')
 vmdestino = f.read()
 f.close()
 
@@ -90,5 +90,5 @@ f.write('       Company: '+ str(companycode) +'     '+ str(companyname) +'\n')
 if vmdestino == 'NOPE':
     f.write('       The document was only saved and not sent to VM directly. \n')
 else:
-    f.write('       The VM used was the '+ str(vmdestino) +'\n')
+    f.write('       The VM used was the INVQASRV'+ str(vmdestino) +'\n')
 f.close()
