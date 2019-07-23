@@ -8,23 +8,23 @@ messages.mensageminicial()
 zerar = 0
 ## ARG ##
 f = open('./select/ARG/folio.txt', 'w')
-print(zerar, file=f)
+f.write(str(zerar))
 f.close()
 ## BRA NFE ##
 f = open('./select/BRA/folio.txt', 'w')
-print(zerar, file=f)
+f.write(str(zerar))
 f.close()
 ## BRA NFSE ##
 f = open('./select/BRA/rps.txt', 'w')
-print(zerar, file=f)
+f.write(str(zerar))
 f.close()
 ## MEX ##
 f = open('./select/MEX/folio.txt', 'w')
-print(zerar, file=f)
+f.write(str(zerar))
 f.close()
 ## URY ##
 f = open('./select/URY/folio.txt', 'w')
-print(zerar, file=f)
+f.write(str(zerar))
 f.close()
 
 print('Okay, all the folios was reseted.')

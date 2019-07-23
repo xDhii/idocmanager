@@ -31,7 +31,7 @@ f.close()
 
 ## Salva novo folio no TXT ##
 f = open('select/BRA/rps.txt', 'w')
-print(rps, file=f)
+f.write(rps)
 f.close()
 
 rps = '{message:{fill}{align}{width}}'.format(
@@ -51,5 +51,5 @@ docnum = '{message:{fill}{align}{width}}'.format(
 
 ## Saves the generated folio to LOG ##
 f = open('bin/folio.log', 'w')
-print(rps, file=f)
+f.write(rps)
 f.close()

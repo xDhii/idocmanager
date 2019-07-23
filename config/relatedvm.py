@@ -6,50 +6,52 @@ vmclient = f.read()
 f.close()
 vmclient = vmclient.translate({ord(i):None for i in "(),;:'!@#$' "})
 if vmclient == "01":
-    vmserverused = "02"
+    vmserver = "02"
     database_client = "TFSAASCSDAILY"
     database_server = "TFSAASCSDAILY"
 if vmclient == "03":
-    vmserverused = "03"
+    vmserver = "03"
     database_client = "TFSAASCSDAILY"
     database_server = "TFSAASCSDAILY"
 if vmclient == "04":
-    vmserverused = "05"
+    vmserver = "05"
     database_client = "TFSAASCSDAILY"
     database_server = "TFSAASCSDAILY"
 if vmclient == "06":
-    vmserverused = "22"
+    vmserver = "22"
     database_client = "TFSAASCSDAILY"
     database_server = "TFSAASCSDAILY"
 if vmclient == "07":
-    vmserverused = "21"
+    vmserver = "21"
     database_client = "TFSAASCSDAILY"
     database_server = "TFSAASCSDAILY"
 if vmclient == "14":
-    vmserverused = "14"
+    vmserver = "14"
     database_client = "TFSAASCSDAILY"
     database_server = "TFSAASCSDAILY"
 if vmclient == "18":
-    vmserverused = "19"
-    database_client = "TFSAASCSDAILY"
+    vmserver = "19"
+    database_client = "TFSAASRTC"
     database_server = "TFSAASCSDAILY"
 if vmclient == "23":
-    vmserverused = "24"
+    vmserver = "24"
     database_client = "TFSAASCSDAILY"
     database_server = "TFSAASCSDAILY"
 if vmclient == "27":
-    vmserverused = "28"
+    vmserver = "28"
     database_client = "TFSAASCSDAILY"
     database_server = "TFSAASCSDAILY"
 if vmclient == "NOPE":
-    vmserverused = "NOPE"
+    vmserver = "NOPE"
 
 f = open('./bin/vmserver.log', 'w')
-f.write(vmserverused)
+f.write(vmserver)
 f.close()
 
-f = open('./bi
-database_client = "TFSAASCSDAILY"n/database_server.log', 'w')
-f.writ
-database_client = "TFSAASCSDAILY"e(database_server)
+f = open('./bin/database_client.log', 'w')
+f.write(database_client)
+f.close()
+
+f = open('./bin/database_server.log', 'w')
+f.write(database_server)
 f.close()
