@@ -1,6 +1,6 @@
 import pyodbc, sys, time
 sys.path.append('../idocmanager')
-from config import relatedvm
+from config import relatedvm, messages
 # pyodbc.drivers()
 ## Capture generated Company Code ##
 f = open('./bin/companycode.log', 'r')
@@ -38,15 +38,12 @@ def select_DocumentID():
         documentid = documentid.translate({ord(i):None for i in "(),;:'!@#$' \n"})
         f.write(documentid)
         f.close()
-
 ## Run the method above to get the DocumentID ##
 select_DocumentID()
-
 ## Check the DB Server ##
 f = open('./bin/documentid.log', 'r')
 documentid = f.read()
 f.close()
-
 ## Get the last DocumentStatus from the StatusDescription (Got from the CompanyCode) ##
 def  select_DocumentStatus_client():
         cursor = conn_client.cursor()
@@ -58,7 +55,6 @@ def  select_DocumentStatus_client():
                 f.write(documentstatusclient)
                 f.close()
                 return documentstatusclient
-
 def  select_DocumentStatus_server():
         cursor = conn_server.cursor()
         cursor.execute("select top 1 StatusDescription from TFDocument where documentid ='"+documentid+"' order by CreationDate desc")
@@ -68,17 +64,17 @@ def  select_DocumentStatus_server():
                 f = open('./bin/documentstatus.log', 'w')
                 f.write(documentstatusserver)
                 f.close()
+                return documentstatusserver
+## Run the method above to get the Document Status from client ##
 select_DocumentStatus_client()
-
-
-
-
-## Run the method above to get the Document Status ##
+messages.limpar_tela()
+messages.mensageminicial()
 while select_DocumentStatus_client() not in ('Documento enviado ao servidor', 'Erro ao enviar documento ao servidor'):
+        messages.limpar_tela()
+        messages.mensageminicial()
         print(select_DocumentStatus_client())
         time.sleep(7)
-        select_DocumentStatus_client
-
+        select_DocumentStatus_client()
 if select_DocumentStatus_client() == 'Erro ao enviar documento ao servidor':
         print("There's something wrong with the document")
         print("Please, check it at the Client Portal")
@@ -86,13 +82,16 @@ if select_DocumentStatus_client() == 'Erro ao enviar documento ao servidor':
 if select_DocumentStatus_client() == 'Documento enviado ao servidor':
         print('Ok, the document was processed and sent to TF Server')
         print('Wait while we check for it on the server')
-
+## Run the method above to get the Document Status from client ##
 select_DocumentStatus_server()
-
+messages.limpar_tela()
+messages.mensageminicial()
 while select_DocumentStatus_server not in ('Mensagem 1', 'Mensagem 2', 'Mensagem 3', 'Mensagem 4'):
+        messages.limpar_tela()
+        messages.mensageminicial()
         print(select_DocumentStatus_server())
         time.sleep(7)
-
+        select_DocumentStatus_server()
 if select_DocumentStatus_server() == 'Message 1':
         print('Return message')
 
