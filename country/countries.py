@@ -226,12 +226,13 @@ def Chile():
     print('Available documents: ')
     print()
     print('\033[1;30;47m A \033[0m - \033[4mCHL - DTE                            \033[0m')
+    print('\033[1;30;47m B \033[0m - \033[4mCHL - DTE DSCCItem 1000+             \033[0m')
 
     print()
     print('Got it. What kind of document do you want to create?')
     opt = input('Enter the letter corresponding to the document type: ')
     opt = opt.lower()
-    while opt not in ('a'):
+    while opt not in ('a', 'b'):
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
         opt = input("Let's try again. Enter the corresponding letter: ")
         opt = opt.lower()
@@ -239,7 +240,10 @@ def Chile():
     if opt == "a":
         document = "Chile DTE"
         documents.CHL_dte()
-
+    if opt == "b":
+        document = "Chile DTE DSCCItem 1000+"
+        documents.CHL_dtedescitem1000()
+    ## Criar log da Seleção ##
     f = open('./bin/country.log', 'w')
     f.write('Chile')
     f.close()
