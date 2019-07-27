@@ -51,32 +51,32 @@ horacompleta = str(horas)+str(minutos)+str(segundos)
 horacompletaseparada = str(horas)+':'+str(minutos)+':'+str(segundos)
 
 ## Capture generated Country information ##
-f = open('bin/country.log', 'r')
+f = open('./bin/country.log', 'r')
 country = f.read()
 f.close()
 
 ## Capture generated document type information ##
-f = open('bin/document.log', 'r')
+f = open('./bin/document.log', 'r')
 document = f.read()
 f.close()
 
 ## Capture generated document type information ##
-f = open('bin/folio.log', 'r')
+f = open('./bin/folio.log', 'r')
 folio = f.read()
 f.close()
 
 ## Capture generated Company Code ##
-f = open('bin/companycode.log', 'r')
+f = open('./bin/companycode.log', 'r')
 companycode = f.read()
 f.close()
 
 ## Capture generated Company Name ##
-f = open('bin/companyname.log', 'r')
+f = open('./bin/companyname.log', 'r')
 companyname = f.read()
 f.close()
 
 ## Capture the VM that was used ##
-f = open('bin/vmclient.log', 'r')
+f = open('./bin/vmclient.log', 'r')
 vmdestino = f.read()
 f.close()
 

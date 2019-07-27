@@ -138,9 +138,9 @@ inscxmun = '{message:{fill}{align}{width}}'.format(
    align='<',
    width=15,
 )
-f = open('bin/companycode.log', 'w')
+f = open('./bin/companycode.log', 'w')
 f.write(inscxmun)
 f.close()
-f = open('bin/companyname.log', 'w')
+f = open('./bin/companyname.log', 'w')
 f.write(xnome)
 f.close()

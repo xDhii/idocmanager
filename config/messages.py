@@ -107,7 +107,7 @@ def tryagain():
     try:
         print('\033[93m This process can take up to 15 seconds ... \033[0m')
         print()
-        shutil.move('idoc/outbound.idoc', '//invqasrv'+ str(vmdestino) +'.corp.sovos.local/c$/TF/Queues/IDOCReceiver')
+        shutil.move('./idoc/outbound.idoc', '//invqasrv'+ str(vmdestino) +'.corp.sovos.local/c$/TF/Queues/IDOCReceiver')
         limpar_tela()
         mensageminicial()
         print('\033[92m All right! IDOC Sent! \033[0m')
@@ -131,7 +131,7 @@ def tryagain():
             tentarnovamente = tentarnovamente.lower()
         if tentarnovamente in ('y'):
             try:
-                shutil.move('idoc/outbound.idoc', '//invqasrv'+ str(vmdestino) +'.corp.sovos.local/c$/TF/Queues/IDOCReceiver')
+                shutil.move('./idoc/outbound.idoc', '//invqasrv'+ str(vmdestino) +'.corp.sovos.local/c$/TF/Queues/IDOCReceiver')
                 limpar_tela()
                 mensageminicial()
                 print('\033[92m All right! IDOC Sent! \033[0m')

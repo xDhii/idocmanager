@@ -27,6 +27,6 @@ folio = '{message:{fill}{align}{width}}'.format(
 )
 
 ## Saves the generated folio to LOG ##
-f = open('bin/folio.log', 'w')
+f = open('./bin/folio.log', 'w')
 print(folio, file=f)
 f.close()

@@ -1,4 +1,4 @@
-## Input da Serie e Folio para URY ## -
+## Input da Serie e Folio para CHL ## -
 import os, sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/config")
 import messages
@@ -9,13 +9,13 @@ messages.mensageminicial()
 
 
 ## Calcula folio + 1 ##
-f = open('select/CHL/folio.txt', 'r+')
+f = open('./select/CHL/folio.txt', 'r+')
 folio = f.read()
 folio = int(folio) + 1
 f.close()
 
 ## Salva novo folio no TXT ##
-f = open('select/CHL/folio.txt', 'w')
+f = open('./select/CHL/folio.txt', 'w')
 print(folio, file=f)
 f.close()
 

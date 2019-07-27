@@ -47,10 +47,10 @@ def Argentina():
         document = "Argentina Local Invoice"
         documents.ARG_Local_Invoice()
     ## Write logs for being used in the future stepd ##
-    f = open('bin/country.log', 'w')
+    f = open('./bin/country.log', 'w')
     f.write('Argentina')
     f.close()
-    f = open('bin/document.log', 'w')
+    f = open('./bin/document.log', 'w')
     f.write(document)
     f.close()
 def Brasil():
@@ -81,10 +81,10 @@ def Brasil():
     if opt == "b":
         document = "Brazil NFSe"
         documents.BRA_NFSE()
-    f = open('bin/country.log', 'w')
+    f = open('./bin/country.log', 'w')
     f.write('Brasil')
     f.close()
-    f = open('bin/document.log', 'w')
+    f = open('./bin/document.log', 'w')
     f.write(document)
     f.close()
 def Mexico():
@@ -151,10 +151,10 @@ def Mexico():
     if opt == "k":
         document = "México CFDI (Pagos)"
         documents.MEX_cfdi33_pagos()
-    f = open('bin/country.log', 'w')
+    f = open('./bin/country.log', 'w')
     f.write('México')
     f.close()
-    f = open('bin/document.log', 'w')
+    f = open('./bin/document.log', 'w')
     f.write(document)
     f.close()
 def Uruguay():
@@ -209,10 +209,10 @@ def Uruguay():
     if opt == "h":
         document = "Uruguay Factura (211)"
         documents.URY_211factura()
-    f = open('bin/country.log', 'w')
+    f = open('./bin/country.log', 'w')
     f.write('Uruguay')
     f.close()
-    f = open('bin/document.log', 'w')
+    f = open('./bin/document.log', 'w')
     f.write(document)
     f.close()
 def Chile():

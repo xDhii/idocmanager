@@ -11,17 +11,3 @@ ano = str(datareal.ano)
 mes = str(datareal.mes)
 dia = str(datareal.dia)
 
-
-## Ajuste de caracteres para 2 ##
-# mes = '{message:{fill}{align}{width}}'.format(
-# message = (mes) ,
-# fill='0',
-# align='>',
-# width=2,
-# )
-# dia = '{message:{fill}{align}{width}}'.format(
-# message = (dia) ,
-# fill='0',
-# align='>',
-# width=2,
-# )

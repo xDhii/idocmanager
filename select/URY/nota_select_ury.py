@@ -23,13 +23,13 @@ serie = '{message:{fill}{align}{width}}'.format(
 )
 
 ## Calcula folio + 1 ##
-f = open('select/URY/folio.txt', 'r+')
+f = open('./select/URY/folio.txt', 'r+')
 folio = f.read()
 folio = int(folio) + 1
 f.close()
 
 ## Salva novo folio no TXT ##
-f = open('select/URY/folio.txt', 'w')
+f = open('./select/URY/folio.txt', 'w')
 print(folio, file=f)
 f.close()
 
@@ -41,6 +41,6 @@ folio = '{message:{fill}{align}{width}}'.format(
 )
 
 ## Saves the generated folio to LOG ##
-f = open('bin/folio.log', 'w')
+f = open('./bin/folio.log', 'w')
 print(folio, file=f)
 f.close()
