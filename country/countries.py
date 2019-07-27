@@ -274,7 +274,6 @@ def Peru():
     print('\033[1;30;47m H \033[0m - \033[4mPER - 2.1 Factura                           \033[0m')
     print('\033[1;30;47m I \033[0m - \033[4mPER - 2.1 Nota Credito                      \033[0m')
     print('\033[1;30;47m J \033[0m - \033[4mPER - 2.1 Nota Debito                       \033[0m')
-
     print()
     print('Got it. What kind of document do you want to create?')
     opt = input('Enter the letter corresponding to the document type: ')
@@ -286,35 +285,35 @@ def Peru():
 
     if opt == "a":
         document = "Peru 2.0 Type 1"
-        documents.PER_20type1():
+        documents.PER_20type1()
     if opt == "b":
         document = "Peru 2.0 Type 3"
-        documents.PER_20type3():
+        documents.PER_20type3()
     if opt == "c":
         document = "Peru 2.0 Type 7"
-        documents.PER_20type7():
+        documents.PER_20type7()
     if opt == "d":
         document = "Peru 2.0 Type 8"
-        documents.PER_20type8():
+        documents.PER_20type8()
     if opt == "e":
         document = "Peru 2.0 Type 9"
-        documents.PER_20type9():
+        documents.PER_20type9()
     if opt == "f":
         document = "Peru 2.0 Type 20"
-        documents.PER_20type20():
+        documents.PER_20type20()
     if opt == "g":
         document = "Peru 2.1 Boleta"
-        documents.PER_21boleta():
+        documents.PER_21boleta()
     if opt == "h":
         document = "Peru 2.1 Factura"
-        documents.PER_21factura():
+        documents.PER_21factura()
     if opt == "i":
         document = "Peru 2.1 Nota Credito"
-        documents.PER_21notacredito():
+        documents.PER_21notacredito()
     if opt == "j":
         document = "Peru 2.1 Nota Debito"
-        documents.PER_21notadebito1():
-    
+        documents.PER_21notadebito1()
+
     ## Criar log da Seleção ##
     f = open('./bin/country.log', 'w')
     f.write('Peru')
