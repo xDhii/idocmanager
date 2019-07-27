@@ -2,7 +2,6 @@
 import os, sys, shutil
 def limpar_tela():
     os.system('cls' if os.name == 'nt' else 'clear')
-
 def mensageminicial():
     print('\033[91m IMPORTANT: All companies must be configured as SAPKFQ!        \033[0m')
     print()
@@ -12,18 +11,33 @@ def mensageminicial():
     print('\33[1;37;40m adriano.valumin@sovos.com / tayna.blasques@sovos.com    \033[0m')
     print()
     print()
-
 def paises_disponiveis():
     print('\033[1m Available Countries for IDOC Creation \033[0m')
     print()
     print('\033[1;30;47m A \033[0m - \033[4mArgentina       \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mBrasil          \033[0m')
-    print('\033[1;30;47m C \033[0m - \033[4mChile          \033[0m')
+    print('\033[1;30;47m C \033[0m - \033[4mChile           \033[0m')
     print('\033[1;30;47m D \033[0m - \033[4mMéxico          \033[0m')
-    print('\033[1;30;47m E \033[0m - \033[4mUruguay         \033[0m')
+    print('\033[1;30;47m E \033[0m - \033[4mPeru            \033[0m')
+    print('\033[1;30;47m F \033[0m - \033[4mUruguay         \033[0m')
     print('\033[1;30;47m X \033[0m - \033[4mUpdate          \033[0m')
     print('\033[1;30;47m Z \033[0m - \033[4mReset Folios    \033[0m')
-
+def empresas_arg():
+    print()
+    print('Available companies:')
+    print()
+    print('\033[1;30;47m A \033[0m - \033[4mSovos Argentina (Rockwell)              - 30681463999 \033[0m')
+    print('\033[1;30;47m B \033[0m - \033[4mSovos Argentina (Philips) - Local MTX   - 30503747533 \033[0m')
+    print()
+    print('Right, and which of the above companies you want to use in IDOC?')
+def empresas_nfe():
+    print()
+    print('Available companies:')
+    print()
+    print('\033[1;30;47m A \033[0m - \033[4mInvoiceware     SP  - 24492961000129 \033[0m')
+    print('\033[1;30;47m B \033[0m - \033[4mPaperless       SP  - 10726059000115 \033[0m')
+    print()
+    print('Right, and which of the above companies you want to use in IDOC?')
 def empresas_nfse():
     print()
     print('Available companies:')
@@ -45,26 +59,13 @@ def empresas_nfse():
     print('\033[1;30;47m O \033[0m - \033[4mCodesp          SP - CNPJ:44837524000107  I.M:575315   \033[0m')
     print()
     print('Right, and which of the above companies you want to use in IDOC?')
-
-def empresas_nfe():
+def empresas_chl():
     print()
     print('Available companies:')
     print()
-    print('\033[1;30;47m A \033[0m - \033[4mInvoiceware     SP  - 24492961000129 \033[0m')
-    print('\033[1;30;47m B \033[0m - \033[4mPaperless       SP  - 10726059000115 \033[0m')
+    print('\033[1;30;47m A \033[0m - \033[4mChile (Clorox)     - 96681470-5 \033[0m')
     print()
     print('Right, and which of the above companies you want to use in IDOC?')
-
-def empresas_ury():
-    print()
-    print('Available companies:')
-    print()
-    print('\033[1;30;47m A \033[0m - \033[4mSovos Uruguay (McCain)      - 080003530017 \033[0m')
-    print('\033[1;30;47m B \033[0m - \033[4mDSM                         - 214580250019 \033[0m')
-    print('\033[1;30;47m C \033[0m - \033[4mSovos Uruguay (SC Johnson)  - 213408960013 \033[0m')
-    print()
-    print('Right, and which of the above companies you want to use in IDOC?')
-
 def empresas_mex():
     print()
     print('Available companies:')
@@ -78,25 +79,22 @@ def empresas_mex():
     print('\033[1;30;47m G \033[0m - \033[4mMexico CANCELLATION - CFDI      - MAG041126GT8 \033[0m')
     print()
     print('Right, and which of the above companies you want to use in IDOC?')
-
-def empresas_chl():
+def empresas_per():
     print()
     print('Available companies:')
     print()
-    print('\033[1;30;47m A \033[0m - \033[4mChile (Clorox)     - 96681470-5 \033[0m')
+    print('\033[1;30;47m A \033[0m - \033[4mCoca-Cola Peru      -  20415932376\033[0m')
     print()
     print('Right, and which of the above companies you want to use in IDOC?')
-
-
-def empresas_arg():
+def empresas_ury():
     print()
     print('Available companies:')
     print()
-    print('\033[1;30;47m A \033[0m - \033[4mSovos Argentina (Rockwell)              - 30681463999 \033[0m')
-    print('\033[1;30;47m B \033[0m - \033[4mSovos Argentina (Philips) - Local MTX   - 30503747533 \033[0m')
+    print('\033[1;30;47m A \033[0m - \033[4mSovos Uruguay (McCain)      - 080003530017 \033[0m')
+    print('\033[1;30;47m B \033[0m - \033[4mDSM                         - 214580250019 \033[0m')
+    print('\033[1;30;47m C \033[0m - \033[4mSovos Uruguay (SC Johnson)  - 213408960013 \033[0m')
     print()
     print('Right, and which of the above companies you want to use in IDOC?')
-
 def tryagain():
     print("Right, let's send the document to VM")
     vmdestino = input ('Type for which VM you want to send the IDOC: ')

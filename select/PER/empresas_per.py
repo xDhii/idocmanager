@@ -19,6 +19,8 @@ while opt not in ('a'):
 if opt == "a":
     xnome = "Coca-Cola Peru"
     rut = "20415932376"
+
+rut11 = rut
 ## Ajustar o tamanho da tag xnome para 255 caracteres ##
 xnome = '{message:{fill}{align}{width}}'.format(
    message = (xnome) ,
