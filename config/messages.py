@@ -17,9 +17,10 @@ def paises_disponiveis():
     print('\033[1;30;47m A \033[0m - \033[4mArgentina       \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mBrasil          \033[0m')
     print('\033[1;30;47m C \033[0m - \033[4mChile           \033[0m')
-    print('\033[1;30;47m D \033[0m - \033[4mMéxico          \033[0m')
-    print('\033[1;30;47m E \033[0m - \033[4mPeru            \033[0m')
-    print('\033[1;30;47m F \033[0m - \033[4mUruguay         \033[0m')
+    print('\033[1;30;47m D \033[0m - \033[4mEcuador         \033[0m')
+    print('\033[1;30;47m E \033[0m - \033[4mMéxico          \033[0m')
+    print('\033[1;30;47m F \033[0m - \033[4mPeru            \033[0m')
+    print('\033[1;30;47m G \033[0m - \033[4mUruguay         \033[0m')
     print('\033[1;30;47m X \033[0m - \033[4mUpdate          \033[0m')
     print('\033[1;30;47m Z \033[0m - \033[4mReset Folios    \033[0m')
 def empresas_arg():
@@ -64,6 +65,13 @@ def empresas_chl():
     print('Available companies:')
     print()
     print('\033[1;30;47m A \033[0m - \033[4mChile (Clorox)     - 96681470-5 \033[0m')
+    print()
+    print('Right, and which of the above companies you want to use in IDOC?')
+def empresas_ecu():
+    print()
+    print('Available companies:')
+    print()
+    print('\033[1;30;47m A \033[0m - \033[4mEcuador (Zoetis)     - 1792391091001 \033[0m')
     print()
     print('Right, and which of the above companies you want to use in IDOC?')
 def empresas_mex():

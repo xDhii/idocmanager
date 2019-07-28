@@ -321,3 +321,34 @@ def Peru():
     f = open('./bin/document.log', 'w')
     f.write(document)
     f.close()
+def Ecuador():
+    ## Mensagem inicial ##
+    messages.limpar_tela()
+    messages.mensageminicial()
+    ## Voltar para a pasta de documentos do Ecuador ##
+    sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/country/documents")
+    import documents
+    ## Opçoes de documentos disponiveis ##
+    print('Available documents: ')
+    print()
+    print('\033[1;30;47m A \033[0m - \033[4mECU - Factura 01              \033[0m')
+
+    print()
+    print('Got it. What kind of document do you want to create?')
+    opt = input('Enter the letter corresponding to the document type: ')
+    opt = opt.lower()
+    while opt not in ('a', 'b', 'c'):
+        print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
+        opt = input("Let's try again. Enter the corresponding letter: ")
+        opt = opt.lower()
+
+    if opt == "a":
+        document = "ECU Factura 01"
+        documents.ECU_factura01()
+    ## Criar log da Seleção ##
+    f = open('./bin/country.log', 'w')
+    f.write('Ecuador')
+    f.close()
+    f = open('./bin/document.log', 'w')
+    f.write(document)
+    f.close()
