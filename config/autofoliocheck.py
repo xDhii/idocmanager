@@ -64,3 +64,14 @@ except FileNotFoundError:
     f.close()
     print("File not found!")
     print("A new file was created")
+## Check Folio Ecuador
+try:
+    f = open('./select/ECU/folio.txt')
+    f.close()
+    print('File found!')
+except FileNotFoundError:
+    f = open('./select/ECU/folio.txt', 'w')
+    f.write('0')
+    f.close()
+    print("File not found!")
+    print("A new file was created")
