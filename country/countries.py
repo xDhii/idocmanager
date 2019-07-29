@@ -332,6 +332,7 @@ def Ecuador():
     print('Available documents: ')
     print()
     print('\033[1;30;47m A \033[0m - \033[4mECU - Factura 01              \033[0m')
+    print('\033[1;30;47m B \033[0m - \033[4mECU - Remision 06             \033[0m')
 
     print()
     print('Got it. What kind of document do you want to create?')
@@ -345,6 +346,9 @@ def Ecuador():
     if opt == "a":
         document = "ECU Factura 01"
         documents.ECU_factura01()
+    if opt == "b":
+        document = "ECU Remision 06"
+        documents.ECU_remision06()
     ## Criar log da Seleção ##
     f = open('./bin/country.log', 'w')
     f.write('Ecuador')
