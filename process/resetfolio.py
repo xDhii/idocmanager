@@ -30,6 +30,10 @@ f.close()
 f = open('./select/CHL/folio.txt', 'w')
 f.write(str(zerar))
 f.close()
+## ECU ##
+f = open('./select/ECU/folio.txt', 'w')
+f.write(str(zerar))
+f.close()
 
 print('Okay, all the folios was reseted.')
 print()
