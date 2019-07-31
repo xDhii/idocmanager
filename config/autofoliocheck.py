@@ -53,7 +53,7 @@ except FileNotFoundError:
     f.close()
     print("File not found!")
     print("A new file was created")
-## Check Folio MEX ##
+## Check Folio Mexico ##
 try:
     f = open('./select/MEX/folio.txt')
     f.close()
@@ -64,7 +64,7 @@ except FileNotFoundError:
     f.close()
     print("File not found!")
     print("A new file was created")
-## Check Folio PER ##
+## Check Folio Peru ##
 try:
     f = open('./select/PER/folio.txt')
     f.close()
@@ -75,7 +75,7 @@ except FileNotFoundError:
     f.close()
     print("File not found!")
     print("A new file was created")
-## Check Folio URY ##
+## Check Folio Uruguay ##
 try:
     f = open('./select/URY/folio.txt')
     f.close()
