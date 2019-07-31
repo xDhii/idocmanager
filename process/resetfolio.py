@@ -4,7 +4,6 @@ from config import messages
 ## Mensagem inicial ##
 messages.limpar_tela()
 messages.mensageminicial()
-
 zerar = 0
 ## ARG ##
 f = open('./select/ARG/folio.txt', 'w')
@@ -18,16 +17,24 @@ f.close()
 f = open('./select/BRA/rps.txt', 'w')
 f.write(str(zerar))
 f.close()
+## CHL ##
+f = open('./select/CHL/folio.txt', 'w')
+f.write(str(zerar))
+f.close()
+## ECU ##
+f = open('./select/ECU/folio.txt', 'w')
+f.write(str(zerar))
+f.close()
 ## MEX ##
 f = open('./select/MEX/folio.txt', 'w')
 f.write(str(zerar))
 f.close()
-## URY ##
-f = open('./select/URY/folio.txt', 'w')
+## PER ##
+f = open('./select/PER/folio.txt', 'w')
 f.write(str(zerar))
 f.close()
-## CHL ##
-f = open('./select/CHL/folio.txt', 'w')
+## URY ##
+f = open('./select/URY/folio.txt', 'w')
 f.write(str(zerar))
 f.close()
 

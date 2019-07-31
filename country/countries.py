@@ -18,7 +18,6 @@ def Argentina():
     print('\033[1;30;47m D \033[0m - \033[4mARG - Local Invoice MTX\033[0m')
     print('\033[1;30;47m E \033[0m - \033[4mARG - Local Invoice MTX CAE & CAEA\033[0m')
     print('\033[1;30;47m F \033[0m - \033[4mARG - Local Invoice\033[0m')
-
     print()
     print("Got it. What kind of document do you want to create?")
     opt = input('Enter the letter corresponding to the document type: ')
@@ -27,7 +26,6 @@ def Argentina():
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
         opt = input("Let's try again. Enter the corresponding letter: ")
         opt = opt.lower()
-
     if opt == "a":
         document = "Argentina Exportation Invoice"
         documents.ARG_Exportation_Invoice_WithCUITDestino()
@@ -74,7 +72,6 @@ def Brasil():
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
         opt = input("Let's try again. Enter the corresponding letter: ")
         opt = opt.lower()
-
     if opt == "a":
         document = "Brazil NFe"
         documents.BRA_NFE()
@@ -100,7 +97,6 @@ def Chile():
     print('\033[1;30;47m A \033[0m - \033[4mCHL - DTE                            \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mCHL - DTE DSCCItem 1000+             \033[0m')
     print('\033[1;30;47m C \033[0m - \033[4mCHL - DTE Cesion             \033[0m')
-
     print()
     print('Got it. What kind of document do you want to create?')
     opt = input('Enter the letter corresponding to the document type: ')
@@ -109,7 +105,6 @@ def Chile():
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
         opt = input("Let's try again. Enter the corresponding letter: ")
         opt = opt.lower()
-
     if opt == "a":
         document = "Chile DTE"
         documents.CHL_dte()
@@ -138,7 +133,7 @@ def Ecuador():
     print()
     print('\033[1;30;47m A \033[0m - \033[4mECU - Factura 01              \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mECU - Remision 06             \033[0m')
-
+    print('\033[1;30;47m C \033[0m - \033[4mECU - Retencion 07            \033[0m')
     print()
     print('Got it. What kind of document do you want to create?')
     opt = input('Enter the letter corresponding to the document type: ')
@@ -147,55 +142,18 @@ def Ecuador():
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
         opt = input("Let's try again. Enter the corresponding letter: ")
         opt = opt.lower()
-
     if opt == "a":
         document = "ECU Factura 01"
         documents.ECU_factura01()
     if opt == "b":
         document = "ECU Remision 06"
         documents.ECU_remision06()
+    if opt == "c":
+        document = "ECU Remision 06"
+        documents.ECU_retencion07()
     ## Criar log da Seleção ##
     f = open('./bin/country.log', 'w')
     f.write('Ecuador')
-    f.close()
-    f = open('./bin/document.log', 'w')
-    f.write(document)
-    f.close()
-def CostaRica():
-    ## Mensagem inicial ##
-    messages.limpar_tela()
-    messages.mensageminicial()
-    ## Voltar para a pasta de documentos do Chile ##
-    sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/country/documents")
-    import documents
-    ## Opçoes de documentos disponiveis ##
-    print('Available documents: ')
-    print()
-    print('\033[1;30;47m A \033[0m - \033[4mCHL - DTE                            \033[0m')
-    print('\033[1;30;47m B \033[0m - \033[4mCHL - DTE DSCCItem 1000+             \033[0m')
-    print('\033[1;30;47m C \033[0m - \033[4mCHL - DTE Cesion             \033[0m')
-
-    print()
-    print('Got it. What kind of document do you want to create?')
-    opt = input('Enter the letter corresponding to the document type: ')
-    opt = opt.lower()
-    while opt not in ('a', 'b', 'c'):
-        print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
-        opt = input("Let's try again. Enter the corresponding letter: ")
-        opt = opt.lower()
-
-    if opt == "a":
-        document = "Chile DTE"
-        documents.CHL_dte()
-    if opt == "b":
-        document = "Chile DTE DSCCItem 1000+"
-        documents.CHL_dtedescitem1000()
-    if opt == "c":
-        document = "Chile DTE Cesion"
-        documents.CHL_cesion()
-    ## Criar log da Seleção ##
-    f = open('./bin/country.log', 'w')
-    f.write('Chile')
     f.close()
     f = open('./bin/document.log', 'w')
     f.write(document)
@@ -221,7 +179,6 @@ def Mexico():
     print('\033[1;30;47m I \033[0m - \033[4mMEX - CFDI 33 Standard Addenda Only Step 2  \033[0m')
     print('\033[1;30;47m J \033[0m - \033[4mMEX - CFDI 33 Standard com Série            \033[0m')
     print('\033[1;30;47m K \033[0m - \033[4mMEX - CFDI Pagos                            \033[0m')
-
     print()
     print('Got it. What kind of document do you want to create?')
     opt = input('Enter the letter corresponding to the document type: ')
@@ -230,7 +187,74 @@ def Mexico():
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
         opt = input("Let's try again. Enter the corresponding letter: ")
         opt = opt.lower()
-
+    if opt == "a":
+        document = "México CFDI (Detallista and Addenda)"
+        documents.MEX_cfdi_detallista_and_addenda()
+    if opt == "b":
+        document = "México CFDI (Comex)"
+        documents.MEX_cfdi33_comex()
+    if opt == "c":
+        document = "México CFDI (Comex without Addenda)"
+        documents.MEX_cfdi33_comex_noaddenda()
+    if opt == "d":
+        document = "México CFDI Standard"
+        documents.MEX_cfdi33_standard()
+    if opt == "e":
+        document = "México CFDI Standard (Type E)"
+        documents.MEX_Standard_Type_E()
+    if opt == "f":
+        document = "México CFDI Standard )Type P)"
+        documents.MEX_Standard_Type_P()
+    if opt == "g":
+        document = "México CFDI Standard (Type T)"
+        documents.MEX_Standard_Type_T()
+    if opt == "h":
+        document = "México CFDI (Standart without Addenda)"
+        documents.MEX_cfdi33_standard_addendastep1_without_addenda()
+    if opt == "i":
+        document = "México CFDI (Standard with Addenda)"
+        documents.MEX_cfdi33_standard_addendastep2addenda()
+    if opt == "j":
+        document = "México CFDI (Standard with Serie)"
+        documents.MEX_cfdi33_standard_serie()
+    if opt == "k":
+        document = "México CFDI (Pagos)"
+        documents.MEX_cfdi33_pagos()
+    f = open('./bin/country.log', 'w')
+    f.write('México')
+    f.close()
+    f = open('./bin/document.log', 'w')
+    f.write(document)
+    f.close()
+def Mexico():
+    ## Mensagem inicial ##
+    messages.limpar_tela()
+    messages.mensageminicial()
+    ## Voltar para a pasta de documentos ##
+    sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/country/documents")
+    import documents
+    ## Opçoes de documentos disponiveis ##
+    print('Available documents: ')
+    print()
+    print('\033[1;30;47m A \033[0m - \033[4mMEX - CDFI Detallist e Addenda              \033[0m')
+    print('\033[1;30;47m B \033[0m - \033[4mMEX - CFDI 33 Comex                         \033[0m')
+    print('\033[1;30;47m C \033[0m - \033[4mMEX - CFDI 33 Comex no Addenda              \033[0m')
+    print('\033[1;30;47m D \033[0m - \033[4mMEX - CFDI 33 Standard                      \033[0m')
+    print('\033[1;30;47m E \033[0m - \033[4mMEX - CFDI 33 Standard Type E               \033[0m')
+    print('\033[1;30;47m F \033[0m - \033[4mMEX - CFDI 33 Standard Type P               \033[0m')
+    print('\033[1;30;47m G \033[0m - \033[4mMEX - CFDI 33 Standard Type T               \033[0m')
+    print('\033[1;30;47m H \033[0m - \033[4mMEX - CFDI 33 Standard Addenda Only Step 1  \033[0m')
+    print('\033[1;30;47m I \033[0m - \033[4mMEX - CFDI 33 Standard Addenda Only Step 2  \033[0m')
+    print('\033[1;30;47m J \033[0m - \033[4mMEX - CFDI 33 Standard com Série            \033[0m')
+    print('\033[1;30;47m K \033[0m - \033[4mMEX - CFDI Pagos                            \033[0m')
+    print()
+    print('Got it. What kind of document do you want to create?')
+    opt = input('Enter the letter corresponding to the document type: ')
+    opt = opt.lower()
+    while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k'):
+        print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
+        opt = input("Let's try again. Enter the corresponding letter: ")
+        opt = opt.lower()
     if opt == "a":
         document = "México CFDI (Detallista and Addenda)"
         documents.MEX_cfdi_detallista_and_addenda()
@@ -298,7 +322,6 @@ def Peru():
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
         opt = input("Let's try again. Enter the corresponding letter: ")
         opt = opt.lower()
-
     if opt == "a":
         document = "Peru 2.0 Type 1"
         documents.PER_20type1()
@@ -329,7 +352,6 @@ def Peru():
     if opt == "j":
         document = "Peru 2.1 Nota Debito"
         documents.PER_21notadebito1()
-
     ## Criar log da Seleção ##
     f = open('./bin/country.log', 'w')
     f.write('Peru')
@@ -355,7 +377,6 @@ def Uruguay():
     print('\033[1;30;47m F \033[0m - \033[4mURY - 124 eRemito Exportación               \033[0m')
     print('\033[1;30;47m G \033[0m - \033[4mURY - 211 Factura (for failure)              \033[0m')
     print('\033[1;30;47m H \033[0m - \033[4mURY - 211 Factura                            \033[0m')
-
     print()
     print('Got it. What kind of document do you want to create?')
     opt = input('Enter the letter corresponding to the document type: ')
