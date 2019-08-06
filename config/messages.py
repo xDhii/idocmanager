@@ -67,14 +67,6 @@ def empresas_chl():
     print('\033[1;30;47m A \033[0m - \033[4mChile (Clorox)     - 96681470-5 \033[0m')
     print()
     print('Right, and which of the above companies you want to use in IDOC?')
-def empresas_cri():
-    print()
-    print('Available companies:')
-    print()
-    print('\033[1;30;47m A \033[0m - \033[4mCosta Rica (SC Johnson) - 3101013242 \033[0m')
-    print('\033[1;30;47m B \033[0m - \033[4mCosta Rica  (Kerry)     - 3101016535 \033[0m')
-    print()
-    print('Right, and which of the above companies you want to use in IDOC?')
 def empresas_ecu():
     print()
     print('Available companies:')
