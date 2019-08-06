@@ -1,4 +1,3 @@
-zerar = 0
 ## Check Folio Argentina
 try:
     f = open('./select/ARG/folio.txt')
@@ -7,7 +6,7 @@ try:
     print('File found!')
     if check == '':
         f = open('.select/ARG/folio.txt')
-        f.write(zerar)
+        f.write('0')
         f.close()
     else:
         print('Ok, Next one...')
@@ -24,7 +23,7 @@ try:
     print('File found!')
     if check == '':
         f = open('.select/BRA/folio.txt')
-        f.write(zerar)
+        f.write('0')
         f.close()
     else:
         print('Ok, Next one...')
@@ -41,7 +40,7 @@ try:
     print('File found!')
     if check == '':
         f = open('.select/BRA/rps.txt')
-        f.write(zerar)
+        f.write('0')
         f.close()
     else:
         print('Ok, Next one...')
@@ -58,7 +57,7 @@ try:
     print('File found!')
     if check == '':
         f = open('.select/CHL/folio.txt')
-        f.write(zerar)
+        f.write('0')
         f.close()
     else:
         print('Ok, Next one...')
@@ -75,7 +74,7 @@ try:
     print('File found!')
     if check == '':
         f = open('.select/ECU/folio.txt')
-        f.write(zerar)
+        f.write('0')
         f.close()
     else:
         print('Ok, Next one...')
@@ -92,7 +91,7 @@ try:
     print('File found!')
     if check == '':
         f = open('.select/MEX/folio.txt')
-        f.write(zerar)
+        f.write('0')
         f.close()
     else:
         print('Ok, Next one...')
@@ -109,7 +108,7 @@ try:
     print('File found!')
     if check == '':
         f = open('.select/PER/folio.txt')
-        f.write(zerar)
+        f.write('0')
         f.close()
     else:
         print('Ok, Next one...')
@@ -126,7 +125,7 @@ try:
     print('File found!')
     if check == '':
         f = open('.select/URY/folio.txt')
-        f.write(zerar)
+        f.write('0')
         f.close()
     else:
         print('Ok, Next one...')
