@@ -1,6 +1,5 @@
 ## Script para criar a pasta IDOC ## -
 import os
-
 def createFolder(directory):
     try:
         if not os.path.exists(directory):

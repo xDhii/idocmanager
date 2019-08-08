@@ -23,7 +23,7 @@ f.close()
 
 ## Salva novo folio no TXT ##
 f = open('./select/BRA/rps.txt', 'w')
-f.write(rps)
+f.write(str(rps))
 f.close()
 
 rps = '{message:{fill}{align}{width}}'.format(

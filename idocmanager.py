@@ -65,4 +65,4 @@ if restart == "y":
 if restart == "n":
     print("Ok, exiting...")
     time.sleep(3)
-    sys.exit()
+    # sys.exit()
