@@ -16,7 +16,7 @@ f.close()
 
 ## Salva novo folio no TXT ##
 f = open('./select/PER/folio.txt', 'w')
-f.write(folio)
+f.write(str(folio))
 f.close()
 
 folio = '{message:{fill}{align}{width}}'.format(

@@ -351,7 +351,7 @@ def Peru():
         documents.PER_21notacredito()
     if opt == "j":
         document = "Peru 2.1 Nota Debito"
-        documents.PER_21notadebito1()
+        documents.PER_21notadebito()
     ## Criar log da Seleção ##
     f = open('./bin/country.log', 'w')
     f.write('Peru')
