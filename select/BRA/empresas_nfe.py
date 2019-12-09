@@ -10,7 +10,10 @@ messages.mensageminicial()
 messages.empresas_nfe()
 
 ## Input e seleção de empresa ##
-opt = input('Enter the letter corresponding to a company: ')
+try:
+    opt = sys.argv[3]
+except IndexError:
+    opt = input('Enter the letter corresponding to a company: ')
 opt = opt.lower()
 while opt not in ('a', 'b'):
     print('\033[91mHmm... I did not understand your answer')

@@ -11,7 +11,10 @@ messages.mensageminicial()
 messages.paises_disponiveis()
 ##  Seleção dos países
 print('Which Country do you want to access?')
-opt = input('Enter the letter corresponding to the Country: ')
+try:
+    opt = sys.argv[1]
+except IndexError:
+    opt = input('Enter the letter corresponding to the Country: ')
 opt = opt.lower()
 while opt not in ('a', 'b', 'c', 'd', 'e','f', 'g', 'x', 'z'): # Loop até a seleção de algum País disponível
     print()
@@ -41,7 +44,10 @@ if opt == "z":
 from process import sendtovm
 from config import log_generate
 ## Opção de reiniciar o processo
-restart = input('Do you want to create a new document? Enter Y or N: ')
+try:
+    restart = sys.argv[5]
+except IndexError:
+    restart = input('Do you want to create a new document? Enter Y or N: ')
 restart = restart.lower()
 while restart not in ('y', 'n'):
     print()
@@ -52,7 +58,7 @@ while restart not in ('y', 'n'):
 if restart == "y":
     ## Reiniciar processo no Windows ##
     if os.name == 'nt':
-        os.system("start /B start cmd.exe @cmd /k python idocmanager.py")
+        os.system("python idocmanager.py")
     ## Reiniciar processo no Linux ##
     if os.name == 'posix':
         filename = sys.argv[0]
