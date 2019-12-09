@@ -66,7 +66,10 @@ def Brasil():
 
     print()
     print('Got it. What kind of document do you want to create?')
-    opt = input('Enter the letter corresponding to the document type: ')
+    try:
+        opt = sys.argv[2]
+    except IndexError:
+        opt = input('Enter the letter corresponding to the document type: ')
     opt = opt.lower()
     while opt not in ('a', 'b'):
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')

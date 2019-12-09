@@ -11,7 +11,10 @@ messages.mensageminicial()
 ## Seleção de enviar o IDOC para a VM ou encerrar o processo ##
 print('Ok, everything is fine.')
 print('Do you want to send the document to TF or just save the IDOC?')
-enviaridoc = input('Enter Y to send or N to save it: ')
+try:
+    enviaridoc = sys.argv[4]
+except IndexError:
+    enviaridoc = input('Enter Y to send or N to save it: ')
 enviaridoc = enviaridoc.lower()
 while enviaridoc not in ('y', 'n'):
     print('\033[91m Hmm... I did not understand \033[0m')
