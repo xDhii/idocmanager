@@ -1,4 +1,3 @@
-## Tipos de documento do Brasil ##
 import os, sys, time
 sys.path.append('../idocmanager')
 from subprocess import Popen
@@ -50,10 +49,10 @@ while restart not in ('y', 'n'):
     restart = restart.lower()
 ## Reiniciar o processo ##
 if restart == "y":
-    ## Reiniciar processo no Windows ##
+## Reiniciar processo no Windows ##
     if os.name == 'nt':
         os.system("start /B start cmd.exe @cmd /k python idocmanager.py")
-    ## Reiniciar processo no Linux ##
+## Reiniciar processo no Linux ##
     if os.name == 'posix':
         filename = sys.argv[0]
         print("Restarting... ")
