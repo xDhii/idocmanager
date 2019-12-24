@@ -2,7 +2,7 @@
 import os, sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/config")
 import messages
-def Argentina():
+def Argentina(self):
     ## Mensagem inicial ##
     messages.limpar_tela()
     messages.mensageminicial()
@@ -51,7 +51,7 @@ def Argentina():
     f = open('./bin/document.log', 'w')
     f.write(document)
     f.close()
-def Brasil():
+def Brasil(self):
     ## Mensagem inicial ##
     messages.limpar_tela()
     messages.mensageminicial()
@@ -87,7 +87,7 @@ def Brasil():
     f = open('./bin/document.log', 'w')
     f.write(document)
     f.close()
-def Chile():
+def Chile(self):
     ## Mensagem inicial ##
     messages.limpar_tela()
     messages.mensageminicial()
@@ -124,7 +124,7 @@ def Chile():
     f = open('./bin/document.log', 'w')
     f.write(document)
     f.close()
-def Ecuador():
+def Ecuador(self):
     ## Mensagem inicial ##
     messages.limpar_tela()
     messages.mensageminicial()
@@ -161,7 +161,7 @@ def Ecuador():
     f = open('./bin/document.log', 'w')
     f.write(document)
     f.close()
-def Mexico():
+def Mexico(self):
     ## Mensagem inicial ##
     messages.limpar_tela()
     messages.mensageminicial()
@@ -229,7 +229,7 @@ def Mexico():
     f = open('./bin/document.log', 'w')
     f.write(document)
     f.close()
-def Mexico():
+def Mexico(self):
     ## Mensagem inicial ##
     messages.limpar_tela()
     messages.mensageminicial()
@@ -297,7 +297,7 @@ def Mexico():
     f = open('./bin/document.log', 'w')
     f.write(document)
     f.close()
-def Peru():
+def Peru(self):
     ## Mensagem inicial ##
     messages.limpar_tela()
     messages.mensageminicial()
@@ -362,7 +362,7 @@ def Peru():
     f = open('./bin/document.log', 'w')
     f.write(document)
     f.close()
-def Uruguay():
+def Uruguay(self):
     ## Mensagem inicial ##
     messages.limpar_tela()
     messages.mensageminicial()
