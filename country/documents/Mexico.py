@@ -1,4 +1,6 @@
-import os, sys
+import os
+import sys
+import datetime
 from config import datareal
 from select.MEX import nota_select_mex, empresas_mexd
 

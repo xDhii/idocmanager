@@ -1,4 +1,4 @@
-## Mensagem de todas as telas ##
+
 import os, sys, shutil
 def limpar_tela(self):
     os.system('cls' if os.name == 'nt' else 'clear')

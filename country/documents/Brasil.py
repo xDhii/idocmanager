@@ -1,6 +1,8 @@
-import os, sys, datetime
+import os
+import sys
+import datetime
 from config import datareal
-from select.BRA import empresas_nfe, nota_select_nfe
+from select.BRA import empresas_nfe, empresas_nfse, nota_select_nfe, nota_select_nfse
 
 ct = datetime.datetime.now()
 ct = str(ct.year) + '_' + str(ct.month) + '_' + str(ct.day) + '_' + str(ct.hour) + '_' + str(ct.minute) + '_' + str(ct.second)
