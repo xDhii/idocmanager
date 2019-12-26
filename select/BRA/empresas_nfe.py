@@ -1,6 +1,7 @@
 ## Selecao da Empresa NFe ##
 import os, sys
-from config import messages
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/config")
+import messages
 ## Mensagem inicial ##
 messages.limpar_tela()
 messages.mensageminicial()
