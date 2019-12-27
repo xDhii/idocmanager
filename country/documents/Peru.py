@@ -1,8 +1,10 @@
-import sys
-import os
 import datetime
-from config import datareal
+import os
+import sys
 from select.PER import empresas_per, nota_select_per
+
+from config import datareal
+
 
 def PER_20type1(self):
 

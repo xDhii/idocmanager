@@ -2,7 +2,7 @@ import os
 import sys
 import datetime
 from config import datareal
-from select.MEX import nota_select_mex, empresas_mexd
+from select.MEX import nota_select_mex, empresas_mex
 
 def MEX_cfdi_detallista_and_addenda(self):
 
