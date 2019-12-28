@@ -128,8 +128,8 @@ def tryagain(self):
         print('\033[93m This process can take up to 15 seconds ... \033[0m')
         print()
         shutil.move('./idoc/outbound.idoc', '//invqasrv'+ str(vmdestino) +'.corp.sovos.local/c$/TF/Queues/IDOCReceiver')
-        limpar_tela()
-        mensageminicial()
+        self.limpar_tela()
+        self.mensageminicial()
         print('\033[92m All right! IDOC Sent! \033[0m')
         print('\033[92m Check the process on VM Portal. \033[0m')
         print()
@@ -137,8 +137,8 @@ def tryagain(self):
         f.write(vmdestino)
         f.close()
     except (shutil.Error, OSError, IOError):
-        limpar_tela()
-        mensageminicial()
+        self.limpar_tela()
+        self.mensageminicial()
         print('\033[91m Oops! Could not send the IDOC to the selected VM. \033[0m')
         print('\033[91m Did you enter the correct VM number? \033[0m')
         print()
@@ -152,8 +152,8 @@ def tryagain(self):
         if tentarnovamente in ('y'):
             try:
                 shutil.move('./idoc/outbound.idoc', '//invqasrv'+ str(vmdestino) +'.corp.sovos.local/c$/TF/Queues/IDOCReceiver')
-                limpar_tela()
-                mensageminicial()
+                self.limpar_tela()
+                self.mensageminicial()
                 print('\033[92m All right! IDOC Sent! \033[0m')
                 print('\033[92m Check the process on VM Portal. \033[0m')
                 print()
@@ -161,7 +161,7 @@ def tryagain(self):
                 f.write(vmdestino)
                 f.close()
             except (shutil.Error, OSError, IOError):
-                tryagain()
+                self.tryagain()
         if tentarnovamente in ("n"):
             print()
             print('\033[92m Ok! The generated document is inside the IDOC folder ;) \033[0m')

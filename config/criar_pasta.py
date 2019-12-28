@@ -8,6 +8,7 @@ def createFolder(directory):
         print('\033[91mOops, something wrong!')
         print('\033[91mCould not create the IDOC folder.')
         print('\033[0m')
+
 createFolder('./idoc/')
 createFolder('./logs/')
 createFolder('./bin/')
