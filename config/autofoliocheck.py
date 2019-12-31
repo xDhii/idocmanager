@@ -3,7 +3,6 @@ import os
 def foliocheck(self):
     try:
         f = open('./select/ARG/folio.txt')
-        check = f.read()
         f.close()
         print('File found!')
         if os.stat('./select/ARG/folio.txt').st_size == 0:

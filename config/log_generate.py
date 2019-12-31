@@ -79,6 +79,7 @@ def generate_log(self):
     f.write('       It was generated '+ str(document) +' ('+ str(country) +')\n')
     f.write('       Folio: '+ str(folio))
     f.write('       Company: '+ str(companycode) +'     '+ str(companyname) +'\n')
+
     if vmdestino == 'NOPE':
         f.write('       The document was only saved and not sent to VM directly. \n')
     else:
