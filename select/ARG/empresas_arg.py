@@ -1,7 +1,7 @@
 ## Selecao da Empresa ARG ##
-import os, sys
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/config")
-import messages
+import os
+import sys
+from config import messages
 
 ## Mensagem inicial ##
 messages.limpar_tela()

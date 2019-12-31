@@ -1,6 +1,8 @@
-## Selecao da Empresa NFe ##
-import os, sys
+## Selecao da Empresa ARG ##
+import os
+import sys
 from config import messages
+
 ## Mensagem inicial ##
 messages.limpar_tela()
 messages.mensageminicial()
