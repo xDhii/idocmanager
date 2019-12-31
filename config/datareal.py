@@ -1,4 +1,5 @@
 import datetime
+
 date_time = datetime.datetime.now()
 
 date = date_time.date()  # Retorna a data

@@ -57,6 +57,7 @@ try:
 except IndexError:
     restart = input('Do you want to create a new document? Enter Y or N: ')
 restart = restart.lower()
+
 while restart not in ('y', 'n'):
     print()
     print('\033[91m Hmm... I did not understand \033[0m')
@@ -66,14 +67,17 @@ while restart not in ('y', 'n'):
 ## Reiniciar o processo ##
 if restart == "y":
 
-## Reiniciar processo no Windows ##
+    ## Reiniciar processo no Windows ##
     if os.name == 'nt':
         os.system("python idocmanager.py")
+    
     ## Reiniciar processo no Linux ##
     if os.name == 'posix':
         filename = sys.argv[0]
         print("Restarting... ")
         p = Popen("python " + filename, shell=True)
+
+    ## Reiniciar processo em sistemas Java ##
     if os.name == 'java':
         print('My bad, not yet implemented for Java systems')
     sys.exit()
