@@ -1,6 +1,6 @@
 ## Script para enviar documento para a VM ## -
-import shutil, sys, os
-import os, sys
+import os
+import shutil
 from config import messages
 
 ## Mensagem inicial ##

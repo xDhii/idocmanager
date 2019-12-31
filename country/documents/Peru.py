@@ -1,12 +1,9 @@
-import datetime
 import os
-import sys
 from config import datareal
 from select.PER import empresas_per
 from select.PER import nota_select_per
 
 def PER_20type1():
-
     f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
     print('EDI_DC40  1000000000165299936731 3012  /KFBCLA/DTE                                                 /KFBCLA/DTE                                PE    SAPKFQ    LS  SR1CLNT100                                                                                           KFBCTF0001LS  TFCLIENT                                                                                             '+str(datareal.datacompleta)+'135219                                                                                                                '+str(datareal.datacompleta)+'135218      ', file=f)
     print('/KFBCLA/ENCABEZADO000         100000000016529993600000100000001'+str(empresas_per.rut)+'20100070970                   PEBPE1 00732410532018                                                                                                             PE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ', file=f)

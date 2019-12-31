@@ -1,11 +1,9 @@
 import os
-import sys
 from config import datareal
 from select.URY import empresas_ury
 from select.URY import nota_select_ury
 
 def URY_101ticket():
-
     f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
     print('EDI_DC40  1000000000165350544731 3012  /KFBCLA/DTE                                                 /KFBCLA/DTE                                UY    SAPKFQ    LS  SR1CLNT100                                                                                           KFBCTF0001LS  TFCLIENT                                                                                             '+ str(datareal.datacompleta) +'061158                                                                                                                '+ str(datareal.datacompleta) +'061158      ', file=f)
     print('/KFBCLA/ENCABEZADO000         100000000016535054400000100000001080003530017                  '+ str(empresas_ury.rut) +'UYBUY1 00732499842019                                                                                                             UY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ', file=f)

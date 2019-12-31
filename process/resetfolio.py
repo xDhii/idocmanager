@@ -1,4 +1,6 @@
-import os, sys, shutil, time
+import os
+import shutil
+import time
 from config import messages
 
 ## Mensagem inicial ##

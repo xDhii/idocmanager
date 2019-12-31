@@ -1,5 +1,4 @@
 import os
-import sys
 import datetime
 from config import datareal
 from select.ARG import empresas_arg

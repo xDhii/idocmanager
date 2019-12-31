@@ -1,6 +1,4 @@
 import os
-import sys
-import datetime
 from config import datareal
 from select.MEX import nota_select_mex
 from select.MEX import empresas_mex

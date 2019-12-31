@@ -1,5 +1,4 @@
 import os
-import sys
 import shutil
 
 def limpar_tela():

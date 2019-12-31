@@ -1,4 +1,4 @@
-import datetime, sys
+import datetime
 
 def generate_log():
     ## Time Config ##

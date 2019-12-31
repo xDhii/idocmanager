@@ -1,6 +1,5 @@
 ## Selecao da Empresa ARG ##
 import os
-import sys
 from config import messages
 
 ## Mensagem inicial ##
