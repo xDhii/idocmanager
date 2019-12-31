@@ -2,7 +2,8 @@ import os
 import sys
 import datetime
 from config import datareal
-from select.CHL import empresas_chl, nota_select_chl
+from select.CHL import empresas_chl
+from select.CHL import nota_select_chl
 
 def CHL_cesion():
 

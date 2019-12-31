@@ -2,7 +2,8 @@ import os
 import sys
 import datetime
 from config import datareal
-from select.ECU import nota_select_ecu, empresas_ecu
+from select.ECU import nota_select_ecu
+from select.ECU import empresas_ecu
 
 def ECU_factura01():
 

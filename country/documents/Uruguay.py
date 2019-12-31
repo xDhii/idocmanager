@@ -1,6 +1,8 @@
-import os, sys
+import os
+import sys
 from config import datareal
-from select.URY import empresas_ury, nota_select_ury
+from select.URY import empresas_ury
+from select.URY import nota_select_ury
 
 def URY_101ticket():
 

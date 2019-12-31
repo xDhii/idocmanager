@@ -1,6 +1,8 @@
-import pyodbc, sys, time
-sys.path.append('../idocmanager')
+import pyodbc
+import sys
+import time
 from config import relatedvm, messages
+
 # pyodbc.drivers()
 ## Capture generated Company Code ##
 f = open('./bin/companycode.log', 'r')
