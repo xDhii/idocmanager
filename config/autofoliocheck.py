@@ -18,6 +18,7 @@ def foliocheck():
         f.close()
         print("File not found!")
         print("A new file was created")
+
     ## Check Folio Brazil
     try:
         f = open('./select/BRA/folio.txt')
@@ -35,6 +36,7 @@ def foliocheck():
         f.close()
         print("File not found!")
         print("A new file was created")
+
     ## Check RPS Brazil
     try:
         f = open('./select/BRA/rps.txt')
@@ -52,6 +54,7 @@ def foliocheck():
         f.close()
         print("File not found!")
         print("A new file was created")
+
     ## Check Folio Chile
     try:
         f = open('./select/CHL/folio.txt')
@@ -69,6 +72,7 @@ def foliocheck():
         f.close()
         print("File not found!")
         print("A new file was created")
+
     ## Check Folio Ecuador
     try:
         f = open('./select/ECU/folio.txt')
@@ -86,6 +90,7 @@ def foliocheck():
         f.close()
         print("File not found!")
         print("A new file was created")
+
     ## Check Folio MEX ##
     try:
         f = open('./select/MEX/folio.txt')
@@ -103,6 +108,7 @@ def foliocheck():
         f.close()
         print("File not found!")
         print("A new file was created")
+
     ## Check Folio PER ##
     try:
         f = open('./select/PER/folio.txt')
@@ -120,6 +126,7 @@ def foliocheck():
         f.close()
         print("File not found!")
         print("A new file was created")
+
     ## Check Folio URY ##
     try:
         f = open('./select/URY/folio.txt')

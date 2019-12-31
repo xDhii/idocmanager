@@ -1,12 +1,12 @@
 import os
 import sys
 import time
-from subprocess import Popen
-from config import messages
-from config import criar_pasta
 from config import autofoliocheck
+from config import criar_pasta
+from config import messages
 from config import updater_creator
 from country import countries
+from subprocess import Popen
 
 ## Mensagem inicial ##
 messages.limpar_tela()

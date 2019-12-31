@@ -118,12 +118,14 @@ def empresas_ury():
 def tryagain():
     print("Right, let's send the document to VM")
     vmdestino = input ('Type for which VM you want to send the IDOC: ')
+
     while len(vmdestino) != 2:
         print ('\033[91m Oops! You must enter 2 digits! \033[0m')
         vmdestino = input('Re-enter the VM number: ')
     print('\033[93m Attempting to send the IDOC to INVQASRV'+ str(vmdestino) +'\033[0m')
     print()
     print()
+
     try:
         print('\033[93m This process can take up to 15 seconds ... \033[0m')
         print()
@@ -136,6 +138,7 @@ def tryagain():
         f = open('./bin/vmclient.log', 'w')
         f.write(vmdestino)
         f.close()
+
     except (shutil.Error, OSError, IOError):
         limpar_tela()
         mensageminicial()
@@ -144,11 +147,13 @@ def tryagain():
         print()
         tentarnovamente = input('Do you want to try again? Enter Y or N: ')
         tentarnovamente = tentarnovamente.lower()
+
         while tentarnovamente not in ('n', 'y'):
             tentarnovamente = tentarnovamente.lower()
             print('I did not understand your answer')
             tentarnovamente = input('Do you want to try again? Enter Y or N: ')
             tentarnovamente = tentarnovamente.lower()
+
         if tentarnovamente in ('y'):
             try:
                 shutil.move('./idoc/outbound.idoc', '//invqasrv'+ str(vmdestino) +'.corp.sovos.local/c$/TF/Queues/IDOCReceiver')
@@ -162,6 +167,7 @@ def tryagain():
                 f.close()
             except (shutil.Error, OSError, IOError):
                 tryagain()
+
         if tentarnovamente in ("n"):
             print()
             print('\033[92m Ok! The generated document is inside the IDOC folder ;) \033[0m')

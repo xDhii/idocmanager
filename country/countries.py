@@ -5,9 +5,9 @@ from config import messages
 
 def Argentina():
     ## Mensagem inicial ##
+    from country.documents import Argentina
     messages.limpar_tela()
     messages.mensageminicial()
-    from country.documents import Argentina
 
     ## Opçoes de documentos disponiveis ##
     print('Available documents: ')
@@ -56,9 +56,9 @@ def Argentina():
 
 def Brasil():
     ## Mensagem inicial ##
+    from country.documents import Brasil
     messages.limpar_tela()
     messages.mensageminicial()
-    from country.documents import Brasil
 
     ## Opçoes de documentos disponiveis ##
     print('Available documents: ')
@@ -95,9 +95,9 @@ def Brasil():
 
 def Chile():
     ## Mensagem inicial ##
+    from country.documents import Chile
     messages.limpar_tela()
     messages.mensageminicial()
-    from country.documents import Chile
 
     ## Opçoes de documentos disponiveis ##
     print('Available documents: ')
@@ -134,9 +134,9 @@ def Chile():
 
 def Ecuador():
     ## Mensagem inicial ##
+    from country.documents import Ecuador
     messages.limpar_tela()
     messages.mensageminicial()
-    from country.documents import Ecuador
 
     ## Opçoes de documentos disponiveis ##
     print('Available documents: ')
@@ -173,9 +173,9 @@ def Ecuador():
 
 def Mexico():
     ## Mensagem inicial ##
+    from country.documents import Mexico
     messages.limpar_tela()
     messages.mensageminicial()
-    from country.documents import Mexico
 
     ## Opçoes de documentos disponiveis ##
     print('Available documents: ')
@@ -244,9 +244,9 @@ def Mexico():
 
 def Peru():
     ## Mensagem inicial ##
+    from country.documents import Peru
     messages.limpar_tela()
     messages.mensageminicial()
-    from country.documents import Peru
 
     ## Opçoes de documentos disponiveis ##
     print('Available documents: ')
@@ -311,9 +311,9 @@ def Peru():
 
 def Uruguay():
     ## Mensagem inicial ##
+    from country.documents import Uruguay
     messages.limpar_tela()
     messages.mensageminicial()
-    from country.documents import Uruguay
 
     ## Opçoes de documentos disponiveis ##
     print('Available documents: ')
