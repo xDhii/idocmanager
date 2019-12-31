@@ -1,6 +1,6 @@
 import os
 ## Check Folio Argentina
-def foliocheck(self):
+def foliocheck():
     try:
         f = open('./select/ARG/folio.txt')
         f.close()

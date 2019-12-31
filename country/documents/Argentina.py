@@ -5,7 +5,7 @@ from config import datareal
 from select.ARG import empresas_arg, nota_select_arg
 
 
-def ARG_Exportation_Invoice_WithCUITDestino(self):
+def ARG_Exportation_Invoice_WithCUITDestino():
 
     f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
     print('EDI_DC40  2300000000010544161740 3012  ZKFBC_AR_AUTHORIZE                                          ZKFBC_AR_OUT                                     SAPKFQ    LS  DR1CLNT230                                                                                           KFCBTF0001LS  TFCLIENT                                                                                             '+ str(datareal.datacompleta) +'105507                                                                                                                '+ str(datareal.datacompleta) +'105505      ', file=f)
@@ -68,7 +68,7 @@ def ARG_Exportation_Invoice_WithCUITDestino(self):
     print('ZKFBC_AR_CAB_EXTENC000        230000000001054416100005700000002VBRK-FKART                    ZF2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ', file=f)
     f.close()
 
-def ARG_Exportation_Invoice_WithoutCUITDestino(self):
+def ARG_Exportation_Invoice_WithoutCUITDestino():
 
     f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
     print('EDI_DC40  1000000000165372954731 3012  ZKFBC_AR_AUTHORIZE                                          ZKFBC_AR_OUT                                     SAPSR1    LS  SR1CLNT100                                                                                           KFBCTF0001LS  TFCLIENT                                                                                             '+ str(datareal.datacompleta) +'203921                                                                                                                '+ str(datareal.datacompleta) +'203921      ', file=f)
@@ -321,7 +321,7 @@ def ARG_Exportation_Invoice_WithoutCUITDestino(self):
     print('ZKFBC_AR_CAB_EXTENC000        100000000016537295400024700000002FCHVTOPAGO                    2019-02-27                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ', file=f)
     f.close()
 
-def ARG_Local_Invoice_MTX_CAEA(self):
+def ARG_Local_Invoice_MTX_CAEA():
 
     f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
     print('EDI_DC40  8000000000003262818740 3012  /KFBCLA/AR_FE                                               /KFBCLA/AR_FE                                    SAPKFQ    LS  KFQCLNT800                                                                                           TFC04     LS  TFC04                                                                                                '+ str(datareal.datacompleta) +'163959                                                                                                                '+ str(datareal.datacompleta) +'163958      ', file=f)
@@ -355,7 +355,7 @@ def ARG_Local_Invoice_MTX_CAEA(self):
     print('/KFBCLA/AR_FE_EXTENCIONES000  800000000000326281800002800000102DELIVERY_TERMS                FH                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ', file=f)
     f.close()
 
-def ARG_Local_Invoice_MTX(self):
+def ARG_Local_Invoice_MTX():
 
     f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
     print('EDI_DC40  8000000000003262804740 3012  ZKFBC_AR_FE                                                 ZKFBC_AR_FE                                      SAPKFQ    LS  KFQCLNT800                                                                                           TFC04     LS  TFC04                                                                                                '+ str(datareal.datacompleta) +'133443                                                                                                                '+ str(datareal.datacompleta) +'133443      ', file=f)
@@ -389,7 +389,7 @@ def ARG_Local_Invoice_MTX(self):
     print('ZKFBC_AR_FE_EXTENCIONES000    800000000000326280400002800000102REMITO                            -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ', file=f)
     f.close()
 
-def ARG_Local_Invoice_MTXCAECAEA(self):
+def ARG_Local_Invoice_MTXCAECAEA():
 
     f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
     print('EDI_DC40  8000000000003262818740 3012  /KFBCLA/AR_FE                                               /KFBCLA/AR_FE                                    SAPKFQ    LS  KFQCLNT800                                                                                           TFC04     LS  TFC04                                                                                                '+ str(datareal.datacompleta) +'163959                                                                                                                '+ str(datareal.datacompleta) +'163958      ', file=f)
@@ -423,7 +423,7 @@ def ARG_Local_Invoice_MTXCAECAEA(self):
     print('/KFBCLA/AR_FE_EXTENCIONES000  800000000000326281800002800000102DELIVERY_TERMS                FH                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ', file=f)
     f.close()
 
-def ARG_Local_Invoice(self):
+def ARG_Local_Invoice():
 
     f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
     print('EDI_DC40  2300000000010549906740 3012  ZKFBC_AR_FE_1                                               ZKFBC_AR_FE1                                     SAPKFQ    LS  DR1CLNT230                                                                                           KFCBTF0001LS  TFCLIENT                                                                                             '+ str(datareal.datacompleta) +'151438                                                                                                                '+ str(datareal.datacompleta) +'151437      ', file=f)

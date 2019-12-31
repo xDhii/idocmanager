@@ -1,8 +1,8 @@
 import sys
 sys.path.append('../idocmanager')
-# def findserver(self):
+# def findserver():
 
-def related_vm(self):
+def related_vm():
     f = open('./bin/vmclient.log', 'r')
     vmclient = f.read()
     f.close()

@@ -1,4 +1,4 @@
-def create_updater(self):
+def create_updater():
     f = open('Updater.bat', 'w')
     f.write('@echo off\n')
     f.write('@break off\n')

@@ -1,10 +1,11 @@
+import os
+import sys
+import shutil
 
-import os, sys, shutil
-
-def limpar_tela(self):
+def limpar_tela():
     os.system('cls' if os.name == 'nt' else 'clear')
 
-def mensageminicial(self):
+def mensageminicial():
     print('\033[91m IMPORTANT: All companies must be configured as SAPKFQ!        \033[0m')
     print()
     print("\033[1;30;47m            IDOC CREATOR v0.7.0807 (beta)                 \033[0m")
@@ -14,7 +15,7 @@ def mensageminicial(self):
     print()
     print()
 
-def paises_disponiveis(self):
+def paises_disponiveis():
     print('\033[1m Available Countries for IDOC Creation \033[0m')
     print()
     print('\033[1;30;47m A \033[0m - \033[4mArgentina       \033[0m')
@@ -27,7 +28,7 @@ def paises_disponiveis(self):
     print('\033[1;30;47m X \033[0m - \033[4mUpdate          \033[0m')
     print('\033[1;30;47m Z \033[0m - \033[4mReset Folios    \033[0m')
 
-def empresas_arg(self):
+def empresas_arg():
     print()
     print('Available companies:')
     print()
@@ -36,7 +37,7 @@ def empresas_arg(self):
     print()
     print('Right, and which of the above companies you want to use in IDOC?')
 
-def empresas_nfe(self):
+def empresas_nfe():
     print()
     print('Available companies:')
     print()
@@ -45,7 +46,7 @@ def empresas_nfe(self):
     print()
     print('Right, and which of the above companies you want to use in IDOC?')
 
-def empresas_nfse(self):
+def empresas_nfse():
     print()
     print('Available companies:')
     print()
@@ -67,7 +68,7 @@ def empresas_nfse(self):
     print()
     print('Right, and which of the above companies you want to use in IDOC?')
 
-def empresas_chl(self):
+def empresas_chl():
     print()
     print('Available companies:')
     print()
@@ -75,7 +76,7 @@ def empresas_chl(self):
     print()
     print('Right, and which of the above companies you want to use in IDOC?')
 
-def empresas_ecu(self):
+def empresas_ecu():
     print()
     print('Available companies:')
     print()
@@ -83,7 +84,7 @@ def empresas_ecu(self):
     print()
     print('Right, and which of the above companies you want to use in IDOC?')
 
-def empresas_mex(self):
+def empresas_mex():
     print()
     print('Available companies:')
     print()
@@ -97,7 +98,7 @@ def empresas_mex(self):
     print()
     print('Right, and which of the above companies you want to use in IDOC?')
 
-def empresas_per(self):
+def empresas_per():
     print()
     print('Available companies:')
     print()
@@ -105,7 +106,7 @@ def empresas_per(self):
     print()
     print('Right, and which of the above companies you want to use in IDOC?')
 
-def empresas_ury(self):
+def empresas_ury():
     print()
     print('Available companies:')
     print()
@@ -115,7 +116,7 @@ def empresas_ury(self):
     print()
     print('Right, and which of the above companies you want to use in IDOC?')
 
-def tryagain(self):
+def tryagain():
     print("Right, let's send the document to VM")
     vmdestino = input ('Type for which VM you want to send the IDOC: ')
     while len(vmdestino) != 2:
@@ -128,8 +129,8 @@ def tryagain(self):
         print('\033[93m This process can take up to 15 seconds ... \033[0m')
         print()
         shutil.move('./idoc/outbound.idoc', '//invqasrv'+ str(vmdestino) +'.corp.sovos.local/c$/TF/Queues/IDOCReceiver')
-        self.limpar_tela()
-        self.mensageminicial()
+        limpar_tela()
+        mensageminicial()
         print('\033[92m All right! IDOC Sent! \033[0m')
         print('\033[92m Check the process on VM Portal. \033[0m')
         print()
@@ -137,8 +138,8 @@ def tryagain(self):
         f.write(vmdestino)
         f.close()
     except (shutil.Error, OSError, IOError):
-        self.limpar_tela()
-        self.mensageminicial()
+        limpar_tela()
+        mensageminicial()
         print('\033[91m Oops! Could not send the IDOC to the selected VM. \033[0m')
         print('\033[91m Did you enter the correct VM number? \033[0m')
         print()
@@ -152,8 +153,8 @@ def tryagain(self):
         if tentarnovamente in ('y'):
             try:
                 shutil.move('./idoc/outbound.idoc', '//invqasrv'+ str(vmdestino) +'.corp.sovos.local/c$/TF/Queues/IDOCReceiver')
-                self.limpar_tela()
-                self.mensageminicial()
+                limpar_tela()
+                mensageminicial()
                 print('\033[92m All right! IDOC Sent! \033[0m')
                 print('\033[92m Check the process on VM Portal. \033[0m')
                 print()
@@ -161,7 +162,7 @@ def tryagain(self):
                 f.write(vmdestino)
                 f.close()
             except (shutil.Error, OSError, IOError):
-                self.tryagain()
+                tryagain()
         if tentarnovamente in ("n"):
             print()
             print('\033[92m Ok! The generated document is inside the IDOC folder ;) \033[0m')

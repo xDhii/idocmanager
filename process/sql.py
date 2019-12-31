@@ -28,7 +28,7 @@ companycode = companycode.translate({ord(i):None for i in "(),;:'!@#$'"})
 conn_client = pyodbc.connect('DRIVER={ODBC Driver 11 for SQL Server};SERVER=INVQASRV'+vmclient+';DATABASE='+database_client+';UID=tfuser;PWD=tfuser')
 conn_server = pyodbc.connect('DRIVER={ODBC Driver 11 for SQL Server};SERVER=INVQASRV'+vmserver+';DATABASE='+database_server+';UID=tfuser;PWD=tfuser')
 ## Get the last DocumentID from the CompanyCode ##
-def select_DocumentID(self):
+def select_DocumentID():
     cursor = conn_client.cursor()
     cursor.execute("select top 1 documentid from TFDocument where OwnerSearchCode ='"+companycode+"' order by CreationDate desc")
     for row in cursor:
@@ -45,7 +45,7 @@ f = open('./bin/documentid.log', 'r')
 documentid = f.read()
 f.close()
 ## Get the last DocumentStatus from the StatusDescription (Got from the CompanyCode) ##
-def  select_DocumentStatus_client(self):
+def  select_DocumentStatus_client():
         cursor = conn_client.cursor()
         cursor.execute("select top 1 StatusDescription from TFDocument where documentid ='"+documentid+"' order by CreationDate desc")
         for row in cursor:
@@ -55,7 +55,7 @@ def  select_DocumentStatus_client(self):
                 f.write(documentstatusclient)
                 f.close()
                 return documentstatusclient
-def  select_DocumentStatus_server(self):
+def  select_DocumentStatus_server():
         cursor = conn_server.cursor()
         cursor.execute("select top 1 StatusDescription from TFDocument where documentid ='"+documentid+"' order by CreationDate desc")
         for row in cursor:

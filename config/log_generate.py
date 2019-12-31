@@ -1,6 +1,6 @@
 import datetime, sys
 
-def generate_log(self):
+def generate_log():
     ## Time Config ##
     date_time = datetime.datetime.now()
     date = date_time.date()  # Retorna a data

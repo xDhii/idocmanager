@@ -7,7 +7,7 @@ from select.BRA import empresas_nfe, empresas_nfse, nota_select_nfe, nota_select
 ct = datetime.datetime.now()
 ct = str(ct.year) + '_' + str(ct.month) + '_' + str(ct.day) + '_' + str(ct.hour) + '_' + str(ct.minute) + '_' + str(ct.second)
 
-def BRA_NFE(self):
+def BRA_NFE():
 
     f = open('idoc/outbound' + str(ct) + '.idoc', 'w', encoding='utf-8-sig')
     print('EDI_DC40  8000000000003261888740 3012  ZKFBC_NFE_200                                               ZKFBC_NFE_OUT_200                                SAPKFQ    LS  KFQCLNT800                                                                                           TFC01     LS  TFC01                                                                                                '+ str(datareal.datacompleta) +'172849                                                                                                                '+ str(datareal.datacompleta) +'172849     ', file=f)
@@ -49,7 +49,7 @@ def BRA_NFE(self):
     print('ZKFBC_TF_CONTROL000           8000000000003261888000036000000010000006967                                                  1    NFE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ', file=f)
     f.close()
 
-def BRA_NFSE(self):
+def BRA_NFSE():
 
     f = open('idoc/outbound.idoc', 'w', encoding='utf-8-sig')
     print('EDI_DC40  6000000000018161852731 3012  ZKFBC_NFSE_COMPNFSE                                         ZKFBC_NFSE                                       SAPKFQ    LS  P60600                                                                                               KFCBTF0002LS  TRUSTFILES                                                                                           '+ str(datareal.datacompleta) +'103754                                                                                                                '+ str(datareal.datacompleta) +'103754      ', file=f)
