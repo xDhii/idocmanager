@@ -32,8 +32,7 @@ if enviaridoc == 'y':
 
 # Não enviar IDOC conforme resposta ##
 if enviaridoc == 'n':
-    print()
-    print('\033[92m Ok! The document is in the IDOC Folder ;) \033[0m')
+    print('\n \033[92m Ok! The document is in the IDOC Folder ;) \033[0m')
     f = open('./bin/vmclient.log', 'w')
     f.write('NOPE')
     f.close()

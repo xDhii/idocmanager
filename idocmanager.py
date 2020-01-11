@@ -51,8 +51,7 @@ except IndexError:
     restart = input('Do you want to create a new document? Enter Y or N: ')
 restart = restart.lower()
 while restart not in ('y', 'n'):
-    print()
-    print('\033[91m Hmm... I did not understand \033[0m')
+    print('\n \033[91m Hmm... I did not understand \033[0m')
     restart = input('Do you want to create a new document? Enter Y or N: ')
     restart = restart.lower()
 ## Reiniciar o processo ##

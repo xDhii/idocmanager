@@ -48,12 +48,10 @@ f = open('./select/URY/folio.txt', 'w')
 f.write(str(zerar))
 f.close()
 
-print('Okay, all the folios was reseted.')
-print()
+print('Okay, all the folios was reseted. \n')
 print('Do you want to clean all the log files?')
 cleanlog = input('Y to clean or N to leave: ')
 cleanlog = cleanlog.lower()
-print()
 if cleanlog == 'y':
     print('Roger that!')
     f = open('./bin/companycode.log', 'w')

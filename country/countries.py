@@ -10,16 +10,16 @@ def Argentina():
     messages.mensageminicial()
 
     ## Opçoes de documentos disponiveis ##
-    print('Available documents: ')
-    print()
-    print('\033[1;30;47m A \033[0m - \033[4mARG - Exportation Invoice (With CUIT Destino)\033[0m')
+    print('Available documents: \n')
+    
+    print('\033[1;30;47m A \033[0m - \033[4mARG - Exportation Invoice (With CUIT Destino)   \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mARG - Exportation Invoice (Without CUIT Destino)\033[0m')
-    print('\033[1;30;47m C \033[0m - \033[4mARG - Local Invoice MTX CAEA\033[0m')
-    print('\033[1;30;47m D \033[0m - \033[4mARG - Local Invoice MTX\033[0m')
-    print('\033[1;30;47m E \033[0m - \033[4mARG - Local Invoice MTX CAE & CAEA\033[0m')
-    print('\033[1;30;47m F \033[0m - \033[4mARG - Local Invoice\033[0m')
-    print()
-    print("Got it. What kind of document do you want to create?")
+    print('\033[1;30;47m C \033[0m - \033[4mARG - Local Invoice MTX CAEA                    \033[0m')
+    print('\033[1;30;47m D \033[0m - \033[4mARG - Local Invoice MTX                         \033[0m')
+    print('\033[1;30;47m E \033[0m - \033[4mARG - Local Invoice MTX CAE & CAEA              \033[0m')
+    print('\033[1;30;47m F \033[0m - \033[4mARG - Local Invoice                             \033[0m')
+    
+    print("\n Got it. What kind of document do you want to create?")
     try:
         opt = sys.argv[2]
     except IndexError:
@@ -65,12 +65,12 @@ def Brasil():
     messages.mensageminicial()
 
     ## Opçoes de documentos disponiveis ##
-    print('Available documents: ')
-    print()
+    print('Available documents: \n')
+    
     print('\033[1;30;47m A \033[0m - \033[4mBRA - NFe       \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mBRA - NFSe      \033[0m')
-    print()
-    print('Got it. What kind of document do you want to create?')
+    
+    print('\n Got it. What kind of document do you want to create?')
     try:
         opt = sys.argv[2]
     except IndexError:
@@ -103,13 +103,13 @@ def Chile():
     messages.mensageminicial()
 
     ## Opçoes de documentos disponiveis ##
-    print('Available documents: ')
-    print()
+    print('Available documents: \n')
+    
     print('\033[1;30;47m A \033[0m - \033[4mCHL - DTE                            \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mCHL - DTE DSCCItem 1000+             \033[0m')
-    print('\033[1;30;47m C \033[0m - \033[4mCHL - DTE Cesion             \033[0m')
-    print()
-    print('Got it. What kind of document do you want to create?')
+    print('\033[1;30;47m C \033[0m - \033[4mCHL - DTE Cesion                     \033[0m')
+    
+    print('\n Got it. What kind of document do you want to create?')
     try:
         opt = sys.argv[2]
     except IndexError:
@@ -145,13 +145,13 @@ def Ecuador():
     messages.mensageminicial()
 
     ## Opçoes de documentos disponiveis ##
-    print('Available documents: ')
-    print()
+    print('Available documents: \n')
+    
     print('\033[1;30;47m A \033[0m - \033[4mECU - Factura 01              \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mECU - Remision 06             \033[0m')
     print('\033[1;30;47m C \033[0m - \033[4mECU - Retencion 07            \033[0m')
-    print()
-    print('Got it. What kind of document do you want to create?')
+    
+    print('\n Got it. What kind of document do you want to create?')
     try:
         opt = sys.argv[2]
     except IndexError:
@@ -187,8 +187,8 @@ def Mexico():
     messages.mensageminicial()
 
     ## Opçoes de documentos disponiveis ##
-    print('Available documents: ')
-    print()
+    print('Available documents: \n')
+    
     print('\033[1;30;47m A \033[0m - \033[4mMEX - CDFI Detallist e Addenda              \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mMEX - CFDI 33 Comex                         \033[0m')
     print('\033[1;30;47m C \033[0m - \033[4mMEX - CFDI 33 Comex no Addenda              \033[0m')
@@ -200,8 +200,8 @@ def Mexico():
     print('\033[1;30;47m I \033[0m - \033[4mMEX - CFDI 33 Standard Addenda Only Step 2  \033[0m')
     print('\033[1;30;47m J \033[0m - \033[4mMEX - CFDI 33 Standard com Série            \033[0m')
     print('\033[1;30;47m K \033[0m - \033[4mMEX - CFDI Pagos                            \033[0m')
-    print()
-    print('Got it. What kind of document do you want to create?')
+    
+    print('\n Got it. What kind of document do you want to create?')
     try:
         opt = sys.argv[2]
     except IndexError:
@@ -261,8 +261,8 @@ def Peru():
     messages.mensageminicial()
 
     ## Opçoes de documentos disponiveis ##
-    print('Available documents: ')
-    print()
+    print('Available documents: \n')
+    
     print('\033[1;30;47m A \033[0m - \033[4mPER - 2.0 Type 1                            \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mPER - 2.0 Type 3                            \033[0m')
     print('\033[1;30;47m C \033[0m - \033[4mPER - 2.0 Type 7                            \033[0m')
@@ -273,8 +273,8 @@ def Peru():
     print('\033[1;30;47m H \033[0m - \033[4mPER - 2.1 Factura                           \033[0m')
     print('\033[1;30;47m I \033[0m - \033[4mPER - 2.1 Nota Credito                      \033[0m')
     print('\033[1;30;47m J \033[0m - \033[4mPER - 2.1 Nota Debito                       \033[0m')
-    print()
-    print('Got it. What kind of document do you want to create?')
+    
+    print('\n Got it. What kind of document do you want to create?')
     try:
         opt = sys.argv[2]
     except IndexError:
@@ -331,18 +331,18 @@ def Uruguay():
     messages.mensageminicial()
 
     ## Opçoes de documentos disponiveis ##
-    print('Available documents: ')
-    print()
+    print('Available documents: \n')
+    
     print('\033[1;30;47m A \033[0m - \033[4mURY - 101 Ticket                            \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mURY - 111 Factura                           \033[0m')
     print('\033[1;30;47m C \033[0m - \033[4mURY - 121 Factura Exportación               \033[0m')
     print('\033[1;30;47m D \033[0m - \033[4mURY - 122 Factura Nota Crédito Exportación  \033[0m')
     print('\033[1;30;47m E \033[0m - \033[4mURY - 123 Factura Nota Débito Exportación   \033[0m')
     print('\033[1;30;47m F \033[0m - \033[4mURY - 124 eRemito Exportación               \033[0m')
-    print('\033[1;30;47m G \033[0m - \033[4mURY - 211 Factura (for failure)              \033[0m')
-    print('\033[1;30;47m H \033[0m - \033[4mURY - 211 Factura                            \033[0m')
-    print()
-    print('Got it. What kind of document do you want to create?')
+    print('\033[1;30;47m G \033[0m - \033[4mURY - 211 Factura (for failure)             \033[0m')
+    print('\033[1;30;47m H \033[0m - \033[4mURY - 211 Factura                           \033[0m')
+    
+    print('\n Got it. What kind of document do you want to create?')
     try:
         opt = sys.argv[2]
     except IndexError:
