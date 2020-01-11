@@ -265,7 +265,10 @@ def Peru():
     print('\033[1;30;47m J \033[0m - \033[4mPER - 2.1 Nota Debito                       \033[0m')
     print()
     print('Got it. What kind of document do you want to create?')
-    opt = input('Enter the letter corresponding to the document type: ')
+    try:
+        opt = sys.argv[2]
+    except IndexError:
+        opt = input('Enter the letter corresponding to the document type: ')
     opt = opt.lower()
     while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j'):
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
