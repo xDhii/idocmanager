@@ -61,10 +61,6 @@ def Brasil():
     messages.limpar_tela()
     messages.mensageminicial()
 
-    try:
-        opt = sys.argv[2]
-    except IndexError:
-
     ## Opçoes de documentos disponiveis ##
     print('Available documents: ')
     print()
@@ -72,8 +68,10 @@ def Brasil():
     print('\033[1;30;47m B \033[0m - \033[4mBRA - NFSe      \033[0m')
     print()
     print('Got it. What kind of document do you want to create?')
-
-    opt = input('Enter the letter corresponding to the document type: ')
+    try:
+        opt = sys.argv[2]
+    except IndexError:
+        opt = input('Enter the letter corresponding to the document type: ')
     opt = opt.lower()
     while opt not in ('a', 'b'):
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
