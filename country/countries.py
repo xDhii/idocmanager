@@ -20,7 +20,10 @@ def Argentina():
     print('\033[1;30;47m F \033[0m - \033[4mARG - Local Invoice\033[0m')
     print()
     print("Got it. What kind of document do you want to create?")
-    opt = input('Enter the letter corresponding to the document type: ')
+    try:
+        opt = sys.argv[2]
+    except IndexError:
+        opt = input('Enter the letter corresponding to the document type: ')
     opt = opt.lower()
     while opt not in ('a', 'b', 'c', 'd', 'e', 'f'):
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
@@ -107,8 +110,10 @@ def Chile():
     print('\033[1;30;47m C \033[0m - \033[4mCHL - DTE Cesion             \033[0m')
     print()
     print('Got it. What kind of document do you want to create?')
-    opt = input('Enter the letter corresponding to the document type: ')
-    opt = opt.lower()
+    try:
+        opt = sys.argv[2]
+    except IndexError:
+        opt = input('Enter the letter corresponding to the document type: ')    opt = opt.lower()
     while opt not in ('a', 'b', 'c'):
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
         opt = input("Let's try again. Enter the corresponding letter: ")
@@ -146,7 +151,10 @@ def Ecuador():
     print('\033[1;30;47m C \033[0m - \033[4mECU - Retencion 07            \033[0m')
     print()
     print('Got it. What kind of document do you want to create?')
-    opt = input('Enter the letter corresponding to the document type: ')
+    try:
+        opt = sys.argv[2]
+    except IndexError:
+        opt = input('Enter the letter corresponding to the document type: ')
     opt = opt.lower()
     while opt not in ('a', 'b', 'c'):
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
@@ -193,7 +201,10 @@ def Mexico():
     print('\033[1;30;47m K \033[0m - \033[4mMEX - CFDI Pagos                            \033[0m')
     print()
     print('Got it. What kind of document do you want to create?')
-    opt = input('Enter the letter corresponding to the document type: ')
+    try:
+        opt = sys.argv[2]
+    except IndexError:
+        opt = input('Enter the letter corresponding to the document type: ')
     opt = opt.lower()
     while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k'):
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
@@ -331,7 +342,10 @@ def Uruguay():
     print('\033[1;30;47m H \033[0m - \033[4mURY - 211 Factura                            \033[0m')
     print()
     print('Got it. What kind of document do you want to create?')
-    opt = input('Enter the letter corresponding to the document type: ')
+    try:
+        opt = sys.argv[2]
+    except IndexError:
+        opt = input('Enter the letter corresponding to the document type: ')
     opt = opt.lower()
     while opt not in ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'):
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
