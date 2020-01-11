@@ -1,23 +1,15 @@
-import os
-import sys
-import time
-from config import autofoliocheck
-from config import criar_pasta
-from config import messages
-from config import updater_creator
-from country import countries
+import os, sys, time
+sys.path.append('../idocmanager')
 from subprocess import Popen
-
+from config import criar_pasta, messages, autofoliocheck, updater_creator
+from country import countries
 ## Mensagem inicial ##
 messages.limpar_tela()
 messages.mensageminicial()
-
 ##  Opções de países disponíveis
 messages.paises_disponiveis()
-
 ##  Seleção dos países
 print('Which Country do you want to access?')
-
 try:
     opt = sys.argv[1]
 except IndexError:
@@ -50,38 +42,30 @@ if opt == "z":
     sys.exit()
 from process import sendtovm
 from config import log_generate
-
 ## Opção de reiniciar o processo
 try:
     restart = sys.argv[5]
 except IndexError:
     restart = input('Do you want to create a new document? Enter Y or N: ')
 restart = restart.lower()
-
 while restart not in ('y', 'n'):
     print()
     print('\033[91m Hmm... I did not understand \033[0m')
     restart = input('Do you want to create a new document? Enter Y or N: ')
     restart = restart.lower()
-
 ## Reiniciar o processo ##
 if restart == "y":
-
-    ## Reiniciar processo no Windows ##
+## Reiniciar processo no Windows ##
     if os.name == 'nt':
         os.system("python idocmanager.py")
-    
     ## Reiniciar processo no Linux ##
     if os.name == 'posix':
         filename = sys.argv[0]
         print("Restarting... ")
         p = Popen("python " + filename, shell=True)
-
-    ## Reiniciar processo em sistemas Java ##
     if os.name == 'java':
         print('My bad, not yet implemented for Java systems')
     sys.exit()
-
 ## Encerrar o processo ##
 if restart == "n":
     print("Ok, exiting...")

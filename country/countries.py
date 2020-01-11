@@ -6,6 +6,7 @@ from config import messages
 def Argentina():
     ## Mensagem inicial ##
     from country.documents import Argentina
+    from select.ARG import empresas_arg
     messages.limpar_tela()
     messages.mensageminicial()
 
@@ -29,6 +30,7 @@ def Argentina():
 
     if opt == "a":
         document = "Argentina Exportation Invoice"
+        # empresas_arg.select_company()
         Argentina.ARG_Exportation_Invoice_WithCUITDestino()
     if opt == "b":
         document = "Argentina Exportation Invoice"
@@ -56,7 +58,7 @@ def Argentina():
 
 def Brasil():
     ## Mensagem inicial ##
-    from country.documents import Brasil
+    # from country.documents import Brasil
     messages.limpar_tela()
     messages.mensageminicial()
 
@@ -68,10 +70,10 @@ def Brasil():
 
     print()
     print('Got it. What kind of document do you want to create?')
-    try:
-        opt = sys.argv[2]
-    except IndexError:
-        opt = input('Enter the letter corresponding to the document type: ')
+    # try:
+    #     opt = sys.argv[2]
+    # except IndexError:
+    opt = input('Enter the letter corresponding to the document type: ')
     opt = opt.lower()
     while opt not in ('a', 'b'):
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
@@ -95,7 +97,7 @@ def Brasil():
 
 def Chile():
     ## Mensagem inicial ##
-    from country.documents import Chile
+    # from country.documents import Chile
     messages.limpar_tela()
     messages.mensageminicial()
 
@@ -134,7 +136,7 @@ def Chile():
 
 def Ecuador():
     ## Mensagem inicial ##
-    from country.documents import Ecuador
+    # from country.documents import Ecuador
     messages.limpar_tela()
     messages.mensageminicial()
 
@@ -173,7 +175,7 @@ def Ecuador():
 
 def Mexico():
     ## Mensagem inicial ##
-    from country.documents import Mexico
+    # from country.documents import Mexico
     messages.limpar_tela()
     messages.mensageminicial()
 
@@ -244,7 +246,7 @@ def Mexico():
 
 def Peru():
     ## Mensagem inicial ##
-    from country.documents import Peru
+    # from country.documents import Peru
     messages.limpar_tela()
     messages.mensageminicial()
 
@@ -311,7 +313,7 @@ def Peru():
 
 def Uruguay():
     ## Mensagem inicial ##
-    from country.documents import Uruguay
+    # from country.documents import Uruguay
     messages.limpar_tela()
     messages.mensageminicial()
 

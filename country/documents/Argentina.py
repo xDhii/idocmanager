@@ -3,7 +3,7 @@ import datetime
 from config import datareal
 from select.ARG import empresas_arg
 from select.ARG import nota_select_arg
-
+xnome, cuit = empresas.arg() 
 
 def ARG_Exportation_Invoice_WithCUITDestino():
 
