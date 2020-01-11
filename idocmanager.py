@@ -10,14 +10,16 @@ messages.mensageminicial()
 messages.paises_disponiveis()
 ##  Seleção dos países
 print('Which Country do you want to access?')
+
 try:
     opt = sys.argv[1]
 except IndexError:
     opt = input('Enter the letter corresponding to the Country: ')
+
 opt = opt.lower()
+
 while opt not in ('a', 'b', 'c', 'd', 'e','f', 'g', 'x', 'z'): # Loop até a seleção de algum País disponível
-    print()
-    print('\033[91m Hmm... The option you entered does not exist \033[0m')
+    print('\n \033[91m Hmm... The option you entered does not exist \033[0m')
     opt = input("Let's try again: ")
 if opt == "a":
     countries.Argentina()

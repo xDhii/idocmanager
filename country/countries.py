@@ -113,7 +113,8 @@ def Chile():
     try:
         opt = sys.argv[2]
     except IndexError:
-        opt = input('Enter the letter corresponding to the document type: ')    opt = opt.lower()
+        opt = input('Enter the letter corresponding to the document type: ')
+    opt = opt.lower()
     while opt not in ('a', 'b', 'c'):
         print('\033[91m Hmm... I did not understand which document you want to generate. \033[0m')
         opt = input("Let's try again. Enter the corresponding letter: ")
