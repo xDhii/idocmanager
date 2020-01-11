@@ -61,17 +61,18 @@ def Brasil():
     messages.limpar_tela()
     messages.mensageminicial()
 
+    try:
+        opt = sys.argv[2]
+    except IndexError:
+
     ## Opçoes de documentos disponiveis ##
     print('Available documents: ')
     print()
     print('\033[1;30;47m A \033[0m - \033[4mBRA - NFe       \033[0m')
     print('\033[1;30;47m B \033[0m - \033[4mBRA - NFSe      \033[0m')
-
     print()
     print('Got it. What kind of document do you want to create?')
-    # try:
-    #     opt = sys.argv[2]
-    # except IndexError:
+
     opt = input('Enter the letter corresponding to the document type: ')
     opt = opt.lower()
     while opt not in ('a', 'b'):
@@ -96,7 +97,7 @@ def Brasil():
 
 def Chile():
     ## Mensagem inicial ##
-    # from country.documents import Chile
+    from country.documents import Chile
     messages.limpar_tela()
     messages.mensageminicial()
 
@@ -135,7 +136,7 @@ def Chile():
 
 def Ecuador():
     ## Mensagem inicial ##
-    # from country.documents import Ecuador
+    from country.documents import Ecuador
     messages.limpar_tela()
     messages.mensageminicial()
 
@@ -174,7 +175,7 @@ def Ecuador():
 
 def Mexico():
     ## Mensagem inicial ##
-    # from country.documents import Mexico
+    from country.documents import Mexico
     messages.limpar_tela()
     messages.mensageminicial()
 
@@ -245,7 +246,7 @@ def Mexico():
 
 def Peru():
     ## Mensagem inicial ##
-    # from country.documents import Peru
+    from country.documents import Peru
     messages.limpar_tela()
     messages.mensageminicial()
 
@@ -312,7 +313,7 @@ def Peru():
 
 def Uruguay():
     ## Mensagem inicial ##
-    # from country.documents import Uruguay
+    from country.documents import Uruguay
     messages.limpar_tela()
     messages.mensageminicial()
 
