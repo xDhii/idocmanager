@@ -6,7 +6,6 @@ from config import messages
 def Argentina():
     ## Mensagem inicial ##
     from country.documents import Argentina
-    from select.ARG import empresas_arg
     messages.limpar_tela()
     messages.mensageminicial()
 
@@ -58,7 +57,7 @@ def Argentina():
 
 def Brasil():
     ## Mensagem inicial ##
-    # from country.documents import Brasil
+    from country.documents import Brasil
     messages.limpar_tela()
     messages.mensageminicial()
 
