@@ -1,8 +1,12 @@
 import os, sys, time
 sys.path.append('../idocmanager')
 from subprocess import Popen
-from config import criar_pasta, messages, autofoliocheck, updater_creator
+from config import criar_pasta
+from config import messages
+from config import autofoliocheck
+from config import updater_creator
 from country import countries
+
 ## Mensagem inicial ##
 messages.limpar_tela()
 messages.mensageminicial()
