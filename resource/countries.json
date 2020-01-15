@@ -1,23 +1,7 @@
-[
-	{
-		"a": "Argentina"
-	},
-	{
-		"b": "Brasil"
-	},
-	{
-		"c": "Chile"
-	},
-	{
-		"d": "Ecuador"
-	},
-	{
-		"e": "Mexico"
-	},
-	{
-		"f": "Peru"
-	},
-	{
-		"g": "Uruguay"
+{
+    "countries": {
+        "a": "Argentina",
+        "b": "Brazil",
+        "c": "Mexico"
     }
-]
+}
